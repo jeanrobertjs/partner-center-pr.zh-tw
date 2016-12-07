@@ -61,12 +61,9 @@ Microsoft Dynamics AX 產品線已經於 2016 年 11 月 1 日淘汰。 若要�
 
 Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這些情況下，經銷商可能需要將客戶升級到新服務，或是從最後將會關閉的 SKU 移轉其訂閱。 將客戶從舊的 SKU 移轉到較新的 SKU 時需要依照以下順序執行：
 
--   
-            [購買新訂閱](#manual-subscription-migration-purchasenewsubsc)；
--   
-            [重新指派目前的使用者授權](#manual-subscription-migration-reassignlicenses)；
--   
-            [取消舊訂閱](#manual-subscription-migration-cancelsubscriptions)。
+-   [購買新訂閱](#manual-subscription-migration-purchasenewsubsc)；
+-   [重新指派目前的使用者授權](#manual-subscription-migration-reassignlicenses)；
+-   [取消舊訂閱](#manual-subscription-migration-cancelsubscriptions)。
 
 在下列程序中，您會將客戶從 Dynamics AX7 Enterprise 移至 Dynamics 365 for Operations。
 
