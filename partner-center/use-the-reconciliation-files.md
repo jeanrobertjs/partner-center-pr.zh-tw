@@ -4,13 +4,17 @@ description: "如需計費週期中每項費用的詳細明細項目檢視，請
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8024efe9149ff224a8b2c7d76f46b664df328a3a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 
 ---
 
 # 使用對帳檔案
 
+**適用於**
+
+-  合作夥伴中心
+-  Microsoft Cloud 德國合作夥伴中心
 
 如需計費週期中每項費用的詳細明細項目檢視，請從合作夥伴中心儀表板下載對帳檔案。 詳細資料包括每個客戶的訂閱費用，以及詳細事件 (例如，期中增加訂閱基座)。
 
@@ -503,6 +507,6 @@ ms.openlocfilehash: 8024efe9149ff224a8b2c7d76f46b664df328a3a
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

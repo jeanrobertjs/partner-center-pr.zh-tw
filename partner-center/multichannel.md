@@ -4,13 +4,17 @@ description: "雲端解決方案提供者計畫的其中一個選項，是提供
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 226e0e53f85528f1daa50639d22deb6be30f35c1
-ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
 
 ---
 
 # 多重通路
 
+**適用於**
+
+-  合作夥伴中心
+-  Microsoft Cloud 德國合作夥伴中心
 
 雲端解決方案提供者計畫的其中一個選項，是提供合作夥伴處理客戶訂閱的整個週期：銷售、佈建、支援與續約。 但在許多情況下，客戶已經有他們需要您佈建或支援的訂閱，而且是他們先前透過其他通路所購買。
 
@@ -61,6 +65,6 @@ ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

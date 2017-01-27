@@ -4,13 +4,17 @@ description: "您須承擔因客戶以詐騙方式購買和/或已購買服務�
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: f54d9f51b8aa61ebc2207d43857143eb42d54eb6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
 
 ---
 
 # 未付款、詐騙或濫用
 
+**適用於**
+
+-  合作夥伴中心
+-  Microsoft Cloud 德國合作夥伴中心
 
 您須承擔因客戶以詐騙方式購買和/或已購買服務客戶未付款的行為而引發的財務風險；因此，我們建議您實作防範詐騙與偵測風險的安全防護功能控制項。 您必須負責決定是否擴充客戶的信用額度。
 
@@ -62,6 +66,6 @@ ms.openlocfilehash: f54d9f51b8aa61ebc2207d43857143eb42d54eb6
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,22 +4,37 @@ description: "Microsoft 每年皆能透過我們的 Web 智慧財產吸引數百
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1b1eb67c279511fa8cff391140e00145b186601d
+ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
+ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
 
 ---
 
 # 建立行銷設定檔
 
+**適用於**
+
+-  合作夥伴中心
 
 Microsoft 每年皆能透過我們的 Web 智慧財產吸引數百萬的潛在顧客。 我們可以將您的解決方案同步發佈給客戶，以協助您發展市場。 Microsoft 推薦會協助您與正在尋找您獨特解決方案以滿足業務需求的客戶連結。 若要加入，請在合作夥伴中心建立行銷設定檔。
 
-如果您有 Pnpoint 帳戶，[您可以將您的 Pinpoint 行銷設定檔匯入合作夥伴中心](importing-pinpoint-profiles-into-partner-center.md)。
+如果您有 Pinpoint 帳戶，[您可以將您的 Pinpoint 行銷設定檔匯入合作夥伴中心](importing-pinpoint-profiles-into-partner-center.md)。
+
+**給在 Pinpoint 上管理設定檔的合作夥伴的重要資訊**
+
+如您所知，Microsoft 正在努力建立全新改進的體驗，讓合作夥伴可以更完善地發佈和維護其設定檔。 所有合作夥伴設定檔最後都會進行移轉，帶來這樣的新體驗，而 Pinpoint 也將在 2017 年下半年離線。
+
+感謝您耐心等待我們完成這個振奮人心的升級。 我們將會在此升級過程中提供更新與指引。 同時請注意下列事項：
+
+-   如果您的設定檔列在 [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) 上，而且您想要進行修改時，請[登入](https://go.microsoft.com/fwlink/?linkid=838394) 至此工具。
+-   如果您已在 Microsoft 的[雲端服務提供者](https://go.microsoft.com/fwlink/?linkid=838395) (CSP) 計畫中註冊，請登入[合作夥伴中心](https://go.microsoft.com/fwlink/?linkid=838396)。 您可以建立新設定檔，或匯入您現有的 Pinpoint 設定檔。 請注意，設定檔的所有變更都必須在匯入該設定檔之前進行。 請參閱下面的資訊以取得詳細資料。
+-   如果您無法修改設定檔，請連絡您的[地區服務中心](https://go.microsoft.com/fwlink/?linkid=838398)。 
+
+**客戶評論：** 在計劃好從 Pinpoint 轉換到 Partner Center 的過程中，我們淘汰了先前的客戶評論清單功能，合作夥伴已無法存取客戶評論。 傳達訊息已於移除該功能及相關評論前，透過指定的電子郵件連絡人發送給所有受影響的合作夥伴。 目前的計劃是要在日後以更為穩固可靠的系統來取代。
 
 **建立行銷設定檔**
 
-1.  在[合作夥伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)中，從 \[儀表板\] 功能表選取 \[帳戶設定\] &gt; \[行銷設定檔\]。
-2.  在 \[設定檔\] 索引標籤底下，選取 \[新增行銷設定檔\]。
+1.  在[合作夥伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)中，從 \[儀表板\]**** 功能表選取 \[帳戶設定\]**** &gt; \[行銷設定檔\]****。
+2.  在 \[設定檔\]**** 索引標籤底下，選取 \[新增行銷設定檔\]****。
 3.  更新您的公司資訊，包括連絡人資訊、能強調您業務專長的特質，以及符合以下*設定檔指導方針*的描述。
 
 ## 設定檔指導方針
@@ -76,6 +91,6 @@ Microsoft 每年皆能透過我們的 Web 智慧財產吸引數百萬的潛在�
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

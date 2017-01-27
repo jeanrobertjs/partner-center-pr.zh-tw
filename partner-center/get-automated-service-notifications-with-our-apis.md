@@ -4,15 +4,18 @@ description: "Office 365 與 Microsoft Azure 分別提供合作夥伴可用來�
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 3e61c181c450cb31e167ce3cb8063886ce521aa7
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 42b29f9cf8c450560284fea39efd0638672f32b1
 
 ---
 
 # 使用 API 取得自動化服務通知
 
+**適用於**
 
-Office 365 與 Microsoft Azure 分別提供合作夥伴可用來擷取即時服務健康狀況、訊息中心通訊，以及規劃維護事件的 API。 這些 API 已公開提供，且因為合作夥伴擁有委派的系統管理員權限，因此他們可代表其客戶使用這些 API。
+-  合作夥伴中心
+
+Office 365 與 Microsoft Azure 分別提供合作夥伴可用來擷取即時服務健康狀況、訊息中心通訊，以及規劃的維護事件的 API。 這些 API 已公開提供，且因為合作夥伴擁有委派的系統管理員權限，因此他們可代表其客戶使用這些 API。
 
 這些 API 僅供您的開發人員使用：
 
@@ -29,6 +32,6 @@ Azure Insights REST API：[程式碼](http://go.microsoft.com/fwlink/p/?LinkId=6
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

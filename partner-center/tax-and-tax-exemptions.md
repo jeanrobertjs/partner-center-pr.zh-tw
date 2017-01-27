@@ -4,22 +4,26 @@ description: "因為雲端解決方案提供者是專注於合作夥伴經銷產
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9fd2f33c50c767e55e93295f39d9603afacf4ae4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
 ---
 
 # 稅金與免稅
 
+**適用於**
+
+-  合作夥伴中心
+-  Microsoft Cloud 德國合作夥伴中心
 
 因為雲端解決方案提供者是專注於合作夥伴經銷產品的銷售通路，因此 Microsoft 並非一律受要求在合作夥伴的發票上收取營業稅。 相關規定因國家/地區而異。 合作夥伴應根據其所在地區與其客戶的所在地，與其稅務顧問提出適當的免稅辦法。 合作夥伴若要將其 Microsoft 銷售帳戶列為免稅，則應將其免稅憑證傳送給 Microsoft。
 
 **提出免稅**
 
-1.  在 \[儀表板\] 功能表 &gt; \[帳戶設定\]&gt; \[組織設定檔\]，查詢您的 **Microsoft ID**。
-2.  在 \[儀表板\] 功能表 &gt; \[帳戶設定\]&gt; \[合作夥伴設定檔\]，查詢您的 **MPN ID**。
-3.  建立新的支援票證。 在 \[儀表板\] 功能表中，選取 \[支援票證\]&gt; \[合作夥伴中心票證\]&gt; \[新增票證\]。
-4.  填寫表單。 針對 [問題類型]，選擇 [無法管理我的設定檔]。 在描述中，請包含您的 MPN ID 和您的 Microsoft ID。
+1.  在 \[儀表板\] 功能表 &gt; \[帳戶設定\]**** &gt; \[組織設定檔\]****，查詢您的 **Microsoft ID**。
+2.  在 \[儀表板\] 功能表 &gt; \[帳戶設定\]**** &gt; \[合作夥伴設定檔\]****，查詢您的 **MPN ID**。
+3.  建立新的支援票證。 在 \[儀表板\] 功能表中，選取 \[支援票證\]**** &gt; \[合作夥伴中心票證\]**** &gt; \[新增票證\]****。
+4.  填寫表單。 針對 \[問題類型\]****，選擇 \[無法管理我的設定檔\]****。 在描述中，請包含您的 MPN ID 和您的 Microsoft ID。
 5.  提交票證之後，Microsoft 將透過電子郵件與您取得詳細資訊。 當您回覆時，請附上您免稅憑證的適當支援文件。
 
 ## 各國家/地區的詳細資料
@@ -42,7 +46,7 @@ ms.openlocfilehash: 9fd2f33c50c767e55e93295f39d9603afacf4ae4
 <p>Microsoft 不支援信用額度和重新計費，因此在銷售任何訂閱之前，您必須在合作夥伴中心註冊您的加值稅識別碼。</p>
 <p>將您的加值稅編號傳送給 Microsoft</strong></p>
 <ol>
-<li>在合作夥伴中心，移至\[儀表板\] 功能表 &gt; \[帳戶設定\]<strong></strong>&gt; \[合作夥伴帳單設定檔\]<strong></strong>。</li>
+<li>在合作夥伴中心，移至\[儀表板\] 功能表 &gt; \[帳戶設定\]<strong></strong> &gt; \[合作夥伴帳單設定檔\]<strong></strong>。</li>
 <li>在 \[財務資料\]<strong></strong> 區段中，選取 \[更新\]<strong></strong>。</li>
 <li>在 \[公司統一編號\]<strong></strong> 中，指定您的加值稅識別碼編號。</li>
 </ol></td>
@@ -75,6 +79,6 @@ ms.openlocfilehash: 9fd2f33c50c767e55e93295f39d9603afacf4ae4
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
