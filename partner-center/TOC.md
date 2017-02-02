@@ -1,13 +1,12 @@
-
 # [註冊雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
-## [從 Pinpoint 轉換到合作夥伴中心](importing-pinpoint-profiles-into-partner-center.md)
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
 # [管理您的合作夥伴中心帳戶](partner-center-account-setup.md)
 ## [更新您的合作夥伴設定檔](update-your-partner-profile.md)
+## [從 Pinpoint 轉換到合作夥伴中心](importing-pinpoint-profiles-into-partner-center.md)
+## [建立行銷設定檔](create-a-marketing-profile.md)
 ## [建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)
 ## [還原暫時停用的合作夥伴中心帳戶](suspended-partner-center-account.md)
 ## [重設使用者密碼](reset-a-user-password.md)
-## [建立行銷設定檔](create-a-marketing-profile.md)
 ## [查看優惠與定價](see-offers-and-pricing.md)
 ## [自訂型錄](customize-the-catalog.md)
 # [帳單](billing.md)
@@ -50,8 +49,12 @@
 ## [客戶自我支援](customer-self-support.md)
 ## [向上呈報問題給 Microsoft](escalate-problems-to-microsoft.md)
 # [客戶合約範本](agreements.md)
+# [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)
+## [註冊 Microsoft Cloud 德國合作夥伴中心](enroll-in-csp-for-microsoft-cloud-germany.md)
+## [Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 
 
-<!--HONumber=Nov16_HO4-->
+
+<!--HONumber=Jan17_HO2-->
 
 

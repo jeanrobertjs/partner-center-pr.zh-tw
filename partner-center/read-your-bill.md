@@ -1,18 +1,22 @@
 ---
 title: "閱讀您的帳單 |合作夥伴中心"
 description: "您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 可在合作夥伴中心儀表板取得。"
-ms.assetid: 
+ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 472bdfc06bc531d70c97e5192658fb6fd41990e3
-ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 ---
 
 # 閱讀您的帳單
 
+**適用於**
 
-您的發票是目前每個月期間所有費用 (涵蓋方案、產品以及客戶) 的摘要。 可在合作夥伴中心儀表板取得。
+-  合作夥伴中心
+-  Microsoft Cloud 德國合作夥伴中心
+
+您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 可在合作夥伴中心儀表板取得。
 
 如需費用的分項詳細資料，請使用隨附的對帳檔案。 對帳檔案包含客戶識別碼和您將用來建立客戶發票的訂閱識別碼。 如需詳細資訊，請參閱[如何使用對帳檔案](use-the-reconciliation-files.md)。
 
@@ -39,7 +43,7 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 </tr>
 <tr class="even">
 <td>帳單地址</td>
-<td>我們可寄送發票給您的收件地址。 (這是與公司審查相關聯的公司登記地址，並且無法變更。)</td>
+<td>我們可寄送發票給您的收件地址。 若要變更這個地址，請編輯您的合作夥伴中心帳戶設定檔。</td>
 </tr>
 <tr class="odd">
 <td>週期性費用</td>
@@ -98,8 +102,8 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 <td>存取客戶服務的網址。</td>
 </tr>
 <tr class="even">
-<td>服務收件者地址</td>
-<td>服務使用所在的地址。 若要變更這個地址，請編輯您的合作夥伴中心帳戶設定檔。</td>
+<td>服務收件者</td>
+<td>服務使用所在的地址。 (這是與公司審查相關聯的公司登記地址，並且無法變更。)</td>
 </tr>
 </tbody>
 </table>
@@ -115,6 +119,6 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

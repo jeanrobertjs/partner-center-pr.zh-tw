@@ -4,13 +4,17 @@ description: "您是您客戶首要的連絡點，而且應該要能提供客戶
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 8be0016bb5a2d3c383e58847f60762933b382bc4
-ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
 
 ---
 
 # 客戶支援
 
+**適用於**
+
+-  合作夥伴中心
+-  Microsoft Cloud 德國合作夥伴中心
 
 您是您客戶首要的連絡點，而且應該要能提供客戶如下所列的技術與帳戶支援服務：
 
@@ -53,6 +57,6 @@ ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

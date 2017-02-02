@@ -4,13 +4,17 @@ description: "客戶可能會想要與雲端解決方案提供者計畫中專精
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: ec77054e39c7cc1868deb502e041784539c5da2f
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9680b98863cd10d314e05941572ca46a8388ef3d
 
 ---
 
 # 多重合作夥伴
 
+**適用於**
+
+-  合作夥伴中心
+-  Microsoft Cloud 德國合作夥伴中心
 
 客戶可能會想要與雲端解決方案提供者計畫中專精不同服務的多個合作夥伴合作。 例如，一個 Office 365 的合作夥伴，和另一個 Microsoft Azure 的不同合作夥伴。 或者，在單一的 Office 365 訂閱中，與一個 Exchange Online 和另一個 SharePoint Online 的合作夥伴。
 
@@ -35,6 +39,6 @@ ms.openlocfilehash: ec77054e39c7cc1868deb502e041784539c5da2f
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

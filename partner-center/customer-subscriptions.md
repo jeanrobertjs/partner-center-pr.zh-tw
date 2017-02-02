@@ -4,15 +4,18 @@ description: "合作夥伴可以透過合作夥伴中心將訂閱銷售給客戶
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bf3ed3ab9e44253e4e46db3c331d14b11b33cfa4
+ms.sourcegitcommit: 9048ae0f6c43e678cd1acb8829453ecb3e04d31c
+ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
 
 ---
 
 # 客戶訂閱
 
+**適用於**
 
-合作夥伴可以透過合作夥伴中心將訂閱銷售給客戶並管理它們。
+-  合作夥伴中心
+
+您可以透過合作夥伴中心將訂閱銷售給客戶並管理它們。 
 
 [建立新訂閱](create-a-new-subscription.md)
 
@@ -43,6 +46,6 @@ ms.openlocfilehash: bf3ed3ab9e44253e4e46db3c331d14b11b33cfa4
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

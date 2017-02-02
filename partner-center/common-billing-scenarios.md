@@ -4,13 +4,17 @@ description: "這個主題將說明在您新增新訂閱、調整訂閱中的基
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 877f2d0e773fc7a42ddb8f62fa320be94b5921a8
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 ---
 
 # 常見帳單案例
 
+**適用於**
+
+-  合作夥伴中心
+-  Microsoft Cloud 德國合作夥伴中心
 
 這個主題將說明在您新增新訂閱、調整訂閱中的基座數目，或取消訂閱後帳單上應該會看見的項目。 針對用量型和授權型訂閱會有不同的影響。
 
@@ -139,6 +143,6 @@ ms.openlocfilehash: 877f2d0e773fc7a42ddb8f62fa320be94b5921a8
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
