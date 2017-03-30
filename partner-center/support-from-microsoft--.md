@@ -3,13 +3,11 @@ title: "來自 Microsoft 的支援 | 合作夥伴中心"
 description: "當您使用 Microsoft 服務或合作夥伴中心遇到問題時，您可以向上呈報給 Microsoft 以尋求協助，並且可以追蹤問題直到問題解決為止。"
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 來自 Microsoft 的支援
+# <a name="support-from-microsoft"></a>來自 Microsoft 的支援
 
 **適用於**
 
@@ -30,11 +28,5 @@ ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

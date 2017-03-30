@@ -3,13 +3,11 @@ title: "雲端解決方案提供者地區授權 | 合作夥伴中心"
 description: "透過地區授權，擁有國際企業的合作夥伴現在可以更輕鬆地管理全球不同地區及國家中的客戶。"
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 雲端解決方案提供者地區授權
+# <a name="csp-regional-authorization"></a>雲端解決方案提供者地區授權
 
 
 \[正式發行前可能會進行大幅度修改之發行前版本產品的一些相關資訊。 Microsoft 對此處提供的資訊，不提供任何明確或隱含的瑕疵擔保。\]
@@ -20,11 +18,11 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
 >**注意**<br> 如果您已註冊 [Microsoft Cloud 德國雲端解決方案提供者計畫](partner-center-for-microsoft-cloud-germany.md)，且想要向歐盟和歐洲自由貿易聯盟境內的客戶銷售，則無法將您的 Microsoft Cloud 德國合作夥伴中心租用戶與其他租用戶合併。  
 
-## 規劃
+## <a name="planning"></a>規劃
 
 合作夥伴有多個選項可用於合併其各地區的租用戶，如下所示。
 
-### 單一地區或國家的個別租用戶
+### <a name="separate-tenants-for-single-regions-or-countries"></a>單一地區或國家的個別租用戶
 
 租用戶合併是選擇性的。 合作夥伴可繼續管理其具有個別租用戶的國際客戶，如下表所示。
 
@@ -67,7 +65,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 多個地區或國家的單一租用戶
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>多個地區或國家的單一租用戶
 
 
 合作夥伴可選擇將他們的作業從多個雲端解決方案提供者租用戶合併為單一雲端解決方案提供者租用戶。
@@ -99,7 +97,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 部分地區或國家的部分租用戶
+## <a name="some-tenants-for-some-regions-or-countries"></a>部分地區或國家的部分租用戶
 
 
 合作夥伴可選擇將他們的作業從多個雲端解決方案提供者租用戶合併為較少的雲端解決方案提供者租用戶。
@@ -135,7 +133,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 合併租用戶
+## <a name="consolidating-tenants"></a>合併租用戶
 
 
 如果您想要合併租用戶，我們建議下列方式：
@@ -145,7 +143,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 -   **多個國家/地區，但僅在其中之一交易。** 如果您會在數個國家/地區中交易，建議您集中到擁有最大基座數目的租用戶。 您應該將擁有最少量基座數目的國家/地區中的訂閱取消。
 
 
-## 國家/地區資訊
+## <a name="countryregion-information"></a>國家/地區資訊
 
 
 開始合併租用戶之前，請先考量下列事項：
@@ -187,11 +185,5 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

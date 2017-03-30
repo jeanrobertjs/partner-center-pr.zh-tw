@@ -3,13 +3,11 @@ title: "更新您的合作夥伴設定檔 | 合作夥伴中心"
 description: "當您第一次以系統管理員身分登入合作夥伴中心時，請確定支援詳細資料正確、回報免稅 (若適用)，並檢閱設定檔中的連絡人資訊。"
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 更新您的合作夥伴設定檔
+# <a name="update-your-partner-profile"></a>更新您的合作夥伴設定檔
 
 **適用於**
 
@@ -20,8 +18,8 @@ ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
 **更新您的支援詳細資料**
 
-1.  在合作夥伴中心，移至 \[儀表板\] 功能表 &gt; \[帳戶設定\] ****&gt; \[合作夥伴設定檔\]****。
-2.  在 \[支援\]**** 區段中，選取 \[更新\]****。
+1.  在合作夥伴中心，移至 \[儀表板\] 功能表 &gt; **\[帳戶設定\] **&gt; **\[合作夥伴設定檔\]**。
+2.  在 **\[支援\]** 區段中，選取 **\[更新\]**。
 3.  如果您的任何客戶打電話給 Microsoft 尋求支援，Microsoft 會請他們轉向您在支援設定檔中列出的網站、電子郵件與電話連絡人資訊。
 
 **回報免稅**
@@ -30,18 +28,12 @@ ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
 **確認您的設定檔資訊**
 
-1.  在合作夥伴中心，移至 \[儀表板\] 功能表 &gt; \[帳戶設定\]****。
-2.  檢閱您的 \[合作夥伴設定檔\]****、\[合作夥伴帳單設定檔\]**** 與 \[組織設定檔\]****。
+1.  在合作夥伴中心，移至 \[儀表板\] 功能表 &gt; **\[帳戶設定\]**。
+2.  檢閱您的 **\[合作夥伴設定檔\]**、**\[合作夥伴帳單設定檔\]** 與 **\[組織設定檔\]**。
 
  
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

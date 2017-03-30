@@ -3,13 +3,11 @@ title: "註冊雲端解決方案提供者計畫 | 合作夥伴中心"
 description: "在您註冊雲端解決方案提供者計畫之前，請先深入了解雲端解決方案提供者計畫需求。"
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
-
+ms.openlocfilehash: 88fd35cea2e44d905bec63a7963c886dbd27c07f
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 註冊雲端解決方案提供者計畫
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 
 **適用於**
 
@@ -18,11 +16,12 @@ ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 >**注意**<br>
 若要瞭解如何註冊 Microsoft Cloud 德國雲端解決方案提供者計畫，請參閱[註冊 Microsoft Cloud 德國雲端解決方案提供者計畫](enroll-in-csp-for-microsoft-cloud-germany.md)和 [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)。
 
-在您註冊雲端解決方案提供者計畫之前，請先深入了解[雲端解決方案提供者計畫需求]( http://go.microsoft.com/fwlink/p/?LinkId=617116)。
+在您註冊雲端解決方案提供者計畫之前，請先深入了解[雲端解決方案提供者計畫需求]( http://go.microsoft.com/fwlink/p/?LinkId=617116)。 若要進一步了解合作夥伴合約和其他計畫需求，請參閱[雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)。 
 
-若要進一步瞭解合作夥伴合約和其他計畫需求，請參閱[雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)。
+>**重要**<br>
+CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴中心。  
 
-了解如何符合雲端解決方案提供者計畫獎勵資格、上線到獎勵平台，以及獲得獎勵資金。 請參閱[計畫詳細資料](https://go.microsoft.com/fwlink/?linkid=831533)。
+了解如何符合 CSP 計畫獎勵資格、上線到獎勵平台，以及獲得獎勵資金。 請參閱[計畫詳細資料](https://go.microsoft.com/fwlink/?linkid=831533)。
 
 ## <a href="" id="markets"></a>可用性
 
@@ -49,7 +48,7 @@ ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 
  
 
-## 合作夥伴中心帳戶
+## <a name="partner-center-account"></a>合作夥伴中心帳戶
 
 
 合作夥伴中心要求您公司的系統管理員具備已通過 Azure AD 驗證的電子郵件地址。 系統管理員可以使用任何來自 Microsoft 雲端服務 (包含 Office 365、Azure AD、Microsoft Intune、Enterprise Mobility Services 等等) 的現有工作電子郵件帳戶。成為經銷商的程序會將這個電子郵件地址變成經銷商帳戶的系統管理員電子郵件。
@@ -60,11 +59,5 @@ ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

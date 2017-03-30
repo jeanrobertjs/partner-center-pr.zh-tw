@@ -3,13 +3,11 @@ title: "管理您的合作夥伴中心帳戶 | 合作夥伴中心"
 description: "在您接受「雲端解決方案提供者」計畫之後，您或您的系統管理員必須在「合作夥伴中心」設定您的公司帳戶。"
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 04f7b861800653c0a8948432a9e1323a1acb169a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 管理您的合作夥伴中心帳戶
+# <a name="manage-your-partner-center-account"></a>管理您的合作夥伴中心帳戶
 
 **適用於**
 
@@ -35,11 +33,5 @@ ms.openlocfilehash: 04f7b861800653c0a8948432a9e1323a1acb169a
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

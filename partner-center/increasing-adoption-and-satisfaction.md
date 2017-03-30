@@ -3,13 +3,11 @@ title: "提高採用率與滿意度 | 合作夥伴中心"
 description: "我們的合作夥伴使用許多標準來衡量事業是否有成長，以及投資的方向。 合作夥伴中心提供的資料有助於瞭解您的客戶是否使用其購買的授權及使用方式。"
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 提高採用率與滿意度
+# <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
 **適用於**
 
@@ -19,17 +17,17 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
 透過「雲端解決方案提供者」計畫，您可以看到您所有客戶的資料。 請注意，某些客戶可能會從其他合作夥伴或直接向 Microsoft 購買，這樣您將會看到所有合作夥伴的授權總量。 若只要看到您自己的授權，請改為移至客戶的訂閱。
 
-## 尋找授權和使用者資料
+## <a name="find-license-and-user-data"></a>尋找授權和使用者資料
 
 
 **單一客戶**
 
--   從合作夥伴中心功能表選取 \[客戶\]****，然後選取 \[客戶的深入資訊\]****。
+-   從合作夥伴中心功能表選取 **\[客戶\]**，然後選取 **\[客戶的深入資訊\]**。
 
 **涵蓋您的客戶組合**
 
-1.  在合作夥伴中心 \[儀表板\]**** 中，向下捲動至 \[Office 授權分析\]**** 區段。
-2.  選取 \[匯出\]**** 來下載整個客戶集的部署與使用量資料
+1.  在合作夥伴中心 **\[儀表板\]** 中，向下捲動至 **\[Office 授權分析\]** 區段。
+2.  選取 **\[匯出\]** 來下載整個客戶集的部署與使用量資料
 
 詞彙︰
 
@@ -51,7 +49,7 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
     -   如果客戶使用 Yammer 遠超出其授權符合的量，則資料可能會大幅偏離實際值。
 
-## 後續步驟
+## <a name="next-steps"></a>後續步驟
 
 
 如果您收到許多說明和如何使用的問題、您的帳戶採用次數很低，或您正在尋求追加銷售的機會，您可以考慮提供訓練課程。 透過教導您的客戶如何更充分地使用他們購買的雲端解決方案軟體，您很可能就會看到生產力和滿意度提升，且支援需求也會下降。
@@ -81,11 +79,5 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

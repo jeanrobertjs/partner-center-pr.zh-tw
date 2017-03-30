@@ -3,13 +3,11 @@ title: "雲端解決方案提供者合約、價目表和優惠 | 合作夥伴中
 description: "Microsoft 發佈許多文件，可以幫助雲端解決方案提供者合作夥伴決定是否要註冊加入計畫、註冊新的客戶、銷售 Microsoft 產品與服務給客戶，以及對帳。"
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 雲端解決方案提供者合約、價目表和優惠
+# <a name="csp-agreements-price-lists-and-offers"></a>雲端解決方案提供者合約、價目表和優惠
 
 **適用於**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 Microsoft 發佈許多文件，可以幫助雲端解決方案提供者合作夥伴決定是否要註冊加入計畫、註冊新的客戶、銷售 Microsoft 產品與服務給客戶，以及對帳。
 
-## 本節內容
+## <a name="in-this-section"></a>本節內容
 
 
 -   [計畫指南](#programguide)
@@ -64,31 +62,25 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 [客戶合約範本](agreements.md)
 
-## 定價
+## <a name="pricing"></a>定價
 
 
-您可以在 \[銷售\]**** 頁面下載合作夥伴的定價詳細資料。 有兩種不同的價格清單 – 一個適用於授權型服務，包括 Office 365、Enterprise Mobility Suite 和 Microsoft Dynamics CRM，另一個則適用於用量型服務，包括 Microsoft Azure。
+您可以在 **\[銷售\]** 頁面下載合作夥伴的定價詳細資料。 有兩種不同的價格清單 – 一個適用於授權型服務，包括 Office 365、Enterprise Mobility Suite 和 Microsoft Dynamics CRM，另一個則適用於用量型服務，包括 Microsoft Azure。
 
 授權型價目表每個月會更新一次，Microsoft 會公佈新價格 30 天，新價格才會生效。
 
 用量型價格則會動態性經常變更。
 
-## 產品
+## <a name="offers"></a>產品
 
 
-雲端解決方案提供者合作夥伴可以銷售 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 與 Microsoft Azure。 如需有關在這些產品系列中有哪些 SKU 和產品套件組合可銷售的詳細資訊，Microsoft 會在 \[銷售\]**** 頁面公佈「雲端經銷商優惠組合」。 本文件每個月會更新一次。
+雲端解決方案提供者合作夥伴可以銷售 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 與 Microsoft Azure。 如需有關在這些產品系列中有哪些 SKU 和產品套件組合可銷售的詳細資訊，Microsoft 會在 **\[銷售\]** 頁面公佈「雲端經銷商優惠組合」。 本文件每個月會更新一次。
 
-針對使用 CREST 使用量記錄 API 的雲端解決方案提供者合作夥伴，Microsoft 也會在 \[銷售\]**** 頁面發佈一份雲端解決方案提供者中的 Azure 服務清單。
-
- 
+針對使用 CREST 使用量記錄 API 的雲端解決方案提供者合作夥伴，Microsoft 也會在 **\[銷售\]** 頁面發佈一份雲端解決方案提供者中的 Azure 服務清單。
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "建立行銷設定檔 | 合作夥伴中心"
 description: "Microsoft 每年皆能透過我們的 Web 智慧財產吸引數百萬的潛在顧客。"
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 建立行銷設定檔
+# <a name="create-a-marketing-profile"></a>建立行銷設定檔
 
 **適用於**
 
@@ -33,11 +31,11 @@ Microsoft 每年皆能透過我們的 Web 智慧財產吸引數百萬的潛在�
 
 **建立行銷設定檔**
 
-1.  在[合作夥伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)中，從 \[儀表板\]**** 功能表選取 \[帳戶設定\]**** &gt; \[行銷設定檔\]****。
-2.  在 \[設定檔\]**** 索引標籤底下，選取 \[新增行銷設定檔\]****。
+1.  在[合作夥伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)中，從 **\[儀表板\]** 功能表選取 **\[帳戶設定\]** &gt; **\[行銷設定檔\]**。
+2.  在 **\[設定檔\]** 索引標籤底下，選取 **\[新增行銷設定檔\]**。
 3.  更新您的公司資訊，包括連絡人資訊、能強調您業務專長的特質，以及符合以下*設定檔指導方針*的描述。
 
-## 設定檔指導方針
+## <a name="profile-guidelines"></a>設定檔指導方針
 
 
 -   您的設定檔最多可到 2500 個字元，但簡潔的設定檔通常是最有效的。
@@ -54,7 +52,7 @@ Microsoft 每年皆能透過我們的 Web 智慧財產吸引數百萬的潛在�
 
 -   客戶輸入要搜尋的關鍵字最具重要性。 包括能精確描述您業務項目的關鍵字，以及客戶可能會用來搜尋解決方案的業界詞彙。
 
-## 建立絕佳設定檔的十個秘訣
+## <a name="ten-tips-for-a-great-profile"></a>建立絕佳設定檔的十個秘訣
 
 
 1.  **了解您的對象** 請以對象為客戶 (而非內部團隊或 Microsoft) 的溝通方式來撰寫句子。
@@ -77,7 +75,7 @@ Microsoft 每年皆能透過我們的 Web 智慧財產吸引數百萬的潛在�
 
 10. **將設定檔保持在最新狀態** 使您的設定檔與您公司在網站上呈現的內容同步。 請隨著軟體或服務的發佈更新您的設定檔和網站，以提供順暢的客戶體驗。
 
-## 相關主題
+## <a name="related-topics"></a>相關主題
 
 
 [從 Pinpoint 轉換到合作夥伴中心](importing-pinpoint-profiles-into-partner-center.md)
@@ -86,11 +84,5 @@ Microsoft 每年皆能透過我們的 Web 智慧財產吸引數百萬的潛在�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

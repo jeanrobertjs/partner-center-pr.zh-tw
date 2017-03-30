@@ -3,13 +3,11 @@ title: "從 Pinpoint 轉換到合作夥伴中心 | 合作夥伴中心"
 Description: "如果您看到這個頁面，這裡的資訊會說明如何從 Pinpoint 轉換到合作夥伴中心。"
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 從 Pinpoint 轉換到合作夥伴中心
+# <a name="transition-from-pinpoint-to-partner-center"></a>從 Pinpoint 轉換到合作夥伴中心
 
 **適用於**
 
@@ -38,15 +36,15 @@ ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
 **匯入 Pinpoint 設定檔資訊**
 
 1.  登入[合作夥伴中心](https://partnercenter.microsoft.com/)來管理您的行銷設定檔和轉介。
-2.  從合作夥伴中心的 \[儀表板\]**** 功能表，選取 \[帳戶設定\]**** &gt; \[行銷設定檔\]。
+2.  從合作夥伴中心的 **\[儀表板\]** 功能表，選取 **\[帳戶設定\] &gt; \[行銷設定檔\]**。
 
-3.  在 \[設定檔\]**** 索引標籤底下，選取 \[從 Pinpoint 匯入\]****。 匯入完成後，合作夥伴設定檔建立頁面可讓您選取要複製您資訊的 Pinpoint 設定檔，並選擇每個位置要行銷的 \[解決方案\]****。 請注意，您以自動方式匯入的 Pinpoint 應用程式或服務設定檔，會在您的合作夥伴中心行銷設定檔中顯示為「解決方案」。
+3.  在 **\[設定檔\]** 索引標籤底下，選取 **\[從 Pinpoint 匯入\]**。 匯入完成後，合作夥伴設定檔建立頁面可讓您選取要複製您資訊的 Pinpoint 設定檔，並選擇每個位置要行銷的 **\[解決方案\]**。 請注意，您以自動方式匯入的 Pinpoint 應用程式或服務設定檔，會在您的合作夥伴中心行銷設定檔中顯示為「解決方案」。
 
-您將只能 \[編輯\]**** 或 \[刪除\]**** 您匯入至合作夥伴行銷設定檔的 \[解決方案\]**** 清單；您將無法在合作夥伴中心中新增新的解決方案到您的設定檔。
+您將只能 **\[編輯\]** 或 **\[刪除\]** 您匯入至合作夥伴行銷設定檔的 **\[解決方案\]** 清單；您將無法在合作夥伴中心中新增新的解決方案到您的設定檔。
 
 如需合作夥伴中心行銷設定檔的詳細資訊，並檢視您的 Pinpoint 設定檔匯入結果，請[移至合作夥伴中心設定檔主要頁面](https://partnercenter.microsoft.com/pcv/publishing)。 如需在 Pinpoint 中建立行銷設定檔的詳細資訊，請參閱[建立公司行銷設定檔](create-a-marketing-profile.md)。)
 
-## 相關主題
+## <a name="related-topics"></a>相關主題
 
 
 [建立公司行銷設定檔](create-a-marketing-profile.md)
@@ -57,11 +55,5 @@ ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

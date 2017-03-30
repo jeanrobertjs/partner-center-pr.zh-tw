@@ -3,13 +3,11 @@ title: "閱讀您的帳單 |合作夥伴中心"
 description: "您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 可在合作夥伴中心儀表板取得。"
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 閱讀您的帳單
+# <a name="read-your-bill"></a>閱讀您的帳單
 
 **適用於**
 
@@ -20,7 +18,7 @@ ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 如需費用的分項詳細資料，請使用隨附的對帳檔案。 對帳檔案包含客戶識別碼和您將用來建立客戶發票的訂閱識別碼。 如需詳細資訊，請參閱[如何使用對帳檔案](use-the-reconciliation-files.md)。
 
-## 發票檔案定義
+## <a name="invoice-file-definitions"></a>發票檔案定義
 
 
 <table>
@@ -114,11 +112,5 @@ ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "使用對帳檔案 | 合作夥伴中心"
 description: "如需計費週期中每項費用的詳細明細項目檢視，請從合作夥伴中心儀表板下載對帳檔案。"
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 使用對帳檔案
+# <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
 **適用於**
 
@@ -17,13 +15,6 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 -  Microsoft Cloud 德國合作夥伴中心
 
 如需計費週期中每項費用的詳細明細項目檢視，請從合作夥伴中心儀表板下載對帳檔案。 詳細資料包括每個客戶的訂閱費用，以及詳細事件 (例如，期中增加訂閱基座)。
-
-## 本節內容
-
-
--   [依合作夥伴詳細列舉](#itemizebypartner)
--   [授權型對帳檔案](#licencebasedfiles)
--   [用量型對帳檔案](#usagebasedfiles)
 
 ## <a href="" id="itemizebypartner"></a>依合作夥伴詳細列舉
 
@@ -44,7 +35,7 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <tbody>
 <tr class="odd">
 <td>MPN 識別碼</td>
-<td><p>雲端解決方案提供者合作夥伴的 MPN 識別碼 (直接或間接)。</p></td>
+<td><p>CSP 合作夥伴 (直接或間接) 的 Microsoft 合作夥伴網路 (MPN) 識別碼。</p></td>
 </tr>
 <tr class="even">
 <td>經銷商 MPN 識別碼</td>
@@ -60,7 +51,7 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 
  
 
-## <a href="" id="licencebasedfiles"></a> 授權型檔案欄位
+## <a href="" id="licencebasedfiles"></a>授權型檔案欄位
 
 
 若要針對您對客戶訂單的費用來對帳，請比較對帳檔案中的 Syndication\_Partner\_Subscription\_Number 與合作夥伴中心的訂閱識別碼。
@@ -83,9 +74,9 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>客戶在 Microsoft 帳單平台中的唯一識別碼。 可在連絡支援時方便識別客戶，但不是用於對帳。</p></td>
-<td>123456789</td>
+<td>CustomerID</td>
+<td><p>用來識別客戶的唯一 Microsoft ID（GUID 格式）。</p></td>
+<td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
@@ -106,12 +97,14 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>唯一的優惠識別碼。 根據價目表的標準優惠識別碼。</p></td>
-<td>306855</td>
+<td><p>唯一的優惠識別碼。 根據價目表的標準優惠識別碼。</p>
+<p><b>注意</b>：這個值不符合價目表上的優惠識別碼。 請參閱下方的 DurableOfferID。</p></td>
+<td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>唯一的持續性優惠識別碼，如價目表中所定義。</p></td>
+<td><p>唯一的持續性優惠識別碼，如價目表中所定義。</p>
+<p><b>注意</b>：這個值符合價目表上的優惠識別碼。</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,70 +141,8 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>費用或調整的類型。</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Charges：</td>
-<td><ul>
-<li>PURCHASE_FEE：訂閱的初始費用</li>
-<li>CYCLE_FEE：訂閱的定期費用</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE：在目前計費期間中取消時，未支付之使用量的存取用量費用</li>
-<li>CYCLE_USAGEFEE：目前計費期間的存取用量費用</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Prorations：</td>
-<td><ul>
-<li>PURCHASE_PRORATE：購買時按比例計算的費用</li>
-<li>CANCEL_PRORATE：取消時服務未使用部分之按比例計算的退款</li>
-<li>ACTIVATION_PRORATE：從啟用到計費期間結束時按比例計算的費用</li>
-<li>RENEW_PRORATE：訂閱續約時按比例計算的費用</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>InstanceProrates：</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE：當關聯的基座變更時，按比例計算退款給客戶的費用</li>
-<li>CYCLE_INSTANCEPRORATE：當關聯的基座變更時，按比例計算向客戶收取的費用</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Credits：</td>
-<td><ul>
-<li>CREDIT：套用到付款方式的信用卡</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Offsets：</td>
-<td><ul>
-<li>OFFSET_LINEITEM：明細項目的部分或完整退款</li>
-<li>ONE_TIME_REFUND：已針對客戶處理的一次性退款</li>
-<li>TAX_REFUND：因驗證免稅證明而產生的退款</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Discounts：</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT：當訂閱啟用時套用的折扣</li>
-<li>CYCLE_DISCOUNT：套用至定期費用的折扣</li>
-<li>RENEW_DISCOUNT：訂閱續約時套用的折扣</li>
-<li>CANCEL_DISCOUNT：折扣取消時收取的費用</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
+<td><p>費用或調整的類型。 請參閱<a href="#charge_types">對應發票和對帳檔案之間的費用</a></p></td>
+<td><p>請參閱<a href="#charge_types">對應發票和對帳檔案之間的費用</a></p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
@@ -268,10 +199,24 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td><p>訂閱記錄中的經銷商 MPN 識別碼。 請參閱[依合作夥伴詳細列舉](#itemizebypartner)。</p></td>
 <td>4390934</td>
 </tr>
+<tr class="even">
+<td>DomainName</td>
+<td><p>用來協助識別客戶的客戶網域名稱。</p></td>
+<td>example.onmicrosoft.com</td>
+</tr>
+<tr class="odd">
+<td>SubscriptionName</td>
+<td><p>訂閱暱稱。 如果未指定任何暱稱，合作夥伴中心會使用 OfferName。</p></td>
+<td>PROJECT ONLINE</td>
+</tr>
+<tr class="even">
+<td>SubscriptionDescription</td>
+<td><p>客戶購買的服務優惠名稱，如價目表中所定義。 （這是優惠名稱的相同欄位）。</p></td>
+<td>PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT</td>
+</tr>
 </tbody>
 </table>
 
- 
 
 ## <a href="" id="usagebasedfiles"></a>用量型檔案欄位
 
@@ -347,7 +292,7 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>服務優惠的名稱</p></td>
+<td><p>服務優惠的暱稱。</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
@@ -455,8 +400,8 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>明細項目的描述</p></td>
-<td>目前週期的存取用量費用</td>
+<td><p>費用或調整的類型。 請參閱<a href="#charge_types">對應發票和對帳檔案之間的費用</a></p></td>
+<td><p>請參閱<a href="#charge_types">對應發票和對帳檔案之間的費用</a></p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
@@ -493,20 +438,235 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td><p>於某一天佈建及使用的 ServiceBus 連線數目。</p></td>
 <td>例如：如果您在有 30 天的月份中有個別佈建的連線時，「服務資訊 1」的讀數會是「1.000000 連線 / 30 天」。 如果您佈建 25 組 ServiceBus 連線並在那天使用其中一組，那一天的每日使用量就會指示「25 組連線 / 30 天 - 已使用：1.000000」。</td>
 </tr>
+<tr class="even">
+<td>CustomerID</td>
+<td><p>用來識別客戶的唯一 Microsoft ID（GUID 格式）。</p></td>
+<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+</tr>
+<tr class="odd">
+<td>DomainName</td>
+<td><p>用來協助識別客戶的客戶網域名稱。</p></td>
+<td>example.onmicrosoft.com</td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <a href="" id="charge_types"></a>對應發票和對帳檔案之間的費用
+
+您的發票提供費用摘要，而對帳檔案則提供包括費用類型等明細項目交易的詳細細項。
+
+若要交互參照發票和對帳檔案之間的費用金額，您可以使用 Microsoft Excel 篩選選項，在對帳檔案上依費用類型篩選，以便將發票費用對應到對帳檔案上的一組費用細項。
+
+下表顯示發票區段和對帳檔案上可能會顯示之相關費用類型之間的對應。 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>發票費用描述</strong></p>
+</td>
+<td>
+<p><strong>對帳檔案費用描述（ChargeType 欄）</strong></p>
+</td>
+<td>
+<p><strong>這項費用是什麼？</strong></p>
+</td>
+<td>
+<p><strong>如何將這些 ChargeTypes 對應到發票？</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong>週期性費用</strong></p>
+</td>
+<td>
+<p>取消執行個體按比例計算</p>
+</td>
+<td>
+<p>當關聯的基座變更時，按比例計算退款給客戶的費用</p>
+</td>
+<td rowspan="8">
+<p>從授權型檔案，加總 <strong>Amount</strong> 欄</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>循環費用</p>
+</td>
+<td>
+<p>訂閱的定期費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>循環執行個體按比例計算</p>
+</td>
+<td>
+<p>當關聯的基座變更時，按比例計算向客戶收取的費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>取消時按比例計算費用</p>
+</td>
+<td>
+<p>取消時服務未使用部分之按比例計算的退款</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>購買時按比例計算費用</p>
+</td>
+<td>
+<p>在購買時按比例計算的費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>購買費用</p>
+</td>
+<td>
+<p>訂閱的初始費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>續約時按比例計算費用</p>
+</td>
+<td>
+<p>訂閱續約時按比例計算的費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>續約費用</p>
+</td>
+<td>
+<p>訂閱續約時的費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>其他產品與服務</strong></p>
+</td>
+<td>
+<p>啟用時按比例計算費用</p>
+</td>
+<td>
+<p>從啟用到計費期間結束時按比例計算的費用</p>
+</td>
+<td>
+<p>從授權型檔案，加總 <strong>Amount</strong> 欄</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong>使用量費用</strong></p>
+</td>
+<td>
+<p>取消時的存取用量費用</p>
+</td>
+<td>
+<p>在目前計費期間中取消時，未支付之使用量的存取用量費用</p>
+</td>
+<td rowspan="2">
+<p>從用量型檔案，加總 <strong>PretaxCharges</strong> 欄</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>目前週期的存取用量費用</p>
+</td>
+<td>
+<p>目前計費期間的存取用量費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>信用 &amp; 調整</strong></p>
+</td>
+<td>
+<p>明細項目位移</p>
+</td>
+<td>
+<p>明細項目的部分或完整退款 (含稅)</p>
+</td>
+<td>
+<p>從授權型檔案，加總 <strong>TotalForCustomer</strong> 欄</p>
+<p>從用量型檔案，加總 <strong>PostTaxTotal</strong> 欄</p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong>其他折扣</strong></br>
+<em>（用量型）</em></p>
+</td>
+<td>
+<p>啟用折扣</p>
+</td>
+<td>
+<p>啟用訂閱時套用的折扣</p>
+</td>
+<td rowspan="4">
+<p>從用量型檔案，加總 <strong>PretaxCharges</strong> 欄</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>循環折扣</p>
+</td>
+<td>
+<p>套用至定期費用的折扣</p>
+</td>
+</tr><tr>
+<td>
+<p>續約折扣</p>
+</td>
+<td>
+<p>訂閱續約時套用的折扣</p>
+</td>
+</tr><tr>
+<td>
+<p>取消折扣</p>
+</td>
+<td>
+<p>折扣取消時收取的費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>其他折扣</strong></br>
+<em>（授權型）</em></p>
+</td>
+<td>
+<p><em>可套用至多個費用類型</em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>從授權型檔案，加總 <strong>TotalOtherDiscount</strong> 欄</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>稅金</strong>&nbsp;或&nbsp;<strong>加值稅</strong></p>
+</td>
+<td>
+<p><em>可套用至多個費用類型</em></p>
+<p><em>例外：「明細項目位移」已含稅。 請參閱上方的＜信用 &amp; 調整＞。</em></p>
+</td>
+<td>
+<p>稅金或加值稅 (VAT)</p>
+</td>
+<td>
+<p>從授權型檔案，加總 <strong>Tax</strong> 欄</p>
+<p>從用量型檔案，加總 <strong>TaxAmount</strong> 欄</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

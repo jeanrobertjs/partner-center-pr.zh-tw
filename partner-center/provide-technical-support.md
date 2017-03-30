@@ -3,13 +3,11 @@ title: "提供技術支援 | 合作夥伴中心"
 description: "身為「雲端解決方案提供者」合作夥伴，您擁有「受委派的系統管理員權限」，可以存取您客戶的環境。"
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 提供技術支援
+# <a name="provide-technical-support"></a>提供技術支援
 
 **適用於**
 
@@ -28,11 +26,11 @@ ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
 
 **為您的客戶執行系統管理工作**
 
-1.  從 \[儀表板\]**** 功能表中，選取 \[客戶\]****。 從清單中選擇客戶。
+1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。 從清單中選擇客戶。
 
-2.  在 \[客戶\] 功能表中選取 \[服務管理\]****。
+2.  在 \[客戶\] 功能表中選取 **\[服務管理\]**。
 
-3.  在 \[管理服務\]**** 區段中，選擇需要管理的服務來開啟該服務的管理入口網站。
+3.  在 **\[管理服務\]** 區段中，選擇需要管理的服務來開啟該服務的管理入口網站。
 
 4.  如果您發現客戶的帳戶有問題 (例如，服務未運作、效能降低或執行時發生許多錯誤)，您應該從檢查服務健康狀況開始著手。 請參[閱檢查服務健康狀況](check-service-health.md)。
 
@@ -42,11 +40,5 @@ ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

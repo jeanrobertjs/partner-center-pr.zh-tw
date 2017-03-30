@@ -3,13 +3,11 @@ title: "帳單 | 合作夥伴中心"
 Description: "身為雲端解決方案提供者合作夥伴，您要在 60 天內，向 Microsoft 支付您客戶之授權型與用量型訂閱的費用。"
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 帳單
+# <a name="billing"></a>帳單
 
 **適用於**
 
@@ -18,14 +16,14 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 身為雲端解決方案提供者合作夥伴，您要在 60 天內，向 Microsoft 支付您客戶之授權型與用量型訂閱的費用。
 
-若為您的帳單，請移至 \[儀表板\]**** 功能表，然後選取 \[帳單\]****。 帳單頁面會顯示您的帳單記錄和趨勢、目前月份的應付餘額、發票與對帳檔案的連結，以及最近的付款。
+若為您的帳單，請移至 **\[儀表板\]** 功能表，然後選取 **\[帳單\]**。 帳單頁面會顯示您的帳單記錄和趨勢、目前月份的應付餘額、發票與對帳檔案的連結，以及最近的付款。
 
 -   Microsoft 不會對您在發票開立事宜處理方式上有任何要求或條件。
 -   請使用對帳檔案內的客戶識別碼/名稱以及其他相關欄位，來判斷客戶的使用量。
 -   針對您所提供的產品與服務自行增加費用。
 -   將包含所有費用的單一帳單傳送給客戶。
 
-## 帳單
+## <a name="billing"></a>帳單
 
 
 [閱讀您的帳單](read-your-bill.md)
@@ -42,7 +40,7 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 [PSTN 服務](o365-e5-in-csp-advisory.md)
 
-## 本節內容
+## <a name="in-this-section"></a>本節內容
 
 
 -   [帳單基本知識](#billingbasics)
@@ -194,11 +192,5 @@ Azure 是採取「隨付隨用」模式，有使用 Azure 服務，才需要付�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "稅金與免稅 | 合作夥伴中心"
 description: "因為雲端解決方案提供者是專注於合作夥伴經銷產品的銷售通路，因此 Microsoft 並非一律受要求在合作夥伴的發票上收取營業稅。"
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 稅金與免稅
+# <a name="tax-and-tax-exemptions"></a>稅金與免稅
 
 **適用於**
 
@@ -20,13 +18,13 @@ ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
 **提出免稅**
 
-1.  在 \[儀表板\] 功能表 &gt; \[帳戶設定\]**** &gt; \[組織設定檔\]****，查詢您的 **Microsoft ID**。
-2.  在 \[儀表板\] 功能表 &gt; \[帳戶設定\]**** &gt; \[合作夥伴設定檔\]****，查詢您的 **MPN ID**。
-3.  建立新的支援票證。 在 \[儀表板\] 功能表中，選取 \[支援票證\]**** &gt; \[合作夥伴中心票證\]**** &gt; \[新增票證\]****。
-4.  填寫表單。 針對 \[問題類型\]****，選擇 \[無法管理我的設定檔\]****。 在描述中，請包含您的 MPN ID 和您的 Microsoft ID。
+1.  在 \[儀表板\] 功能表 &gt; **\[帳戶設定\]** &gt; **\[組織設定檔\]**，查詢您的 **Microsoft ID**。
+2.  在 \[儀表板\] 功能表 &gt; **\[帳戶設定\]** &gt; **\[合作夥伴設定檔\]**，查詢您的 **MPN ID**。
+3.  建立新的支援票證。 在 \[儀表板\] 功能表中，選取 **\[支援票證\]** &gt; **\[合作夥伴中心票證\]** &gt; **\[新增票證\]**。
+4.  填寫表單。 針對 **\[問題類型\]**，選擇 **\[無法管理我的設定檔\]**。 在描述中，請包含您的 MPN ID 和您的 Microsoft ID。
 5.  提交票證之後，Microsoft 將透過電子郵件與您取得詳細資訊。 當您回覆時，請附上您免稅憑證的適當支援文件。
 
-## 各國家/地區的詳細資料
+## <a name="details-by-countryregion"></a>各國家/地區的詳細資料
 
 
 <table>
@@ -74,11 +72,5 @@ ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
