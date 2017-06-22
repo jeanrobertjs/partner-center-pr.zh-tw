@@ -3,15 +3,17 @@ title: "管理您的客戶清單 | 合作夥伴中心"
 description: "客戶記錄是您在合作夥伴中心最重要的資訊資產之一。"
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="manage-your-customer-list"></a>管理您的客戶清單
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 客戶記錄是您在合作夥伴中心最重要的資訊資產之一。 您可以搜尋客戶帳戶資料庫、將整個各戶資料庫或某個子集匯出至與 Excel 相容的逗點分隔值檔案格式 (.csv) 您也可以將客戶的訂閱資訊匯出至 .csv 檔案。

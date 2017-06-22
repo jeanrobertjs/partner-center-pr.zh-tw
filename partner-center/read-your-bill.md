@@ -3,15 +3,17 @@ title: "閱讀您的帳單 |合作夥伴中心"
 description: "您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 可在合作夥伴中心儀表板取得。"
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d51bb3d8cf637e50e47c211c00d90b14e55a1c6d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 可在合作夥伴中心儀表板取得。

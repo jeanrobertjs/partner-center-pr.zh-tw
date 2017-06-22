@@ -3,15 +3,17 @@ title: "客戶支援 |合作夥伴中心"
 description: "您是您客戶首要的連絡點，而且應該要能提供客戶如下所列的技術與帳戶支援服務：帳單與訂閱支援。佈建/部署說明，以及軟體設定。解決效能問題、服務可用性問題、用戶端連線問題，以及因為遺失或未正確設定的設定、不完整的軟體整合、權限問題，或其他部署問題所造成的用戶端桌面問題。管理服務與軟體的更新。使用方式問題的解答。「雲端解決方案提供者」必須對客戶提供如何獲得支援的明確說明。 如果您未提供 24 小時電話支援，就必須提供服務層級協定，向客戶說明選項。 Microsoft 不對雲端解決方案提供者客戶提供支援。"
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="customer-support"></a>客戶支援
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 您是您客戶首要的連絡點，而且應該要能提供客戶如下所列的技術與帳戶支援服務：

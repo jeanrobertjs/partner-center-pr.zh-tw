@@ -3,15 +3,17 @@ title: "更新您的合作夥伴設定檔 | 合作夥伴中心"
 description: "當您第一次以系統管理員身分登入合作夥伴中心時，請確定支援詳細資料正確、回報免稅 (若適用)，並檢閱設定檔中的連絡人資訊。"
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 007401c88d64c7201c23c0c64bb84a9c47dcdf92
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="update-your-partner-profile"></a>更新您的合作夥伴設定檔
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 當您第一次以系統管理員身分登入合作夥伴中心時，請確定支援詳細資料正確、回報免稅 (若適用)，並檢閱設定檔中的連絡人資訊。

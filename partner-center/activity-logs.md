@@ -3,16 +3,19 @@ title: "檢視客戶活動記錄 | 合作夥伴中心"
 description: "活動記錄提供客戶的交易和夥伴管理動作相關資訊。"
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-ms.openlocfilehash: 5f6c4eb0574bbe73a41a38a1312f0da4240d531e
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 6033b58f52889f8656b3827a0aaef5525abd3c9d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="view-customer-activity-logs"></a>檢視客戶活動記錄
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
+
 
 活動記錄提供客戶的交易和夥伴管理動作相關資訊。 交易記錄提供交易 (包括已購買訂閱) 的相關詳細資訊。 您也可以將活動記錄匯出至與 Excel 相容並以逗號分隔值的檔案格式 (.csv).
 

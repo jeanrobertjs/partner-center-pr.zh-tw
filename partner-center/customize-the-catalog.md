@@ -3,15 +3,17 @@ title: "自訂型錄 | 合作夥伴中心"
 description: "型錄會列出合作夥伴可以銷售的所有 Microsoft 產品和附加元件。"
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 3599d41e754e5602fbd2d82bf2c47f6e1964160a
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="customize-the-catalog"></a>自訂型錄
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 型錄會列出您可以提供給客戶的 Microsoft 產品和附加元件。 這些產品和附加元件會依客戶區隔 (如企業、小型企業和政府) 加以群組。 若要讓您組織最常使用的產品能夠更輕鬆存取，或是要向銷售代理人展示新產品，您可以將最多 5 項產品釘選到型錄清單頂端。

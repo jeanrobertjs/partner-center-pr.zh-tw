@@ -3,15 +3,17 @@ title: "代表客戶報告問題 | 合作夥伴中心"
 Description: "如果客戶遇到您無法解決的服務問題，且問題符合將問題向上呈報給 Microsoft 中描述的條件，請針對它們提出支援票證。"
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8c59c9d67ab06bd515945e613b14b79d21d318b8
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 如果客戶遇到您無法解決的服務問題，且問題符合[將問題向上呈報給 Microsoft](escalate-problems-to-microsoft.md) 中描述的條件，請針對它們提出支援票證。 這個程序對於向上呈報帳單問題或爭議，以及詐騙的疑慮也很有用。

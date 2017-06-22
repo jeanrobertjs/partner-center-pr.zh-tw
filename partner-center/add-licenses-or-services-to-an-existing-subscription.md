@@ -3,9 +3,11 @@ title: "將授權或服務新增到現有的訂閱 | 合作夥伴中心"
 description: "如果您的客戶需要的基座數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。"
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>將授權或服務新增到現有的訂閱
 
@@ -76,7 +78,7 @@ translationtype: HT
 
 -   客戶不能已經擁有您正在嘗試為他們升級的訂閱。
 
-在後面兩個情況下，客戶有可能已經透過其他合作夥伴或管道購買那些訂閱或服務，而在沒有取消現有訂閱或服務的情況下，他們將無法透過您購買那些訂閱或服務。 如需詳細資訊，請參閱 [Multichannel](multichannel.md)。
+在後面兩個情況下，客戶有可能已經透過其他合作夥伴或管道購買那些訂閱或服務，而在沒有取消現有訂閱或服務的情況下，他們將無法透過您購買那些訂閱或服務。 如需詳細資訊，請參閱[多通路](multichannel.md)。
 
 如需此情況會對帳單所造成之影響的詳細資訊，請參閱[常見帳單案例](common-billing-scenarios.md)中有關取消訂閱並新增新訂閱的詳細資料。
 

@@ -3,15 +3,17 @@ title: "查看優惠與定價 | 合作夥伴中心"
 description: "若要查看雲端解決方案提供者計畫可用的優惠清單，以及合作夥伴定價，請移至 \\[儀表板\\] 功能表並選擇 \\[定價與方案\\]。"
 ms.assetid: 09521B01-BFDF-42B4-A4C0-039D3AFFF994
 author: MaggiePucciEvans
-ms.openlocfilehash: 683a2e17425b08aa13aebf4a81eaaf10eef0eb97
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: e4217e8cef7067a6917beb86299f9eee9ea6490c
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="see-offers-and-pricing"></a>查看優惠與定價
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 若要查看雲端解決方案提供者計畫可用的優惠清單，以及合作夥伴定價，請移至 \[儀表板\] 功能表並選擇 **\[定價與方案\]**。

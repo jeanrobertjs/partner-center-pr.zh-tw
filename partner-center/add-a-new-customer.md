@@ -3,20 +3,24 @@ title: "新增新的客戶 | 合作夥伴中心"
 description: "在您可以銷售訂閱、管理帳單，或是提供支援之前，您必須先在合作夥伴中心中建立客戶的記錄。 這包含他們的連絡資訊，以及 Azure AD 網域。"
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: c6bb20cdc2dbb7bc6c3a04bb8c01b5cfe685dfe4
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="add-a-new-customer"></a>新增新的客戶
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
+
 
 在您可以銷售訂閱、管理帳單，或是提供支援之前，您必須先在合作夥伴中心中建立客戶的記錄。 這包含他們的連絡資訊，以及 Azure AD 網域。
 
-針對已經透過 [Multichannel](multichannel.md) 或 [Multipartner](multipartner.md) 案例擁有客戶帳戶和訂閱的客戶，您可以[要求與客戶建立關係](request-a-relationship-with-a-customer.md)，而不用遵循這裡的步驟。
+針對已經透過[多通路](multichannel.md)或[多合作夥伴](multipartner.md) 案例擁有客戶帳戶和訂閱的客戶，您可以[要求與客戶建立關係](request-a-relationship-with-a-customer.md)，而不用遵循這裡的步驟。
 
 **新增新的客戶**
 

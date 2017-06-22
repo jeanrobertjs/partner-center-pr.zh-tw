@@ -2,9 +2,10 @@
 title: "註冊 Microsoft Cloud 德國雲端解決方案提供者計畫 | Microsoft Cloud 德國合作夥伴中心"
 description: "在您註冊 Microsoft Cloud 德國雲端解決方案提供者計畫之前，請先深入了解雲端解決方案提供者計畫需求。"
 author: MaggiePucciEvans
-ms.openlocfilehash: c804ca7136be7b34ef48e06ee36ef2899f3030f9
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
+ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>註冊 Microsoft Cloud 德國雲端解決方案提供者計畫
 
@@ -32,7 +33,7 @@ translationtype: HT
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>步驟 1 - 建立專屬於 Microsoft Cloud 德國合作夥伴中心的帳戶 
 
-1.  開始進行註冊程序。 
+1.  若要註冊 Microsoft Cloud 德國 CSP 計畫，請移至 [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)，然後選取 **\[登入\]**。 
 
 2.  使用您公司專屬於 Office 365、Microsoft Azure 或 Microsoft Dynamics 的 Microsoft Cloud 德國帳戶的全域管理員認證進行登入。 如果您的公司沒有專屬於這些入口網站的帳戶，請選取 **\[建立帳戶\]** 以申請一個。
 

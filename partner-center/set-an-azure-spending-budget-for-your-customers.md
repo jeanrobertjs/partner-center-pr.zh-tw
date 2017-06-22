@@ -3,15 +3,17 @@ title: "為客戶設定 Azure 消費預算 | 合作夥伴中心"
 description: "在合作夥伴中心，您可以設定每個客戶每月的預算，免得月底的 Azure 帳單金額讓他們很吃驚。"
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 873190885d83f70f6ff68e277f288d58cc74ca00
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>為客戶設定 Azure 消費預算
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 為了協助客戶管理他們的 Azure 消費，您可以設定每月消費預算，使其 Azure 帳單金額不致高出預期。 設定 Azure 消費預算可讓您將客戶的 Azure 消費與當月份預算做比較。 有了這項功能，您就可以： 

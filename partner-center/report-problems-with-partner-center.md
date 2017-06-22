@@ -3,15 +3,18 @@ title: "報告合作夥伴中心的問題 | 合作夥伴中心"
 description: "如何報告合作夥伴中心的問題並收集要提供給支援小組的診斷資訊。"
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-ms.openlocfilehash: 33e8c3191f433b7b414cb682e93cc10ce57c2447
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7f6bc00f7936560acbe92386e1cb587107f584d
+ms.sourcegitcommit: 9701da2050a391b6ac2f6301691127e9665c9635
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 05/26/2017
 ---
 # <a name="report-problems-with-partner-center"></a>報告合作夥伴中心的問題
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 如果您發現合作夥伴中心的問題 (包含錯誤或服務中斷)，請連絡合作夥伴中心支援。
@@ -28,7 +31,8 @@ translationtype: HT
 
 如果在進入合作夥伴中心頁面時發生錯誤，系統可能會提示您收集登入資訊。 在頁面頂端的下拉式連結中選取 **\[Collect more information\]** (收集更多資訊)，開啟合作夥伴中心用戶端診斷工具。 這項工具會收集合作夥伴中心支援小組判斷錯誤發生原因時所需的資訊。 
 
->**注意**<br>
+**注意**
+
 在網址中包含 **/pcv/** 的合作夥伴頁面上，您可以手動開啟工具來收集這些資訊。
 
 1.    移至發生問題的頁面。
@@ -39,7 +43,7 @@ translationtype: HT
 
 1.    請先檢查檔案中的資訊再傳送檔案，因為檔案可能內含您想要移除的個人識別資訊。 
 
-    >**注意**<br />
+    >**注意**<br>
     在某些瀏覽器中，**「預覽」**頁面底部的 **\[Page View\]** (頁面檢視) 區段可能會一片空白。 這是正常現象。
 
 2.    按照畫面上的指示儲存檔案。

@@ -3,15 +3,17 @@ title: "暫停訂閱 | 合作夥伴中心"
 description: "如果客戶要求，或是發生未付款或詐騙等情形，合作夥伴可以暫停或取消訂閱。"
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-ms.openlocfilehash: e0911a3dbc43cf7797e1626e6924a2fedbddb3f0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 6252a494e69c2a2d2b33a0896092b064b52c1881
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="suspend-a-subscription"></a>暫停訂閱
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 如果客戶要求，或是發生未付款或詐騙等情形，合作夥伴可以暫停或取消訂閱。

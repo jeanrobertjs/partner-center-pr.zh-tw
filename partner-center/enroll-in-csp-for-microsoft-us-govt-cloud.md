@@ -2,9 +2,11 @@
 title: "註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫 |美國政府適用的 Microsoft Cloud 合作夥伴中心"
 description: "在您註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫之前，請先深入了解 CSP 計畫需求。"
 author: MaggiePucciEvans
-ms.openlocfilehash: fec9ea2ddebda84d2110d34313cfdc8492727fee
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 152634d9aca087396c46d841b085b0231c5498c8
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 06/06/2017
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
@@ -18,7 +20,7 @@ translationtype: HT
 
 如需詳細資訊，請參閱[美國政府適用的 Microsoft Cloud 合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
-註冊雲端解決方案提供者 (CSP) 計畫之前，您必須建立新的 Microsoft Azure Government 帳戶。 若要建立此帳戶，請完成 [Microsoft 政府機構雲端驗證表單](https://aka.ms/azgovcspreq)，並以電子郵件傳送至 <azgovcsp@microsoft.com>。
+註冊雲端解決方案提供者 (CSP) 計畫之前，您必須建立新的 Microsoft Azure Government 帳戶。 若要建立此帳戶，請完成 [Microsoft 政府機構雲端驗證表單](http://azuregov.microsoft.com/csp)，並以電子郵件傳送至 <azgovcsp@microsoft.com>。
 
 >**重要**<br>
 如果您在合作夥伴中心已有帳戶，且想要註冊美國政府適用的 Microsoft Cloud <Government></Government>雲端解決方案提供者計畫，則必須另外新建一個專屬於美國政府適用的 Microsoft Cloud 合作夥伴中心的帳戶。
@@ -35,7 +37,7 @@ translationtype: HT
 
 1.  開始進行註冊程序。 
 
-2.  使用您組織專屬於 Microsoft Azure 的美國政府適用的 Microsoft Cloud 帳戶的全域管理員認證登入。 如果您的組織沒有此入口網站帳戶，您可以完成 [Microsoft 政府機構雲端驗證表單](https://aka.ms/azgovcspreq)並以電子郵件傳送至 <azgovcsp@microsoft.com>，來建立帳戶。
+2.  使用您組織專屬於 Microsoft Azure 的美國政府適用的 Microsoft Cloud 帳戶的全域管理員認證登入。 如果您的組織沒有此入口網站帳戶，您可以完成 [Microsoft 政府機構雲端驗證表單](http://azuregov.microsoft.com/csp)，來建立帳戶。
 
 
 ### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-within-microsoft-cloud-for-us-government"></a>步驟 2 - 申請成為美國政府適用的 Microsoft Cloud 中的雲端解決方案提供者合作夥伴

@@ -3,15 +3,17 @@ title: "向上呈報問題給 Microsoft | 合作夥伴中心"
 description: "我們預期您將會為客戶解決問題。"
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-ms.openlocfilehash: 51e095c5f0b7c0c8c1305905ccdb4b20683d386b
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 1875758bbaeb1b19efe0132d7b4157586479a81d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="escalate-problems-to-microsoft"></a>向上呈報問題給 Microsoft
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 我們預期您將會為客戶解決問題。 您的第一個步驟應該是[檢查服務健康狀況](check-service-health.md)是否發生現有且已記錄的問題。 如果無法解決客戶的問題，您可以使用您的系統管理員權限針對軟體、設定及組態進行疑難排解。

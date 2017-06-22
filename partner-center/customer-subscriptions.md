@@ -3,9 +3,10 @@ title: "客戶訂閱 |合作夥伴中心"
 description: "合作夥伴可以透過合作夥伴中心將訂閱銷售給客戶並管理它們。"
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 63a4b666447d3775d9e5943419e236201f097a22
+ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="customer-subscriptions"></a>客戶訂閱
 
@@ -26,6 +27,8 @@ translationtype: HT
 [將授權或服務新增到現有的訂閱](add-licenses-or-services-to-an-existing-subscription.md)
 
 [將 Dynamics AX 訂閱移轉至 Dynamics 365](manual-subscription-migration.md)
+
+[將 Office 365 企業版 E4 訂閱移轉至新版 Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 
 [取得產品的特殊定價](get-special-pricing-for-offers.md)
 

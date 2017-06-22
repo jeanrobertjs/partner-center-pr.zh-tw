@@ -3,15 +3,17 @@ title: "提供技術支援 | 合作夥伴中心"
 description: "身為「雲端解決方案提供者」合作夥伴，您擁有「受委派的系統管理員權限」，可以存取您客戶的環境。"
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f9252b0cde71b1265458f374eec1470f29ddb433
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="provide-technical-support"></a>提供技術支援
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 身為「雲端解決方案提供者」合作夥伴，您擁有「受委派的系統管理員權限」，可以存取您客戶的環境。 這些權限讓您能夠直接支援、設定和管理您客戶的訂用帳戶。

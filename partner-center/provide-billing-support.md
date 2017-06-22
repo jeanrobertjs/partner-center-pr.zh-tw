@@ -3,15 +3,17 @@ title: "提供帳單支援 | 合作夥伴中心"
 description: "您與您的客戶之間擁有帳單關係，且為您客戶的任何帳單相關問題提供完全的支援。"
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="provide-billing-support"></a>提供帳單支援
 
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 您與您的客戶之間擁有帳單關係，且為您客戶的任何帳單相關問題提供完全的支援。

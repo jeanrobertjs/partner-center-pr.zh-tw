@@ -3,9 +3,10 @@ title: "還原暫時停用的合作夥伴中心帳戶 | 合作夥伴中心"
 description: "了解如何還原暫時停用的合作夥伴中心帳戶、發生合作夥伴帳戶暫時停用的原因，以及暫時停用期間能如何使用帳戶。"
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>還原暫時停用的合作夥伴中心帳戶
 
@@ -14,6 +15,7 @@ translationtype: HT
 **適用於**
 
 -  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 >**重要事項**<br>
