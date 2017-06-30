@@ -3,11 +3,11 @@ title: "建立使用者帳戶與設定權限 | 合作夥伴中心"
 description: "系統管理員能為每個需要存取合作夥伴中心的合作夥伴員工建立使用者帳戶。"
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
-ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/25/2017
+ms.lasthandoff: 06/19/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>建立使用者帳戶與指派權限
 
@@ -65,6 +65,8 @@ ms.lasthandoff: 05/25/2017
 <td><p><strong>系統管理代理人</strong></p></td>
 <td><ul>
 <li><p>客戶管理</p></li>
+<li><p>將裝置清單新增至合作夥伴中心</p></li>
+<p><li>建立設定檔並將其套用至裝置</p></li>
 <li><p>訂用帳戶管理</p></li>
 <li><p>客戶的服務健康狀況和服務要求</p></li>
 <li><p>要求委派的系統管理員權限</p></li>
@@ -82,6 +84,7 @@ ms.lasthandoff: 05/25/2017
 <td><p><strong>銷售代理人</strong></p></td>
 <td><ul>
 <li><p>客戶管理</p></li>
+<li><p>將裝置清單新增至合作夥伴中心</p></li>
 <li><p>訂用帳戶管理</p></li>
 <li><p>檢視支援票證</p></li>
 <li><p>要求與客戶建立關係</p></li>
