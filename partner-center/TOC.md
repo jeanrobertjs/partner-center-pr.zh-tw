@@ -37,7 +37,6 @@
 ## [指派授權給使用者](assign-licenses-to-users.md)
 ## [指派或撤銷多個使用者的授權](bulk-license-provisioning-for-multiple-users.md)
 ## [暫停訂閱](suspend-a-subscription.md)
-## [移除與經銷商或客戶的關係](remove-a-relationship.md)
 ## [將授權或服務新增到現有的訂閱](add-licenses-or-services-to-an-existing-subscription.md)
 ## [將 Dynamics AX 訂閱移轉至 Dynamics 365](manual-subscription-migration.md)
 ## [將 Office 365 企業版 E4 訂閱移轉至新版 Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)

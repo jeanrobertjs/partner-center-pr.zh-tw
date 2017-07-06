@@ -3,9 +3,11 @@ title: "Office 365 E5 單一 SKU 在雲端解決方案提供者中的可用性 |
 description: "雲端解決方案提供者中有提供 Office 365 企業版 E5 單一 SKU，並包含 PSTN 會議。"
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 76ca9b8599862c0b17a1281aa3e420ecb3c26ea2
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 合作夥伴諮詢：Office 365 E5 單一 SKU 在雲端解決方案提供者中的可用性
 
@@ -30,12 +32,12 @@ translationtype: HT
 ## <a name="details"></a>詳細資料
 
 
-在美國及波多黎各自治邦，商務用 Skype PSTN 服務受限於特殊稅金和法規需求限制。 Microsoft 的 PSTN 服務定價為內含稅金。 獨特的 PSTN 稅金與法規將會影響 Office 365 合作夥伴交易新的整合 Office 365 E5 優惠。 如果合作夥伴會標示 Microsoft PSTN 服務的價格，他們可能要負責計算和代繳 PSTN 稅金及費用。
+在美國、波多黎各自治邦和加拿大，商務用 Skype PSTN 服務受限於特殊稅金和法規需求限制。 Microsoft 的 PSTN 服務定價為內含稅金。 獨特的 PSTN 稅金與法規將會影響 Office 365 合作夥伴交易新的整合 Office 365 E5 優惠。 如果合作夥伴會標示 Microsoft PSTN 服務的價格，他們可能要負責計算和代繳 PSTN 稅金及費用。
 
 ## <a name="price-list-and-catalog-availability"></a>價目表和目錄可用性
 
 
-許多雲端解決方案提供者合作夥伴需要很長的前置時間來透過 API 整合其訂單管理系統與 Microsoft 交易平台。 為了確保合作夥伴在準備好交易 Office 365 企業版 E5 單一 SKU 之前能更貼近任何 E5 商機，下列 SKU 將會保留在雲端解決方案提供者價目表上，直到 2017 年 7 月 1日為止：
+許多雲端解決方案提供者合作夥伴需要很長的前置時間來透過 API 整合其訂單管理系統與 Microsoft 交易平台。 為了確保合作夥伴在準備好交易 Office 365 企業版 E5 單一 SKU 之前能更貼近任何 E5 商機，下列 SKU 將會保留在雲端解決方案提供者價目表上，直到 2017 年 7 月 1日為止： 
 
 -   不含 PSTN 會議的 Office 365 企業版 E5
 -   PSTN 會議附加元件 SKU (在提供 PSTN 的市場中)
@@ -53,6 +55,7 @@ translationtype: HT
 **優惠識別碼**
 
 **單價**
+
 
 **ERP**
 

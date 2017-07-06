@@ -3,11 +3,11 @@ title: "建立使用者帳戶與設定權限 | 合作夥伴中心"
 description: "系統管理員能為每個需要存取合作夥伴中心的合作夥伴員工建立使用者帳戶。"
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: bc699214c7919c7cff9788144d472063ba60ad10
+ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 06/26/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>建立使用者帳戶與指派權限
 
@@ -45,7 +45,10 @@ ms.lasthandoff: 06/19/2017
 
 -   系統管理員權限控制使用者必須擁有的合作夥伴中心功能存取層級。 此設定會影響合作夥伴中心外部的項目 -- 帳單系統管理員可以存取所有 Microsoft 服務 (甚至與 CSP 無關之服務) 的帳單，而全域系統管理員可以存 CSP 範圍以外的使用者帳戶與客戶帳戶。
 
->**重要** 預設設定應一律是 **\[無系統管理員權限\]**，除非使用者的職務需要其他存取權以完成工作並支援客戶。
+##<a name="assign-permissions-for-incentives-users"></a>指派獎勵使用者權限
+設定您的獎勵使用者時，您可以授與他們獎勵系統管理員角色或獎勵使用者角色。  獎勵系統管理員可以編輯銀行和稅務資訊、向 Microsoft 請求付款，以及管理獎勵使用者。 獎勵使用者可以檢閱計畫、銀行和稅務資訊，但無法編輯。 他們通常會提供實際的獎勵計畫給客戶。 獎勵系統管理員及使用者在您組織的合作夥伴中心可能會有其他角色，但是要在獎勵計畫中作業，使用者就必須是獎勵系統管理員或使用者。
+
+>**重要事項**：預設設定應一律是 **\[No admin\]** (無系統管理員權限)，除非使用者的職務需要其他存取權以完成工作並支援客戶。
 
 下表解釋在合作夥伴中心各角色可以採取什麼動作。
 
@@ -148,6 +151,23 @@ ms.lasthandoff: 06/19/2017
 <td><ul>
 <li><p>檢視、建立和管理使用者</p></li>
 <li><p>檢視所有合作夥伴設定檔</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>獎勵系統管理員</strong></p></td>
+<td><ul>
+<li><p>檢視和管理所有獎勵計畫</p></li>
+<li><p>編輯獎勵計畫的銀行及稅務設定檔</p></li>
+<LI><p>管理獎勵使用者</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>獎勵使用者</strong></p></td>
+<td><ul>
+<li><p>檢視獎勵計畫</p></li>
+<li><p>檢視銀行及稅務設定檔</p></li>
 </ul></td>
 <td></td>
 </tr>

@@ -3,12 +3,21 @@ title: "建立行銷設定檔 | 合作夥伴中心"
 description: "在合作夥伴中心中建立行銷設定檔，吸引更多潛在客戶。"
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
-ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
+ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
+ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2017
+ms.lasthandoff: 07/01/2017
 ---
+<!--
+FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
+FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
+FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
+FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
+FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
+ -->
+
+
 # <a name="create-a-marketing-profile"></a>建立行銷設定檔
 
 **適用於**
@@ -24,15 +33,19 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 *  **[尋找合作夥伴](https://partnercenter.microsoft.com/pcv/search)搜尋體驗**。 潛在客戶可以自行搜尋合作夥伴清單，來尋找符合其搜尋條件的合作夥伴。 
 *  **Microsoft 銷售和服務員工的推薦**。 有興趣部署雲端技術解決方案的潛在客戶會向 Microsoft 尋求協助，尋找可以滿足其業務需求的專業人員。 這些 Microsoft 專業人員然後向潛在客戶推薦您的公司。
 
+**Pinpoint、C2PC 和 Sales Connect 使用者**：我們正在將這些工具合併至合作夥伴中心。 如果您過去曾使用這些工具，請在合作夥伴中心建立新的行銷設定檔，以便繼續產生和管理您的業務潛在客戶。 我們目前不支援從先前的網站匯入設定檔。 
+
 ## <a name="create-a-profile"></a>建立設定檔
 
-在您獲得授權執行業務的每個國家/地區，建立設定檔。
+為您獲得授權執行業務的每個地區，建立設定檔。 
 
-1.  在[合作夥伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)，從 **\[儀表板\]**功能表中，選取 **\[推薦\]** &gt; **\[行銷設定檔\]** &gt; **[新增行銷設定檔](https://partnercenter.microsoft.com/pcv/publishing)**。
+1.  使用[全域系統管理員或系統管理代理人帳戶](create-user-accounts-and-set-permissions.md)登入[合作夥伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)。
 
-2.  在 **\[建立行銷設定檔\]** 頁面，選取地區，然後輸入您的設定檔資訊，包括合作夥伴資訊和專業區段。
+2.  從 **\[儀表板\]** 功能表中，選取 **\[推薦\]** &gt; **\[行銷設定檔\]** &gt; **[新增行銷設定檔](https://partnercenter.microsoft.com/pcv/publishing)**。
 
-    稍後當您完成第一個設定檔之後，透過選取 **\[從現有的設定檔複製\]**，您可以根據這一個設定檔建立額外的設定檔。
+3.  在 **\[建立行銷設定檔\]** 頁面，選取地區，然後輸入您的設定檔資訊，包括合作夥伴資訊和專長區段。
+    
+    請注意，雖然合作夥伴中心支援多種語言，但有些像描述及自由格式標籤這類的元素可能需要包含不同語言的文字，如本主題中所述。
 
 ### <a href="" id="partner_info"></a>合作夥伴資訊
 
@@ -49,6 +62,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 *  **不用擔心用搜尋關鍵字填滿描述**。 搜尋客戶搜尋工具在合作夥伴專業區段中 (而不是在描述中) 搜尋產生的關鍵字。
 *  **讓您的設定檔保持最新狀態**。 隨著每個軟體或服務發行版本，請更新您的設定檔，讓它與貴公司的網站保持同步。
 *  **請勿提及其他 Microsoft 合作夥伴的公司名稱**，除非該公司或其子公司與您的公司有某種附屬關係，或者您目前與該合作夥伴公司有合約要共同合作和/或互相推銷分享的工作機會。
+*  **對於使用多種語言的地區**，請考慮將多種語言的文字包含在描述中。
 
 #### <a href="" id="linkedin"></a>LinkedIn 公司頁面：更多連接方式
 
@@ -70,7 +84,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 *  **解決方案、技術和功能**。 這些標籤是自由格式，讓您可以加入您的唯一功能的搜尋關鍵字。
 
 用於搜尋的其他標籤：
-*  **[專長認證標籤](https://partner.microsoft.com/membership/competencies)**是贏得的榮譽稱號，展示貴公司的能力。
+*  **專長認證標籤**是贏得的榮譽稱號，展示貴公司的能力。
 *  **背書標籤**是在 Microsoft 或曾經與您合作的客戶背書您的工作時獲得的。
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>讓 Microsoft 背書我的專業領域
@@ -93,11 +107,17 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 顯示正式公司位置且可驗證的位置。 選擇您所服務市場的中心位置，而且最能夠呈現出您公司履行的功能。
 
-## <a name="improve-the-visibility-of-your-profile"></a>改進您設定檔的可見性 
+您新增每個位置會變成不同的設定檔頁面。 更新設定檔頁面時，請確定您對每個位置進行更新。
+
+## <a name="review-your-profile"></a>檢閱您設定檔
+
+發佈您的設定檔之後，更新會在 24 小時內出現於[尋找合作夥伴](https://partnercenter.microsoft.com/pcv/search)搜尋中。 
+
+## <a name="improve-the-visibility-of-your-profile"></a>改善設定檔的可見性 
 
 *  **[快速回應要求](responding-to-referrals.md)**。 當您收到客戶推薦時，更快回應可能會導致未來客戶搜尋網頁上更好的結果。
 *  **選擇您的標籤**。  最好有少數幾個標籤最能代表貴公司的優惠、解決方案、價值主張，以及您可以持續地證明成功的獨特立足點。  這在未來的搜尋結果會得到回報。
-*  **透過 Microsoft 獲得[專長認證標籤](https://partner.microsoft.com/membership/competencies)**，以展示您對我們產品的熟練程度。
+*  透過 Microsoft 獲得**專長認證標籤**，以展示您對我們產品的熟練程度。
 *  從賞識您工作的客戶**獲得背書標籤**。
 
 ## <a name="related-topics"></a>相關主題

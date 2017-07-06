@@ -1,30 +1,30 @@
 ---
-title: "新增全自動部署設定檔，以透過 Windows Autopilot 簡化裝置設定 | 合作夥伴中心"
-description: "在合作夥伴中心新增全自動部署設定檔，以透過 Windows Autopilot 簡化裝置設定"
+title: "透過 Windows Autopilot 簡化裝置設定 | 合作夥伴中心"
+description: "在合作夥伴中心新增 Windows AutoPilot 部署設定檔，以透過 Windows Autopilot 簡化裝置設定"
 author: KPacquer
-keywords: "autopilot, windows autopilot, microsoft autopilot, ztd, 全自動部署, oobe, 登入畫面"
+keywords: "autopilot, windows autopilot, microsoft autopilot, 全自動部署, oobe, 登入畫面"
 robots: NOINDEX,NOFOLLOW
-ms.openlocfilehash: c51d9204b352b548a4095e96944aacdbcde97fa2
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: aa650ee5f2848694fe44d4751d52f8014e0d22a8
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 07/01/2017
 ---
-# <a name="add-a-zero-touch-deployment-profile-to-simplify-device-setup-with-windows-autopilot"></a>新增全自動部署設定檔，以透過 Windows Autopilot 簡化裝置設定
+# <a name="simplify-device-setup-with-windows-autopilot"></a>透過 Windows Autopilot 簡化裝置設定 
 
-只需幾個步驟，Windows Autopilot 即可從第一次開機開始精簡並保護新的 Windows 10 專業版裝置的裝置設定。 
+只需幾個步驟，Windows Autopilot 即可從第一次開機開始精簡並保護新的 Windows 10 專業版裝置的裝置設定。 若要深入了解，請參閱 [Windows AutoPilot 概觀](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)。
 
 ## <a name="features"></a>功能
 
 *  **\[停用本機系統管理員權限\]**，適用於設定裝置的使用者
 *  **\[顯示組織的登入頁面\]**。 組織可以預先定義登入頁面，這個頁面會新增裝置做為工作裝置，並將裝置與 Azure Active Directory 聯結。
-*  OOBE 完成後，**\[在 MDM 中註冊裝置\]** (例如：Microsoft Intune)。
-*  **\[簡化全新體驗 (OOBE)\]**，可透過全自動部署 (ZTD) 設定檔，只使用必要的步驟和決策。 
+*  OOBE 完成後，**\[在 Mobile Device Manager (MDM) 中註冊裝置\]** (例如：Microsoft Intune)。
+*  **\[簡化全新體驗 (OOBE)\]**，可透過 Windows AutoPilot 部署設定檔，只使用必要的步驟和決策。 
 
 ## <a name="requirements"></a>需求
 
 *  預先安裝 Windows 10 專業版 Creators Update (版本 1703 或更新版本) 的裝置
-*  稱為硬體雜湊 (128 HWH 或 4k HWH) 的裝置識別碼，通常由 OEM 提供。 您可以使用識別碼，在合作夥伴中心指派組織設定檔。
+*  稱為硬體雜湊 (128 HWH 或 4k HWH) 的裝置識別碼，通常由 OEM 提供。 您可以使用識別碼，在合作夥伴中心指派組織設定檔。 2017 年 8 月之後，將不再需要硬體雜湊。 
 *  裝置必須能夠存取網際網路。 當裝置無法連線時，會顯示預設 Windows 全新體驗 (OOBE) 畫面。
 *  在 MDM 中註冊裝置必須有 Azure Active Directory Premium。
 
@@ -33,9 +33,9 @@ ms.lasthandoff: 06/19/2017
 若要新增組織專屬頁面，請將裝置新增至組織的 [Azure AD 目錄](https://go.microsoft.com/fwlink/?linkid=848958)並建立登入頁面。
 
 
-## <a name="remove--windows-pages-from-oobe-with-a-zero-touch-deployment-ztd-profile"></a>使用全自動部署 (ZTD) 設定檔從 OOBE 移除 Windows 頁面
+## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>使用 Windows AutoPilot 設定檔從 OOBE 移除 Windows 頁面
 
-### <a name="examples-of-settings-in-a-ztd-profile"></a>ZTD 設定檔中設定的範例
+### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 部署設定檔中的設定範例
 *  略過設定中的隱私權設定
 *  停用設定中的本機系統管理員帳戶
 *  自動略過設定中的頁面
@@ -44,19 +44,21 @@ ms.lasthandoff: 06/19/2017
 
 ### <a name="add-devices-and-apply-a-profile"></a>新增裝置並套用設定檔
 
-您可以在合作夥伴中心建立 ZTD 設定檔，並將其套用至裝置清單。
+您可以在合作夥伴中心建立 Windows AutoPilot 部署設定檔，並將其套用至裝置清單。
 
 若要進行裝置設定，請將裝置清單上傳至合作夥伴中心、建立適用於這些裝置的設定檔，然後加以套用。
 
 1.  將裝置清單新增至合作夥伴中心 (銷售專員和系統管理代理人擁有可將裝置清單新增至合作夥伴中心的存取權)。
 
-    a.  向您的 OEM 索取一個列出新裝置的 .csv 檔案。 此檔案包含序號、產品識別碼，以及從 OEM Activation 3.0 工具產生的裝置識別碼。 
+    a.  使用下列主題中的 PowerShell 指令碼建立 .csv 檔案：[Windows AutoPilot 概觀](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)。 這個 .csv 檔案內含裝置資訊，包括序號、OEM 名稱、型號名稱、產品識別碼和裝置識別碼。 
 
     b.  從 [合作夥伴中心] 儀表板，移至 **\[客戶\]**> 選取收到裝置的客戶 >**\[裝置\] > \[新增裝置\]**。
 
     c.  命名裝置批次，例如「Contoso 銷售部門電腦 – 2017 年 4 月訂單」。 
 
     d.  按一下 **\[瀏覽\]** > 選取裝置資訊檔案 > **\[驗證\]**。
+
+    **注意：**如果您在嘗試上傳 .csv 檔案後收到錯誤訊息，請檢查檔案的格式。 8 月之後，您可以只使用 [硬體雜湊]，或使用 OEM 名稱、序號和型號等欄位 (依此順序)，或是 Windows 產品識別碼。 您也可以使用 **\[新增裝置\]** 旁邊連結所提供的範例 .csv 檔案。
 
 2.  建立可套用至裝置的設定檔 (只有系統管理代理人擁有可在合作夥伴中心建立和套用設定檔的存取權)。
 
@@ -94,6 +96,4 @@ ms.lasthandoff: 06/19/2017
 
 3. 移至您要移除和刪除的設定檔。 設定檔將會從所有裝置中刪除。
 
-
 從 **\[裝置\]** 選取設定檔。 您可以在此處修改現有的設定。
-
