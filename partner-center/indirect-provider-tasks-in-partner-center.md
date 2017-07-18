@@ -1,0 +1,127 @@
+---
+title: "在 CSP 中與間接經銷商建立合夥關係 | 合作夥伴中心"
+description: "做為間接提供者或代理商，您可以與間接經銷商合夥，以擴展您的觸及範圍。"
+author: MaggiePucciEvans
+ms.openlocfilehash: c8f120ca8b063d233aa3b8e1cf1b5009e11eb010
+ms.sourcegitcommit: ae393b4e33e1fae17169057225f6cd522f158354
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 06/01/2017
+---
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a><span data-ttu-id="261f7-103">在雲端解決方案提供者計畫中與間接經銷商建立合夥關係</span><span class="sxs-lookup"><span data-stu-id="261f7-103">Partner with indirect resellers in the Cloud Solution Provider program</span></span>
+
+<span data-ttu-id="261f7-104">在複雜與快速變更的技術市場中，客戶需要有技術解決方案可提供的競爭優勢。</span><span class="sxs-lookup"><span data-stu-id="261f7-104">With such a complex and rapidly changing technology marketplace, customers want the competitive edge that technology solutions can give them.</span></span> <span data-ttu-id="261f7-105">在這種市場氣象，合作夥伴投入合作夥伴對合作夥伴業務，以擴充供應項目並讓客戶執行更多是合理的。</span><span class="sxs-lookup"><span data-stu-id="261f7-105">In such a climate, it makes sense for partners to invest in partner-to-partner engagement to extend offerings and enable customers to do even more.</span></span>
+
+<span data-ttu-id="261f7-106">新經銷商進入市場，並尋找提供其解決方案給市場和地區設定以外客戶的方式。</span><span class="sxs-lookup"><span data-stu-id="261f7-106">New resellers are entering the market and seeking ways to offer their solutions to customers outside of their markets and locales.</span></span> <span data-ttu-id="261f7-107">身為建立的技術提供者，您有良好定位，可以指引他們進入市場。</span><span class="sxs-lookup"><span data-stu-id="261f7-107">As an established technology provider, you're well-positioned to be their route to market.</span></span> <span data-ttu-id="261f7-108">在雲端解決方案提供者 (CSP) 計畫中與間接經銷商建立合夥關係，與其他合作夥伴聯繫、將新解決方案導入市場，和推動客戶的雲端服務採用。</span><span class="sxs-lookup"><span data-stu-id="261f7-108">Partner with indirect resellers in the Cloud Solution Provider (CSP) program to connect with other partners, bring new solutions to the market, and advance customers’ adoption of cloud services.</span></span>
+
+<span data-ttu-id="261f7-109">在間接提供者-經銷商（雙層）模型中，您和間接經銷商建立合夥關係，提供 Microsoft 雲端解決方案給客戶。</span><span class="sxs-lookup"><span data-stu-id="261f7-109">In the indirect provider-reseller (two-tier) model, you partner with indirect resellers to offer Microsoft cloud solutions to customers.</span></span> <span data-ttu-id="261f7-110">您直接從 Microsoft 購買產品和訂閱，再透過您的經銷商提供這些解決方案給客戶。</span><span class="sxs-lookup"><span data-stu-id="261f7-110">You purchase products and subscriptions directly from Microsoft and then offer these solutions to customers through your resellers.</span></span> 
+
+<span data-ttu-id="261f7-111">身為間接提供者，您使用合作夥伴中心：</span><span class="sxs-lookup"><span data-stu-id="261f7-111">As an indirect provider, you use Partner Center to:</span></span>
+
+-   <span data-ttu-id="261f7-112">與可以幫助您擴展觸及範圍和客戶基礎的間接經銷商聯繫</span><span class="sxs-lookup"><span data-stu-id="261f7-112">Connect with indirect resellers who can help expand your reach and customer base</span></span>
+-   <span data-ttu-id="261f7-113">與可讓您服務共同客戶的間接經銷商建立合夥關係</span><span class="sxs-lookup"><span data-stu-id="261f7-113">Establish partnerships with indirect resellers that allow you both to serve common customers</span></span>
+-   <span data-ttu-id="261f7-114">指定間接經銷商以管理特定客戶和訂閱</span><span class="sxs-lookup"><span data-stu-id="261f7-114">Designate indirect resellers to manage specific customers and subscriptions</span></span> 
+-   <span data-ttu-id="261f7-115">管理您與 Microsoft、客戶和間接經銷商的關係，全都在一個地方</span><span class="sxs-lookup"><span data-stu-id="261f7-115">Manage your relationships with Microsoft, customers, and indirect resellers all in one place</span></span>
+
+<span data-ttu-id="261f7-116">如需 CSP 間接模型的詳細資訊，請參閱 [Microsoft 合作夥伴網路網站]( https://partner.microsoft.com)上的[探索間接模型](https://partner.microsoft.com/cloud-solution-provider/indirect)。</span><span class="sxs-lookup"><span data-stu-id="261f7-116">For more information about the indirect model in CSP, see [Explore the indirect model](https://partner.microsoft.com/cloud-solution-provider/indirect) on the [Microsoft Partner Network website]( https://partner.microsoft.com).</span></span> 
+
+## <a name="indirect-provider-tasks-on-partner-center"></a><span data-ttu-id="261f7-117">在合作夥伴中心的間接提供者工作</span><span class="sxs-lookup"><span data-stu-id="261f7-117">Indirect provider tasks on Partner Center</span></span>
+
+<span data-ttu-id="261f7-118">在合作夥伴中心，完成下列步驟來建立和管理您與間接經銷商和客戶的合作關係。</span><span class="sxs-lookup"><span data-stu-id="261f7-118">Complete the following steps to establish and manage your partnership with indirect resellers and customers on Partner Center.</span></span> <span data-ttu-id="261f7-119">每個步驟在下方有詳細說明。</span><span class="sxs-lookup"><span data-stu-id="261f7-119">Each step is described in more detail below.</span></span>
+
+1.    <span data-ttu-id="261f7-120">與間接經銷商聯繫</span><span class="sxs-lookup"><span data-stu-id="261f7-120">Connect with indirect resellers</span></span>
+
+    - <span data-ttu-id="261f7-121">您可以與經銷商互動並交易之前，您必須在合作夥伴中心建立與他們的合夥關係。</span><span class="sxs-lookup"><span data-stu-id="261f7-121">Before you can interact and transact with resellers, you must establish partnerships with them in Partner Center.</span></span> 
+
+2.    <span data-ttu-id="261f7-122">與客戶保持聯繫</span><span class="sxs-lookup"><span data-stu-id="261f7-122">Connect with customers</span></span>
+
+    - <span data-ttu-id="261f7-123">將新客戶和訂閱關聯到經銷商</span><span class="sxs-lookup"><span data-stu-id="261f7-123">Associate new customers and subscriptions to resellers</span></span>
+    - <span data-ttu-id="261f7-124">與現有客戶建立經銷商關係</span><span class="sxs-lookup"><span data-stu-id="261f7-124">Establish reseller relationships with existing customers</span></span>
+ 
+
+<span data-ttu-id="261f7-125">當您完成這些步驟之後，您可以從 **\[儀表板\]** 功能表的 **\[間接經銷商\]** 頁面管理經銷商合作關係。</span><span class="sxs-lookup"><span data-stu-id="261f7-125">After you complete these steps, you can manage your reseller partnerships on the **Indirect resellers** page from your **Dashboard** menu.</span></span>
+
+>**<span data-ttu-id="261f7-126">重要</span><span class="sxs-lookup"><span data-stu-id="261f7-126">Important</span></span>**<br> <span data-ttu-id="261f7-127">在合作夥伴中心開始與經銷商合作前，他們必須在 CSP 計畫中註冊為間接經銷商，並有合作夥伴中心帳戶。</span><span class="sxs-lookup"><span data-stu-id="261f7-127">Before you can start working with resellers on Partner Center, they must be enrolled as indirect resellers in the CSP program and have Partner Center accounts.</span></span> <span data-ttu-id="261f7-128">指引您的經銷商參閱[在 CSP 中與間接提供者建立合夥關係](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center)，以取得註冊 CSP 的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="261f7-128">Point your resellers to [Partner with indirect providers in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center) for information about enrolling in CSP.</span></span> 
+
+## <a name="connect-with-indirect-resellers"></a><span data-ttu-id="261f7-129">與間接經銷商聯繫</span><span class="sxs-lookup"><span data-stu-id="261f7-129">Connect with indirect resellers</span></span>
+
+<span data-ttu-id="261f7-130">若要在合作夥伴中心與間接經銷商互動並交易，您必須與他們建立合夥關係。</span><span class="sxs-lookup"><span data-stu-id="261f7-130">To interact and transact with indirect resellers in Partner Center, you must establish a partnership with them.</span></span> <span data-ttu-id="261f7-131">與間接經銷商建立合夥關係，可讓您與間接經銷商服務共同客戶。</span><span class="sxs-lookup"><span data-stu-id="261f7-131">Having a partnership with an indirect reseller allows you and the reseller to both serve common customers.</span></span>
+
+<span data-ttu-id="261f7-132">若要建立合夥關係，請透過電子郵件傳送建立合夥關係要求給經銷商。</span><span class="sxs-lookup"><span data-stu-id="261f7-132">To establish a partnership, email a partnership request to the reseller.</span></span> <span data-ttu-id="261f7-133">在您開始之前請確定手上有經銷商的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="261f7-133">Be sure to have the reseller’s email address on hand before you get started.</span></span> 
+
+1. <span data-ttu-id="261f7-134">從您的 **\[儀表板\]** 功能表選取 **\[間接經銷商\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-134">Select **Indirect resellers** from your **Dashboard** menu.</span></span> 
+
+2. <span data-ttu-id="261f7-135">在 **\[間接經銷商\]** 頁面上，選取 **\[要求建立經銷商關係\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-135">On the **Indirect resellers** page, select **Request a partnership**.</span></span> <span data-ttu-id="261f7-136">出現草稿電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="261f7-136">A draft email message appears.</span></span>
+
+3. <span data-ttu-id="261f7-137">選取 **\[在電子郵件中開啟\]**，在預設的郵件應用程式中開啟訊息，或選取 **\[複製到剪貼簿\]**，將該訊息複製和然後貼到電子郵件。</span><span class="sxs-lookup"><span data-stu-id="261f7-137">Select **Open in email** to open the message in your default email application, or select **Copy to clipboard** to copy and then paste the message into an email.</span></span> <span data-ttu-id="261f7-138">完成時選取 **\[完成\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-138">Select **Done** when finished.</span></span>
+
+   ><span data-ttu-id="261f7-139">**重要** 您可以在電子郵件中編輯文字，但是請務必包含連結，因為它針對您的合作夥伴中心帳戶已個人化。</span><span class="sxs-lookup"><span data-stu-id="261f7-139">**Important** You can edit the text in the email message, but be sure to include the link as it is personalized for your Partner Center account.</span></span>
+
+4. <span data-ttu-id="261f7-140">經銷商接受您的建立合夥關係要求之後，他們會顯示在您的間接經銷商清單中，您就可以：</span><span class="sxs-lookup"><span data-stu-id="261f7-140">After the reseller accepts your partnership request, they’ll appear in your indirect resellers list, and you’ll be able to:</span></span> 
+
+    -   <span data-ttu-id="261f7-141">代表他們新增新客戶</span><span class="sxs-lookup"><span data-stu-id="261f7-141">Add new customers on their behalf</span></span>
+    -   <span data-ttu-id="261f7-142">代表他們提交訂單</span><span class="sxs-lookup"><span data-stu-id="261f7-142">Submit orders on behalf of their customers</span></span> 
+    -   <span data-ttu-id="261f7-143">將他們與訂閱關聯，讓他們可以代表購買訂閱的客戶管理訂閱</span><span class="sxs-lookup"><span data-stu-id="261f7-143">Associate them with a subscription so they can manage it on behalf of the customer who purchased it</span></span>
+    -   <span data-ttu-id="261f7-144">將它們指定為特定訂閱的客戶支援連絡人</span><span class="sxs-lookup"><span data-stu-id="261f7-144">Designate them as the customer’s support contact for specific subscriptions</span></span>
+
+<span data-ttu-id="261f7-145">根據您想要讓經銷商擁有的存取和參與程度，您可以執行下列一或多個動作，如下所述。</span><span class="sxs-lookup"><span data-stu-id="261f7-145">Depending on the level of access and involvement you want the reseller to have, you may want to take one or more of the actions described below.</span></span>
+
+| **<span data-ttu-id="261f7-146">若要完成此目標</span><span class="sxs-lookup"><span data-stu-id="261f7-146">To accomplish this</span></span>** | **<span data-ttu-id="261f7-147">執行這項操作</span><span class="sxs-lookup"><span data-stu-id="261f7-147">Do this</span></span>** | **<span data-ttu-id="261f7-148">其中</span><span class="sxs-lookup"><span data-stu-id="261f7-148">Where</span></span>** |
+|   ------------------   |   -------   |   -----   |
+| <span data-ttu-id="261f7-149">讓經銷商管理客戶帳戶，並擁有系統管理員權限以管理其訂閱</span><span class="sxs-lookup"><span data-stu-id="261f7-149">Enable the reseller to manage a customer’s account and have administrator permissions to manage their subscriptions</span></span> | <span data-ttu-id="261f7-150">當您新增客戶，關聯經銷商到客戶帳戶</span><span class="sxs-lookup"><span data-stu-id="261f7-150">Associate a reseller to a customer account when adding a new customer</span></span> | <span data-ttu-id="261f7-151">在 **\[新客戶\]** 頁面</span><span class="sxs-lookup"><span data-stu-id="261f7-151">On the **New customer** page</span></span> |
+| <span data-ttu-id="261f7-152">提供經銷商獎勵的信用點數</span><span class="sxs-lookup"><span data-stu-id="261f7-152">Give the reseller credit for incentives</span></span> | <span data-ttu-id="261f7-153">關聯經銷商到訂閱（新或現有）</span><span class="sxs-lookup"><span data-stu-id="261f7-153">Associate the reseller to the subscription (new or existing)</span></span> | <span data-ttu-id="261f7-154">在 **\[新訂閱\]** 頁面上</span><span class="sxs-lookup"><span data-stu-id="261f7-154">On the **New subscription** page</span></span> |
+| <span data-ttu-id="261f7-155">委派特定訂閱的客戶支援給經銷商</span><span class="sxs-lookup"><span data-stu-id="261f7-155">Delegate customer support for specific subscriptions to the reseller</span></span> | <span data-ttu-id="261f7-156">從 **\[指派的支援連絡人\]** 清單選取經銷商</span><span class="sxs-lookup"><span data-stu-id="261f7-156">Select the reseller from the **Designated support contact** list</span></span> | <span data-ttu-id="261f7-157">在訂閱的詳細資料頁面上：從您的 **\[客戶\]** 頁面選取客戶，然後從客戶的 **\[訂閱\]** 頁面選取訂閱</span><span class="sxs-lookup"><span data-stu-id="261f7-157">On the subscription’s detail page: Select the customer from your **Customers** page, then select the subscription from the customer’s **Subscriptions** page</span></span> |
+
+
+## <a name="connect-with-customers"></a><span data-ttu-id="261f7-158">與客戶保持聯繫</span><span class="sxs-lookup"><span data-stu-id="261f7-158">Connect with customers</span></span>
+
+<span data-ttu-id="261f7-159">當您收到新客戶時，您需要為他們在合作夥伴中心中建立帳戶。</span><span class="sxs-lookup"><span data-stu-id="261f7-159">When you get new customers, you need to create accounts for them in Partner Center.</span></span> <span data-ttu-id="261f7-160">當您新增新的客戶帳戶時，您可以指定特定經銷商代表他們管理帳戶，以及管理客戶的訂閱與服務。</span><span class="sxs-lookup"><span data-stu-id="261f7-160">When you add a new customer account, you can designate a specific reseller to manage the account and administer the customers’ subscriptions and services on their behalf.</span></span> 
+
+<span data-ttu-id="261f7-161">當您關聯經銷商與新客戶帳戶時，您要委派帳戶和訂閱管理給經銷商。</span><span class="sxs-lookup"><span data-stu-id="261f7-161">When you associate a reseller with a new customer account, you are delegating account and subscription management to the reseller.</span></span> <span data-ttu-id="261f7-162">這表示經銷商有客戶訂閱及服務的系統管理員存取權，而且可以代表客戶管理其訂閱及服務。</span><span class="sxs-lookup"><span data-stu-id="261f7-162">This means that the reseller has administrator access to the customer’s subscriptions and services and can manage them on behalf of the customer.</span></span>
+
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a><span data-ttu-id="261f7-163">新增新的客戶並關聯客戶與間接經銷商</span><span class="sxs-lookup"><span data-stu-id="261f7-163">Add new customers and associate them with indirect resellers</span></span>
+
+1.    <span data-ttu-id="261f7-164">從您的 **\[儀表板\]** 功能表選取 **\[間接經銷商\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-164">Select **Indirect resellers** from your **Dashboard** menu.</span></span> 
+
+2.    <span data-ttu-id="261f7-165">尋找您想要指派新客戶的間接經銷商，然後選取 **\[新增新的客戶\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-165">Find the indirect reseller that you want to assign new customers to and then select **Add new customer**.</span></span> <span data-ttu-id="261f7-166">請注意，在客戶詳細表單上已為您選取間接經銷商。</span><span class="sxs-lookup"><span data-stu-id="261f7-166">Note that the indirect reseller is already selected for you on the customer detail form.</span></span> <span data-ttu-id="261f7-167">提供客戶的詳細資訊，然後選取 **\[下一步: 訂閱\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-167">Provide the customer’s details and then select **Next: Subscriptions** .</span></span> 
+3.    <span data-ttu-id="261f7-168">在 **\[新訂閱\]** 頁面上，選取客戶想要購買的訂閱並輸入客戶需要的授權數量。</span><span class="sxs-lookup"><span data-stu-id="261f7-168">On the **New subscription** page, select the subscription(s) the customer wants to buy and then enter the number of licenses the customer needs.</span></span> 
+
+4.    <span data-ttu-id="261f7-169">選取 **\[下一步: 評論\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-169">Select **Next: Review**.</span></span>
+
+5.    <span data-ttu-id="261f7-170">如果是正確的訂單，請選取 **\[提交\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-170">If the order is correct, select **Submit**.</span></span> <span data-ttu-id="261f7-171">如果訂單不正確，請選取 **\[取消\]** 取消整個作業，並從頭開始。</span><span class="sxs-lookup"><span data-stu-id="261f7-171">If the order is incorrect, select **Cancel** to cancel the entire operation and start over.</span></span>
+
+6.    <span data-ttu-id="261f7-172">您提交的訂單後, **\[確認\]** 頁面隨即顯示。</span><span class="sxs-lookup"><span data-stu-id="261f7-172">After you submit the order, the **Confirmation* page appears.</span></span> <span data-ttu-id="261f7-173">在 **\[設定資訊\]**，會顯示系統管理員使用者帳戶名稱和暫時密碼。</span><span class="sxs-lookup"><span data-stu-id="261f7-173">Under **Setup info**, the admin user account name and temporary password are displayed.</span></span> <span data-ttu-id="261f7-174">複製使用者帳戶名稱和密碼，以便將它傳送給新的客戶。</span><span class="sxs-lookup"><span data-stu-id="261f7-174">Copy down the user account name and password information so you can send it on to the new customer.</span></span> 
+
+    ><span data-ttu-id="261f7-175">**重要**  請務必記下使用者帳戶名稱和密碼，因為在您關閉此頁面之後將無法存取這項資訊。</span><span class="sxs-lookup"><span data-stu-id="261f7-175">**Important**  Be sure to make a note of the user account name and password as you won’t be able to access this information again after you close this page.</span></span>
+
+7.  <span data-ttu-id="261f7-176">選取 **\[完成\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-176">Select **Done**.</span></span> <span data-ttu-id="261f7-177">新的客戶出現在您的客戶清單中，並與間接經銷商相關聯。</span><span class="sxs-lookup"><span data-stu-id="261f7-177">The new customer appears in your customer list, associated with the indirect reseller.</span></span> <span data-ttu-id="261f7-178">現在經銷商有客戶帳戶資訊和訂閱的管理存取，並可以代表客戶管理訂閱。</span><span class="sxs-lookup"><span data-stu-id="261f7-178">The reseller now has admin access to the customer’s account information and subscriptions and can manage the subscriptions on the customer’s behalf.</span></span>
+
+### <a name="add-new-subscriptions-to-customer-accounts"></a><span data-ttu-id="261f7-179">新增新的訂閱到客戶帳戶</span><span class="sxs-lookup"><span data-stu-id="261f7-179">Add new subscriptions to customer accounts</span></span>
+
+<span data-ttu-id="261f7-180">當客戶想要購買新的訂閱、升級現有訂閱或購買額外的授權，您在客戶帳戶中進行這些變更。</span><span class="sxs-lookup"><span data-stu-id="261f7-180">When customers want to buy new subscriptions, upgrade existing ones, or buy additional licenses, you make these changes in the customer’s account.</span></span> 
+
+1.    <span data-ttu-id="261f7-181">從您的 **\[儀表板\]** 功能表，選取 **\[客戶\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-181">Select **Customers** from your **Dashboard** menu.</span></span> 
+
+2.    <span data-ttu-id="261f7-182">尋找您想要變更其帳戶的客戶。</span><span class="sxs-lookup"><span data-stu-id="261f7-182">Find the customer whose account you want to change.</span></span> <span data-ttu-id="261f7-183">您可以依間接經銷商篩選清單，縮小選擇。</span><span class="sxs-lookup"><span data-stu-id="261f7-183">You can filter the list by indirect reseller to narrow your choices.</span></span> <span data-ttu-id="261f7-184">選取向下箭號展開客戶記錄，然後選取 **\[新增訂閱\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-184">Expand the customer’s record by selecting the down arrow, and then selecting **Add subscription**.</span></span>
+
+3.    <span data-ttu-id="261f7-185">在 **\[新訂閱\]** 頁面，選取訂閱，並輸入客戶想要購買的授權數目。</span><span class="sxs-lookup"><span data-stu-id="261f7-185">On the **New subscription** page, select the subscription(s) and enter the number of licenses the customer wants to purchase.</span></span> 
+
+4.    <span data-ttu-id="261f7-186">若要關聯訂閱與經銷商，從清單中選取經銷商的名稱，然後選取 **\[提交\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-186">To associate the subscription with a reseller, select the reseller’s name from the list and then select **Submit**.</span></span> <span data-ttu-id="261f7-187">關聯經銷商與訂閱，可讓經銷商獲得獎勵 (如果有的話)。</span><span class="sxs-lookup"><span data-stu-id="261f7-187">Associating the reseller with the subscription enables them to earn incentives, if applicable.</span></span>
+
+5.    <span data-ttu-id="261f7-188">新的訂閱出現在客戶的訂閱清單中。</span><span class="sxs-lookup"><span data-stu-id="261f7-188">The new subscription(s) appears in the customer’s subscriptions list.</span></span> 
+
+6.    <span data-ttu-id="261f7-189">如果您希望經銷商處理新訂閱的客戶支援要求，選取訂閱，然後從 **\[指派的支援連絡人\]** 清單選取經銷商。</span><span class="sxs-lookup"><span data-stu-id="261f7-189">If you want the reseller to handle customer support requests for the new subscription, select the subscription and then select the reseller from the **Designated support contact** list.</span></span>
+
+7.    <span data-ttu-id="261f7-190">完成時選取 **\[提交\]**。</span><span class="sxs-lookup"><span data-stu-id="261f7-190">Select **Submit** when finished.</span></span> 
+
+## <a name="see-also"></a><span data-ttu-id="261f7-191">請參閱</span><span class="sxs-lookup"><span data-stu-id="261f7-191">See also</span></span>
+
+<span data-ttu-id="261f7-192">如需有關如何管理客戶帳戶和訂閱的詳細資訊，請參閱：</span><span class="sxs-lookup"><span data-stu-id="261f7-192">For more information about managing customer accounts and subscriptions, see:</span></span>
+
+[<span data-ttu-id="261f7-193">客戶帳戶</span><span class="sxs-lookup"><span data-stu-id="261f7-193">Customer accounts</span></span>](customer-accounts.md)
+
+[<span data-ttu-id="261f7-194">客戶訂閱</span><span class="sxs-lookup"><span data-stu-id="261f7-194">Customer subscriptions</span></span>](customer-subscriptions.md)
+
+
+
+

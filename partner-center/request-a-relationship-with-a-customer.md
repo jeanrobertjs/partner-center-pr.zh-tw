@@ -1,50 +1,45 @@
 ---
 title: "要求與客戶建立關係 | 合作夥伴中心"
-description: "要求用於多重合作夥伴和多重通路案例的關係。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。"
+description: "要求關係是用於多重合作夥伴和多重通路案例。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。"
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 06/14/2017
 ---
+# <a name="connect-with-customers-in-partner-center"></a><span data-ttu-id="4feb0-104">在合作夥伴中心中與客戶保持聯繫</span><span class="sxs-lookup"><span data-stu-id="4feb0-104">Connect with customers in Partner Center</span></span>
 
-# 要求與客戶建立關係
+**<span data-ttu-id="4feb0-105">適用於</span><span class="sxs-lookup"><span data-stu-id="4feb0-105">Applies to</span></span>**
 
-**適用於**
+-  <span data-ttu-id="4feb0-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="4feb0-106">Partner Center</span></span>
+-  <span data-ttu-id="4feb0-107">美國政府適用的 Microsoft Cloud 合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="4feb0-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="4feb0-108">Microsoft Cloud 德國合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="4feb0-108">Partner Center for Microsoft Cloud Germany</span></span>
 
--  合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+<span data-ttu-id="4feb0-109">若要代表客戶管理客戶的服務或訂閱，客戶必須授與您該服務的系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="4feb0-109">To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service.</span></span> <span data-ttu-id="4feb0-110">若要從客戶取得系統管理員權限，請透過電子郵件傳送建立經銷商關係要求給他們。</span><span class="sxs-lookup"><span data-stu-id="4feb0-110">To get administrator permissions from a customer, email them a reseller relationship request.</span></span> <span data-ttu-id="4feb0-111">客戶核准您的要求後，您就能登入服務的系統管理員入口網站及代表客戶管理服務。</span><span class="sxs-lookup"><span data-stu-id="4feb0-111">After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf.</span></span> 
 
-要求用於[多重合作夥伴](multipartner.md)和[多重管道案例](multichannel.md)的關係。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a><span data-ttu-id="4feb0-112">邀請客戶與您建立經銷商關係</span><span class="sxs-lookup"><span data-stu-id="4feb0-112">Invite a customer to establish a reseller relationship with you</span></span>
 
-請注意，此程序只會新增委派管理員權限。 除非合作夥伴曾是訂閱的原始雲端解決方案提供者經銷商，否則合作夥伴將不會收到這些訂閱的帳單，也不能新增或移除基座、訂購附加元件、轉換或移轉訂閱，或變更記錄可查夥伴。
+1.  <span data-ttu-id="4feb0-113">從您的 **\[儀表板\]** 功能表選取 **\[客戶\]**，然後選取 **\[要求建立經銷商關係\]**。</span><span class="sxs-lookup"><span data-stu-id="4feb0-113">Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.</span></span>
 
-<a href="" id="requestarelationship"></a>
-**要求建立關係**
+2.  <span data-ttu-id="4feb0-114">在下一頁，檢閱草稿電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="4feb0-114">On the next page, review the draft email message.</span></span> <span data-ttu-id="4feb0-115">您可以在預設電子郵件應用程式中開啟草稿訊息，或您可以將訊息複製到您的剪貼簿，並將它貼到電子郵件。</span><span class="sxs-lookup"><span data-stu-id="4feb0-115">You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email.</span></span> 
 
-1.  在合作夥伴中心，移至 \[儀表板\] 功能表 &gt; \[客戶\]**** &gt; \[要求建立經銷商關係\]****。
-2.  複製電子郵件文字。 您可以編輯或刪除前兩個段落，但不應該對連結做出任何修改。 此連結的 URL 僅適用於您的經銷商帳戶，且沒有包含任何客戶資訊。 您可以在每次要求建立關係時重複使用相同的連結。
-3.  將它傳送給您的客戶。 客戶若要接受，便可以按一下邀請連結並使用系統管理員帳戶登入。
-4.  之後，客戶可以在 \[合作夥伴關係\]**** 頁面上針對其他服務檢閱其所有合作夥伴，包括對各服務擁有委派管理員權限的合作夥伴。
+    <span data-ttu-id="4feb0-116">您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。</span><span class="sxs-lookup"><span data-stu-id="4feb0-116">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="4feb0-117">當您已經完成這個步驟，選取 **\[完成\]**。</span><span class="sxs-lookup"><span data-stu-id="4feb0-117">Select **Done** when you’ve completed this step.</span></span>
 
-    請注意，在多重通路模型中，客戶針對每個服務只能擁有一個具備委派管理員權限的雲端解決方案提供者交易合作夥伴。 他們也可能已授與權限給其他不屬於雲端解決方案提供者計畫的合作夥伴。
+3.  <span data-ttu-id="4feb0-118">將電子郵件傳送給您的客戶。</span><span class="sxs-lookup"><span data-stu-id="4feb0-118">Send the email to your customer.</span></span>
 
-5.  當客戶出現在合作夥伴於合作夥伴中心的客戶清單中時，合作夥伴便能知道該客戶已接受邀請。 合作夥伴接著便可以針對該客戶的雲端解決方案提供者訂閱進行佈建和管理。
+4.  <span data-ttu-id="4feb0-119">客戶接受邀請之後，他們將會出現在您的 **\[客戶\]** 頁面，而且您將能從該處佈建客戶及管理其服務。</span><span class="sxs-lookup"><span data-stu-id="4feb0-119">After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.</span></span>
 
-客戶將可以移除任何或所有合作夥伴 (包括雲端解決方案提供者計畫中的合作夥伴) 的委派管理員權限。 客戶可以在他們自己的管理入口網站內執行此動作。 除非客戶和合作夥伴另行交涉，否則客戶帳戶和商業關係將仍然適用。 如果客戶移除合作夥伴的委派管理員權限，合作夥伴仍需負責為客戶提供支援，並持續遵守雲端經銷商合約的條款。 在此情況下，如果客戶需要協助，合作夥伴必須連絡 Microsoft 支援服務，以代表客戶開啟服務要求。
+ >**<span data-ttu-id="4feb0-120">注意</span><span class="sxs-lookup"><span data-stu-id="4feb0-120">Note</span></span>**<br>
+    <span data-ttu-id="4feb0-121">在多通路案例中，只有一個合作夥伴可以擁有系統管理員權限來代表客戶管理服務。</span><span class="sxs-lookup"><span data-stu-id="4feb0-121">In a multi-channel scenario, only one partner can have administrator permissions to manage a service on the customer's behalf.</span></span> 
 
-如果要重新建立已由客戶移除的委派管理員權限，您可以重複要求建立關係的程序。
-
- 
-
- 
+5.  <span data-ttu-id="4feb0-122">若要管理客戶的帳戶、服務、使用者及授權，選取其名稱旁邊的向下鍵，展開客戶記錄。</span><span class="sxs-lookup"><span data-stu-id="4feb0-122">To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.</span></span>
 
 
+>**<span data-ttu-id="4feb0-123">重要</span><span class="sxs-lookup"><span data-stu-id="4feb0-123">Important</span></span>**<br>
+<span data-ttu-id="4feb0-124">客戶可以在服務管理入口網站中重新指派或移除系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="4feb0-124">Customers can reassign or remove administrator permisions in a service's admin portal.</span></span> <span data-ttu-id="4feb0-125">不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="4feb0-125">However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions.</span></span> <span data-ttu-id="4feb0-126">在此情況下，如果客戶需要協助，您可以連絡 Microsoft 支援服務，以代表客戶開啟服務要求。</span><span class="sxs-lookup"><span data-stu-id="4feb0-126">In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.</span></span>
 
+## <a name="related-topics"></a><span data-ttu-id="4feb0-127">相關主題</span><span class="sxs-lookup"><span data-stu-id="4feb0-127">Related topics</span></span>
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+[<span data-ttu-id="4feb0-128">移除關係</span><span class="sxs-lookup"><span data-stu-id="4feb0-128">Remove a relationship</span></span>](remove-a-relationship.md)
