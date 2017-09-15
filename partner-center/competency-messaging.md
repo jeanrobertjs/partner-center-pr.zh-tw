@@ -1,41 +1,40 @@
 ---
-title: "訊息中心專長認證"
-description: "訊息中心專長認證對展示其身為合格 Microsoft Exchange 解決方案提供者之能力，以取得競爭優勢、縮短銷售週期和拓展業務的合作夥伴給予認可。"
+title: Messaging Competency
+description: The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
 author: Daniel Simpson
-keywords: "專長認證, 各項專長認證, 訊息中心"
-robots: noindex,nofollow
-ms.openlocfilehash: 9897240d34f7948260dde29ff0230cd04573541d
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Messaging
+ms.openlocfilehash: 41a8bd44f5a0dacf49554907dd381e1ec7140a21
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="messaging"></a>訊息中心
-訊息中心專長認證對展示其身為合格 Microsoft Exchange 解決方案提供者之能力，以取得競爭優勢、縮短銷售週期和拓展業務的合作夥伴給予認可。
+#<a name="messaging"></a>Messaging
+The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
 
-##<a name="hybrid-services-partner-option"></a>混合式服務合作夥伴選項
-藉由通過測驗或認證，對您的產品知識進行考驗。
+##<a name="hybrid-services-partner-option"></a>Hybrid Services Partner option
+Put your product knowledge to the test by passing exams or certifications.
 
-###<a name="silver"></a>銀級
+###<a name="silver"></a>Silver
 1. 您的組織必須有 **2** 個人員通過測驗或者認證要求條件。
     
     - **2** 個人員必須每個都通過下列所有測驗：
         - [測驗 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx)：啟用 Microsoft Office 365 服務
         - [測驗 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx)：設計和部署 Microsoft Exchange Server 2016
 
-    **或**
+    **OR**
 
      - **2** 個人員必須通過下列認證：
         - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx)：生產力
 
-###<a name="gold"></a>金級
+###<a name="gold"></a>Gold
 1. 您的組織必須有 **4** 個人員通過測驗或者認證要求條件。
 
     - **4** 個人員必須每個都通過下列所有測驗：
         - [測驗 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx)：啟用 Microsoft Office 365 服務
         - [測驗 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx)：設計和部署 Microsoft Exchange Server 2016
 
-    **或**
+    **OR**
 
     - **4** 個人員必須通過下列認證：
         - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx)：生產力

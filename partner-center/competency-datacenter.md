@@ -1,20 +1,19 @@
 ---
-title: "資料中心專長認證"
-description: "資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。"
+title: Data Center Competency
+description: The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
 author: Daniel Simpson
-keywords: "專長認證, 各專長認證, 資料中心"
-robots: noindex,nofollow
-ms.openlocfilehash: 1d1efbc21817a63c1de86ebb4862525afff43945
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency, competencies, Datacenter
+ms.openlocfilehash: fd24df57e7bf18764e4281947443b37dc7f49713
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="datacenter"></a>資料中心
-資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。
-##<a name="datacenter-solutions-option"></a>資料中心解決方案選項
-如果您想要藉由通過測驗或認證來證明自己的技能，資料中心解決方案選項就很適合這個目的。 從您所選專長領域中選擇測驗，以取得資料中心專長認證。
-###<a name="silver"></a>銀級
+#<a name="datacenter"></a>Datacenter
+The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+##<a name="datacenter-solutions-option"></a>Datacenter Solutions option
+The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
+###<a name="silver"></a>Silver
 1. 您的組織必須有 **2** 個人員通過其中任何一項測驗
 
     - **System Center** 2012 專長領域
@@ -43,7 +42,7 @@ ms.lasthandoff: 06/27/2017
         - [測驗 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx)：將您的技能升級至 MCSA：Windows Server 2016
         - [測驗 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx)：保護 Windows Server 2016 安全
 
-###<a name="gold"></a>金級
+###<a name="gold"></a>Gold
 1. 您的組織必須有 **4** 個人員通過必要的認證。
 
     - **4** 個人員必須通過下列其中一項測驗：

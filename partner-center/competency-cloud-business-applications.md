@@ -1,32 +1,36 @@
 ---
-title: "雲端業務應用程式專長認證"
-description: "雲端業務應用程式專長認證適合專精於為客戶部署和管理 Microsoft Dynamics 365 的合作夥伴。"
+title: Cloud Business Applications Competency
+description: The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.
 author: Daniel Simpson
-keywords: "專長認證, 各項專長認證, 雲端業務應用程式"
-robots: noindex,nofollow
-ms.openlocfilehash: d3a04e666685622d706b0a13341f4c25a3cd6420
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies, Cloud Business Applications
+ms.openlocfilehash: 978f3b8939f7f5fb3e4788182fa4d49bb89b3ec0
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="cloud-business-applications"></a>雲端業務應用程式 
-雲端業務應用程式專長認證適合專精於為客戶部署和管理 Microsoft Dynamics 365 的合作夥伴。
+#<a name="cloud-business-applications"></a>Cloud Business Applications 
+The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.
 
-- [企業客戶業務開發選項](#enterprise-customer-engagement-option)
-- [企業營運選項](#enterprise-operations-option)
+- [Enterprise Customer Engagement option](#enterprise-customer-engagement-option)
+- [Enterprise Operations option](#enterprise-operations-option)
 
 
-##<a name="enterprise-customer-engagement-option"></a>企業客戶業務開發選項
-企業客戶業務開發選項很適合拓展企業客戶業務的合作夥伴。 完成其中所有步驟，即可取得雲端業務應用程式專長認證。
+##<a name="enterprise-customer-engagement-option"></a>Enterprise Customer Engagement option
+The Enterprise Customer Engagement option is ideal for partners engaging with enterprise customers. Complete all the steps within to attain the Cloud Business Applications competency.
 
-###<a name="silver"></a>銀級
-1. 您的組織必須達到績效門檻。
+###<a name="silver"></a>Silver
+1. Your organization must meet the performance thresholds.
 
-    **開發的市場**
+    - **Developed Markets**
 
-    - 合作夥伴必須至少已賺取 US$100,000 美元的營收 (TTM 期間的淨新增營收)。
-    - 達到 Dynamics 365 企業計劃 1 及其元件應用程式、Dynamics 365 企業計畫 2 的營收門檻。
+        - Partner must have earned at least US$100,000 Revenue - Net New Revenue in the TTM period.
+    
+    - **開發中市場**
+
+        - 合作夥伴必須至少已賺取 $50,000 美元的營收 (TTM 期間的淨新增營收)。
+
+    - 達到 Dynamics 365 Enterprise 計畫 1 及其元件應用程式、Dynamics 365 Enterprise 計畫 2 的營收門檻。
     - 這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。
     - [深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。
 
@@ -42,16 +46,21 @@ ms.lasthandoff: 06/27/2017
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service
 
-###<a name="gold"></a>金級
-1. 您的組織必須達到績效門檻。
+###<a name="gold"></a>金會員
+1. Your organization must meet the performance thresholds.
 
-    **開發的市場**
+    - **已開發市場**
     
-    - 合作夥伴必須至少已賺取 $300000 美元的營收 (TTM 期間的淨新增營收)。
-    - 達到 Dynamics 365 企業計劃 1 及其元件應用程式、Dynamics 365 企業計畫 2 的營收門檻。
+        - 合作夥伴必須至少已賺取 $300,000 美元的營收 (TTM 期間的淨新增營收)。
+
+    - **開發中市場**
+
+        - 合作夥伴必須至少已賺取 $150,000 美元的營收 (TTM 期間的淨新增營收)。
+  
+    - 達到 Dynamics 365 Enterprise 計畫 1 及其元件應用程式、Dynamics 365 Enterprise 計畫 2 的營收門檻。
     - 這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。
     - [深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。  
-  
+
 2. 您的組織必須有 **15** 個人員通過測驗要求條件。
 
     - **15** 個人員必須通過下列所有測驗：
@@ -65,18 +74,24 @@ ms.lasthandoff: 06/27/2017
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service
 
 ##<a name="enterprise-operations-option"></a>企業營運選項
-企業營運選項很適合拓展企業客戶業務 (尤其是在 Dynamics 365 Operations SKU 方面) 的合作夥伴。 完成其中所有步驟，即可取得雲端業務應用程式專長認證。
+The Enterprise Operations option is ideal for partners engaging with enterprise customers, especially on the Dynamics 365 Operations SKU. Complete all the steps within to attain the Cloud Business Applications competency.
 
-###<a name="silver"></a>銀級
-1. 您的組織必須達到績效門檻。
+###<a name="silver"></a>Silver
+1. Your organization must meet the performance thresholds.
 
-    **開發的市場**
+    - **Developed Markets**
     
-    - 合作夥伴必須已從 Dynamics 365 企業計畫 2、Operations SKU 和 AX 2012 內部部署賺取至少 $100,000 美元營收
-    - 合作夥伴必須已從 Dynamics 365 企業計畫 2 和 Operations SKU 賺取至少 $25,000 美元營收 (TTM 期間的新增營收)
-    - 這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。 
-    - [深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。  
+        - Partner must have earned at least US$100,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise
+        - Partner must have earned a minimum of US$25,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period
   
+    - **開發中市場**
+
+        - 合作夥伴必須已從 Dynamics 365 Enterprise 計畫 2、Operations SKU 和 AX 2012 內部部署賺取至少 $50,000 美元營收
+        - 合作夥伴必須已從 Dynamics 365 Enterprise 計畫 2 和 Operations SKU 賺取至少 $12,000 美元營收 (TTM 期間的新增營收) 
+
+    - 這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。
+    - [深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。  
+
 2. 您的組織必須有 **5** 個人員通過測驗要求條件。
  
     - **5** 個人員必須通過下列所有測驗：
@@ -85,17 +100,24 @@ ms.lasthandoff: 06/27/2017
         - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx)：Microsoft Dynamics AX 開發簡介
         - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 Microsoft SQL 資料庫基礎結構
 
-###<a name="gold"></a>金級
+###<a name="gold"></a>金會員
 
-1. 您的組織必須達到績效門檻。
+1. Your organization must meet the performance thresholds.
 
-    **開發的市場**
+    - **Developed Markets**
 
-    - 合作夥伴必須已從 Dynamics 365 企業計畫 2、Operations SKU 和 AX 2012 內部部署賺取至少 $300,000 美元營收
-    - 合作夥伴必須已從 Dynamics 365 企業計畫 2 和 Operations SKU 賺取至少 $75,000 美元營收 (TTM 期間的新增營收)
+        - Partner must have earned at least US$300,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise
+        - Partner must have earned a minimum of US$75,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period
+  
+    - **開發中市場**
+
+        - 合作夥伴必須已從 Dynamics 365 Enterprise 計畫 2、Operations SKU 和 AX 2012 內部部署賺取至少 $150,000 美元營收 
+        - 合作夥伴必須已從 Dynamics 365 Enterprise 計畫 2 和 Operations SKU 賺取至少 $37,000 美元營收 (TTM 期間的新增營收) 
+
     - 這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。
     - [深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。  
-  
+
+
 2. 您的組織必須有 **15** 個人員通過測驗要求條件。
 
     - **15** 個人員必須通過下列所有測驗：
