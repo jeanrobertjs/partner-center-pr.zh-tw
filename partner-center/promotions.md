@@ -1,53 +1,53 @@
 ---
-title: "雲端解決方案提供者銷售促銷 | 合作夥伴中心"
-description: "身為符合資格的間接提供者，您可以利用折扣訂閱方案，並將節省下來的錢還給客戶。"
+title: "使用促銷吸引新客戶 | 合作夥伴中心"
+description: "身為雲端解決方案提供者計畫的 Microsoft 合作夥伴，您可以用促銷定價購買訂閱，再將省下的金額回饋給您的客戶。"
 author: MaggiePucciEvans
-robots: noindex,nofollow
-ms.openlocfilehash: a78c93d9d6c25ea138bb9d18541c324fb44d22b6
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+ms.openlocfilehash: ee86b07deee9fa62ce40d9926b98d7c80f48c7a6
+ms.sourcegitcommit: d4a055eb0a910911f6cf1618cf6f20ff3405a41c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/24/2017
 ---
-# <a name="subscription-sales-promotions-for-indirect-providers-in-csp"></a>雲端解決方案提供者中的間接提供者訂閱銷售促銷
+# <a name="use-promotions-to-attract-new-customers"></a>使用促銷吸引新客戶  
 
-**適用於：合作夥伴中心**
+**Applies to: Partner Center**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
-Microsoft 偶爾會向符合資格的***間接提供者***提供授權型訂閱的折扣價格，讓您可以吸引新客戶並拓展雲端解決方案提供者業務。 
+Microsoft 有時會在授權型訂閱上提供促銷，可讓您將結餘部分退還給客戶，並拓展業務。 
 
-當您以折扣費率購買新的訂閱時，折扣會自動套用到您的淨價。 此外，您新增到折扣訂閱的任何授權也都是以折扣費率新增至其中。 
+Microsoft 提供兩種促銷優惠：適用於雲端解決方案提供者 (CSP) 計畫中所有符合資格的合作夥伴的促銷，以及僅適用於特定地理區域的合作夥伴的促銷。
 
->**注意**<br>
-Microsoft 提供兩種促銷：適用於所有符合資格的間接提供者的促銷，以及僅適用於特定地理區域間接提供者的促銷。
+當您以促銷價格購買新訂閱時，促銷定價會自動套用到您的淨價。 此外，任何新增至您用促銷定價所購買之訂閱的授權也都是以促銷價格來加入其中。 
 
-請花一些時間檢閱這些關於促銷的重要事項：
+請花一些時間檢閱下列有關促銷的重要事項：
 
--   訂閱的折扣價格只適用於訂閱期間。 當折扣訂閱過期時，續約的訂閱價格會還原成價目表示中的價格。 這表示任何設定為自動續約的訂閱將會以當時價格來續約。 您可以在 **\[定價與方案\]** 頁面上尋找價目表。 
+-   訂閱的促銷價格只適用於訂閱期間。 當您用促銷價格所購買的訂閱到期時，續約的訂閱價格會回復到價目表中的價格。 這表示任何設定為自動續約的訂閱將會以當時價格來續約。 您可以在 **\[定價與方案\]** 頁面上找到價目表。 
 
--   如果訂閱符合多個折扣資格，將會自動套用較大的折扣。
+-   如果訂閱符合多個促銷的資格，將會自動套用折價百分比最高的促銷。
 
--   取消訂閱會遵循的處理流程及原則與系統標準定價的訂閱相同
+-   促銷價訂閱的取消作業依循的流程及原則與一般定價訂閱相同。
 
-## <a name="see-available-promotions"></a>查看可用的促銷
+## <a name="see-available-promotions"></a>查看可用的促銷活動
 
-您可以**\[促銷\]** 頁面上查看您有資格取得的促銷 (如果有的話)。 從 **\[儀表板\]** 功能表選取 **\[促銷\]**，即可查看目前的促銷清單，以及折扣、促銷類型和適用於訂閱的開始與結束日期。 
+您可以在 **\[促銷\]** 頁面查看您有資格享用的促銷 (如果有的話)。 選取 **\[儀表板\]** 功能表中的 **\[促銷\]**，以查看現行促銷的清單，另外了解一下折扣、促銷類型以及訂閱開始和結束日期。 如果沒有可用的促銷，您會看到指出這點的訊息。 
 
->**注意**<br>
-您也可以在進行購買時查看促銷。 當您選取訂閱時，折扣百分比會顯示在 **\[檢閱\]** 頁面。
+>**Note**<br>
+You can also see promotions when making a purchase. 當您選取訂閱時，促銷定價會顯示在 **\[檢閱\]** 頁面上。
 
-## <a name="purchase-subscriptions-at-discounted-prices"></a>以折扣價格購買訂閱
+## <a name="purchase-subscriptions-at-promotion-prices"></a>以促銷價格購買訂閱
 
-1. 在 **\[儀表板\]** 功能表上，選取 **\[客戶\]**，然後選取購買訂閱的客戶。 
+1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
 
-2. 選取 **\[新增訂閱\]**。
+2. Select **Add subscription**.
 
-3. 在 **\[新增訂閱\]** 頁面上，選取有折扣的訂閱。
+3. 在 **\[新訂閱\]** 頁面上，選取可適用銷售的訂閱。
 
-4. 輸入客戶需要的授權數量。 
+4. Enter the number of licenses the customer needs. 
 
-5. 檢閱訂單，然後選取 **\[提交\]** 以購買有折扣的新訂閱。 客戶將會在他們下一期的帳單上看到折扣價格。  
+5. 檢閱訂單 您會看到將在 **\[折扣\]** 欄套用的促銷定價。  
+
+6.  選取 **\[提交\]** 即可購買。 您的客戶將會在下一期帳單看到促銷價格。  
 
 
 

@@ -1,30 +1,35 @@
 ---
-title: "移除與經銷商或客戶的關係 | 合作夥伴中心"
-description: "移除關係會從合作夥伴中心的檢視中移除任何已關閉的企業關係。"
+title: "移除與客戶的經銷商關係 | 合作夥伴中心"
+description: Removing a relationship removes any closed business relationships from your view in Partner Center.
 author: KPacquer
-robots: noindex,nofollow
-ms.openlocfilehash: 979491e1c2cf90d2e7ca5c02d2bc497675c53dba
-ms.sourcegitcommit: 50faeddcd65ae8aa7f9212bbf134b9fbece41c8c
+ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
+ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/19/2017
 ---
-# <a name="remove-a-relationship-with-a-reseller-or-a-customer"></a>移除與經銷商或客戶的關係
+# <a name="remove-a-reseller-relationship-with-a-customer"></a>移除與客戶的經銷商關係
 
-**適用對象：**
+**Applies to**
 
--   合作夥伴中心
+-   Partner Center
 
-直接合作夥伴：您可以從合作夥伴中心的檢視移除任何已關閉的企業關係。
+直接合作夥伴：如果您不再與某個客戶交易，您可以在合作夥伴中心移除關係。 
 
-## <a name="remove-a-relationship-in-partner-center"></a>移除合作夥伴中心內的關係
+這項功能：
+*  從您在合作夥伴中心的客戶清單中移除客戶
+*  從客戶的[可用支援連絡人清單](assign-support-contacts.md)移除您本身
+*  移除您對客戶的委派系統管理員權限
+*  移除您代表客戶進行購買的功能
 
-1.  暫停任何使用中訂閱。 在儀表板中，移至 **\[客戶\]** > 選取客戶 > **\[訂閱\]** > 選取訂閱 > ***\[已暫停\]**。 
+若要移除關係，您必須先暫停任何剩餘的使用中訂閱：
 
-   針對每個使用中訂閱重複此步驟。
+1.  暫停任何使用中訂閱。 From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**. 
 
-2.  移除合作夥伴中心內的關係：從儀表板中，移至 **\[客戶\]** > 選取客戶 > **\[帳戶\]** > **\[移除經銷商關係\]**。
+   Repeat this for each active subscription.
 
-    注意，如果有任何訂閱仍然在使用中，**\[移除經銷商關係\]** 連結將會是非使用中狀態。 
+2.  Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.
 
-若要重新建立關係，請重複[要求建立關係](request-a-relationship-with-a-customer.md)的程序。
+    Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive. 
+
+To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).

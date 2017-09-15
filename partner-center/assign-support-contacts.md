@@ -1,39 +1,43 @@
 ---
-title: "指派支援連絡人 | 合作夥伴中心"
-description: "身為經銷商合作夥伴，您可以指派經銷商做為支援連絡人。"
+title: Assign support contacts | Partner Center
+description: As a reseller partner, you can designate a reseller as a support contact.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
-ms.openlocfilehash: 18e030c7a8aafa2bbcd9537de71fdf8f37128690
-ms.sourcegitcommit: 50faeddcd65ae8aa7f9212bbf134b9fbece41c8c
+ms.openlocfilehash: 9fedebc3c7b2deb6b6e3911905d3ca92bd15ee43
+ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/19/2017
 ---
-# <a name="assign-support-contacts"></a>指派支援連絡人
+# <a name="assign-support-contacts"></a>Assign support contacts
 
-**適用於**
+**Applies to**
 
--  合作夥伴中心
+-  Partner Center
 
-當您為客戶設定 Microsoft 服務訂閱時，您可以將這些產品的技術支援指派到指定的產品經銷商，而不是自行提供支援。
+When you set up subscriptions for Microsoft services for your customers, you may want to assign the technical support for these products to a designated product reseller, rather than providing the support yourself.
 
-設定支援連絡人之後，客戶會在產品支援頁面上看到受指派的支援連絡人資訊。 例如，Office 客戶需要支援時，他們可以移至 Office.com 網頁，使用其系統管理員認證登入，選取 **\[系統管理\]** 磚，並在 **\[支援\]** 區段中，查看受指派的支援連絡人資訊。
+After you set up support contacts, customers see your assigned support contact's information on the product support pages. For example, when Office customers need support, they can go into the Office.com page, log in with their admin credentials, select the **Admin** tile, and under the **Support** section, see the assigned support contact information.
 
-這可用於[多合作夥伴](multipartner.md)和[多通路](multichannel.md)案例。 
+This can be used for [multi-partner](multipartner.md) and [multi-channel](multichannel.md) scenarios. 
 
 <a href="" id="assigncontacts"></a>
-## <a name="assign-contacts"></a>指派連絡人
+## <a name="assign-contacts"></a>Assign contacts
 
-1.  從與您指派的產品經銷商[要求建立關係](request-a-relationship-with-a-customer.md)開始。 與他們協議出處理技術支援的支援合約。
+1.  Start by [requesting a relationship](request-a-relationship-with-a-customer.md) with your designated product reseller. Negotiate a support agreement with them for handling technical support.
 
-2.  在合作夥伴中心儀表板中，選取 **\[客戶\]**、選取客戶，然後選取訂閱，例如 Office 365 商務進階版。
+2.  From the Partner Center Dashboard, select **Customers**, then select a customer, then select a subscription, for example, Office 365 Business Premium.
 
-3.  在 **\[指派的支援連絡人\]**，選取指派的產品經銷商，然後按一下 **\[提交\]**。 
+3.  In  **Designated support contact**, select the designated product reseller, and then click **Submit**. 
 
-    注意： 
+    Notes: 
     
-    *  對於新的訂閱，指派的支援連絡人預設為間接提供者。 您也可以將它變更為具有委派系統管理員權限 (DAP) 的間接經銷商。
+    *  For new subscriptions, the designated support contact defaults to the indirect provider. 您可以將此預設值變更為擁有委派管理員權限的間接經銷商。
     
-    *  如果您的經銷商名稱未出現在支援連絡人清單中，透過[要求建立關係](request-a-relationship-with-a-customer.md)新增他們。 建立關係之後，他們應該會出現在清單中。  
+    *  If your reseller's name doesn't appear in the list of available support contacts, add them in by [requesting a relationship](request-a-relationship-with-a-customer.md). After the relationship is established, they should appear in the list.  
 
-4.  檢閱變更正確無誤，然後選取 **\[關閉\]**。
+4.  Review that the changes are correct, and then select **Close**.
+
+## <a name="related-topics"></a>相關主題
+
+[移除與客戶的關係](remove-a-relationship.md)

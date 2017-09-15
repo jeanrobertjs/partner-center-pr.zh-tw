@@ -1,82 +1,82 @@
 ---
-title: "註冊雲端解決方案提供者計畫 | 合作夥伴中心"
-description: "在您註冊雲端解決方案提供者計畫之前，請先深入了解雲端解決方案提供者計畫需求。"
+title: Enroll in the CSP program | Partner Center
+description: Before you enroll in the Cloud Solution Provider program, learn more about the CSP program requirements.
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-ms.openlocfilehash: f5e4f345ed3bdf33022e135f17f2f9e908b67457
-ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.openlocfilehash: 36adc9c4b35f5d64dbb3e5f84a03e9348a773384
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2017
+ms.lasthandoff: 09/01/2017
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program
 
-**適用於**
+**Applies to**
 
--  合作夥伴中心
+-  Partner Center
 
->**注意**<br>
-若要瞭解如何註冊 Microsoft Cloud 德國雲端解決方案提供者計畫，請參閱[註冊 Microsoft Cloud 德國雲端解決方案提供者計畫](enroll-in-csp-for-microsoft-cloud-germany.md)和 [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)。
+>**Note**<br>
+For information about enrolling in the Cloud Solution Provider program for Microsoft Cloud Germany, see [Enroll in the Cloud Solution Provider program for Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) and [Partner Center for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
 
-在您註冊雲端解決方案提供者計畫之前，請先深入了解[雲端解決方案提供者計畫需求]( http://go.microsoft.com/fwlink/p/?LinkId=617116)。 若要進一步了解合作夥伴合約和其他計畫需求，請參閱[雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)。 
+Before you enroll in the Cloud Solution Provider (CSP) program, learn more about the [CSP program requirements]( http://go.microsoft.com/fwlink/p/?LinkId=617116). For more information about the partner agreement and other program requirements, see [CSP agreements, price lists, and offers](csp-documents-and-learning-resources.md). 
 
->**重要**<br>
-CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 這項限制僅適用於進行 CSP 交易的租用戶。 為了公司用途使用非 CSP 租用戶的 CSP 合作夥伴，可以從其他 CSP 購買線上服務。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴中心。  
+>**Important**<br>
+A CSP partner cannot resell online services to another CSP partner currently. This restriction only applies to the tenant used for conducting CSP transactions. CSP partners that use a non-CSP tenant for their corporate usage can purchase online services from another CSP. Microsoft continuously reviews policies and capabilities of all programs. Any announcements about feature releases will be announced through the usual communication channels, including Partner Center.  
 
-了解如何符合 CSP 計畫獎勵資格、上線到獎勵平台，以及獲得獎勵資金。 請參閱[計畫詳細資料](https://go.microsoft.com/fwlink/?linkid=831533)。
+Learn how to qualify for CSP program incentives, onboard to the incentives platform, and earn incentives funds. See [Program Details](https://go.microsoft.com/fwlink/?linkid=831533).
 
-## <a href="" id="markets"></a>可用性
+## <a href="" id="markets"></a>Availability
 
 
-雲端解決方案提供者計畫可供於下列國家/地區擁有辦公室的公司使用。 這些項目是依市場分組。 雲端解決方案提供者計畫中的合作夥伴可以銷售至其他位於相同市場的國家/地區，即使他們在那些位置並沒有辦公室。
+The Cloud Solution Provider program is available to companies with offices in the following countries/regions. These are grouped by market. Partners in the CSP program can sell to other countries within the same market even if they don't have an office in those locations.
 
-| 依市場的可用性                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Availability by market                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 巴西                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 加拿大                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 印度                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 日本                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 韓國                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 紐西蘭                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 俄羅斯                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 台灣                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 美國                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 澳大利亞、斐濟                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 安圭拉、安地卡及巴布達、阿根廷、阿路巴、巴哈馬、巴貝多、貝里斯、百慕達、玻利維亞、波奈、開曼群島、智利、哥倫比亞、哥斯大黎加、古拉索、多明尼加共和國、厄瓜多、薩爾瓦多、法屬圭亞那、哥德普洛、瓜地馬拉、宏都拉斯、牙買加、馬丁尼克、墨西哥、尼加拉瓜、巴拿馬、巴拉圭、秘魯、波多黎各、聖克里斯多福及尼維斯、聖露西亞、法屬聖馬丁、聖文森及格瑞那丁、荷屬聖馬丁、蘇利南、千里達及托巴哥、土克斯及開科斯群島、烏拉圭、委內瑞拉、美屬維爾京群島                                                                                                           |
-| 安道爾、奧地利、比利時、保加利亞、克羅埃西亞、賽普勒斯、捷克共和國、丹麥、愛沙尼亞、芬蘭、法國、德國、希臘、格陵蘭、匈牙利、冰島、愛爾蘭、曼城島、義大利、澤西島、拉脫維亞、列支敦斯登、立陶宛、盧森堡、馬達加斯加、馬拉威、馬利、馬爾他、馬約特島、摩納哥、荷蘭、新喀里多尼亞群島、挪威、波蘭、葡萄牙、羅馬尼亞、聖馬利諾、斯洛伐克、斯洛維尼亞、西班牙、瑞典、瑞士、英國、梵蒂岡、法羅群島                                                                                          |
-| 阿富汗、阿爾巴尼亞、阿爾及利亞、亞美尼亞、亞塞拜然、巴林、白俄羅斯、貝南、波士尼亞與赫塞哥維納、蒲隆地、葛摩、埃及、法屬玻里尼西亞、喬治亞、伊拉克、以色列、約旦、哈薩克、科威特、吉爾吉斯、黎巴嫩、利比亞、前南斯拉夫馬其頓共和國、摩爾多瓦、蒙古、蒙特內哥羅、摩洛哥、莫三比克、阿曼、巴基斯坦、巴勒斯坦民族權力機構、卡達、留尼旺、塞爾維亞、塞席爾、塔吉克、多哥、突尼西亞、土庫曼、烏克蘭、阿拉伯聯合大公國、烏茲別克、沙烏地阿拉伯、南非、土耳其、葉門、辛巴威 |
-| 安哥拉、波札那、喀麥隆、維德角、科特迪瓦、衣索比亞、迦納、肯亞、模里西斯、納米比亞、奈及利亞、盧安達、塞內加爾、坦尚尼亞、烏干達、尚比亞                                                                                                                                                                                                                                                                                  |
-| 孟加拉、不丹、汶萊達魯薩蘭、柬埔寨、香港特別行政區、印尼、寮國、馬來西亞、馬爾地夫、馬紹爾群島、緬甸、尼泊爾、巴布亞紐幾內亞、菲律賓、新加坡、斯里蘭卡、泰國、東加、越南、澳門特別行政區                                                                                                                                                                                                                                                                                           |
-## <a name="billing-currencies-by-country"></a>依國家/地區的帳單貨幣
+| Brazil                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Canada                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| India                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Japan                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Korea                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| New Zealand                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Russia                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Taiwan                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| United States                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Australia, Fiji                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Cayman Islands, Chile, Colombia, Costa Rica, Curacao, Dominican Republic, Ecuador, El Salvador, French Guiana, Guadeloupe, Guatemala, Honduras, Jamaica, Martinique, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Sint Maarten, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, U.S. Virgin Islands                                                                                                           |
+| 安道爾、奧地利、比利時、保加利亞、克羅埃西亞、賽普勒斯、捷克共和國、丹麥、愛沙尼亞、芬蘭、法國、德國、希臘、匈牙利、格陵蘭、冰島、愛爾蘭、曼城島、義大利、澤西島、拉脫維亞、列支敦斯登、立陶宛、盧森堡、馬爾他、摩納哥、荷蘭、挪威、波蘭、葡萄牙、羅馬尼亞、聖馬利諾、斯洛伐克、斯洛維尼亞、西班牙、瑞典、瑞士、英國、梵蒂岡、法羅群島                                                                                          |
+| 阿富汗、阿爾巴尼亞、阿爾及利亞、亞美尼亞、亞塞拜然、巴林、白俄羅斯、貝南、波士尼亞與赫塞哥維納、蒲隆地、葛摩、埃及、法屬玻里尼西亞、喬治亞、伊拉克、以色列、約旦、哈薩克、科威特、吉爾吉斯、黎巴嫩、利比亞阿拉伯群眾國、前南斯拉夫馬其頓共和國、馬達加斯加、馬拉威、馬利、馬約特島、摩爾多瓦、蒙古、蒙特內哥羅、摩洛哥、莫三比克、新喀里多尼亞群島、阿曼、巴基斯坦、巴勒斯坦民族權力機構、卡達、留尼旺、塞爾維亞、塞席爾、塔吉克、多哥、突尼西亞、土庫曼、烏克蘭、阿拉伯聯合大公國、烏茲別克、沙烏地阿拉伯、南非、土耳其、葉門、辛巴威 |
+| Angola, Botswana, Cameroon, Cabo Verde, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Rwanda, Senegal, Tanzania, Uganda, Zambia                                                                                                                                                                                                                                                                                  |
+| Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Malaysia, Maldives, Marshall Islands, Myanmar, Nepal, Papua New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Tonga, Vietnam, Macao SAR                                                                                                                                                                                                                                                                                           |
+## <a name="billing-currencies-by-country"></a>Billing currencies by country
 
-您的地理位置決定您的帳單貨幣，如下表所示。 
+Your geographic location determines the currency in which you are billed, as shown in the following table. 
 
-| 貨幣 | 國家/地區 |
+| Currency | Country |
 | ---- | ---- |
-| 美元 | 阿爾巴尼亞、安圭拉、安地卡及巴布達、阿根廷、亞美尼亞、阿路巴、亞塞拜然、莫三比克、巴林、孟加拉、巴貝多、白俄羅斯、貝里斯、貝南、百慕達、玻利維亞、波奈、巴西、汶萊、蒲隆地、喀麥隆、開曼群島、智利、哥倫比亞、葛摩、哥斯大黎加、古拉索、多明尼加共和國、厄瓜多、埃及、薩爾瓦多、斐濟、法屬圭亞那、法屬玻里尼西亞、喬治亞、迦納、瓜地馬拉、宏都拉斯、香港特別行政區、印尼、伊拉克、以色列、牙買加、哈薩克、肯亞、科威特、吉爾吉斯、黎巴嫩、澳門特別行政區、馬達加斯加、馬拉威、馬來西亞、馬利、模里西斯、馬約特島、墨西哥、摩洛哥、納米比亞、新喀里多尼亞群島、尼加拉瓜、奈及利亞、阿曼、巴基斯坦、巴拿馬、巴拉圭、秘魯、菲律賓、波多黎各、卡達、留尼旺、盧安達、聖露西亞、法屬聖馬丁、聖文森及格瑞那丁、沙烏地阿拉伯、塞爾維亞、塞席爾、新加坡、荷屬聖馬丁、南非、斯里蘭卡、蘇利南、坦尚尼亞、泰國、東帝汶、多哥、千里達及托巴哥、突尼西亞、土耳其、土克斯及開科斯群島、美屬維爾京群島、烏克蘭、阿拉伯聯合大公國、美國、烏拉圭、委內瑞拉、越南  | 
-| 新臺幣 | 台灣 |
-| 瑞典克朗 | 瑞典 |
-| 印度幣 | 印度 |
-| 俄羅斯盧布 | 俄羅斯 |
-| 紐西蘭元 | 紐西蘭 |
-| 挪威克朗 | 挪威 |
-| 韓元 | 韓國 |
-| 日圓 | 日本 |
-| 英鎊 | 曼城島、澤西島、英國 |
-| 歐元 | 安道爾、奧地利、比利時、克羅埃西亞、捷克共和國、愛沙尼亞、法羅群島、芬蘭、法國、德國、希臘、匈牙利、冰島、愛爾蘭、義大利、拉脫維亞、列支敦斯登、立陶宛、盧森堡/比利時、荷蘭、波蘭、葡萄牙、羅馬尼亞、聖馬利諾、斯洛伐克、斯洛維尼亞、西班牙 |
-| 丹麥克朗 | 丹麥 |
-| 瑞士法郎 | 瑞士 |
-| 加拿大元 | 加拿大 |
-| 澳元 | 澳洲、馬紹爾群島、巴布亞紐幾內亞、東加 |
+| USD | Albania, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolivia, Bonaire, Brazil, Brunei, Burundi, Cameroon, Cayman Islands, Chile, Colombia, Comoros, Costa Rica, Curaçao, Dominican Republic, Ecuador, Egypt, El Salvador, Fiji, French Guiana, French Polynesia, Georgia, Ghana, Guatemala, Honduras, Hong Kong SAR, Indonesia, Iraq, Israel, Jamaica, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Lebanon, Macao SAR, Madagascar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Mexico, Morocco, Namibia, New Caledonia, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Puerto Rico, Qatar, Reunion, Rwanda, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Saudi Arabia, Serbia, Seychelles, Singapore, Sint Maarten, South Africa, Sri Lanka, Suriname, Tanzania, Thailand, Timor-Leste, Togo, Trinidad and Tobago, Tunisia, Turkey, Turks and Caicos Islands, U.S. Virgin Islands, Ukraine, United Arab Emirates, United States, Uruguay, Venezuela, Vietnam  | 
+| TWD | Taiwan |
+| SEK | Sweden |
+| INR | India |
+| RUB | Russia |
+| NZD | New Zealand |
+| NOK | Norway |
+| KRW | Korea |
+| JPY | Japan |
+| GBP | Isle of Man, Jersey, United Kingdom |
+| EUR | Andorra, Austria, Belgium, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain |
+| DKK | Denmark |
+| CHF | Switzerland |
+| CAD | Canada |
+| AUD | Australia, Marshall Islands, Papua New Guinea, Tonga |
 
  
 
-## <a name="partner-center-account"></a>合作夥伴中心帳戶
+## <a name="partner-center-account"></a>Partner Center account
 
 
-合作夥伴中心要求您公司的系統管理員具備已通過 Azure AD 驗證的電子郵件地址。 系統管理員可以使用任何來自 Microsoft 雲端服務 (包含 Office 365、Azure AD、Microsoft Intune、Enterprise Mobility Services 等等) 的現有工作電子郵件帳戶。成為經銷商的程序會將這個電子郵件地址變成經銷商帳戶的系統管理員電子郵件。
+Partner Center requires that the admin for your company has an email address that is authenticated by Azure AD. The admin can use any of their existing work email accounts from a Microsoft cloud service, including Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services, etc. The process of becoming a reseller will turn this email address into the admin email for a reseller account.
 
-請注意，您通過 Azure AD 驗證的現有電子郵件地址已經在某個市場中註冊。 如果您想要在不同市場或多個市場中銷售，您必須在每個市場建立個別的電子郵件地址並註冊，然後使用這些電子郵件地址來註冊。
+Note that your existing Azure AD-authenticated email address is already registered in a certain market. If you want to sell in a different market, or in multiple markets, you must create a separate email address registered in each market, and use those email addresses to enroll.
 
  
 

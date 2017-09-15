@@ -1,56 +1,56 @@
 ---
-title: "建立使用者帳戶與設定權限 | 合作夥伴中心"
-description: "系統管理員能為每個需要存取合作夥伴中心的合作夥伴員工建立使用者帳戶。"
+title: Create user accounts and set permissions | Partner Center
+description: The admin creates a user account for each partner employee who needs access to Partner Center.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: bc699214c7919c7cff9788144d472063ba60ad10
-ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
+ms.openlocfilehash: 6a54dd2a221f38edb2439596ba2637907dad73de
+ms.sourcegitcommit: f62ea44fb20c2ada21154e254984413ee2a685f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 08/18/2017
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>建立使用者帳戶與指派權限
+# <a name="create-user-accounts-and-assign-permissions"></a>Create user accounts and assign permissions
 
-**適用於**
+**Applies to**
 
--  合作夥伴中心
+-  Partner Center
 
-為需要合作夥伴中心存取的員工建立帳戶。 這些工作必須由具有「使用者管理系統管理員」權限的系統管理員完成。 
+Create user accounts for employees who need access to Partner Center. These tasks must be done by an admin with user management admin permissions. 
 
-## <a name="add-a-new-user"></a>新增使用者
+## <a name="add-a-new-user"></a>Add a new user
 
-1. 在 **\[儀表板\]** 功能表中，選取 **\[帳戶設定\] > \[使用者管理\]**。
+1. On the **Dashboard** menu, select **Account settings > User management**.
 
-2.  選取 **\[新增使用者\]**。
+2.  Select **Add user**.
 
-3.  輸入使用者的全名和唯一電子郵件地址。
+3.  Enter the user’s full name and unique email address.
 
-4.  選取代理人類型及系統管理員類型。 合作夥伴中心存取權是以角色為基礎，讓您可以指派權限，自訂使用者檢視，只顯示使用者完成特定工作所需的功能。 如需各角色可以採取什麼動作的詳細資訊，請參閱[指派使用者權限](#assignuserpermissions)。
+4.  Select the type of agent and the type of admin. Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. For more information about what each role can do, see [Assign user permissions](#assignuserpermissions).
 
-5.  選取 **\[新增\]** 建立使用者帳戶。 在下一頁，確認使用者的詳細資料。
+5.  Select **Add** to create the user account. Confirm the user's details on the next page.
 
->**重要**<br>
-記下此頁面上顯示的新使用者登入資訊。 請務必將這項資訊複製及傳送給新的使用者，因為稍後您將無法再次存取。 <br>
+>**Important**<br>
+Make a note of the new user's sign-in information displayed on this page. Be sure to copy and send this information to the new user as you will not be able to access it again later. <br>
 
->使用者必須使用其使用者名稱和暫時密碼登入合作夥伴中心。 當使用者第一次登入合作夥伴中心時，系統會提示他們變更密碼。    
+>The user will need to sign in to Partner Center with their user name and temporary password. When the user signs in to Partner Center for the first time, they are prompted to change their password.    
 
 
-### <a href="" id="assignuserpermissions"></a>指派使用者權限
+### <a href="" id="assignuserpermissions"></a>Assign user permissions
 
-合作夥伴中心存取權是以角色為基礎，讓您可以指派權限，自訂使用者檢視，只顯示使用者完成特定工作所需的功能。 
+Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. 
 
-對於每個使用者，您都必須選取兩個權限等級：
+For each user, you must select two permission levels:
 
--   代理人權限控制使用者可以查看並變更的客戶資料和帳戶資訊類型。
+-   Agent permissions control what kind of customer data and account information the user can see and change.
 
--   系統管理員權限控制使用者必須擁有的合作夥伴中心功能存取層級。 此設定會影響合作夥伴中心外部的項目 -- 帳單系統管理員可以存取所有 Microsoft 服務 (甚至與 CSP 無關之服務) 的帳單，而全域系統管理員可以存 CSP 範圍以外的使用者帳戶與客戶帳戶。
+-   Admin permissions control the level of access the user has to Partner Center features. This setting has impact outside of Partner Center -- a billing admin can access bills for all Microsoft services (even those unrelated to CSP), and a global admin can access user accounts and customer accounts beyond CSP as well.
 
-##<a name="assign-permissions-for-incentives-users"></a>指派獎勵使用者權限
-設定您的獎勵使用者時，您可以授與他們獎勵系統管理員角色或獎勵使用者角色。  獎勵系統管理員可以編輯銀行和稅務資訊、向 Microsoft 請求付款，以及管理獎勵使用者。 獎勵使用者可以檢閱計畫、銀行和稅務資訊，但無法編輯。 他們通常會提供實際的獎勵計畫給客戶。 獎勵系統管理員及使用者在您組織的合作夥伴中心可能會有其他角色，但是要在獎勵計畫中作業，使用者就必須是獎勵系統管理員或使用者。
+## <a name="assign-permissions-for-incentives-users"></a>Assign permissions for Incentives users
+When you set up your incentives users, you can give them either the incentive admin role or incentive user role.  獎勵系統管理員可以參加和遷移獎勵註冊、編輯銀行與稅務設定檔，以及檢視所有報告。 獎勵使用者可以檢閱計畫註冊並檢視報告。 Incentives admins and users can have other roles in Partner Center for your organization but to work on Incentives programs a user must be either incentives admin or user.
 
->**重要事項**：預設設定應一律是 **\[No admin\]** (無系統管理員權限)，除非使用者的職務需要其他存取權以完成工作並支援客戶。
+>**Important** The default setting should always be **No admin**, unless the user's role requires additional access to complete tasks and support customers.
 
-下表解釋在合作夥伴中心各角色可以採取什麼動作。
+The following table explains what each role can do in Partner Center.
 
 <table>
 <colgroup>
@@ -60,114 +60,117 @@ ms.lasthandoff: 06/26/2017
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>合作夥伴中心內的角色</strong></p></td>
-<td><p><strong>可執行</strong></p></td>
-<td><p><strong>不可執行</strong></p></td>
+<td><p><strong>Role in Partner Center</strong></p></td>
+<td><p><strong>What they can do</strong></p></td>
+<td><p><strong>What they can't do</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>系統管理代理人</strong></p></td>
+<td><p><strong>Admin agent</strong></p></td>
 <td><ul>
-<li><p>客戶管理</p></li>
-<li><p>將裝置清單新增至合作夥伴中心</p></li>
-<p><li>建立設定檔並將其套用至裝置</p></li>
-<li><p>訂用帳戶管理</p></li>
-<li><p>客戶的服務健康狀況和服務要求</p></li>
-<li><p>要求委派的系統管理員權限</p></li>
-<li><p>檢視價格和優惠</p></li>
-<li><p>帳單</p></li>
-<li><p>代表客戶管理</p></li>
-<li><p>註冊加值型經銷商</p></li>
+<li><p>Customer management</p></li>
+<li><p>Add device list to Partner Center</p></li>
+<p><li>Create and apply profiles to devices</p></li>
+<li><p>Subscription management</p></li>
+<li><p>Service health and service requests for customers</p></li>
+<li><p>Request delegated administrator privileges</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>Administer on behalf of a customer</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 <td><ul>
-<li><p>使用者管理</p></li>
-<li><p>合作夥伴中心服務要求</p></li>
+<li><p>User management</p></li>
+<li><p>Service requests for Partner Center</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>銷售代理人</strong></p></td>
+<td><p><strong>Sales agent</strong></p></td>
 <td><ul>
-<li><p>客戶管理</p></li>
-<li><p>將裝置清單新增至合作夥伴中心</p></li>
-<li><p>訂用帳戶管理</p></li>
-<li><p>檢視支援票證</p></li>
-<li><p>要求與客戶建立關係</p></li>
-<li><p>管理潛在客戶</p></li>
-<li><p>檢視客戶合約</p></li>
-<li><p>註冊加值型經銷商</p></li>
+<li><p>Customer management</p></li>
+<li><p>Add device list to Partner Center</p></li>
+<li><p>Subscription management</p></li>
+<li><p>View support tickets</p></li>
+<li><p>Request a relationship with a customer</p></li>
+<li><p>Manage customer leads</p></li>
+<li><p>View the customer agreement</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 <td><ul>
-<li><p>針對合作夥伴中心問題，建立服務要求</p></li>
-<li><p>解決支援票證問題</p></li>
-<li><p>檢視服務健康狀況</p></li>
-<li><p>檢視價格和優惠</p></li>
-<li><p>帳單</p></li>
-<li><p>代表客戶管理</p></li>
+<li><p>Create service requests for problems with Partner Center</p></li>
+<li><p>Resolve support tickets</p></li>
+<li><p>View service health</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>Administer on behalf of a customer</p></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>技術服務代理人</strong></p></td>
+<td><p><strong>Helpdesk agent</strong></p></td>
 <td><ul>
-<li><p>搜尋並檢視客戶</p></li>
+<li><p>Search for and view a customer</p></li>
 <li><p>編輯客戶詳細資料</p></li>
-<li><p>服務健康狀況</p></li>
+<li><p>協助解決客戶的帳單及訂閱管理問題</p></li>
 <li><p>代表客戶要求支援 (注意：您必須是系統管理代理人，才能完成 Office 365 訂閱的這項工作)</p></li>
-<li><p>代表客戶管理訂閱及服務 (注意：您必須是系統管理代理人，才能完成 Office 365 訂閱的這項工作)</p></li>
+<li><p>代表客戶管理訂閱及帳單問題 (注意：您必須是系統管理代理人，才能完成 Office 365 訂閱的這項工作)</p></li>
 </ul></td>
 <td><ul>
 <li><p>檢視合作夥伴設定檔</p></li>
-<li><p>建立新客戶帳戶</p></li>
+<li><p>Create a new customer account</p></li>
 <li><p>編輯客戶帳單資訊</p></li>
-<li><p>管理訂閱</p></li>
-<li><p>要求與客戶建立關係</p></li>
-<li><p>管理潛在客戶</p></li>
-<li><p>檢視價格和優惠</p></li>
-<li><p>檢視客戶合約</p></li>
-<li><p>帳單</p></li>
-<li><p>註冊加值型經銷商</p></li>
+<li><p>要求 Azure 技術支援。</p></li>
+<li><p>Manage subscriptions</p></li>
+<li><p>Request a relationship with a customer</p></li>
+<li><p>Manage customer leads</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>View the customer agreement</p></li>
+<li><p>Billing</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>全域系統管理員</strong></p></td>
+<td><p><strong>Global admin</strong></p></td>
 <td><ul>
-<li><p>具有能存取所有 Microsoft 帳戶/服務的完整權限</p></li>
-<li><p>建立合作夥伴中心的支援票證</p></li>
-<li><p>檢視合約、價格清單和優惠</p></li>
-<li><p>帳單</p></li>
-<li><p>檢視、建立和管理合作夥伴使用者</p></li>
+<li><p>Can access all Microsoft account/services with full privileges</p></li>
+<li><p>Create support tickets for Partner Center</p></li>
+<li><p>View agreements, price lists, and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>View, create, and manage partner users</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>帳單管理</strong></p></td>
+<td><p><strong>Billing admin</strong></p></td>
 <td><ul>
-<li><p>具有能存取所有 Microsoft 帳單的完整權限</p></li>
-<li><p>檢視合約、價格清單和優惠</p></li>
-<li><p>帳單</p></li>
+<li><p>Can access all bills from Microsoft with full privileges</p></li>
+<li><p>View agreements, price lists, and offers</p></li>
+<li><p>Billing</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>使用者管理系統管理員</strong></p></td>
+<td><p><strong>User management admin</strong></p></td>
 <td><ul>
-<li><p>檢視、建立和管理使用者</p></li>
-<li><p>檢視所有合作夥伴設定檔</p></li>
+<li><p>View, create, and manage users</p></li>
+<li><p>View all partner profiles</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>獎勵系統管理員</strong></p></td>
 <td><ul>
-<li><p>檢視和管理所有獎勵計畫</p></li>
+<li><p>參加獎勵計畫</p></li>
+<li><p>將獎勵註冊遷移至合作夥伴中心</p></li>
+<li><p>檢視和管理所有註冊</p></li>
 <li><p>編輯獎勵計畫的銀行及稅務設定檔</p></li>
-<LI><p>管理獎勵使用者</p></li>
+<li><p>檢視所有獎勵報告</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>獎勵使用者</strong></p></td>
 <td><ul>
-<li><p>檢視獎勵計畫</p></li>
-<li><p>檢視銀行及稅務設定檔</p></li>
+<li><p>檢視註冊</p></li>
+<li><p>檢視報告</p></li>
 </ul></td>
 <td></td>
 </tr>
