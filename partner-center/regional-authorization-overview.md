@@ -1,76 +1,32 @@
 ---
-title: "雲端解決方案提供者地區授權 | 合作夥伴中心"
-description: "透過地區授權，擁有國際企業的合作夥伴現在可以更輕鬆地管理全球不同地區及國家中的客戶。"
+title: CSP regional authorization | Partner Center
+description: With regional authorization, partners with international businesses can now more easily manage customers in different regions and countries around the world.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-ms.openlocfilehash: 71beef8899e292bec99fc803ad8aa2cd0ac4b4dc
-ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+ms.openlocfilehash: b1875f5a814a2432a757dc5619b408041659eb26
+ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2017
+ms.lasthandoff: 09/19/2017
 ---
-# <a name="csp-regional-authorization"></a>雲端解決方案提供者地區授權
+# <a name="csp-regional-authorization"></a>CSP regional authorization
 
 
-\[正式發行前可能會進行大幅度修改之發行前版本產品的一些相關資訊。 Microsoft 對此處提供的資訊，不提供任何明確或隱含的瑕疵擔保。\]
+\[Some information relates to pre-released product which may be substantially modified before it's commercially released. Microsoft makes no warranties, express or implied, with respect to the information provided here.\]
 
-透過地區授權，擁有國際企業的合作夥伴現在可以更輕鬆地管理全球不同地區及國家中的客戶。 這會減少合作夥伴需要管理的租用戶數量、減少合作夥伴必須處理的帳單日期，並為合作夥伴提供更統一的銷售檢視。
+With regional authorization, partners with international businesses can now more easily manage customers in different regions and countries around the world. This reduces the number of tenants that partners need to manage, reduces the billing dates that partners have to handle, and gives partners a more consolidated view of their sales.
 
-在過去，除了歐盟/歐洲自由貿易聯盟 (EFTA) 之外，合作夥伴都必須在每個想要進行交易的國家/地區中有實際的實體。 這表示合作夥伴必須在合作夥伴中心中設定多個租用戶，以及多個帳單日期和其他設定。 例如在拉丁美洲地區，合作夥伴就無法輕鬆地與鄰近地區或國家中的客戶合作，而且在某些情況下，他們會完全地受限。
+In the past, with the exception of the European Union/EFTA, partners needed to have a physical entity in each country where they wanted to transact. This meant that partners needed to have multiple tenants set up in Partner Center, with multiple billing dates and other settings. In regions such as Latin America, partners were not able to easily work with customers in a neighboring region or country, and in some cases, they were restricted completely.
 
->**注意**<br> 如果您已註冊 [Microsoft Cloud 德國雲端解決方案提供者計畫](partner-center-for-microsoft-cloud-germany.md)，且想要向歐盟和歐洲自由貿易聯盟境內的客戶銷售，則無法將您的 Microsoft Cloud 德國合作夥伴中心租用戶與其他租用戶合併。  
+>**Note**<br> If you are enrolled in [CSP for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) and you sell to customers in the EU and EFTA countries/regions, you cannot consolidate your tenant for Partner Center for Microsoft Cloud Germany with your other tenants.  
 
-## <a name="planning"></a>規劃
+## <a name="planning"></a>Planning
 
-合作夥伴有多個選項可用於合併其各地區的租用戶，如下所示。
+Partners have multiple options for consolidating their regional tenants, as outlined below.
 
-### <a name="separate-tenants-for-single-regions-or-countries"></a>單一地區或國家的個別租用戶
+### <a name="separate-tenants-for-single-regions-or-countries"></a>Separate tenants for single regions or countries
 
-租用戶合併是選擇性的。 合作夥伴可繼續管理其具有個別租用戶的國際客戶，如下表所示。
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>合作夥伴位置</th>
-<th>帳單日期</th>
-<th>客戶位置</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>哥倫比亞</p></td>
-<td><p>帳單日期每月 10 日</p></td>
-<td><p>哥倫比亞</p></td>
-</tr>
-<tr class="even">
-<td><p>智利</p></td>
-<td><p>帳單日期每月 15 日</p></td>
-<td><p>智利</p></td>
-</tr>
-<tr class="odd">
-<td><p>巴拉圭</p></td>
-<td><p>帳單日期每月 5 日</p></td>
-<td><p>巴拉圭</p></td>
-</tr>
-<tr class="even">
-<td><p>秘魯</p></td>
-<td><p>帳單日期每月 2 日</p></td>
-<td><p>秘魯</p></td>
-</tr>
-</tbody>
-</table>
-
- 
-
-## <a name="one-tenant-for-multiple-regions-or-countries"></a>多個地區或國家的單一租用戶
-
-
-合作夥伴可選擇將他們的作業從多個雲端解決方案提供者租用戶合併為單一雲端解決方案提供者租用戶。
+Tenant consolidation is optional. Partners can continue to manage their international customers with separate tenants, as shown in the following table.
 
 <table>
 <colgroup>
@@ -80,29 +36,41 @@ ms.lasthandoff: 06/28/2017
 </colgroup>
 <thead>
 <tr class="header">
-<th>合作夥伴位置</th>
-<th>帳單日期</th>
-<th>客戶位置</th>
+<th>Partner location(s)</th>
+<th>Billing Date(s)</th>
+<th>Customer location(s)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>哥倫比亞</p></td>
-<td><p>帳單日期每月 10 日</p></td>
-<td><p>哥倫比亞</p>
-<p>智利</p>
-<p>巴拉圭</p>
-<p>秘魯</p></td>
+<td><p>Colombia</p></td>
+<td><p>Billing date 10th</p></td>
+<td><p>Colombia</p></td>
+</tr>
+<tr class="even">
+<td><p>Chile</p></td>
+<td><p>Billing date 15th</p></td>
+<td><p>Chile</p></td>
+</tr>
+<tr class="odd">
+<td><p>Paraguay</p></td>
+<td><p>Billing date 5th</p></td>
+<td><p>Paraguay</p></td>
+</tr>
+<tr class="even">
+<td><p>Peru</p></td>
+<td><p>Billing date 2nd</p></td>
+<td><p>Peru</p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a name="some-tenants-for-some-regions-or-countries"></a>部分地區或國家的部分租用戶
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>One tenant for multiple regions or countries
 
 
-合作夥伴可選擇將他們的作業從多個雲端解決方案提供者租用戶合併為較少的雲端解決方案提供者租用戶。
+Partners can choose to consolidate their operations from multiple CSP tenants to a single CSP tenant.
 
 <table>
 <colgroup>
@@ -112,98 +80,130 @@ ms.lasthandoff: 06/28/2017
 </colgroup>
 <thead>
 <tr class="header">
-<th>合作夥伴位置</th>
-<th>帳單日期</th>
-<th>客戶位置</th>
+<th>Partner location</th>
+<th>Billing Date</th>
+<th>Customer location(s)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>哥倫比亞</p></td>
-<td><p>帳單日期每月 10 日</p></td>
-<td><p>哥倫比亞</p>
-<p>智利</p></td>
-</tr>
-<tr class="even">
-<td><p>巴拉圭</p></td>
-<td><p>帳單日期每月 5 日</p></td>
-<td><p>巴拉圭</p>
-<p>秘魯</p></td>
+<td><p>Colombia</p></td>
+<td><p>Billing date 10th</p></td>
+<td><p>Colombia</p>
+<p>Chile</p>
+<p>Paraguay</p>
+<p>Peru</p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a name="consolidating-tenants"></a>合併租用戶
+## <a name="some-tenants-for-some-regions-or-countries"></a>Some tenants for some regions or countries
 
 
-如果您想要合併租用戶，我們建議下列方式：
+Partners can choose to consolidate their operations from multiple CSP tenants to fewer CSP tenants.
 
--   **多個地區/國家，但僅在其中之一交易**。 如果您僅在一個國家/地區進行交易，但設定了數個其他的租用戶，請使用該地區的交易租用戶做為新的集中式租用戶，並取消您其他的租用戶。
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Partner location(s)</th>
+<th>Billing Date(s)</th>
+<th>Customer location(s)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Colombia</p></td>
+<td><p>Billing date 10th</p></td>
+<td><p>Colombia</p>
+<p>Chile</p></td>
+</tr>
+<tr class="even">
+<td><p>Paraguay</p></td>
+<td><p>Billing date 5th</p></td>
+<td><p>Paraguay</p>
+<p>Peru</p></td>
+</tr>
+</tbody>
+</table>
 
--   **多個國家/地區，但僅在其中之一交易。** 如果您會在數個國家/地區中交易，建議您集中到擁有最大基座數目的租用戶。 您應該將擁有最少量基座數目的國家/地區中的訂閱取消。
+ 
+
+## <a name="consolidating-tenants"></a>Consolidating tenants
 
 
-## <a name="countryregion-information"></a>國家/地區資訊
+If you want to consolidate tenants, we recommend the following:
+
+-   **Multiple regions/countries but only one transacting**. If you are only transacting in one country/region, but have a number of other tenants set up, use the transacting tenant as your new centralized tenant for that region and cancel your other tenants.
+
+-   **Multiple countries/regions but only one Transacting.** If you are transacting in a number of countries/regions, we recommend that you centralize to the tenant with the largest number of seats. You should cancel the subscriptions in the countries/regions where you have smaller amounts of seats.
 
 
-開始合併租用戶之前，請先考量下列事項：
-
--   **如果您的 Microsoft 銷售目標位置為美國**，您的領域包括位於美國的客戶。
-
--   **如果您的 Microsoft 銷售目標位置為加拿大**，您的領域包括位於加拿大的客戶。
-
--   **如果您的 Microsoft 銷售目標位置為巴西**，您的領域包括位於巴西的客戶。
-
--   **如果您的 Microsoft 銷售目標位置為下列清單上的國家/地區**，您的領域包括位於下列清單中所列任何國家/地區的客戶：安圭拉、安地卡及巴布達、阿根廷、阿路巴、巴哈馬、巴貝多、貝里斯、百慕達、玻利維亞、波奈、開曼群島、智利、哥倫比亞、哥斯大黎加、古拉索、多明尼加共和國、厄瓜多、薩爾瓦多、法屬圭亞那、哥德普洛、瓜地馬拉、宏都拉斯、牙買加、馬丁尼克、墨西哥、尼加拉瓜、巴拿馬、巴拉圭、秘魯、波多黎各、聖克里斯多福及尼維斯、聖露西亞、法屬聖馬丁、聖文森及格瑞那丁、荷屬聖馬丁、蘇利南、千里達及托巴哥、土克斯及開科斯群島、烏拉圭、委內瑞拉、美屬維爾京群島。
-
--   **如果您的 Microsoft 銷售目標位置為下列清單上的國家/地區**，您的領域包括位於下列清單中所列任何國家/地區的客戶：安道爾、奧地利、比利時、保加利亞、克羅埃西亞、賽普勒斯、捷克共和國、丹麥、愛沙尼亞、法羅群島、芬蘭、法國、德國、希臘、格陵蘭、匈牙利、冰島、愛爾蘭、曼城島、義大利、澤西島、拉脫維亞、列支敦斯登、立陶宛、盧森堡、馬達加斯加、馬拉威、馬利、馬爾他、馬約特島、摩納哥、荷蘭、新喀里多尼亞群島、挪威、波蘭、葡萄牙、羅馬尼亞、聖馬利諾、斯洛伐克、斯洛維尼亞、西班牙、瑞典、瑞士、英國、梵蒂岡。
-
-    >**注意**<br> 如果您已註冊 [Microsoft Cloud 德國雲端解決方案提供者計畫](partner-center-for-microsoft-cloud-germany.md)，且想要向歐盟和歐洲自由貿易聯盟境內的客戶銷售，則無法將您的 Microsoft Cloud 德國合作夥伴中心租用戶與其他租用戶合併。  
+## <a name="countryregion-information"></a>Country/region information
 
 
--   **如果您的 Microsoft 銷售目標位置為下列清單上的國家/地區**，您的領域包括位於下列清單中所列任何國家/地區的客戶：阿富汗、阿爾巴尼亞、阿爾及利亞、亞美尼亞、亞塞拜然、巴林、白俄羅斯、貝南、波士尼亞與赫塞哥維納、蒲隆地、葛摩、埃及、法屬玻里尼西亞、喬治亞、伊拉克、以色列、約旦、哈薩克、科威特、吉爾吉斯、黎巴嫩、利比亞、前南斯拉夫馬其頓共和國 (FYROM)、摩爾多瓦、蒙古、蒙特內哥羅、摩洛哥、莫三比克、阿曼、巴基斯坦、巴勒斯坦民族權力機構、卡達、留尼旺、沙烏地阿拉伯、塞爾維亞、塞席爾、南非、塔吉克、多哥、突尼西亞、土耳其、土庫曼、烏克蘭、阿拉伯聯合大公國、烏茲別克、葉門、辛巴威。
+Consider the following before beginning consolidating tenants:
 
--   **如果您的 Microsoft 銷售目標位置為下列清單上的國家/地區**，您的領域包括位於下列清單中所列任何國家/地區的客戶：安哥拉、波札那、喀麥隆、維德角、科特迪瓦 (象牙海岸)、衣索比亞、迦納、肯亞、模里西斯、納米比亞、奈及利亞、盧安達、塞內加爾、坦尚尼亞、烏干達、尚比亞。
+-   **If your Microsoft sell-to location is the United States**, your Territory includes customers located in the United States.
 
--   **如果您的 Microsoft 銷售目標位置為俄羅斯**，您的領域包括位於俄羅斯的客戶。
+-   **If your Microsoft sell-to location is Canada**, your Territory includes customers located in Canada.
 
--   **如果您的 Microsoft 銷售目標位置為下列清單上的國家/地區**，您的領域包括位於下列清單中所列任何國家/地區的客戶：孟加拉、不丹、汶萊達魯薩蘭、柬埔寨、香港特別行政區、印尼、寮國、澳門特別行政區、馬來西亞、馬爾地夫、馬紹爾群島、緬甸、尼泊爾、巴布亞紐幾內亞、菲律賓、新加坡、斯里蘭卡、泰國、東帝汶、東加、越南。
+-   **If your Microsoft sell-to location is Brazil**, your Territory includes customers located in Brazil.
 
--   **如果您的 Microsoft 銷售目標位置為下列清單上的國家/地區**，您的領域包括位於下列清單中所列任何國家/地區的客戶：澳洲或斐濟。
+-   **如果您的 Microsoft 銷售目標位置為下列清單上的國家/地區**，您的領域包括位於下列清單中所列任何國家/地區的客戶：安圭拉、安地卡及巴布達、阿根廷、阿路巴、巴哈馬、巴貝多、貝里斯、百慕達、玻利維亞、波奈、沙巴和聖佑達修斯、開曼群島、智利、哥倫比亞、哥斯大黎加、古拉索、多明尼加共和國、厄瓜多、薩爾瓦多、法屬圭亞那、哥德普洛、瓜地馬拉、宏都拉斯、牙買加、馬丁尼克、墨西哥、尼加拉瓜、巴拿馬、巴拉圭、秘魯、波多黎各、聖克里斯多福及尼維斯、聖露西亞、法屬聖馬丁、聖文森及格瑞那丁、荷屬聖馬丁、蘇利南、千里達及托巴哥、土克斯及開科斯群島、烏拉圭、委內瑞拉、美屬維爾京群島。
 
--   **如果您的 Microsoft 銷售目標位置為紐西蘭**，您的領域包括位於紐西蘭的客戶。
+-   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Greece, Greenland, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Mayotte, Monaco, Netherlands, New Caledonia, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, Vatican City.
 
--   **如果您的 Microsoft 銷售目標位置為印度**，您的領域包括位於印度的客戶。
+    >**Note**<br> If you are enrolled in [CSP for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) and you sell to customers in the EU and EFTA countries/regions, you cannot consolidate your tenant for Partner Center for Microsoft Cloud Germany with your other tenants.  
 
--   **如果您的 Microsoft 銷售目標位置為日本**，您的領域包括位於日本的客戶。
 
--   **如果您的 Microsoft 銷售目標位置為韓國**，您的領域包括位於韓國的客戶。
+-   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bahrain, Belarus, Benin, Bosnia and Herzegovina, Burundi, Comoros, Egypt, French Polynesia, Georgia, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Libya, Republic of Macedonia (FYROM), Moldova, Mongolia, Montenegro, Morocco, Mozambique, Oman, Pakistan, Palestinian Authority, Qatar, Reunion, Saudi Arabia, Serbia, Seychelles, South Africa, Tajikistan, Togo, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Yemen, Zimbabwe.
 
--   **如果您的 Microsoft 銷售目標位置為台灣**，您的領域包括位於台灣的客戶。
+-   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Angola, Botswana, Cameroon, Cabo Verde, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Rwanda, Senegal, Tanzania, Uganda, Zambia.
 
-## <a name="billing-currencies-by-country"></a>依國家/地區的帳單貨幣
+-   **If your Microsoft sell-to location is Russia**, your Territory includes customers located in Russia.
 
-您的地理位置決定您的帳單貨幣，如下表所示。 請注意，因為涉及的稅金及法律問題，如果您想要使用不同的帳單貨幣，您將需要建立新的租用戶，並指定該貨幣。 
+-   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Macao SAR, Malaysia, Maldives, Marshall Islands, Myanmar, Nepal, Papua New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Timor-Leste, Tonga, Vietnam.
 
-| 貨幣 | 國家/地區 |
+-   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Australia or Fiji.
+
+-   **If your Microsoft sell-to location is New Zealand**, your Territory includes customers located in New Zealand.
+
+-   **If your Microsoft sell-to location is India**, your Territory includes customers located in India.
+
+-   **If your Microsoft sell-to location is Japan**, your Territory includes customers located in Japan.
+
+-   **If your Microsoft sell-to location is Korea**, your Territory includes customers located in Korea.
+
+-   **If your Microsoft sell-to location is Taiwan**, your Territory includes customers located in Taiwan.
+
+## <a name="billing-currencies-by-country"></a>Billing currencies by country
+
+Your geographic location determines the currency in which you are billed, as shown in the following table. Note that due to tax and legal implications, if you want to use a different billing currency, you'll need to create a new tenant and specify that currency. 
+
+| Currency | Country |
 | ---- | ---- |
-| 美元 | 阿爾巴尼亞、安圭拉、安地卡及巴布達、阿根廷、亞美尼亞、阿路巴、亞塞拜然、莫三比克、巴林、孟加拉、巴貝多、白俄羅斯、貝里斯、貝南、百慕達、玻利維亞、波奈、巴西、汶萊、蒲隆地、喀麥隆、開曼群島、智利、哥倫比亞、葛摩、哥斯大黎加、古拉索、多明尼加共和國、厄瓜多、埃及、薩爾瓦多、法屬圭亞那、法屬玻里尼西亞、喬治亞、迦納、瓜地馬拉、宏都拉斯、香港特別行政區、印尼、伊拉克、以色列、牙買加、哈薩克、肯亞、科威特、吉爾吉斯、黎巴嫩、澳門特別行政區、馬達加斯加、馬拉威、馬來西亞、馬利、模里西斯、馬約特島、墨西哥、摩洛哥、納米比亞、新喀里多尼亞群島、尼加拉瓜、奈及利亞、阿曼、巴基斯坦、巴拿馬、巴拉圭、秘魯、菲律賓、波多黎各、卡達、留尼旺、盧安達、聖露西亞、法屬聖馬丁、聖文森及格瑞那丁、沙烏地阿拉伯、塞爾維亞、塞席爾、新加坡、荷屬聖馬丁、南非、斯里蘭卡、蘇利南、坦尚尼亞、泰國、東帝汶、多哥、千里達及托巴哥、突尼西亞、土耳其、土克斯及開科斯群島、美屬維爾京群島、烏克蘭、阿拉伯聯合大公國、美國、烏拉圭、委內瑞拉、越南  | 
-| 新臺幣 | 台灣 |
-| 瑞典克朗 | 瑞典 |
-| 印度幣 | 印度 |
-| 俄羅斯盧布 | 俄羅斯 |
-| 紐西蘭元 | 紐西蘭 |
-| 挪威克朗 | 挪威 |
-| 韓元 | 韓國 |
-| 日圓 | 日本 |
-| 英鎊 | 曼城島、澤西島、英國 |
-| 歐元 | 安道爾、奧地利、比利時、克羅埃西亞、捷克共和國、愛沙尼亞、法羅群島、芬蘭、法國、德國、希臘、匈牙利、冰島、愛爾蘭、義大利、拉脫維亞、列支敦斯登、立陶宛、盧森堡/比利時、荷蘭、波蘭、葡萄牙、羅馬尼亞、聖馬利諾、斯洛伐克、斯洛維尼亞、西班牙 |
-| 丹麥克朗 | 丹麥 |
-| 瑞士法郎 | 瑞士 |
-| 加拿大元 | 加拿大 |
-| 澳元 | 澳洲、斐濟、馬紹爾群島、巴布亞紐幾內亞、東加 |
+| USD | 阿爾巴尼亞、安圭拉、安地卡及巴布達、阿根廷、亞美尼亞、阿路巴、亞塞拜然、莫三比克、巴林、孟加拉、巴貝多、白俄羅斯、貝里斯、貝南、百慕達、玻利維亞、波奈、沙巴和聖佑達修斯、巴西、汶萊、蒲隆地、喀麥隆、開曼群島、智利、哥倫比亞、葛摩、哥斯大黎加、古拉索、多明尼加共和國、厄瓜多、埃及、薩爾瓦多、斐濟、法屬圭亞那、法屬玻里尼西亞、喬治亞、迦納、瓜地馬拉、宏都拉斯、香港特別行政區、印尼、伊拉克、以色列、牙買加、哈薩克、肯亞、科威特、吉爾吉斯、黎巴嫩、澳門特別行政區、馬達加斯加、馬拉威、馬來西亞、馬利、模里西斯、馬約特島、墨西哥、摩洛哥、納米比亞、新喀里多尼亞群島、尼加拉瓜、奈及利亞、阿曼、巴基斯坦、巴拿馬、巴拉圭、秘魯、菲律賓、波多黎各、卡達、留尼旺、盧安達、聖露西亞、法屬聖馬丁、聖文森及格瑞那丁、沙烏地阿拉伯、塞爾維亞、塞席爾、新加坡、荷屬聖馬丁、南非、斯里蘭卡、蘇利南、坦尚尼亞、泰國、東帝汶、多哥、千里達及托巴哥、突尼西亞、土耳其、土克斯及開科斯群島、美屬維爾京群島、烏克蘭、阿拉伯聯合大公國、美國、烏拉圭、委內瑞拉、越南  | 
+| TWD | Taiwan |
+| SEK | Sweden |
+| INR | India |
+| RUB | Russia |
+| NZD | New Zealand |
+| NOK | Norway |
+| KRW | Korea |
+| JPY | Japan |
+| GBP | Isle of Man, Jersey, United Kingdom |
+| EUR | Andorra, Austria, Belgium, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain |
+| DKK | Denmark |
+| CHF | Switzerland |
+| CAD | Canada |
+| AUD | Australia, Fiji, Marshall Islands, Papua New Guinea, Tonga |
 
 
  
