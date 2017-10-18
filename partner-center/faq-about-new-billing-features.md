@@ -3,18 +3,18 @@ title: "新計費功能的常見問題集 | 合作夥伴中心"
 Description: "下列為合作夥伴中心的年度計費、免費試用和帳單校準功能的常見問題集。"
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: a0ed40409cfb7ea92713e89a3fea39c4b3f836b6
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+ms.openlocfilehash: ce871392c529cdfc7b11eddcad92f04b7e3054c2
+ms.sourcegitcommit: bf2476ae1163f5b486d7ba12e784904e47e0b85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 09/29/2017
 ---
 # <a name="faq-about-new-billing-features"></a>新計費功能的常見問題集
 
 **適用對象：**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
 下列為合作夥伴中心的年度計費、免費試用和帳單校準功能的常見問題集。 
@@ -247,11 +247,11 @@ https://msdn.microsoft.com/zh-tw/library/partnercenter/microsoft.store.partnerce
 
 **問︰**什麼時候可以開始使用？
 
-**答：**我們計劃於 2018 年 9 月推出。
+**答：**我們計劃於 2017 年 10 月 17 日開放使用。
 
 **問︰**誰可以參與？
 
-**答：**所有合作夥伴都可以參與，但在中國將有數個月無法使用免費試用版。 
+**答：**所有合作夥伴都可以參與，但在中國，免費試用還要再等幾個月才能使用。 
 
 **問：**我能夠做什麼以進行準備？
 

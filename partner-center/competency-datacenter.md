@@ -1,24 +1,23 @@
 ---
-title: Data Center Competency
-description: The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+title: "資料中心專長認證"
+description: "資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。"
 author: Daniel Simpson
-keywords: competency, competencies, Datacenter
-ms.openlocfilehash: fd24df57e7bf18764e4281947443b37dc7f49713
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+keywords: "專長認證, 各專長認證, 資料中心"
+ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
+ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 09/29/2017
 ---
-#<a name="datacenter"></a>Datacenter
-The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
-##<a name="datacenter-solutions-option"></a>Datacenter Solutions option
-The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
-###<a name="silver"></a>Silver
+#<a name="datacenter"></a>資料中心
+資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。
+##<a name="datacenter-solutions-option"></a>資料中心解決方案選項
+如果您想要藉由通過測驗或認證來證明自己的技能，資料中心解決方案選項就很適合這個目的。 從您所選專長領域中選擇測驗，以取得資料中心專長認證。
+###<a name="silver"></a>銀會員
 1. 您的組織必須有 **2** 個人員通過其中任何一項測驗
 
     - **System Center** 2012 專長領域
 
-        - [測驗 70-243](https://www.microsoft.com/en-us/learning/exam-70-243.aspx)：管理和部署 System Center 2012 設定管理員
         - [測驗 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx)：使用 System Center 2012 監視和操作私人雲端
         - [測驗 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx)：使用 System Center 2012 設定和部署私人雲端
 
@@ -42,7 +41,7 @@ The Datacenter Solutions option is ideal if you prefer to prove your skills by p
         - [測驗 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx)：將您的技能升級至 MCSA：Windows Server 2016
         - [測驗 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx)：保護 Windows Server 2016 安全
 
-###<a name="gold"></a>Gold
+###<a name="gold"></a>金會員
 1. 您的組織必須有 **4** 個人員通過必要的認證。
 
     - **4** 個人員必須通過下列其中一項測驗：
