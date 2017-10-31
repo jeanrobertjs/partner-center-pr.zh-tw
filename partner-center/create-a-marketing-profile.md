@@ -1,6 +1,6 @@
 ---
-title: Create a marketing profile | Partner Center
-description: Attract more prospective customers by creating a marketing profile in Partner Center.
+title: "建立行銷設定檔 | 合作夥伴中心"
+description: "在合作夥伴中心中建立行銷設定檔，吸引更多潛在客戶。"
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 ms.openlocfilehash: b4ff498f7c44e4f2fcb49cb5e4c1d659175ac60a
@@ -18,96 +18,96 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-marketing-profile"></a>Create a marketing profile
+# <a name="create-a-marketing-profile"></a>建立行銷設定檔
 
-**Applies to**
+**適用於**
 
--  Partner Center
+-  合作夥伴中心
 
-As a qualified Microsoft partner, you can create a marketing profile to showcase your business to customers who are looking for your unique solutions and expertise to address their business needs.
+身為 Microsoft 合格合作夥伴，您可以建立行銷設定檔，向尋找唯一解決方案和專業來解決其業務需求的客戶展示您的公司。
 
-Microsoft engages millions of customers every year through marketing, sales and service efforts. Most of these engagements create opportunities for us to provide referrals to our partners in the form of sales leads. 
+Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部分的這些客戶業務創造機會，讓我們以業務潛在客戶的形式提供推薦給我們的合作夥伴。 
 
-As the first step to getting these leads, create a marketing profile. We'll show your profile to customers who are searching for partners who can help them implement Microsoft products and solutions, through:
+取得這些業務潛在客戶的第一個步驟是，建立行銷設定檔。 我們將會透過下列方式，向搜尋合作夥伴 (幫助實作 Microsoft 產品和解決方案) 的客戶顯示您的設定檔：
 
-*  **The [Find a partner](https://partnercenter.microsoft.com/pcv/search) search experience**. Potential customers can search partner listings on their own to locate partners who meet their search criteria. 
-*  **Referrals from Microsoft sales and service employees**. Potential customers interested in deploying cloud-based technology solutions contact Microsoft for help finding professionals who can meet their business needs. These Microsoft professionals can then refer potential customers to your company.
+*  **[尋找合作夥伴](https://partnercenter.microsoft.com/pcv/search)搜尋體驗**。 潛在客戶可以自行搜尋合作夥伴清單，來尋找符合其搜尋條件的合作夥伴。 
+*  **Microsoft 銷售和服務員工的推薦**。 有興趣部署雲端技術解決方案的潛在客戶會向 Microsoft 尋求協助，尋找可以滿足其業務需求的專業人員。 這些 Microsoft 專業人員然後向潛在客戶推薦您的公司。
 
-**Pinpoint 和 C2PC**：我們即將合併這些工具到合作夥伴中心。 If you’ve used these tools in the past, create a new marketing profile in Partner Center to continue to generate and manage your sales leads. Note, we don’t currently support importing profiles from the previous sites. 
+**Pinpoint 和 C2PC**：我們即將合併這些工具到合作夥伴中心。 如果您過去曾使用這些工具，請在合作夥伴中心建立新的行銷設定檔，以便繼續產生和管理您的業務潛在客戶。 我們目前不支援從先前的網站匯入設定檔。 
 
-## <a name="create-a-profile"></a>Create a profile
+## <a name="create-a-profile"></a>建立設定檔
 
-Create profiles for each region you are authorized to do business in. 
+為您獲得授權執行業務的每個地區，建立設定檔。 
 
-1.  Log into [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) using a [global admin or admin agent account](create-user-accounts-and-set-permissions.md).
+1.  使用[全域系統管理員或系統管理代理人帳戶](create-user-accounts-and-set-permissions.md)登入[合作夥伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)。
 
 2.  從 **\[儀表板\]** 功能表，選取 **\[轉介\]** &gt; **\[檢視行銷設定檔\]** &gt; 選取國家/地區 > **[建立行銷設定檔](https://partnercenter.microsoft.com/pcv/publishing)**。
 
 3.  在 **\[建立行銷設定檔\]** 頁面中，選取地區，然後輸入您的設定檔資訊。
     
-    Note, while Partner Center supports multiple languages, some elements such as the description and free-form tags may need to include text from different languages, as noted in this topic.
+    請注意，雖然合作夥伴中心支援多種語言，但有些像描述及自由格式標籤這類的元素可能需要包含不同語言的文字，如本主題中所述。
 
-### <a href="" id="partner_info"></a>Partner information
+### <a href="" id="partner_info"></a>合作夥伴資訊
 
-Introduce your company, adding a logo and a brief description, and a link to your website. 
+介紹貴公司，新增標誌和簡短描述，以及網站的連結。 
 
-The logo can be a GIF, JPG, or PNG file, with a maximum width of 300 pixels. We recommend using square or long aspect ratios. Tall aspect ratios are not recommended.
+標誌可以是 GIF、JPG、PNG 檔案，最大寬度為 300 像素。 我們建議使用方形或長的外觀比例。 不建議使用高的外觀比例。
 
-Your description can be up to 1000 characters. Tips for a great description: 
+您的描述最多可有 1000 個字元。 建立絕佳描述的秘訣： 
 
-*  **Be brief**, leading with what’s important in the first sentence or two. This should be the headline that catches customers’ attention. In the Find a partner search experience, we show the first line or two in the search results preview.
-*  **Focus on your company’s experiences with Microsoft-specific offerings**. Customers searching for referrals are generally looking for partners with Microsoft-specific experience.
-*  **Use bullets**. Break up information into bulleted lists to make it easier to scan.
-*  **Avoid jargon**. Use simple, everyday language, naming your offerings for what they do: the business needs they address, or task or objective they help customers accomplish.
-*  **Don’t worry about filling the description with search keywords**. The customer search tools search for keywords generated in the Partner Expertise section, not the description.
-*  **Keep your profile current**. With each software or service release, update your profile, keeping it in sync with your company's website.
-*  **Do not refer to another Microsoft partner company by name**, unless it is a subsidiary or is otherwise affiliated with your company, or you have a current agreement with that partner company to act in partnership and/or promote each other for shared work opportunities.
-*  **For regions with multiple languages**, consider including text from multiple languages in the description.
+*  **要簡短**，將重要資訊放在第一個句子或前面兩個句子。 這應該是抓住客戶吸引力的標題。 在 [尋找合作夥伴] 搜尋體驗，我們在搜尋結果預覽中顯示第一行或前面兩行。
+*  **將貴公司經歷專注於 Microsoft 特定供應項目**。 搜尋推薦的客戶，通常正在尋找有 Microsoft 特定經驗的合作夥伴。
+*  **使用項目符號**。 將資訊拆解為項目符號清單，讓內容更容易瀏覽。
+*  **避免術語**。 使用簡單、日常用語，以服務的功能來為它們命名：這包括產品能處理的商務需求，或是它們能協助客戶達成的工作或目標。
+*  **不用擔心用搜尋關鍵字填滿描述**。 客戶搜尋工具會在 [合作夥伴專長] 區段中 (而不是在描述中) 搜尋產生的關鍵字。
+*  **讓您的設定檔保持最新狀態**。 隨著每個軟體或服務發行版本，請更新您的設定檔，讓它與貴公司的網站保持同步。
+*  **請勿提及其他 Microsoft 合作夥伴的公司名稱**，除非該公司或其子公司與您的公司有某種附屬關係，或者您目前與該合作夥伴公司有合約要共同合作和/或互相推銷分享的工作機會。
+*  **對於使用多種語言的地區**，請考慮將多種語言的文字包含在描述中。
 
-#### <a href="" id="linkedin"></a> LinkedIn company page: more ways to connect
+#### <a href="" id="linkedin"></a>LinkedIn 公司頁面：更多連接方式
 
-Add your LinkedIn company page to strengthen your connections to potential customers. 
+新增您的 LinkedIn 公司頁面，加強您與潛在客戶的連接。 
 
-When you include this link, customers will be able to quickly view more about your organization through the LinkedIn platform.
+當您包含此連結時，客戶可以透過 LinkedIn 平台快速檢視更多有關您組織的資訊。
 
-If you don't already have a LinkedIn company page, you can [create one now](https://www.linkedin.com/company-beta/setup/new/).
+如果沒有 LinkedIn 公司頁面，您可以[立即建立公司頁面](https://www.linkedin.com/company-beta/setup/new/)。
 
-### <a name="partner-expertise"></a>Partner expertise
+### <a name="partner-expertise"></a>合作夥伴專長
 
 [尋找合作夥伴] 搜尋工具會尋找專長標籤。 最佳化這些標籤以協助提高您的設定檔可見度。
 
-Start by adding your own tags into the Partner Expertise section. Tags you can add: 
+開始著手將您自己的標籤加入 [合作夥伴專長] 區段。 您可以新增的標籤： 
 
-*  **Industry focus tags**. Up to 5 industries
-*  **Products**. Limited to Microsoft products
-*  **Service type** 
-*  **Solutions, skills, and capabilities**. These tags are free-form, and provide you the ability to add search keywords that are unique to your capabilities.
+*  **產業焦點標籤**。 最多 5 個產業
+*  **產品**。 限於 Microsoft 產品
+*  **服務類型** 
+*  **解決方案、技術和功能**。 這些標籤是自由格式，讓您可以加入您的唯一功能的搜尋關鍵字。
 
-Other tags used in search:
-*  **Competency tags** are an earned designation showcasing your company’s capabilities.
-*  **Endorsement tags** are earned when Microsoft or your customers who have worked with you endorse your work.
+用於搜尋的其他標籤：
+*  **專長認證標籤**是贏得的榮譽稱號，展示貴公司的能力。
+*  **背書標籤**是在 Microsoft 或曾經與您合作的客戶背書您的工作時獲得的。
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>讓 Microsoft 背書我的專業領域
 
 建議您讓這個設定保持已核取狀態。 
 
 當您透過合作夥伴中心證明您在拓展客戶方面取得成效，或是參與其他 Microsoft 認證或計畫時，我們將會自動加入背書，認可您的特定產品、服務與產業促使獲得該項成功。 背書是搜尋結果的重要因素。
 
-如果您所提供服務的產品是您不希望在設定檔中顯露的產品，則可以取消核取此方塊，並手動管理您的設定檔。 These endorsements will be hidden from your customers view, but you can add them back to your profile later at any time.
+如果您所提供服務的產品是您不希望在設定檔中顯露的產品，則可以取消核取此方塊，並手動管理您的設定檔。 這些背書會從客戶檢視中隱藏起來，但是您隨時可以將它們新增到您的設定檔。
 
-### <a name="customer-preferences"></a>Customer preferences
+### <a name="customer-preferences"></a>客戶喜好設定
 
-#### <a href="" id="#target_size"></a>Target size
+#### <a href="" id="#target_size"></a>目標大小
 
-You can opt out of referrals from businesses that don’t meet your target customer size.
+您可以選擇退出不符合您的目標客戶大小的企業推薦。
 
-By opting out, you’ll have more time to spend on businesses that are a match for the businesses that you prefer to work with.
+藉由選擇退出，您就有更多時間投注在比得上您願意合作之目標企業的企業。
 
-### <a href="" id="#locations"></a> Locations
+### <a href="" id="#locations"></a>位置
 
-每個地區最多可以新增 5 個在您組織中排名居前的位置。 These locations appear when customers search for partners by proximity. 
+每個地區最多可以新增 5 個在您組織中排名居前的位置。 當客戶依鄰近性搜尋合作夥伴近時，就會出現這些位置。 
 
-Indicate locations that are official company locations and can be validated. Pick locations that are central to the markets you serve, and best represent your company’s ability to fulfill.
+顯示正式公司位置且可驗證的位置。 選擇您所服務市場的中心位置，而且最能夠呈現出您公司履行的功能。
 
 完成更新位置資訊時，選取 **\[儲存此位置\]** 或 **\[儲存此位置後，再新增其他位置\]** (即使您只是新增一個位置)。
 
@@ -119,14 +119,14 @@ Indicate locations that are official company locations and can be validated. Pic
 
 ## <a name="review-your-profile"></a>檢閱您的設定檔
 
-After you publish your profile, updates appear in the [Find a partner](https://partnercenter.microsoft.com/pcv/search) searches within 24 hours. 
+發佈您的設定檔之後，更新會在 24 小時內出現於[尋找合作夥伴](https://partnercenter.microsoft.com/pcv/search)搜尋中。 
 
-## <a name="improve-the-visibility-of-your-profile"></a>Improve the visibility of your profile 
+## <a name="improve-the-visibility-of-your-profile"></a>改善設定檔的可見性 
 
-*  **[Respond quickly to requests](responding-to-referrals.md)**. When you receive a customer referral, a faster response can lead to better results on the search pages for future customers.
-*  **Be selective with your tags**.  It’s better to have fewer tags that best represent your company’s offers, solutions, value propositions, and unique position where you can consistently demonstrate success.  That will pay dividends in future search results.
-*  **Earn competency tags** through Microsoft to demonstrate your proficiency in our products.
-*  **Earn endorsement tags** from customers who appreciate your work.
+*  **[快速回應要求](responding-to-referrals.md)**。 當您收到客戶推薦時，更快回應可能會導致未來客戶搜尋網頁上更好的結果。
+*  **選擇您的標籤**。  最好有少數幾個標籤最能代表貴公司的優惠、解決方案、價值主張，以及您可以持續地證明成功的獨特立足點。  這在未來的搜尋結果會得到回報。
+*  透過 Microsoft 獲得**專長認證標籤**，以展示您對我們產品的熟練程度。
+*  從賞識您工作的客戶**獲得背書標籤**。
 
-## <a name="related-topics"></a>Related topics
-[Responding to referrals](responding-to-referrals.md)
+## <a name="related-topics"></a>相關主題
+[回應推薦](responding-to-referrals.md)
