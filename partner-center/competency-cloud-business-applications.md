@@ -1,128 +1,182 @@
 ---
-title: Cloud Business Applications Competency
-description: The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.
+title: "雲端業務應用程式專長認證"
+description: "雲端業務應用程式專長認證適合專精於為客戶部署和管理 Microsoft Dynamics 365 的合作夥伴。"
 author: Daniel Simpson
-keywords: competency,competencies, Cloud Business Applications
-ms.openlocfilehash: 978f3b8939f7f5fb3e4788182fa4d49bb89b3ec0
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+keywords: "專長認證, 各項專長認證, 雲端業務應用程式"
+ms.openlocfilehash: d38847cf292c15334bc850e0782a1af9842f3d33
+ms.sourcegitcommit: 581682c6f2098dc4cf19ca82fcdec90bc6bfe975
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 10/13/2017
 ---
-#<a name="cloud-business-applications"></a><span data-ttu-id="12255-104">Cloud Business Applications</span><span class="sxs-lookup"><span data-stu-id="12255-104">Cloud Business Applications</span></span> 
-<span data-ttu-id="12255-105">The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.</span><span class="sxs-lookup"><span data-stu-id="12255-105">The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.</span></span>
+#<a name="cloud-business-applications"></a><span data-ttu-id="30e1b-104">雲端業務應用程式</span><span class="sxs-lookup"><span data-stu-id="30e1b-104">Cloud Business Applications</span></span> 
+<span data-ttu-id="30e1b-105">雲端業務應用程式專長認證適合專精於為客戶部署和管理 Microsoft Dynamics 365 的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="30e1b-105">The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.</span></span>
 
-- [<span data-ttu-id="12255-106">Enterprise Customer Engagement option</span><span class="sxs-lookup"><span data-stu-id="12255-106">Enterprise Customer Engagement option</span></span>](#enterprise-customer-engagement-option)
-- [<span data-ttu-id="12255-107">Enterprise Operations option</span><span class="sxs-lookup"><span data-stu-id="12255-107">Enterprise Operations option</span></span>](#enterprise-operations-option)
+- [<span data-ttu-id="30e1b-106">企業客戶業務開發選項</span><span class="sxs-lookup"><span data-stu-id="30e1b-106">Enterprise Customer Engagement option</span></span>](#enterprise-customer-engagement-option)
+- [<span data-ttu-id="30e1b-107">企業營運選項</span><span class="sxs-lookup"><span data-stu-id="30e1b-107">Enterprise Operations option</span></span>](#enterprise-operations-option)
+
+<span data-ttu-id="30e1b-108">雲端商務應用程式專長認證可協助您專注與擴展業務，完成交易。</span><span class="sxs-lookup"><span data-stu-id="30e1b-108">The Cloud Business Applications competency helps you focus and grow your business and close deals.</span></span> <span data-ttu-id="30e1b-109">Microsoft Dynamics 365 擁有眾多橫跨雲端商務應用程式專長認證的功能和技術認證。</span><span class="sxs-lookup"><span data-stu-id="30e1b-109">Microsoft Dynamics 365 has a wide range of functional and technical certifications across the Cloud Business Applications competency.</span></span>  
+
+<span data-ttu-id="30e1b-110">功能認證會為您計劃銷售、示範、實作或開發的整個解決方案，替您準備好功能角色。</span><span class="sxs-lookup"><span data-stu-id="30e1b-110">The functional certifications will prepare your functional roles for the entire solution that you plan to sell, demo, implement, or develop.</span></span> <span data-ttu-id="30e1b-111">解決方案不只包含 Dynamics 365 商務應用程式，也包含整個 Microsoft 堆疊，其中包括 Azure、Office 365 和 LinkedIn 等產品。</span><span class="sxs-lookup"><span data-stu-id="30e1b-111">The solution will not only include the Dynamics 365 business applications but also the entire Microsoft stack including products such as Azure, Office 365 and LinkedIn.</span></span> <span data-ttu-id="30e1b-112">當客戶使用 Dynamics 365 時，有機會使用 Microsoft 所提供的任何項目。</span><span class="sxs-lookup"><span data-stu-id="30e1b-112">When customers use Dynamics 365 they will have the opportunity to use everything that Microsoft has to offer.</span></span> 
+
+<span data-ttu-id="30e1b-113">雲端商務應用程式專長認證支援具有獨特主張的合作夥伴，並讓他們透過選擇功能認證在市場中展現差異性。</span><span class="sxs-lookup"><span data-stu-id="30e1b-113">The Cloud Business Applications competency supports partners in having a unique proposition and allows them to differentiate in the marketplace with a choice of functional certifications.</span></span> <span data-ttu-id="30e1b-114">技術認證可在自訂和設定以及部署和開發等主題上，支援您的技術角色。</span><span class="sxs-lookup"><span data-stu-id="30e1b-114">The technical certifications will support your technical roles on topics such as customization and configuration as well as deployment and development.</span></span> 
+
+<span data-ttu-id="30e1b-115">您也可以使用數位徽章來即時識別與區別成就，表彰個別員工一路以來的成就。</span><span class="sxs-lookup"><span data-stu-id="30e1b-115">You can also celebrate your individual employee accomplishments along the way with digital badging which recognizes and differentiates your achievements in real time.</span></span> <span data-ttu-id="30e1b-116">[進一步瞭解](https://www.microsoft.com/en-us/learning/badges.aspx)。</span><span class="sxs-lookup"><span data-stu-id="30e1b-116">[Learn more](https://www.microsoft.com/en-us/learning/badges.aspx).</span></span>  
 
 
-##<a name="enterprise-customer-engagement-option"></a><span data-ttu-id="12255-108">Enterprise Customer Engagement option</span><span class="sxs-lookup"><span data-stu-id="12255-108">Enterprise Customer Engagement option</span></span>
-<span data-ttu-id="12255-109">The Enterprise Customer Engagement option is ideal for partners engaging with enterprise customers.</span><span class="sxs-lookup"><span data-stu-id="12255-109">The Enterprise Customer Engagement option is ideal for partners engaging with enterprise customers.</span></span> <span data-ttu-id="12255-110">Complete all the steps within to attain the Cloud Business Applications competency.</span><span class="sxs-lookup"><span data-stu-id="12255-110">Complete all the steps within to attain the Cloud Business Applications competency.</span></span>
+##<a name="enterprise-customer-engagement-option"></a><span data-ttu-id="30e1b-117">企業客戶業務開發選項</span><span class="sxs-lookup"><span data-stu-id="30e1b-117">Enterprise Customer Engagement option</span></span>
+<span data-ttu-id="30e1b-118">企業客戶業務開發選項很適合拓展企業客戶業務的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="30e1b-118">The Enterprise Customer Engagement option is ideal for partners engaging with enterprise customers.</span></span> <span data-ttu-id="30e1b-119">完成其中所有步驟，即可取得雲端業務應用程式專長認證。</span><span class="sxs-lookup"><span data-stu-id="30e1b-119">Complete all the steps within to attain the Cloud Business Applications competency.</span></span>
 
-###<a name="silver"></a><span data-ttu-id="12255-111">Silver</span><span class="sxs-lookup"><span data-stu-id="12255-111">Silver</span></span>
-1. <span data-ttu-id="12255-112">Your organization must meet the performance thresholds.</span><span class="sxs-lookup"><span data-stu-id="12255-112">Your organization must meet the performance thresholds.</span></span>
+###<a name="silver"></a><span data-ttu-id="30e1b-120">銀會員</span><span class="sxs-lookup"><span data-stu-id="30e1b-120">Silver</span></span>
+1. <span data-ttu-id="30e1b-121">您的組織必須達到下列績效門檻。</span><span class="sxs-lookup"><span data-stu-id="30e1b-121">Your organization must meet the following performance thresholds.</span></span>
 
-    - **<span data-ttu-id="12255-113">Developed Markets</span><span class="sxs-lookup"><span data-stu-id="12255-113">Developed Markets</span></span>**
+    - **<span data-ttu-id="30e1b-122">已開發市場</span><span class="sxs-lookup"><span data-stu-id="30e1b-122">Developed Markets</span></span>**
 
-        - <span data-ttu-id="12255-114">Partner must have earned at least US$100,000 Revenue - Net New Revenue in the TTM period.</span><span class="sxs-lookup"><span data-stu-id="12255-114">Partner must have earned at least US$100,000 Revenue - Net New Revenue in the TTM period.</span></span>
+        - <span data-ttu-id="30e1b-123">合作夥伴必須至少已賺取 $100,000 美元的雲端營收 - TTM (最近 12 個月) 期間的淨新增營收。</span><span class="sxs-lookup"><span data-stu-id="30e1b-123">Partner must have earned at least US$100,000 Cloud Revenue - Net New Revenue in the TTM (trailing twelve months) period.</span></span>
     
-    - **<span data-ttu-id="12255-115">開發中市場</span><span class="sxs-lookup"><span data-stu-id="12255-115">Developing Markets</span></span>**
+    - **<span data-ttu-id="30e1b-124">開發中市場</span><span class="sxs-lookup"><span data-stu-id="30e1b-124">Developing Markets</span></span>**
 
-        - <span data-ttu-id="12255-116">合作夥伴必須至少已賺取 $50,000 美元的營收 (TTM 期間的淨新增營收)。</span><span class="sxs-lookup"><span data-stu-id="12255-116">Partner must have earned at least US$50,000 Revenue -  Net New Revenue in the TTM period.</span></span>
+        - <span data-ttu-id="30e1b-125">合作夥伴必須至少已賺取 $50,000 美元的雲端營收 - TTM 期間的淨新增營收。</span><span class="sxs-lookup"><span data-stu-id="30e1b-125">Partner must have earned at least US$50,000 Cloud Revenue -  Net New Revenue in the TTM period.</span></span>
 
-    - <span data-ttu-id="12255-117">達到 Dynamics 365 Enterprise 計畫 1 及其元件應用程式、Dynamics 365 Enterprise 計畫 2 的營收門檻。</span><span class="sxs-lookup"><span data-stu-id="12255-117">Meet the revenue thresholds for Dynamics 365 Enterprise Plan 1 and its component apps, Dynamics 365 Enterprise Plan 2.</span></span>
-    - <span data-ttu-id="12255-118">這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。</span><span class="sxs-lookup"><span data-stu-id="12255-118">For these customers, you have to be associated as Digital Partner of Record.</span></span>
-    - <span data-ttu-id="12255-119">[深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。</span><span class="sxs-lookup"><span data-stu-id="12255-119">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>
+    - <span data-ttu-id="30e1b-126">達到 Dynamics 365 Customer Engagement Plan (之前稱為 Plan 1) 及其相關應用程式的營收門檻。</span><span class="sxs-lookup"><span data-stu-id="30e1b-126">Meet the revenue thresholds for Dynamics 365 Customer Engagement Plan (formerly Plan 1) and its associated applications.</span></span>
+    - <span data-ttu-id="30e1b-127">這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。</span><span class="sxs-lookup"><span data-stu-id="30e1b-127">For these customers, you have to be associated as Digital Partner of Record.</span></span>
+    - <span data-ttu-id="30e1b-128">[深入了解](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。</span><span class="sxs-lookup"><span data-stu-id="30e1b-128">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>
 
-2. <span data-ttu-id="12255-120">您的組織必須有 **5** 個人員通過測驗要求條件。</span><span class="sxs-lookup"><span data-stu-id="12255-120">Your organization must have **5** individuals pass the exam requirements.</span></span>
+2. <span data-ttu-id="30e1b-129">您的組織至少必須有 **5** 個人員通過測驗要求條件。</span><span class="sxs-lookup"><span data-stu-id="30e1b-129">Your organization must have at least **5** individuals pass the exam requirements.</span></span>
 
-    - <span data-ttu-id="12255-121">**5** 個人員必須通過下列所有測驗：</span><span class="sxs-lookup"><span data-stu-id="12255-121">**5** individuals must pass all the following exams:</span></span>
-        - <span data-ttu-id="12255-122">[MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx)：Microsoft Dynamics 365 客戶業務開發線上部署</span><span class="sxs-lookup"><span data-stu-id="12255-122">[MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment</span></span>
-        - <span data-ttu-id="12255-123">[MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx)：Microsoft Dynamics 365 自訂和設定</span><span class="sxs-lookup"><span data-stu-id="12255-123">[MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration</span></span>
+    - <span data-ttu-id="30e1b-130">**5** 個人員必須通過下列所有技術測驗：</span><span class="sxs-lookup"><span data-stu-id="30e1b-130">**5** individuals must pass all of the following technical exams:</span></span>
+        - <span data-ttu-id="30e1b-131">[MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx)：Microsoft Dynamics 365 客戶業務開發線上部署</span><span class="sxs-lookup"><span data-stu-id="30e1b-131">[MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment</span></span>
+        - <span data-ttu-id="30e1b-132">[MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx)：Microsoft Dynamics 365 自訂和設定</span><span class="sxs-lookup"><span data-stu-id="30e1b-132">[MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration</span></span>
     
-    **<span data-ttu-id="12255-124">和</span><span class="sxs-lookup"><span data-stu-id="12255-124">AND</span></span>**
+    **<span data-ttu-id="30e1b-133">和</span><span class="sxs-lookup"><span data-stu-id="30e1b-133">AND</span></span>**
     
-    - <span data-ttu-id="12255-125">上述的那 **5** 個人員必須通過下列其中一項測驗：</span><span class="sxs-lookup"><span data-stu-id="12255-125">The same **5** individuals must pass one of the following exams:</span></span>
-        - <span data-ttu-id="12255-126">[MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales</span><span class="sxs-lookup"><span data-stu-id="12255-126">[MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales</span></span>
-        - <span data-ttu-id="12255-127">[MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service</span><span class="sxs-lookup"><span data-stu-id="12255-127">[MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service</span></span>
+    - <span data-ttu-id="30e1b-134">相同或不同的 **5** 個人員必須通過下列其中一項測驗：</span><span class="sxs-lookup"><span data-stu-id="30e1b-134">The same or different **5** individuals must pass one of the following exams:</span></span>
+        - <span data-ttu-id="30e1b-135">[MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales</span><span class="sxs-lookup"><span data-stu-id="30e1b-135">[MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales</span></span>
+        - <span data-ttu-id="30e1b-136">[MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service</span><span class="sxs-lookup"><span data-stu-id="30e1b-136">[MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service</span></span>
+        - <span data-ttu-id="30e1b-137">MB2-877：Microsoft Dynamics 365 for Field Service (於 2017 年 12 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-137">MB2-877: Microsoft Dynamics 365 for Field Service (Available in December 2017)</span></span>
+        
 
-###<a name="gold"></a><span data-ttu-id="12255-128">金會員</span><span class="sxs-lookup"><span data-stu-id="12255-128">Gold</span></span>
-1. <span data-ttu-id="12255-129">Your organization must meet the performance thresholds.</span><span class="sxs-lookup"><span data-stu-id="12255-129">Your organization must meet the performance thresholds.</span></span>
+###<a name="gold"></a><span data-ttu-id="30e1b-138">金會員</span><span class="sxs-lookup"><span data-stu-id="30e1b-138">Gold</span></span>
+1. <span data-ttu-id="30e1b-139">您的組織必須達到下列績效門檻。</span><span class="sxs-lookup"><span data-stu-id="30e1b-139">Your organization must meet the following performance thresholds.</span></span>
 
-    - **<span data-ttu-id="12255-130">已開發市場</span><span class="sxs-lookup"><span data-stu-id="12255-130">Developed Markets</span></span>**
+    - **<span data-ttu-id="30e1b-140">已開發市場</span><span class="sxs-lookup"><span data-stu-id="30e1b-140">Developed Markets</span></span>**
     
-        - <span data-ttu-id="12255-131">合作夥伴必須至少已賺取 $300,000 美元的營收 (TTM 期間的淨新增營收)。</span><span class="sxs-lookup"><span data-stu-id="12255-131">Partner must have earned at least US$300,000 Revenue -  Net New Revenue in the TTM period.</span></span>
+        - <span data-ttu-id="30e1b-141">合作夥伴必須至少已賺取 $300,000 美元的雲端營收 - TTM (最近 12 個月) 期間的淨新增營收。</span><span class="sxs-lookup"><span data-stu-id="30e1b-141">Partner must have earned at least US$300,000 Cloud Revenue -  Net New Revenue in the TTM (trailing twelve months) period.</span></span>
 
-    - **<span data-ttu-id="12255-132">開發中市場</span><span class="sxs-lookup"><span data-stu-id="12255-132">Developing Markets</span></span>**
+    - **<span data-ttu-id="30e1b-142">開發中市場</span><span class="sxs-lookup"><span data-stu-id="30e1b-142">Developing Markets</span></span>**
 
-        - <span data-ttu-id="12255-133">合作夥伴必須至少已賺取 $150,000 美元的營收 (TTM 期間的淨新增營收)。</span><span class="sxs-lookup"><span data-stu-id="12255-133">Partner must have earned at least US$150,000 Revenue -  Net New Revenue in the TTM period.</span></span>
+        - <span data-ttu-id="30e1b-143">合作夥伴必須至少已賺取 $150,000 美元的雲端營收 - TTM 期間的淨新增營收。</span><span class="sxs-lookup"><span data-stu-id="30e1b-143">Partner must have earned at least US$150,000 Cloud Revenue -  Net New Revenue in the TTM period.</span></span>
   
-    - <span data-ttu-id="12255-134">達到 Dynamics 365 Enterprise 計畫 1 及其元件應用程式、Dynamics 365 Enterprise 計畫 2 的營收門檻。</span><span class="sxs-lookup"><span data-stu-id="12255-134">Meet the revenue thresholds from Dynamics 365 Enterprise Plan 1 and its component apps, Dynamics 365 Enterprise Plan 2.</span></span>
-    - <span data-ttu-id="12255-135">這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。</span><span class="sxs-lookup"><span data-stu-id="12255-135">For these customers, you have to be associated as Digital Partner of Record.</span></span>
-    - <span data-ttu-id="12255-136">[深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。</span><span class="sxs-lookup"><span data-stu-id="12255-136">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
+    - <span data-ttu-id="30e1b-144">達到 Dynamics 365 Customer Engagement Plan 及其相關應用程式的營收門檻。</span><span class="sxs-lookup"><span data-stu-id="30e1b-144">Meet the revenue thresholds for Dynamics 365 Customer Engagement Plan and its associated applications.</span></span> 
+    - <span data-ttu-id="30e1b-145">這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。</span><span class="sxs-lookup"><span data-stu-id="30e1b-145">For these customers, you have to be associated as Digital Partner of Record.</span></span>
+    - <span data-ttu-id="30e1b-146">[深入了解](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。</span><span class="sxs-lookup"><span data-stu-id="30e1b-146">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
 
-2. <span data-ttu-id="12255-137">您的組織必須有 **15** 個人員通過測驗要求條件。</span><span class="sxs-lookup"><span data-stu-id="12255-137">Your organization must have **15** individuals pass the exam requirements.</span></span>
+2. <span data-ttu-id="30e1b-147">您的組織至少必須有 **15** 個人員通過測驗要求條件。</span><span class="sxs-lookup"><span data-stu-id="30e1b-147">Your organization must have at least **15** individuals pass the exam requirements.</span></span>
 
-    - <span data-ttu-id="12255-138">**15** 個人員必須通過下列所有測驗：</span><span class="sxs-lookup"><span data-stu-id="12255-138">**15** individuals must pass all the following exams:</span></span>
-        - <span data-ttu-id="12255-139">[MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx)：Microsoft Dynamics 365 客戶業務開發線上部署</span><span class="sxs-lookup"><span data-stu-id="12255-139">[MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment</span></span>
-        - <span data-ttu-id="12255-140">[MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx)：Microsoft Dynamics 365 自訂和設定</span><span class="sxs-lookup"><span data-stu-id="12255-140">[MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration</span></span>
+    - <span data-ttu-id="30e1b-148">**15** 個人員必須通過下列所有技術測驗：</span><span class="sxs-lookup"><span data-stu-id="30e1b-148">**15** individuals must pass all of the following technical exams:</span></span>
+        - <span data-ttu-id="30e1b-149">[MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx)：Microsoft Dynamics 365 客戶業務開發線上部署</span><span class="sxs-lookup"><span data-stu-id="30e1b-149">[MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment</span></span>
+        - <span data-ttu-id="30e1b-150">[MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx)：Microsoft Dynamics 365 自訂和設定</span><span class="sxs-lookup"><span data-stu-id="30e1b-150">[MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration</span></span>
     
-    **<span data-ttu-id="12255-141">和</span><span class="sxs-lookup"><span data-stu-id="12255-141">AND</span></span>**
+    **<span data-ttu-id="30e1b-151">和</span><span class="sxs-lookup"><span data-stu-id="30e1b-151">AND</span></span>**
 
-    - <span data-ttu-id="12255-142">上述的那 **15** 個人員必須通過下列其中一項測驗：</span><span class="sxs-lookup"><span data-stu-id="12255-142">The same **15** individuals must pass one of the following exams:</span></span>
-        - <span data-ttu-id="12255-143">[MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales</span><span class="sxs-lookup"><span data-stu-id="12255-143">[MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales</span></span>
-        - <span data-ttu-id="12255-144">[MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service</span><span class="sxs-lookup"><span data-stu-id="12255-144">[MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service</span></span>
+    - <span data-ttu-id="30e1b-152">相同或不同的 **15** 個人員必須通過下列其中一項測驗：</span><span class="sxs-lookup"><span data-stu-id="30e1b-152">The same or different **15** individuals must pass one of the following exams:</span></span>
+        - <span data-ttu-id="30e1b-153">[MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales</span><span class="sxs-lookup"><span data-stu-id="30e1b-153">[MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales</span></span>
+        - <span data-ttu-id="30e1b-154">[MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service</span><span class="sxs-lookup"><span data-stu-id="30e1b-154">[MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service</span></span>
+        - <span data-ttu-id="30e1b-155">MB2-877：Microsoft Dynamics 365 for Field Service (於 2017 年 12 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-155">MB2-877: Microsoft Dynamics 365 for Field Service (Available in December 2017)</span></span>
 
-##<a name="enterprise-operations-option"></a><span data-ttu-id="12255-145">企業營運選項</span><span class="sxs-lookup"><span data-stu-id="12255-145">Enterprise Operations option</span></span>
-<span data-ttu-id="12255-146">The Enterprise Operations option is ideal for partners engaging with enterprise customers, especially on the Dynamics 365 Operations SKU.</span><span class="sxs-lookup"><span data-stu-id="12255-146">The Enterprise Operations option is ideal for partners engaging with enterprise customers, especially on the Dynamics 365 Operations SKU.</span></span> <span data-ttu-id="12255-147">Complete all the steps within to attain the Cloud Business Applications competency.</span><span class="sxs-lookup"><span data-stu-id="12255-147">Complete all the steps within to attain the Cloud Business Applications competency.</span></span>
+##<a name="enterprise-operations-option"></a><span data-ttu-id="30e1b-156">企業營運選項</span><span class="sxs-lookup"><span data-stu-id="30e1b-156">Enterprise Operations option</span></span>
 
-###<a name="silver"></a><span data-ttu-id="12255-148">Silver</span><span class="sxs-lookup"><span data-stu-id="12255-148">Silver</span></span>
-1. <span data-ttu-id="12255-149">Your organization must meet the performance thresholds.</span><span class="sxs-lookup"><span data-stu-id="12255-149">Your organization must meet the performance thresholds.</span></span>
+<span data-ttu-id="30e1b-157">企業營運選項很適合拓展企業客戶業務 (尤其是在 Dynamics 365 Unified Operations Plan 方面) 的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="30e1b-157">The Enterprise Operations option is ideal for partners engaging with enterprise customers, especially on the Dynamics 365 Unified Operations Plan.</span></span> <span data-ttu-id="30e1b-158">完成其中所有步驟，即可取得雲端業務應用程式專長認證。</span><span class="sxs-lookup"><span data-stu-id="30e1b-158">Complete all the steps within to attain the Cloud Business Applications competency.</span></span>
 
-    - **<span data-ttu-id="12255-150">Developed Markets</span><span class="sxs-lookup"><span data-stu-id="12255-150">Developed Markets</span></span>**
+###<a name="silver"></a><span data-ttu-id="30e1b-159">銀會員</span><span class="sxs-lookup"><span data-stu-id="30e1b-159">Silver</span></span>
+1. <span data-ttu-id="30e1b-160">您的組織必須達到下列績效門檻。</span><span class="sxs-lookup"><span data-stu-id="30e1b-160">Your organization must meet the following performance thresholds.</span></span>
+
+    - **<span data-ttu-id="30e1b-161">已開發市場</span><span class="sxs-lookup"><span data-stu-id="30e1b-161">Developed Markets</span></span>**
     
-        - <span data-ttu-id="12255-151">Partner must have earned at least US$100,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise</span><span class="sxs-lookup"><span data-stu-id="12255-151">Partner must have earned at least US$100,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise</span></span>
-        - <span data-ttu-id="12255-152">Partner must have earned a minimum of US$25,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period</span><span class="sxs-lookup"><span data-stu-id="12255-152">Partner must have earned a minimum of US$25,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period</span></span>
+        - <span data-ttu-id="30e1b-162">合作夥伴必須至少已從 Dynamics 365 Enterprise Plan (之前稱為 Plan 2)、Unified Operations Plan 及其相關應用程式，以及 AX 2012 On-Premises 或 Dynamics 365 for Operations (On-Premises) 賺取 $100,000 美元的營收</span><span class="sxs-lookup"><span data-stu-id="30e1b-162">Partner must have earned at least US$100,000 Revenue from Dynamics 365 Enterprise Plan (formerly Plan 2), Unified Operations Plan and its associated applications, and AX 2012 On-Premises or Dynamics 365 for Operations (On-Premises)</span></span>
+
+        - <span data-ttu-id="30e1b-163">合作夥伴必須至少已從 Dynamics 365 Enterprise Plan (之前稱為 Plan 2) 和 Unified Operations Plan 及其相關應用程式賺取至少 $25,000 美元的雲端營收 (TTM 期間的淨新增營收)。</span><span class="sxs-lookup"><span data-stu-id="30e1b-163">Partner must have earned a minimum of US$25,000 Cloud Revenue, Net New Revenue in the TTM period from Dynamics 365 Enterprise Plan (formerly Plan 2) and Unified Operations Plan and its associated applications.</span></span> 
   
-    - **<span data-ttu-id="12255-153">開發中市場</span><span class="sxs-lookup"><span data-stu-id="12255-153">Developing Markets</span></span>**
+    - **<span data-ttu-id="30e1b-164">開發中市場</span><span class="sxs-lookup"><span data-stu-id="30e1b-164">Developing Markets</span></span>**
 
-        - <span data-ttu-id="12255-154">合作夥伴必須已從 Dynamics 365 Enterprise 計畫 2、Operations SKU 和 AX 2012 內部部署賺取至少 $50,000 美元營收</span><span class="sxs-lookup"><span data-stu-id="12255-154">Partner must have earned at least US$50,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise</span></span>
-        - <span data-ttu-id="12255-155">合作夥伴必須已從 Dynamics 365 Enterprise 計畫 2 和 Operations SKU 賺取至少 $12,000 美元營收 (TTM 期間的新增營收)</span><span class="sxs-lookup"><span data-stu-id="12255-155">Partner must have earned a minimum of US$12,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period</span></span> 
+        - <span data-ttu-id="30e1b-165">合作夥伴必須至少已從 Dynamics 365 Enterprise Plan (之前稱為 Plan 2)、Unified Operations Plan 及其相關應用程式，以及 AX 2012 On-Premises 或 Dynamics 365 for Operations (On-Premises) 賺取 $50,000 美元的營收</span><span class="sxs-lookup"><span data-stu-id="30e1b-165">Partner must have earned at least US$50,000 Revenue from Dynamics 365 Enterprise Plan (formerly Plan 2), Unified Operations Plan and its associated applications, and AX 2012 On-Premises or Dynamics 365 for Operations (On-Premises)</span></span>
 
-    - <span data-ttu-id="12255-156">這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。</span><span class="sxs-lookup"><span data-stu-id="12255-156">For these customers, you have to be associated as Digital Partner of Record.</span></span>
-    - <span data-ttu-id="12255-157">[深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。</span><span class="sxs-lookup"><span data-stu-id="12255-157">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
+        - <span data-ttu-id="30e1b-166">合作夥伴必須至少已從 Dynamics 365 Enterprise Plan (之前稱為 Plan 2) 和 Unified Operations Plan 及其相關應用程式賺取至少 $12,000 美元的雲端營收 (TTM 期間的淨新增營收)</span><span class="sxs-lookup"><span data-stu-id="30e1b-166">Partner must have earned a minimum of US$12,000 Cloud Revenue, Net New Revenue in the TTM period from Dynamics 365 Enterprise Plan (formerly Plan 2) and Unified Operations Plan and its associated applications</span></span> 
+      
+    - <span data-ttu-id="30e1b-167">這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。</span><span class="sxs-lookup"><span data-stu-id="30e1b-167">For these customers, you have to be associated as Digital Partner of Record.</span></span>
+    - <span data-ttu-id="30e1b-168">[深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。</span><span class="sxs-lookup"><span data-stu-id="30e1b-168">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
 
-2. <span data-ttu-id="12255-158">您的組織必須有 **5** 個人員通過測驗要求條件。</span><span class="sxs-lookup"><span data-stu-id="12255-158">Your organization must have **5** individuals pass the exam requirements.</span></span>
+2. <span data-ttu-id="30e1b-169">您的組織必須有 **5** 個人員通過測驗要求條件。</span><span class="sxs-lookup"><span data-stu-id="30e1b-169">Your organization must have **5** individuals pass the exam requirements.</span></span>
+
+    - <span data-ttu-id="30e1b-170">**5** 個人員必須通過下列所有技術測驗：</span><span class="sxs-lookup"><span data-stu-id="30e1b-170">**5** individuals must pass all of the following technical exams:</span></span> 
+
+        - <span data-ttu-id="30e1b-171">MB6-894：開發、擴充和部署 Dynamics 365 Finance and Operations 企業版 (於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-171">MB6-894: Development, Extensions and Deployment for Dynamics 365 Finance and Operations, Enterprise edition (Available in November 2017)</span></span>
+
+        - <span data-ttu-id="30e1b-172">70-534：建構 Microsoft Azure 解決方案 (於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-172">70-534: Architecting Microsoft Azure Solutions (Available in November 2017)</span></span>
+
+    **<span data-ttu-id="30e1b-173">和</span><span class="sxs-lookup"><span data-stu-id="30e1b-173">AND</span></span>**
+    
+    - <span data-ttu-id="30e1b-174">相同或不同的 **5** 個人員必須通過下列其中一項功能測驗：(於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-174">The same or different **5** individuals must pass one of the following functional exams: (Available in November 2017)</span></span>
+        
+        - <span data-ttu-id="30e1b-175">MB6-895： Microsoft Dynamics 365 for Finance and Operations 企業版中的財務管理 (於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-175">MB6-895: Financials Management in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (Available in November 2017)</span></span>
+        
+        - <span data-ttu-id="30e1b-176">MB6-896：Microsoft Dynamics 365 for Finance and Operations 企業版中的配送和貿易 (於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-176">MB6-896: Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (Available in November 2017)</span></span>
+        
+        - <span data-ttu-id="30e1b-177">MB6-897：Microsoft Dynamics 365 for Retail (於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-177">MB6-897: Microsoft Dynamics 365 for Retail (Available in November 2017)</span></span>
+
+    **<span data-ttu-id="30e1b-178">或</span><span class="sxs-lookup"><span data-stu-id="30e1b-178">OR</span></span>**
+
+    - <span data-ttu-id="30e1b-179">**5** 個人員必須通過下列所有功能和技術測驗：</span><span class="sxs-lookup"><span data-stu-id="30e1b-179">**5** individuals must pass all of the following functional and technical exams:</span></span>
+        - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
+        - <span data-ttu-id="30e1b-180">[MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx)：Microsoft Dynamics AX 財務*</span><span class="sxs-lookup"><span data-stu-id="30e1b-180">[MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials*</span></span>
+        - <span data-ttu-id="30e1b-181">[MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx)：Microsoft Dynamics AX 配送和貿易*</span><span class="sxs-lookup"><span data-stu-id="30e1b-181">[MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade*</span></span>
+        - <span data-ttu-id="30e1b-182">[MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx)：Microsoft Dynamics AX 開發簡介*</span><span class="sxs-lookup"><span data-stu-id="30e1b-182">[MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction*</span></span>
+        - <span data-ttu-id="30e1b-183">[70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 Microsoft SQL 資料庫基礎結構*</span><span class="sxs-lookup"><span data-stu-id="30e1b-183">[70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a Microsoft SQL Database Infrastructure*</span></span>
+
+<span data-ttu-id="30e1b-184">\* 2017 年 12 月 31 日即將淘汰。</span><span class="sxs-lookup"><span data-stu-id="30e1b-184">\* Retiring December 31, 2017.</span></span> <span data-ttu-id="30e1b-185">在 2018 年 12 月 31 日前，仍可接受這些測驗結果做為專長認證資格。</span><span class="sxs-lookup"><span data-stu-id="30e1b-185">These exams will continue to be accepted for competency qualification until December 31, 2018.</span></span>
+
+###<a name="gold"></a><span data-ttu-id="30e1b-186">金會員</span><span class="sxs-lookup"><span data-stu-id="30e1b-186">Gold</span></span>
+
+1. <span data-ttu-id="30e1b-187">您的組織必須達到下列績效門檻。</span><span class="sxs-lookup"><span data-stu-id="30e1b-187">Your organization must meet the following performance thresholds.</span></span>
+
+    - **<span data-ttu-id="30e1b-188">已開發市場</span><span class="sxs-lookup"><span data-stu-id="30e1b-188">Developed Markets</span></span>**
+
+        - <span data-ttu-id="30e1b-189">合作夥伴必須至少已從 Dynamics 365 Enterprise Plan (之前稱為 Plan 2)、Unified Operations Plan 及其相關應用程式，以及 AX 2012 On-Premises 或 Dynamics 365 for Operations (On-Premises) 賺取 $300,000 美元的營收</span><span class="sxs-lookup"><span data-stu-id="30e1b-189">Partner must have earned at least US$300,000 Revenue from Dynamics 365 Enterprise Plan (formerly Plan 2), Unified Operations Plan and its associated applications, and AX 2012 On-Premises or Dynamics 365 for Operations (On-Premises)</span></span>
+
+        - <span data-ttu-id="30e1b-190">合作夥伴必須至少已從 Dynamics 365 Enterprise Plan (之前稱為 Plan 2) 和 Unified Operations Plan 及其相關應用程式賺取至少 $75,000 美元的雲端營收 (TTM 期間的淨新增營收)。</span><span class="sxs-lookup"><span data-stu-id="30e1b-190">Partner must have earned a minimum of US$75,000 Cloud Revenue, Net New Revenue in the TTM period from Dynamics 365 Enterprise Plan (formerly Plan 2) and Unified Operations Plan and its associated applications.</span></span> 
+
+    - **<span data-ttu-id="30e1b-191">開發中市場</span><span class="sxs-lookup"><span data-stu-id="30e1b-191">Developing Markets</span></span>**
+
+        - <span data-ttu-id="30e1b-192">合作夥伴必須至少已從 Dynamics 365 Enterprise Plan (之前稱為 Plan 2)、Unified Operations Plan 及其相關應用程式，以及 AX 2012 On-Premise 或 Dynamics 365 for Operations (On-Premises) 賺取 $150,000 美元的營收</span><span class="sxs-lookup"><span data-stu-id="30e1b-192">Partner must have earned at least US$150,000 Revenue from Dynamics 365 Enterprise Plan (formerly Plan 2), Unified Operations Plan and its associated applications, and AX 2012 On-Premise or Dynamics 365 for Operations (On-Premises)</span></span>
+
+        - <span data-ttu-id="30e1b-193">合作夥伴必須至少已從 Dynamics 365 Enterprise Plan (之前稱為 Plan 2) 和 Unified Operations Plan 及其相關應用程式賺取至少 $37,000 美元的雲端營收 (TTM 期間的淨新增營收)。</span><span class="sxs-lookup"><span data-stu-id="30e1b-193">Partner must have earned a minimum of US$37,000 Cloud Revenue, Net New Revenue in the TTM period from Dynamics 365 Enterprise Plan (formerly Plan 2) and Unified Operations Plan and its associated applications.</span></span> 
+
+    - <span data-ttu-id="30e1b-194">這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。</span><span class="sxs-lookup"><span data-stu-id="30e1b-194">For these customers, you have to be associated as Digital Partner of Record.</span></span>
+    - <span data-ttu-id="30e1b-195">[深入了解](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。</span><span class="sxs-lookup"><span data-stu-id="30e1b-195">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
+
+
+2. <span data-ttu-id="30e1b-196">您的組織至少必須有 **15** 個人員通過測驗要求條件。</span><span class="sxs-lookup"><span data-stu-id="30e1b-196">Your organization must have at least **15** individuals pass the exam requirements.</span></span>
+
+   - <span data-ttu-id="30e1b-197">**15** 個人員必須通過下列所有技術測驗：</span><span class="sxs-lookup"><span data-stu-id="30e1b-197">**15** individuals must pass all of the following technical exams:</span></span> 
+
+        - <span data-ttu-id="30e1b-198">MB6-894：開發、擴充和部署 Dynamics 365 Finance and Operations 企業版 (於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-198">MB6-894: Development, Extensions and Deployment for Dynamics 365 Finance and Operations, Enterprise edition (Available in November 2017)</span></span>
+
+        - <span data-ttu-id="30e1b-199">70-534：建構 Microsoft Azure 解決方案 (於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-199">70-534: Architecting Microsoft Azure Solutions (Available in November 2017)</span></span>
+
+   **<span data-ttu-id="30e1b-200">和</span><span class="sxs-lookup"><span data-stu-id="30e1b-200">AND</span></span>**
+    
+    - <span data-ttu-id="30e1b-201">相同或不同的 **15** 個人員必須通過下列其中一項功能測驗：</span><span class="sxs-lookup"><span data-stu-id="30e1b-201">The same or different **15** individuals must pass one of the following functional exams:</span></span>
+        
+        - <span data-ttu-id="30e1b-202">MB6-895： Microsoft Dynamics 365 for Finance and Operations 企業版中的財務管理 (於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-202">MB6-895: Financials Management in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (Available in November 2017)</span></span>
+        - <span data-ttu-id="30e1b-203">MB6-895： Microsoft Dynamics 365 for Finance and Operations 企業版中的配送和貿易 (於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-203">MB6-896: Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (Available in November 2017)</span></span>
+        - <span data-ttu-id="30e1b-204">MB6-897：Microsoft Dynamics 365 for Retail (於 2017 年 11 月推出)</span><span class="sxs-lookup"><span data-stu-id="30e1b-204">MB6-897: Microsoft Dynamics 365 for Retail (Available in November 2017)</span></span>
+
+    **<span data-ttu-id="30e1b-205">或</span><span class="sxs-lookup"><span data-stu-id="30e1b-205">OR</span></span>**
+    - <span data-ttu-id="30e1b-206">**15** 個人員必須通過下列所有功能和技術測驗：</span><span class="sxs-lookup"><span data-stu-id="30e1b-206">**15** individuals must pass all of the following functional and technical exams:</span></span>
+       - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
+       - <span data-ttu-id="30e1b-207">[MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx)：Microsoft Dynamics AX 財務*</span><span class="sxs-lookup"><span data-stu-id="30e1b-207">[MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials*</span></span>
+       - <span data-ttu-id="30e1b-208">[MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx)：Microsoft Dynamics AX 配送和貿易*</span><span class="sxs-lookup"><span data-stu-id="30e1b-208">[MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade*</span></span>
+       - <span data-ttu-id="30e1b-209">[MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx)：Microsoft Dynamics AX 開發簡介*</span><span class="sxs-lookup"><span data-stu-id="30e1b-209">[MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction*</span></span>
+       - <span data-ttu-id="30e1b-210">[70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 Microsoft SQL 資料庫基礎結構*</span><span class="sxs-lookup"><span data-stu-id="30e1b-210">[70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a Microsoft SQL Database Infrastructure*</span></span>
  
-    - <span data-ttu-id="12255-159">**5** 個人員必須通過下列所有測驗：</span><span class="sxs-lookup"><span data-stu-id="12255-159">**5** individuals must pass all the following exams:</span></span>
-        - <span data-ttu-id="12255-160">[MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx)：Microsoft Dynamics AX 財務</span><span class="sxs-lookup"><span data-stu-id="12255-160">[MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials</span></span>
-        - <span data-ttu-id="12255-161">[MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx)：Microsoft Dynamics AX 配送和貿易</span><span class="sxs-lookup"><span data-stu-id="12255-161">[MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade</span></span>
-        - <span data-ttu-id="12255-162">[MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx)：Microsoft Dynamics AX 開發簡介</span><span class="sxs-lookup"><span data-stu-id="12255-162">[MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction</span></span>
-        - <span data-ttu-id="12255-163">[70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 Microsoft SQL 資料庫基礎結構</span><span class="sxs-lookup"><span data-stu-id="12255-163">[70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a Microsoft SQL Database Infrastructure</span></span>
-
-###<a name="gold"></a><span data-ttu-id="12255-164">金會員</span><span class="sxs-lookup"><span data-stu-id="12255-164">Gold</span></span>
-
-1. <span data-ttu-id="12255-165">Your organization must meet the performance thresholds.</span><span class="sxs-lookup"><span data-stu-id="12255-165">Your organization must meet the performance thresholds.</span></span>
-
-    - **<span data-ttu-id="12255-166">Developed Markets</span><span class="sxs-lookup"><span data-stu-id="12255-166">Developed Markets</span></span>**
-
-        - <span data-ttu-id="12255-167">Partner must have earned at least US$300,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise</span><span class="sxs-lookup"><span data-stu-id="12255-167">Partner must have earned at least US$300,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise</span></span>
-        - <span data-ttu-id="12255-168">Partner must have earned a minimum of US$75,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period</span><span class="sxs-lookup"><span data-stu-id="12255-168">Partner must have earned a minimum of US$75,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period</span></span>
-  
-    - **<span data-ttu-id="12255-169">開發中市場</span><span class="sxs-lookup"><span data-stu-id="12255-169">Developing Markets</span></span>**
-
-        - <span data-ttu-id="12255-170">合作夥伴必須已從 Dynamics 365 Enterprise 計畫 2、Operations SKU 和 AX 2012 內部部署賺取至少 $150,000 美元營收</span><span class="sxs-lookup"><span data-stu-id="12255-170">Partner must have earned at least US$150,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise</span></span> 
-        - <span data-ttu-id="12255-171">合作夥伴必須已從 Dynamics 365 Enterprise 計畫 2 和 Operations SKU 賺取至少 $37,000 美元營收 (TTM 期間的新增營收)</span><span class="sxs-lookup"><span data-stu-id="12255-171">Partner must have earned a minimum of US$37,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period</span></span> 
-
-    - <span data-ttu-id="12255-172">這些客戶必須將您當做「有記錄可查的數位合作夥伴」納入關聯。</span><span class="sxs-lookup"><span data-stu-id="12255-172">For these customers, you have to be associated as Digital Partner of Record.</span></span>
-    - <span data-ttu-id="12255-173">[深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。</span><span class="sxs-lookup"><span data-stu-id="12255-173">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
-
-
-2. <span data-ttu-id="12255-174">您的組織必須有 **15** 個人員通過測驗要求條件。</span><span class="sxs-lookup"><span data-stu-id="12255-174">Your organization must have **15** individuals pass the exam requirements.</span></span>
-
-    - <span data-ttu-id="12255-175">**15** 個人員必須通過下列所有測驗：</span><span class="sxs-lookup"><span data-stu-id="12255-175">**15** individuals must pass all the following exams:</span></span>
-        - <span data-ttu-id="12255-176">[MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx)：Microsoft Dynamics AX 財務</span><span class="sxs-lookup"><span data-stu-id="12255-176">[MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials</span></span>
-        - <span data-ttu-id="12255-177">[MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx)：Microsoft Dynamics AX 配送和貿易</span><span class="sxs-lookup"><span data-stu-id="12255-177">[MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade</span></span>
-        - <span data-ttu-id="12255-178">[MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx)：Microsoft Dynamics AX 開發簡介</span><span class="sxs-lookup"><span data-stu-id="12255-178">[MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction</span></span>
-        - <span data-ttu-id="12255-179">[70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 Microsoft SQL 資料庫基礎結構</span><span class="sxs-lookup"><span data-stu-id="12255-179">[70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a Microsoft SQL Database Infrastructure</span></span>
- 
+<span data-ttu-id="30e1b-211">\* 2017 年 12 月 31 日即將淘汰。</span><span class="sxs-lookup"><span data-stu-id="30e1b-211">\* Retiring December 31, 2017.</span></span> <span data-ttu-id="30e1b-212">在 2018 年 12 月 31 日前，仍可接受做為專長認證資格。</span><span class="sxs-lookup"><span data-stu-id="30e1b-212">Will continue to be accepted for Competency qualification until December 31, 2018.</span></span>
