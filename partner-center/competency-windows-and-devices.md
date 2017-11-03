@@ -4,11 +4,11 @@ description: "分享我們邁向有 10 億部裝置安裝 Windows 10 的目標�
 author: Daniel Simpson
 robots: noindex,nofollow
 keywords: "專長認證, 各項專長認證, Windows 與裝置"
-ms.openlocfilehash: cb41a30e8a578471fd0866cfe343a9b8dd11978b
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 #<a name="windows-and-devices"></a>Windows 與裝置 
 分享我們邁向有 10 億部裝置安裝 Windows 10 的目標。 商機囊括服務、應用程式和裝置。 這個專長認證提供可協助您開創和拓展有利可圖之 Windows 10 業務營運的工具、內容及資源。
@@ -87,7 +87,7 @@ ms.lasthandoff: 09/29/2017
 
         - **系統建置商**專長領域
 
-            - [測驗 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx)：Windows 10 OEM 預先安裝
+            - [測驗 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx)：Windows 10 的 OEM 製造與部署
 
     **或**
 

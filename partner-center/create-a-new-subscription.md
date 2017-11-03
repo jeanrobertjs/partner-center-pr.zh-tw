@@ -3,10 +3,11 @@ title: "建立新訂閱 | 合作夥伴中心"
 description: "當您在合作夥伴中心中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。"
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 7573af36bfe8c1c0a0840bee6840cd4e58610625
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
+ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 10/17/2017
 ---
 # <a name="create-a-new-subscription"></a>建立新訂閱
 
@@ -17,6 +18,9 @@ ms.contentlocale: zh-TW
 -  Microsoft Cloud 德國合作夥伴中心
 
 當您在合作夥伴中心中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。
+
+請注意，某些供應項目會限制每一個客戶只能擁有一個訂閱。 若要查看受限制的供應項目清單，請造訪合作夥伴中心 \[定價與方案\] 頁面、開啟 \[方案組合\]，並選取 \[Office_Dynamics_Windows_Intune\] 索引標籤的 I 欄。 
+
 
 **建立新訂閱**
 

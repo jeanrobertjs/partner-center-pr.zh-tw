@@ -3,11 +3,11 @@ title: "工作帳戶和合作夥伴中心 | 合作夥伴中心"
 description: "若要建立合作夥伴中心帳戶，您的公司必須有工作帳戶。"
 author: labrenne
 robots: 
-ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 # <a name="your-work-account-and-partner-center"></a>您的工作帳戶與合作夥伴中心  
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 09/29/2017
 
 # <a name="why-you-need-a-work-account"></a>您必須有工作帳戶的原因
 
-我們需要將組織的工作帳戶連結至新的合作夥伴中心帳戶，讓您的租用戶可以使用他們的 Azure AD (工作帳戶) 使用者名稱和密碼來登入合作夥伴中心。
+我們需要將組織的工作帳戶連結至新的合作夥伴中心帳戶，讓您的帳戶使用者可以使用他們的工作帳戶使用者名稱和密碼來登入合作夥伴中心。
 
 如果您的公司已經有工作帳戶，就可以將其連結至您的合作夥伴中心帳戶。 
 
@@ -25,9 +25,9 @@ ms.lasthandoff: 09/29/2017
 
 如果公司還沒有工作帳戶，您可以在註冊過程中免費建立這個帳戶。 選取 **\[登入 Azure Active Directory\]** 頁面中的 **\[建立新的租用戶\]**。 建立新的 Azure Active Directory 租用戶時，您將會建立新的工作帳戶。 Azure Active Directory 是 Microsoft 的單一登入識別身分管理解決方案。
 
-## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>不確定您的公司是否已經有 Azure 工作帳戶？
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>不確定您的公司是否已經有工作帳戶？
 
-如果不確定您的公司是否有 Azure 工作帳戶，請依照下列步驟檢查 請注意，如果您有使用中的 Microsoft Azure 或 Office 365 訂用帳戶，就已經擁有 Azure 工作帳戶。
+如果不確定您的公司是否有工作帳戶，請依照下列步驟檢查。 請注意，如果您有使用中的 Microsoft Azure 或 Office 365 訂用帳戶，就已經擁有工作帳戶。
 1.  登入 Azure 管理入口網站 (網址為 https://ms.portal.azure.com)。
 2.  從功能表選取 [Azure Active Directory]，然後選取 [網域名稱]。
 3.  如果您已經有工作帳戶，將會列出您的網域名稱。
@@ -36,7 +36,7 @@ ms.lasthandoff: 09/29/2017
 
 如果您想要使用現有的工作帳戶但無法登入時，請在下面圖表中尋找最符合您的情形的案例，並依照建議的步驟進行。 
 
-![您有 Azure 工作帳戶嗎？還是您需要建立一個？](images/onboardingAADFlow.png)
+![您有工作帳戶嗎？還是您需要建立一個？](images/onboardingAADFlow.png)
 
 如需關於在 Azure AD 中新增網域的詳細資訊，請參閱[在 Azure AD 中新增網域或建立網域關聯](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
