@@ -1,72 +1,72 @@
 ---
-title: Responding to referrals | Partner Center
-description: Evaluate, negotiate, and respond to referrals through Partner Center.
+title: "回應推薦 | 合作夥伴中心"
+description: "透過合作夥伴中心評估、交涉和回應推薦。"
 author: KPacquer
-keywords: referral, RFI, Find a Partner
+keywords: "推薦, RFI, 尋找合作夥伴"
 ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/07/2017
 ---
-# <a name="responding-to-referrals-in-partner-center"></a>Responding to referrals in Partner Center
+# <a name="responding-to-referrals-in-partner-center"></a>在合作夥伴中心回應推薦
 
-**Applies to**
+**適用於**
 
--  Partner Center
+-  合作夥伴中心
 
-As a qualified Microsoft partner, you can receive potential business leads through Partner Center referrals. Manage your incoming leads, respond quickly to those that are a good fit, and skip or decline those that aren’t. Review the types of leads that come in. 
+身為 Microsoft 合格合作夥伴，您可以透過合作夥伴中心推薦接收業務潛在客戶。 管理您的輸入業務潛在客戶，快速回應好的業務潛在客戶，跳過或拒絕那些不好的業務潛在客戶。 檢閱傳入的業務潛在客戶類型。 
 
-## <a name="referral-management"></a>Referral management
+## <a name="referral-management"></a>推薦管理
 
-為您執行業務的每個地區，從設定[行銷設定檔](create-a-marketing-profile.md)開始。 Once your profile is active, we’ll be able to direct customers to your business, through:
+為您執行業務的每個地區，從設定[行銷設定檔](create-a-marketing-profile.md)開始。 一旦您的設定檔為使用中，我們將透過下列方式將客戶導向您的企業：
 
-*  Microsoft marketing activities
-*  Internal Microsoft sales and service agents
+*  Microsoft 行銷活動
+*  內部 Microsoft 銷售和服務專員
 *  使用**[尋找合作夥伴](https://partnercenter.microsoft.com/pcv/search)**工具的客戶搜尋。
 
-When a customer is interested in contacting you, they’ll submit a request for information (RFI). 
+客戶有興趣與您連絡時，他們會提交資訊要求 (RFI)。 
 
 發生這種情形時，我們將傳送電子郵件給您的所選地區和位置專屬[行銷設定檔](create-a-marketing-profile.md)中所列的連絡人。 您也可以在合作夥伴中心查看傳入 RFI：移至 **\[儀表板\] > \[推薦\] > \[客戶推薦\]**。
 
-Customers often choose to send the same RFI to multiple companies at the same time. To increase your chance of success, we recommend responding to and accepting or declining new referrals within 24 hours or less.
+客戶通常選擇同時傳送相同的 RFI 給多家公司。 若要提升您的成功機會，我們建議在 24 小時内回應並接受或拒絕新推薦。
 
-### <a name="new-referrals"></a>New referrals
+### <a name="new-referrals"></a>新推薦
 
-We’ll show you an overview of the RFI. From here, you can decide whether you’re interested in learning more about the referral. 
+我們將為您顯示 RFI 概觀。 從這裡，您可以決定是否有興趣深入了解推薦。 
 
 *  **我有興趣**：我們會將推薦移至 **\[評估中\]**，而且您會看到客戶和優惠完整的詳細資料。 
-*  **不，謝謝**：我們會將它封存為 **\[已略過\]**。 We’ll notify the customer to choose a different partner.
-*  如果您未在 72 小時內回應，我們會將它封存為 **\[已錯過\]**。 We’ll notify the customer to choose a different partner.
+*  **不，謝謝**：我們會將它封存為 **\[已略過\]**。 我們將通知客戶選擇不同的合作夥伴。
+*  如果您未在 72 小時內回應，我們會將它封存為 **\[已錯過\]**。 我們將通知客戶選擇不同的合作夥伴。
 
-### <a name="evaluating-referrals"></a>Evaluating referrals
+### <a name="evaluating-referrals"></a>評估推薦
 
-Review the details, and contact the customer. Talk to them about their business needs, and determine if you have an offer that can help them. Accept or decline the referral: 
+檢閱詳細資料，並與客戶連絡。 與他們談論商務需求，並決定您是否有優惠方案可協助他們。 接受或拒絕推薦： 
 
-*  **接受**：輸入估計的交易價值，估計的結束日期，然後選取 **\[接受\]**。 We’ll use this information to help you find similar deals. 我們會將推薦移至 **\[交涉中\]**。 This tells us that you plan to actively engage with the customer to address their need.
-*  **拒絕**：我們會將它封存為 **\[已拒絕\]**。 We’ll notify the customer to choose a different partner.
-*  如果您未在 7 天內回應，我們會將它封存為 **\[已過期\]**。 We’ll notify the customer to choose a different partner.
+*  **接受**：輸入估計的交易價值，估計的結束日期，然後選取 **\[接受\]**。 我們會使用此資訊，協助您尋找類似交易。 我們會將推薦移至 **\[交涉中\]**。 這會告訴我們，您打算積極處理客戶需求。
+*  **拒絕**：我們會將它封存為 **\[已拒絕\]**。 我們將通知客戶選擇不同的合作夥伴。
+*  如果您未在 7 天內回應，我們會將它封存為 **\[已過期\]**。 我們將通知客戶選擇不同的合作夥伴。
 
-### <a name="negotiating-referrals"></a>Negotiating referrals
+### <a name="negotiating-referrals"></a>交涉推薦
 
-Work to close the deal with the customer. 讓我們知道您贏得或失去交易，我們會將它封存 **\[已成交\]** 或 **\[未成交\]**。 
+努力與客戶完成交易。 讓我們知道您贏得或失去交易，我們會將它封存 **\[已成交\]** 或 **\[未成交\]**。 
 
-### <a name="archived-referrals"></a>Archived referrals
+### <a name="archived-referrals"></a>封存的推薦
 
 隨時檢閱您過去的推薦 (**已成交、未成交、已略過、已錯誤、已拒絕**或**已過期**)。 
 
-## <a name="getting-more-referrals"></a>Getting more referrals
+## <a name="getting-more-referrals"></a>取得更多推薦
 
-Here’s some tips to help make sure you’re getting more referrals that are appropriate to your business:
+以下是一些秘訣，協助確保您可以獲得您企業適用的更多推薦：
 
 *  **針對每一個位置，檢閱您的[行銷設定檔](create-a-marketing-profile.md)中的連絡人資訊**，確定您的小組取得傳入的通知。
 
-*  在您的[行銷設定檔](create-a-marketing-profile.md)中，**選擇關鍵字和喜好設定，表示您的唯一專業和業務模式**。 Remove keywords that would generate referrals for you’re not interested in. If you’re not interested in dealing with businesses of a certain size, update this preference.
+*  在您的[行銷設定檔](create-a-marketing-profile.md)中，**選擇關鍵字和喜好設定，表示您的唯一專業和業務模式**。 移除可能產生您不感興趣之推薦的關鍵字。 如果您沒興趣與特定大小的企業交易，請更新此喜好設定。
 
-*  **快速回應推薦**。 When you respond in a timely fashion to incoming requests, we’ll increase your visibility in future customer search results. Make sure your team responds quickly with your intent.
+*  **快速回應推薦**。 當您及時回應傳入的要求時，我們會在未來客戶搜尋結果中增加您的可見度。 請確定您的團隊快速回應並表明意向。
 
-*  **選擇您接受的交易**。 We monitor the types of deals that you accept and decline, and use this information to help find you similar deals. 
+*  **選擇您接受的交易**。 我們會監視您接受和拒絕的交易類型，並使用此資訊來協助找出您類似交易。 
 
-   Accepting deals that aren’t a good fit won’t improve your search results and could impact the quality of the leads you receive.
+   接受不適合的交易，不會改善您的搜尋結果，可能會影響您收到的潛在客戶品質。
 
-*  **回報預估的交易大小、結束日期，以及交易的最後狀態**（已成交或未成交）。 We’ll use this info to continue to provide you with quality referrals.
+*  **回報預估的交易大小、結束日期，以及交易的最後狀態**（已成交或未成交）。 我們會使用此資訊來繼續為您提供高品質推薦。
