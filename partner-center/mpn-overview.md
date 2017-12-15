@@ -2,36 +2,51 @@
 title: "Microsoft 合作夥伴網路會員資格 | 合作夥伴中心"
 description: "了解加入 Microsoft 合作夥伴網路可獲得的權益。"
 author: MaggiePucciEvans
-ms.openlocfilehash: c265251cfc7ba49032aea16e46a687cb34670a38
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+keywords: "合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格"
+ms.openlocfilehash: f429908c69f154e9a25af3c2688011491d7b4125
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-on-partner-center"></a>在合作夥伴中心管理 Microsoft 合作夥伴網路會員資格
+# <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
 
-## <a name="three-paths-to-partnership"></a>三個建立合作關係的途徑
+## <a name="join-the-microsoft-partner-network"></a>加入 Microsoft 合作夥伴網路
 
-Microsoft 合作夥伴網路提供三種類型的會員資格。 每個類型都會提供一組可協助您拓展業務的權益。 當您達到您的目標時，請參與符合您獨特業務需求的會員等級，以便存取相應權益，並發展您與我們及網路其他合作夥伴的關係。
+Microsoft 合作夥伴網路提供三種類型的會員資格。 每個類型都會提供一組可協助您拓展業務的權益。 當您達到您的目標時，請參與計畫中符合您獨特業務需求的會員等級，以便存取更多權益，並發展您與我們及網路其他合作夥伴的關係。
 
--   **網路會員**。 當您在此免費的基本等級加入時，您會收到一組[核心內部使用權限權益]( https://partner.microsoft.com/membership/core-benefits)，可協助您建立業務並採取下一個步驟。
+-   **網路會員**：當您加入這個免費的基本等級，您會收到一組[核心內部使用權權益](https://partner.microsoft.com/membership/core-benefits)，可協助您節省時間和金錢，同時加強您的功能、提供更好的客戶服務，以及建立人脈，實現完整業務潛能。
 
--   **行動套件。** 購買[行動套件](mpn-get-action-pack.md)這個經濟實惠的年費型服務，可獲得額外的權益，包括開發人員工具、支援、訓練及軟體的存取權。
+    [深入了解 Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/how-it-works)
 
--   **專長認證** 證明您在一個或多個特殊業務領域中提供高品質解決方案方面卓有建樹的專長。 Microsoft 專長認證是設計來讓您做好滿足客戶需求的準備，以及協助您吸引正在尋找 Microsoft 認證解決方案提供者的新客戶。 
+    [立即加入 Microsoft 合作夥伴網路](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
 
-    -   贏得銀會員資格可證明您始終如一的能力、專長與承諾
+-   **行動寶盒**：購買行動寶盒，這個經濟實惠的年費型服務，可獲得額外的網路權益，包括開發人員工具、支援、訓練及軟體的存取權。 在這個等級，您可以提升您專業並開發新的技術。
 
-    -   贏得金會員資格可證明您在特定 Microsoft 解決方案領域中的能力一流
+    [深入了解 Microsoft 行動寶盒](https://partner.microsoft.com/membership/action-pack)
 
-    [深入了解](learn-about-competencies.md)銀會員及金會員資格的專長認證要求條件
+    [立即訂閱行動寶盒](mpn-get-action-pack.md)
 
+-   **專長認證**：證明您在一個或多個特殊業務領域中提供高品質解決方案方面卓有建樹的專長。 Microsoft 專長認證是設計來讓您做好準備，以便滿足客戶需求以及獲得潛在客戶肯定。 加入 Microsoft 合作夥伴菁英層，從同儕中脫穎而出。
 
-## <a name="next-steps"></a>後續步驟
+    -   贏得銀級專長認證，可證明您始終如一的能力、專長與承諾
 
-[建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)
+    -   贏得金級專長認證，可證明您在特定 Microsoft 解決方案領域中的能力一流
 
-[購買或續約行動套件](mpn-get-action-pack.md)
+    [深入了解獲得銀級和金級專長認證](https://partner.microsoft.com/membership/competencies)
 
-[了解雲端解決方案提供者計畫](https://partner.microsoft.com/cloud-solution-provider)
+   
+## <a name="get-started-with-partner-center"></a>開始使用合作夥伴中心
+
+為了讓您能輕鬆地與 Microsoft 合作並節省您的時間與金錢，我們正在背景努力準備，將目前分散在數個網站的功能、特性與工作流程移動到合作夥伴中心，也就是這個網站。 
+
+當我們將特定功能移動到合作夥伴中心時，同時也會淘汰裝載這些功能的舊網站。 若要繼續利用這些功能，您將需要在此網站 (合作夥伴中心) 建立帳戶。 
+
+例如，假如您以前在 Pinpoint 中取得及管理推薦，該網站已淘汰，所有推薦相關功能現在都放在合作夥伴中心。 請執行下列步驟來開始使用合作夥伴中心：   
+
+-   [建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)
+
+-   [建立商務設定檔以取得客戶推薦](create-a-marketing-profile.md)
+
+-   [管理您的 Microsoft 合作夥伴網路會員資格權益](manage-your-partner-network-benefits.md)
 

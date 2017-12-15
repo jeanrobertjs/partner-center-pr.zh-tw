@@ -3,13 +3,13 @@ title: "工作帳戶和合作夥伴中心 | 合作夥伴中心"
 description: "若要建立合作夥伴中心帳戶，您的公司必須有工作帳戶。"
 author: labrenne
 robots: 
-ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="your-work-account-and-partner-center"></a>您的工作帳戶與合作夥伴中心  
+# <a name="your-company-work-account-and-partner-center"></a>您的公司工作帳戶與合作夥伴中心  
 
 **適用對象**
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 10/03/2017
 
 # <a name="why-you-need-a-work-account"></a>您必須有工作帳戶的原因
 
-我們需要將組織的工作帳戶連結至新的合作夥伴中心帳戶，讓您的帳戶使用者可以使用他們的工作帳戶使用者名稱和密碼來登入合作夥伴中心。
+我們需要將您公司的工作帳戶連結至新的合作夥伴中心帳戶，讓您的帳戶使用者可以使用他們的工作帳戶使用者名稱和密碼來登入合作夥伴中心。
 
 如果您的公司已經有工作帳戶，就可以將其連結至您的合作夥伴中心帳戶。 
 

@@ -2,11 +2,11 @@
 title: "建立合作夥伴中心帳戶 | 合作夥伴中心"
 description: "了解如何管理您的 Microsoft 合作夥伴網路會員資格、優惠，以及在合作夥伴中心的權益。"
 author: MaggiePucciEvans
-ms.openlocfilehash: a69cee525d9abdde2b02f6fac3353415a699f3d5
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 819570228cb86157915bfc00c67e45615bd44ca7
+ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/01/2017
 ---
 # <a name="create-a-partner-center-account"></a>建立合作夥伴中心帳戶
 
@@ -25,15 +25,15 @@ ms.lasthandoff: 07/08/2017
 
 -   購買會員資格權益優惠方案，包括 Microsoft 行動套件 
 
--   Activate and manage your network membership benefits
+-   啟用及管理您的網路會員資格權益
 
 ## <a name="before-you-begin"></a>開始之前
 
 若要在合作夥伴中心建立帳戶，您必須備妥下列資訊。 您可能需要先花幾分鐘時間收集這些項目，再開始進行：
 
--   貴公司 Microsoft Azure Active Directory (Azure AD) 租用戶的全域管理員認證。 如果不確定公司是否已經有 Azure AD 租用戶，請參閱 [Azure Active Directory 租用戶和合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)。
+-   全域系統管理員工作電子郵件。 如果不確定公司的工作帳戶是什麼，請參閱 [Azure Active Directory 租用戶和合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)。
 
-    如果公司沒有 Azure AD 租用戶，您可以在建立帳戶的過程中建立一個。 
+    如果公司沒有工作帳戶，您可以在建立帳戶的過程中建立一個。 
 
 -   貴公司的法定登記營業名稱、地址和主要連絡人。 我們需要這項資訊，以確認貴公司已建立設定檔，且您已獲授權代表公司行使職權。 
 
@@ -41,17 +41,17 @@ ms.lasthandoff: 07/08/2017
 
 -   您要指定擔任主要連絡人之人員的姓名及其在公司的電子郵件。 為了協助確保貴公司的安全性與隱私權，我們將會寄送電子郵件給您的主要連絡人，以確認 (1) 該連絡人已註冊合作夥伴中心帳戶，以及 (2) 此電子郵件地址屬於貴公司。 主要連絡人確認其電子郵件地址之後，我們會持續審查您所提供的資訊。
 
-We’ll verify this information during the account creation process. 
+我們將會在帳戶建立程序期間驗證這項資訊。 
  
 ## <a name="create-a-partner-center-account"></a>建立合作夥伴中心帳戶
 
 1.  檢閱 **\[歡迎\]** 頁面上的資訊，然後選取 **\[下一步\]**。
 
-2.  以全域管理員身分登入貴公司的 Azure AD 租用戶。 如果不確定公司是否已經有 Azure AD 租用戶，請參閱 [Azure Active Directory 租用戶和合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)。
+2.  以全域管理員身分登入您的工作電子郵件。 如果不確定公司的工作帳戶是什麼，請參閱 [Azure Active Directory 租用戶和合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)。
 
-    如果已知公司有 Azure AD 租用戶，請選取 **\[登入 Azure AD\]**。 在下一個頁面上，輸入貴公司租用戶的全域管理員認證。 
+    如果已知公司有工作電子郵件帳戶，請選取 **\[登入 Azure AD\]**。 在下一個頁面上，輸入貴公司租用戶的全域管理員認證。 
 
-    如果公司沒有 Azure AD 租用戶，請選取 **\[建立新租用戶\]** 立即設定一個。 設定 Azure AD 租用戶之後，使用新租用戶的全域管理員認證來登入。
+    如果公司沒有工作帳戶，請選取 **\[建立新租用戶\]** 立即設定一個。 設定 Azure AD 租用戶 (工作帳戶) 之後，使用新工作電子郵件帳戶的全域管理員認證來登入。
 
 3.  提供或更新貴公司的法定登記營業設定檔及主要連絡人資訊，然後選取 **\[立即註冊\]**。 
 
@@ -59,9 +59,9 @@ We’ll verify this information during the account creation process.
 
     >**重要**<br> 為了協助確保貴公司的安全性與隱私權，我們將會寄送電子郵件給您的主要連絡人，以確認 (1) 該連絡人已註冊合作夥伴中心帳戶，以及 (2) 此電子郵件地址屬於貴公司。 主要連絡人確認其電子郵件地址之後，我們會持續審查您所提供的資訊。
 
-4.  Read and accept the terms and conditions in the Microsoft Partner Network agreement. 
+4.  閱讀並接受 Microsoft 合作夥伴網路合約的條款及條件。 
 
-5.  Verify that you’ve been added to the admin agent group. To finish setting up your account, including adding other users, you must have admin agent permissions. Follow these steps to view or update your permissions:
+5.  確認您已被新增到系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
 
     a. 在 **\[儀表板\]** 功能表中，選取 **\[帳戶設定\] > \[使用者管理\]**，並從使用者清單中選取您的名稱。 
 

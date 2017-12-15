@@ -2,11 +2,11 @@
 title: "美國政府適用的 Microsoft Cloud 合作夥伴中心 | 美國政府適用的 Microsoft Cloud 合作夥伴中心"
 description: "美國政府適用的 Microsoft Cloud 合作夥伴中心是一個商務入口網站，適用於希望向美國政府機構客戶提供 Microsoft 雲端解決方案的 Microsoft 合作夥伴。"
 author: MaggiePucciEvans
-ms.openlocfilehash: a14075bd123a4ac0a531a248a7331f3a59b6c007
-ms.sourcegitcommit: 22ec01fc379e4c98189f5e1ebf5437b5b16d05de
+ms.openlocfilehash: 829c1cdc6568c1bde2e2fff594632acd90a4ee16
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>美國政府適用的 Microsoft Cloud 合作夥伴中心
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 06/15/2017
 這篇文章發行時，美國政府適用的 Microsoft Cloud 合作夥伴中心尚未推出下列合作夥伴中心功能 (自發佈以來，有部分功能可能已加到合作夥伴中心，因此這份清單可能已經過時)：
 
 - 尋找合作夥伴
-- 行銷設定檔
+- 商務設定檔
 - 推薦
 - 要求與客戶建立經銷商關係 (多通路、多合作夥伴)
 - 授權分析

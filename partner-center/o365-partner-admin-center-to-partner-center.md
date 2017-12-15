@@ -1,8 +1,19 @@
 ---
-標題：Office 365 合作夥伴系統管理中心客戶：請準備好將企業營運移轉到合作夥伴中心 | 合作夥伴中心描述：Office 365 合作夥伴系統管理中心客戶遷移至合作夥伴中心時的重要考量 ms.prod：作者：KPacquer
+title: "Office 365 合作夥伴系統管理中心客戶：您的企業營運已移轉到合作夥伴中心 | 合作夥伴中心"
+description: "將企業營運移轉到合作夥伴中心的 Office 365 合作夥伴系統管理中心客戶的重要考量"
+author: KPacquer
+ms.openlocfilehash: 2ef8450988027c480b60a51f2626bb94c95c1cb3
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 11/10/2017
 ---
-
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 合作夥伴系統管理中心客戶：請準備好將企業營運移轉到合作夥伴中心
+
+**適用對象：** 
+
+- 合作夥伴中心
+- Office 365 合作夥伴系統管理中心
 
 我們正在將 Office 365 合作夥伴系統管理中心功能導入合作夥伴中心，以便在整個企業生命週期協助您管理客戶。 除了過去慣有的功能之外，您現在還可以： 
 

@@ -3,11 +3,11 @@ title: "回應推薦 | 合作夥伴中心"
 description: "透過合作夥伴中心評估、交涉和回應推薦。"
 author: KPacquer
 keywords: "推薦, RFI, 尋找合作夥伴"
-ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>在合作夥伴中心回應推薦
 
@@ -19,7 +19,7 @@ ms.lasthandoff: 07/07/2017
 
 ## <a name="referral-management"></a>推薦管理
 
-為您執行業務的每個地區，從設定[行銷設定檔](create-a-marketing-profile.md)開始。 一旦您的設定檔為使用中，我們將透過下列方式將客戶導向您的企業：
+為您執行業務的每個地區，從設定[商務設定檔](create-a-marketing-profile.md)開始。 一旦您的設定檔為使用中，我們將透過下列方式將客戶導向您的企業：
 
 *  Microsoft 行銷活動
 *  內部 Microsoft 銷售和服務專員
@@ -27,7 +27,7 @@ ms.lasthandoff: 07/07/2017
 
 客戶有興趣與您連絡時，他們會提交資訊要求 (RFI)。 
 
-發生這種情形時，我們將傳送電子郵件給您的所選地區和位置專屬[行銷設定檔](create-a-marketing-profile.md)中所列的連絡人。 您也可以在合作夥伴中心查看傳入 RFI：移至 **\[儀表板\] > \[推薦\] > \[客戶推薦\]**。
+發生這種情形時，我們將傳送電子郵件給您的所選地區和位置專屬[商務設定檔](create-a-marketing-profile.md)中所列的連絡人。 您也可以在合作夥伴中心查看傳入 RFI：移至 **\[儀表板\] > \[推薦\] > \[客戶推薦\]**。
 
 客戶通常選擇同時傳送相同的 RFI 給多家公司。 若要提升您的成功機會，我們建議在 24 小時内回應並接受或拒絕新推薦。
 
@@ -59,9 +59,9 @@ ms.lasthandoff: 07/07/2017
 
 以下是一些秘訣，協助確保您可以獲得您企業適用的更多推薦：
 
-*  **針對每一個位置，檢閱您的[行銷設定檔](create-a-marketing-profile.md)中的連絡人資訊**，確定您的小組取得傳入的通知。
+*  **針對每一個位置，檢閱您的[商務設定檔](create-a-marketing-profile.md)中的連絡人資訊**，確定您的小組取得傳入的通知。
 
-*  在您的[行銷設定檔](create-a-marketing-profile.md)中，**選擇關鍵字和喜好設定，表示您的唯一專業和業務模式**。 移除可能產生您不感興趣之推薦的關鍵字。 如果您沒興趣與特定大小的企業交易，請更新此喜好設定。
+*  在您的[商務設定檔](create-a-marketing-profile.md)中，**選擇關鍵字和喜好設定，表示您的唯一專業和業務模式**。 移除可能產生您不感興趣之推薦的關鍵字。 如果您沒興趣與特定大小的企業交易，請更新此喜好設定。
 
 *  **快速回應推薦**。 當您及時回應傳入的要求時，我們會在未來客戶搜尋結果中增加您的可見度。 請確定您的團隊快速回應並表明意向。
 

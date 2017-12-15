@@ -3,11 +3,12 @@ title: "閱讀您的帳單 |合作夥伴中心"
 description: "您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 可在合作夥伴中心儀表板取得。"
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+keywords: "訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？"
+ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -17,7 +18,13 @@ ms.lasthandoff: 07/01/2017
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 可在合作夥伴中心儀表板取得。
+若為您的帳單，請移至 **\[儀表板\]** 功能表並選取 **\[帳單\]** 以查看您的帳單記錄和趨勢、目前月份的應付餘額、發票與對帳檔案的連結，以及最近的付款。
+
+如果雲端解決方案提供者計畫中的合作夥伴已選擇每月計費，應於 60 天內，向 Microsoft 支付其客戶的訂閱費用 (包括授權型與用量型)。
+
+>**注意**<br>
+您的發票是目前每個月期間所有費用 (涵蓋方案、產品以及客戶) 的摘要，將於您所選帳單日期的 4 天內提供。
+
 
 如需費用的分項詳細資料，請使用隨附的對帳檔案。 對帳檔案包含客戶識別碼和您將用來建立客戶發票的訂閱識別碼。 如需詳細資訊，請參閱[如何使用對帳檔案](use-the-reconciliation-files.md)。
 
@@ -44,7 +51,7 @@ ms.lasthandoff: 07/01/2017
 </tr>
 <tr class="even">
 <td>帳單地址</td>
-<td>我們可寄送發票給您的收件地址。 若要變更這個地址，請編輯您的合作夥伴中心帳戶設定檔。</td>
+<td>我們可寄送發票給您的收件地址。 若要變更此地址，請移至 \[帳戶設定\] > \[合作夥伴帳單設定檔\]。 </td>
 </tr>
 <tr class="odd">
 <td>週期性費用</td>

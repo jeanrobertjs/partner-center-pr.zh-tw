@@ -1,13 +1,13 @@
 ---
-title: "建立行銷設定檔 | 合作夥伴中心"
-description: "在合作夥伴中心中建立行銷設定檔，吸引更多潛在客戶。"
+title: "建立商務設定檔 | 合作夥伴中心"
+description: "在合作夥伴中心中建立商務設定檔，吸引更多潛在客戶。"
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: b4ff498f7c44e4f2fcb49cb5e4c1d659175ac60a
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+ms.openlocfilehash: edcecf3372453e17d85017a93a258919e29d6608
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/22/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -18,22 +18,23 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-marketing-profile"></a>建立行銷設定檔
+# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>建立商務設定檔以透過 Microsoft 獲得業務潛在客戶
 
 **適用於**
 
 -  合作夥伴中心
 
-身為 Microsoft 合格合作夥伴，您可以建立行銷設定檔，向尋找唯一解決方案和專業來解決其業務需求的客戶展示您的公司。
+身為 Microsoft 合格合作夥伴，您可以建立商務設定檔，向尋找唯一解決方案和專業來解決其業務需求的客戶展示您的公司。
 
 Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部分的這些客戶業務創造機會，讓我們以業務潛在客戶的形式提供推薦給我們的合作夥伴。 
 
-取得這些業務潛在客戶的第一個步驟是，建立行銷設定檔。 我們將會透過下列方式，向搜尋合作夥伴 (幫助實作 Microsoft 產品和解決方案) 的客戶顯示您的設定檔：
+取得這些業務潛在客戶的第一個步驟是，建立商務設定檔。 我們將會透過下列方式，向搜尋合作夥伴 (幫助實作 Microsoft 產品和解決方案) 的客戶顯示您的設定檔：
 
-*  **[尋找合作夥伴](https://partnercenter.microsoft.com/pcv/search)搜尋體驗**。 潛在客戶可以自行搜尋合作夥伴清單，來尋找符合其搜尋條件的合作夥伴。 
+*  **[尋找合作夥伴](https://partnercenter.microsoft.com/pcv/search)搜尋體驗**。 潛在客戶可以自行搜尋合作夥伴清單，來尋找符合其搜尋條件的合作夥伴。
+
 *  **Microsoft 銷售和服務員工的推薦**。 有興趣部署雲端技術解決方案的潛在客戶會向 Microsoft 尋求協助，尋找可以滿足其業務需求的專業人員。 這些 Microsoft 專業人員然後向潛在客戶推薦您的公司。
 
-**Pinpoint 和 C2PC**：我們即將合併這些工具到合作夥伴中心。 如果您過去曾使用這些工具，請在合作夥伴中心建立新的行銷設定檔，以便繼續產生和管理您的業務潛在客戶。 我們目前不支援從先前的網站匯入設定檔。 
+**Pinpoint 和 C2PC**：我們即將合併這些工具到合作夥伴中心。 如果您過去曾使用這些工具，請在合作夥伴中心建立新的商務設定檔，以便繼續產生和管理您的業務潛在客戶。 我們目前不支援從先前的網站匯入設定檔。 
 
 ## <a name="create-a-profile"></a>建立設定檔
 
@@ -41,9 +42,9 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 1.  使用[全域系統管理員或系統管理代理人帳戶](create-user-accounts-and-set-permissions.md)登入[合作夥伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)。
 
-2.  從 **\[儀表板\]** 功能表，選取 **\[轉介\]** &gt; **\[檢視行銷設定檔\]** &gt; 選取國家/地區 > **[建立行銷設定檔](https://partnercenter.microsoft.com/pcv/publishing)**。
+2.  從 **\[儀表板\]** 功能表，選取 **\[轉介\]** &gt; **\[檢視商務設定檔\]** &gt; 選取國家/地區 > **[建立商務設定檔](https://partnercenter.microsoft.com/pcv/publishing)**。
 
-3.  在 **\[建立行銷設定檔\]** 頁面中，選取地區，然後輸入您的設定檔資訊。
+3.  在 **\[建立商務設定檔\]** 頁面中，選取地區，然後輸入您的設定檔資訊。
     
     請注意，雖然合作夥伴中心支援多種語言，但有些像描述及自由格式標籤這類的元素可能需要包含不同語言的文字，如本主題中所述。
 

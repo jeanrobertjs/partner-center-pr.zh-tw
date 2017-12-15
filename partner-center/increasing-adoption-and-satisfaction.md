@@ -3,9 +3,11 @@ title: "提高採用率與滿意度 | 合作夥伴中心"
 description: "我們的合作夥伴使用許多標準來衡量事業是否有成長，以及投資的方向。 合作夥伴中心提供的資料有助於瞭解您的客戶是否使用其購買的授權及使用方式。"
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
+ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 11/21/2017
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
@@ -16,6 +18,8 @@ translationtype: HT
 我們的合作夥伴使用許多標準來衡量事業是否有成長，以及投資的方向。 合作夥伴中心提供的資料有助於瞭解您的客戶是否使用其購買的授權及使用方式。 此資訊適用於 Office 產品 (包含與 SharePoint 一起的商務用 OneDrive)。
 
 透過「雲端解決方案提供者」計畫，您可以看到您所有客戶的資料。 請注意，某些客戶可能會從其他合作夥伴或直接向 Microsoft 購買，這樣您將會看到所有合作夥伴的授權總量。 若只要看到您自己的授權，請改為移至客戶的訂閱。
+
+>**注意**<br> 目前，我們只會顯示 Office 365 和 Dynamics 365 的資料。 我們未來會啟用其他產品的資料。
 
 ## <a name="find-license-and-user-data"></a>尋找授權和使用者資料
 

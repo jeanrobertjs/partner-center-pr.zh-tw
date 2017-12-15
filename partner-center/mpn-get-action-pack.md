@@ -2,11 +2,11 @@
 title: "購買或續約行動套件 | 合作夥伴中心"
 description: "了解如何購買或續約 Microsoft 行動作套件訂閱。"
 author: MaggiePucciEvans
-ms.openlocfilehash: 6302cb1322933d7d35ac9ceba9cbbf642ba8a2c6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/22/2017
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>購買或續約 Microsoft 行動套件訂閱
 
@@ -44,7 +44,7 @@ ms.lasthandoff: 07/08/2017
 
 7. 您的訂單已確認。 選取 **\[關閉\]**。
 
-您的行動套件訂閱將會在每年的這一天自動續約。 You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從已購買的優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 
 
 
 ## <a name="renew-your-action-pack-subscription"></a>續約行動套件訂閱
@@ -67,7 +67,7 @@ ms.lasthandoff: 07/08/2017
 
 9. 您的訂單已確認。 選取 **\[關閉\]**。
 
-您的行動套件訂閱將會在每年的這一天自動續約。 You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從已購買的優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 
 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>關閉自動行動作套件訂閱續約
@@ -79,12 +79,12 @@ ms.lasthandoff: 07/08/2017
 3. 選取 **\[關閉自動續約\]** (如果您不想要您的行動套件訂閱每年自動續約)。 
 
     >**注意**<br>
-    If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again. 我們將會在您的訂閱到期之前提醒您續約。
+    如果您關閉自動訂閱續約，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 我們將會在您的訂閱到期之前提醒您續約。
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>取消行動套件訂閱
 
-To cancel your Microsoft Action Pack subscription, you must contact Partner Center Support.
+若要取消您的 Microsoft 行動套件訂閱，您必須連絡合作夥伴中心支援。
 
 1. 前往 https://partnercenter.microsoft.com/partner/support。
 
@@ -106,9 +106,7 @@ To cancel your Microsoft Action Pack subscription, you must contact Partner Cent
 
 [新增使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
 
-[了解金會員及銀會員資格的專長認證要求條件](learn-about-competencies.md)
-
-[建立行銷設定檔以透過 Microsoft 獲得業務潛在客戶](create-a-marketing-profile.md)
+[建立商務設定檔以透過 Microsoft 獲得業務潛在客戶](create-a-marketing-profile.md)
 
 
 

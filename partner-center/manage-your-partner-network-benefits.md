@@ -1,22 +1,22 @@
 ---
-title: Manage your Microsoft Partner Network benefits | Partner Center
-description: As a Microsoft Partner Network member, you're entitled to certain membership benefits. Explains how to activate and manage your membership benefits on Partner Center.
+title: "管理您的 Microsoft 合作夥伴網路權益 | 合作夥伴中心"
+description: "身為 Microsoft 合作夥伴網路會員，您有資格獲得特定會員資格權益。 說明如何在合作夥伴中心啟用及管理您的會員資格權益。"
 author: MaggiePucciEvans
-ms.openlocfilehash: c74c00c06c02be98cd07ea639d38526f534f629c
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
+ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/03/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Manage your Microsoft Partner Network membership benefits
+# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
-**Applies to**
+**適用於**
 
--  Partner Center
+-  合作夥伴中心
 
 Microsoft 合作夥伴網路的會員資格可讓您享有特定權益套件。 您的公司必須是 Microsoft 合作夥伴網路的會員，您才能購買和啟用會員資格權益。 如果您不是該網路的會員，您可以在 [https://partner.microsoft.com](https://partner.microsoft.com) 加入。
 
->**注意** 跟隨此連結，會將您移至其他網站。 Return to this site, Partner Center, to renew and upgrade your network membership.
+>**注意** 跟隨此連結，會將您移至其他網站。 回到此網站 (合作夥伴中心) 來更新與升級您的網路會員資格。
 
 在 Microsoft 合作夥伴網路中加入或續約會員資料後，您就可以購買權益優惠方案。
 
@@ -39,11 +39,11 @@ Microsoft 合作夥伴網路的會員資格可讓您享有特定權益套件。 
 
     a. 選取 **\[取得金鑰\]** 以顯示產品授權金鑰。 請務必依照列出的特殊指示進行。
 
-    b. Select the language you want the product to be displayed in.
+    b. 選取您想要顯示產品的語言。
 
-    c. Select the operating system (OS) type of the computers you plan to install the software on.
+    c. 選取您要安裝軟體的電腦作業系統 (OS) 類型。
 
-    d. Follow the links to download and install the software installation packages.
+    d. 跟隨連結以下載並安裝軟體安裝套件。
 
 
 #### <a name="manage-cloud-services-benefits"></a>管理雲端服務權益
@@ -68,9 +68,9 @@ Microsoft 合作夥伴網路的會員資格可讓您享有特定權益套件。 
     >**重要**<br>
 若想要指派的使用者不在清單中，您可以在 **\[帳戶設定\]** 中[新增使用者](create-user-accounts-and-set-permissions.md)。
 
-3. 針對每個您要指派的訂閱重複此程序。 Users can manage their subscriptions in the Visual Studio portal. 
+3. 針對每個您要指派的訂閱重複此程序。 使用者可以在 Visual Studio 入口網站管理訂閱。 
 
-    You can reassign subscriptions any time by removing an assigned user and then assigning a different user. 
+    透過移除指派的使用者，然後指定不同的使用者，您可以隨時重新指派訂閱。 
 
 
 #### <a name="manage-support-benefits"></a>管理支援權益
@@ -85,7 +85,7 @@ Microsoft 合作夥伴網路的會員資格可讓您享有特定權益套件。 
 
     b.  提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。 
     
-    As a safeguard, we'll email instructions for accessing Microsoft Product Support to this email address in addition to the user's Partner Center account email. Note that it can take several days to activate this benefit and email instructions to the assigned user.    
+    做為保護措施，我們將會透過電子郵件將存取 Microsoft 產品支援的指示傳送到此電子郵件地址，除了使用者的合作夥伴中心帳戶電子郵件。 請注意，可能需要數天來啟用這個權益及透過電子郵件傳送指示給受指派的使用者。    
     
     c.  將其他電子郵件地址輸入完畢時，選取 **\[指派使用者\]**。 
 

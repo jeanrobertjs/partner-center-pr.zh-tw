@@ -1,15 +1,16 @@
 ---
-title: "雲端業務應用程式專長認證"
+title: "雲端商務應用程式專長認證"
 description: "雲端業務應用程式專長認證適合專精於為客戶部署和管理 Microsoft Dynamics 365 的合作夥伴。"
 author: Daniel Simpson
 keywords: "專長認證, 各項專長認證, 雲端業務應用程式"
-ms.openlocfilehash: d38847cf292c15334bc850e0782a1af9842f3d33
-ms.sourcegitcommit: 581682c6f2098dc4cf19ca82fcdec90bc6bfe975
+ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2017
+ms.lasthandoff: 11/16/2017
 ---
-#<a name="cloud-business-applications"></a>雲端業務應用程式 
+# <a name="cloud-business-applications"></a>雲端業務應用程式 
+
 雲端業務應用程式專長認證適合專精於為客戶部署和管理 Microsoft Dynamics 365 的合作夥伴。
 
 - [企業客戶業務開發選項](#enterprise-customer-engagement-option)
@@ -24,10 +25,10 @@ ms.lasthandoff: 10/13/2017
 您也可以使用數位徽章來即時識別與區別成就，表彰個別員工一路以來的成就。 [進一步瞭解](https://www.microsoft.com/en-us/learning/badges.aspx)。  
 
 
-##<a name="enterprise-customer-engagement-option"></a>企業客戶業務開發選項
+## <a name="enterprise-customer-engagement-option"></a>企業客戶業務開發選項
 企業客戶業務開發選項很適合拓展企業客戶業務的合作夥伴。 完成其中所有步驟，即可取得雲端業務應用程式專長認證。
 
-###<a name="silver"></a>銀會員
+### <a name="silver"></a>銀會員
 1. 您的組織必須達到下列績效門檻。
 
     - **已開發市場**
@@ -50,13 +51,12 @@ ms.lasthandoff: 10/13/2017
     
     **和**
     
-    - 相同或不同的 **5** 個人員必須通過下列其中一項測驗：
+    - 上述的那 **5** 個人員必須通過下列其中一項功能測驗：
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service
-        - MB2-877：Microsoft Dynamics 365 for Field Service (於 2017 年 12 月推出)
-        
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx)：Microsoft Dynamics 365 for Field Service *新測驗於 2017 年 12 月推出
 
-###<a name="gold"></a>金會員
+### <a name="gold"></a>金會員
 1. 您的組織必須達到下列績效門檻。
 
     - **已開發市場**
@@ -82,13 +82,13 @@ ms.lasthandoff: 10/13/2017
     - 相同或不同的 **15** 個人員必須通過下列其中一項測驗：
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service
-        - MB2-877：Microsoft Dynamics 365 for Field Service (於 2017 年 12 月推出)
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx)：Microsoft Dynamics 365 for Field Service 
 
-##<a name="enterprise-operations-option"></a>企業營運選項
+## <a name="enterprise-operations-option"></a>企業營運選項
 
 企業營運選項很適合拓展企業客戶業務 (尤其是在 Dynamics 365 Unified Operations Plan 方面) 的合作夥伴。 完成其中所有步驟，即可取得雲端業務應用程式專長認證。
 
-###<a name="silver"></a>銀會員
+### <a name="silver"></a>銀會員
 1. 您的組織必須達到下列績效門檻。
 
     - **已開發市場**
@@ -107,35 +107,21 @@ ms.lasthandoff: 10/13/2017
     - [深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。  
 
 2. 您的組織必須有 **5** 個人員通過測驗要求條件。
-
-    - **5** 個人員必須通過下列所有技術測驗： 
-
-        - MB6-894：開發、擴充和部署 Dynamics 365 Finance and Operations 企業版 (於 2017 年 11 月推出)
-
-        - 70-534：建構 Microsoft Azure 解決方案 (於 2017 年 11 月推出)
-
-    **和**
+ 
+    - **5** 個人員必須通過下列所有技術測驗：
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx)：開發、擴充和部署 Microsoft Dynamics 365 for Finance and Operations* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx)：建構 Microsoft Azure 解決方案
     
-    - 相同或不同的 **5** 個人員必須通過下列其中一項功能測驗：(於 2017 年 11 月推出)
+    **和**
+
+    - 相同或不同的 **5** 個人員必須通過下列其中一項功能測驗： 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx)：Microsoft Dynamics 365 for Finance and Operations 中的財務管理
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx)：Microsoft Dynamics 365 for Finance and Operations 中的配送和貿易
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx)：Microsoft Dynamics 365 for Retail 
         
-        - MB6-895： Microsoft Dynamics 365 for Finance and Operations 企業版中的財務管理 (於 2017 年 11 月推出)
-        
-        - MB6-896：Microsoft Dynamics 365 for Finance and Operations 企業版中的配送和貿易 (於 2017 年 11 月推出)
-        
-        - MB6-897：Microsoft Dynamics 365 for Retail (於 2017 年 11 月推出)
+*新測驗於 2017 年 12 月推出
 
-    **或**
-
-    - **5** 個人員必須通過下列所有功能和技術測驗：
-        - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx)：Microsoft Dynamics AX 財務*
-        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx)：Microsoft Dynamics AX 配送和貿易*
-        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx)：Microsoft Dynamics AX 開發簡介*
-        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 Microsoft SQL 資料庫基礎結構*
-
-\* 2017 年 12 月 31 日即將淘汰。 在 2018 年 12 月 31 日前，仍可接受這些測驗結果做為專長認證資格。
-
-###<a name="gold"></a>金會員
+### <a name="gold"></a>金會員
 
 1. 您的組織必須達到下列績效門檻。
 
@@ -161,22 +147,15 @@ ms.lasthandoff: 10/13/2017
 
         - MB6-894：開發、擴充和部署 Dynamics 365 Finance and Operations 企業版 (於 2017 年 11 月推出)
 
-        - 70-534：建構 Microsoft Azure 解決方案 (於 2017 年 11 月推出)
+    - **15** 個人員必須通過下列所有測驗：
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx)：開發、擴充和部署 Microsoft Dynamics 365 for Finance and Operations* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx)：建構 Microsoft Azure 解決方案 
 
-   **和**
-    
-    - 相同或不同的 **15** 個人員必須通過下列其中一項功能測驗：
-        
-        - MB6-895： Microsoft Dynamics 365 for Finance and Operations 企業版中的財務管理 (於 2017 年 11 月推出)
-        - MB6-895： Microsoft Dynamics 365 for Finance and Operations 企業版中的配送和貿易 (於 2017 年 11 月推出)
-        - MB6-897：Microsoft Dynamics 365 for Retail (於 2017 年 11 月推出)
+    **和** 
 
-    **或**
-    - **15** 個人員必須通過下列所有功能和技術測驗：
-       - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-       - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx)：Microsoft Dynamics AX 財務*
-       - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx)：Microsoft Dynamics AX 配送和貿易*
-       - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx)：Microsoft Dynamics AX 開發簡介*
-       - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 Microsoft SQL 資料庫基礎結構*
- 
-\* 2017 年 12 月 31 日即將淘汰。 在 2018 年 12 月 31 日前，仍可接受做為專長認證資格。
+    - 相同或不同的 **15** 個人員必須通過下列其中一項功能測驗： 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx)：Microsoft Dynamics 365 for Finance and Operations 中的財務管理
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx)：Microsoft Dynamics 365 for Finance and Operations 中的配送和貿易
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx)：Microsoft Dynamics 365 for Retail
+
+*新測驗於 2017 年 12 月推出

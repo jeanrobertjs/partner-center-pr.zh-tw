@@ -1,14 +1,14 @@
 ---
-title: Earn Microsoft Competencies | Partner Center
-description: Earn Silver and Gold Microsoft competencies to demonstrate your proven expertise in delivering quality solutions in a specialized area of business
+title: "獲得 Microsoft 專長認證 | 合作夥伴中心"
+description: "獲得銀級和金級 Microsoft 專長認證，示範您在專業業務領域中提供高品質解決方案備受肯定的專業"
 author: KPacquer
-keywords: competencies, silver membership, gold membership, mpn, MAPS, proficiency
+keywords: "專長認證、銀級會員, 金級會員, mpn, MAPS, 熟練程度"
 robots: noindex,nofollow
-ms.openlocfilehash: 849b6355c9e838ccf29c95c18e8720c496828738
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+ms.openlocfilehash: 6323613d785958db9bd511f10ca03988681f1867
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/10/2017
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -22,74 +22,74 @@ ms.lasthandoff: 09/01/2017
 
  -->
 
-# <a name="competencies"></a>Competencies
+# <a name="competencies"></a>專長認證
 
-**Applies to**
--  Partner Center
+**適用於**
+-  合作夥伴中心
 
-Microsoft competency achievements show your proven experience in delivering quality solutions. Join the elite tier of Microsoft Partners and stand out from your peers. Use them to: 
+Microsoft 專長認證成就彰顯您在提供高品質解決方案方面備受肯定的經驗。 加入 Microsoft 合作夥伴菁英層，從同儕中脫穎而出。 運用這些資源來： 
 
-*  **Earn offers and benefit packs** such as discounts to the Microsoft Action Pack. Benefits vary by competency and level. 
+*  **贏得優惠和權益套件**，例如 Microsoft 行動套件的折扣。 權益因專長認證和等級而異。 
 
-*  **Demonstrate your proven expertise**. [Earn more business referrals](referrals.md) by showing prospective customers that you're able to meet their needs for a specific line of business.
+*  **展示您受肯定的專業知識**。 向潛在客戶顯示您有能力滿足他們對特定業務範圍需求，以[獲得更多業務轉介](referrals.md)。
 
-## <a href="" id="attainment_paths"></a> Competency paths
+## <a href="" id="attainment_paths"></a>專長認證路徑
 
 [銀會員及金會員資格的專長認證要求條件](learn-about-competencies.md)
 
 ## <a name="earn-competencies"></a>獲得專長認證
 
-After you [join the Microsoft Partner Network](mpn-overview.md), you can meet either performance-based or skill-based goals to earn Microsoft competencies. 
+[加入 Microsoft 合作夥伴網路](mpn-overview.md)之後，您就可以挑戰績效或技能目標來贏得 Microsoft 專長認證。 
 
-**Performance-based goals** include: 
-* Revenue goals
-* Active usage
-* Deployed seat count
-* New customer additions
+**績效目標**包括： 
+* 營收目標
+* 作用中使用量
+* 已部署基座計數
+* 新客戶增長
 
-**Skill-based goals** include: 
-* Microsoft certifications
-* Online assessments 
+**技能目標**包括： 
+* Microsoft 認證
+* 線上評定 
 
-Some competencies have multiple ways to achieve the Silver or Gold level.
+某些專長認證有多種方法可以達到銀會員或金會員等級。
 
-To check your progress in a competency, from the Partner Center dashboard, go to the **Partnership > Competencies**. 
+若要檢查您的專長認證進度，請從合作夥伴中心儀表板移至 **\[合作關係\] > \[專長認證\]**。 
 
-### <a href="" id="associating_achievements"></a>Get your employees connected to complete skill-based goals
+### <a href="" id="associating_achievements"></a>讓您的員工共同參與以完成技能目標
 
-1.  Add user accounts for the employees in your organization. From the [Partner Center](http://partnercenter.microsoft.com) dashboard, go to **Account settings > Add user**. (PMC users can add multiple users at a time by selecting **Add users using PMC data**.)
+1.  為您組織中的員工新增使用者帳戶。 從[合作夥伴中心](http://partnercenter.microsoft.com)儀表板，移至 **\[帳戶設定\] > \[新增使用者\]** (PMC 使用者可以藉由選取 **\[使用 PMC 資料新增使用者\]**，一次新增多個使用者)。
 
-    After the user accounts are created, we'll send them a new user name and password, and will prompt you to download a log file which contains info to help reset the user name and password as needed. You can also [set up the user accounts so they can reset the passwords by themselves](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
+    建立使用者帳戶之後，我們會將新的使用者名稱和密碼傳送給他們，並提示您下載包含相關資訊的記錄檔，以便在需要時協助重設使用者名稱和密碼。 您也可以[設定使用者帳戶，讓他們可以自行重設密碼](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)。
 
-2. Ask the employees in your organization to sign in and associate their Microsoft account (MSA) to their user account. (From the [Partner Center](http://partnercenter.microsoft.com) dashboard, go to **Account settings**.) Employees can use the same or different MSAs to associate their Microsoft technical exams and certifications and their accounts through Microsoft Partner University.
+2. 要求您組織中的員工登入他們的 Microsoft 帳戶 (MSA)，並將此帳戶與其使用者帳戶產生關聯。 (從[合作夥伴中心](http://partnercenter.microsoft.com)儀表板，移至**\[帳戶設定\]**)。員工可以使用相同或不同的 MSA，透過 Microsoft 合作夥伴大學來建立與其 Microsoft 技術測驗與認證及其帳戶的關聯。
 
-3.  **Wait 24 hours** after an employee has associated their account or completed a skill-based goal. After this time, the progress displays in the **Competencies** section.
+3.  員工建立其帳戶關聯或完成技能目標之後，**請等候 24 小時**。 在此之後，進度就會顯示在 **\[專長認證\]** 區段中。
 
-Note, employees can only associate these to one organization at a time. Once they associate achievements to your organization, they’ll sever any previous organization account associations.
+請注意，員工一次只能將這些項目關聯到一個組織。 他們將成就關聯到您的組織之後，便會斷絕任何先前的組織帳戶關聯。
 
-Likewise, when employees leave your organization, you may need other employees to achieve the skill-based goals in order to [maintain your membership](#maintaining_membership) at the same level.
+同樣地，當員工離開您的組織時，您可能必須有其他員工達成技能目標，才能在相同等級上[維持您的會員資格](#maintaining_membership)。
 
-## <a name="display-your-competency-awards"></a>Display your competency awards
+## <a name="display-your-competency-awards"></a>顯示您的專長認證獎項
 
-Once you've met these goals for a single competency, you'll be able to upgrade your membership.
+您達到單一專長認證的這些目標之後，就可以升級您的會員資格。
 
-### <a name="upgrade-your-membership"></a>Upgrade your membership
+### <a name="upgrade-your-membership"></a>升級您的會員資格
 
-To buy the Silver benefit pack, you only need to demonstrate silver-level proficiency in one path. Once you upgrade to Silver, we display all of the Silver-level competencies you’ve achieved in your marketing profile. 
+若要購買銀級權益套件，您只需要在一個路徑中展示銀級熟練程度。 升級到銀級之後，我們就會在您的商務設定檔中顯示您已經達成的所有銀級專長認證。 
 
-To buy the Gold benefit pack, you only need to demonstrate gold-level proficiency in one path. Once you upgrade to Gold, we display both the Silver-level and Gold-level competencies you’ve achieved in your marketing profile. 
+若要購買金級權益套件，您只需要在一個路徑中展示金級熟練程度。 升級到金級之後，我們會在您的商務設定檔中顯示您已經達成的銀級和金級專長認證。 
 
-### <a href="" id="maintain_membership"></a> Maintain and renew membership
+### <a href="" id="maintain_membership"></a>維護和續約會員資格
 
-To renew your membership, you’ll need to continue to demonstrate proficiency in Microsoft products and services. Your subscription status remains until the end of the year that you purchased it.
+若要續約您的會員資格，您必須繼續展示 Microsoft 產品與服務的熟練程度。 您的訂閱狀態保持到您購買訂閱那年年底為止。
 
-Expired achievements may make you ineligible for upgrading or renewing your partner memberships at the same level. 
+過期的成就可能會使您無法升級合作夥伴會員資格或以相同等級來續約。 
 
-If you receive the alert: **“A recent change to your competency achievement has put your membership renewal eligibility at risk”**, this means one or more of your competency achievements is at risk of expiring. 
+如果您收到警示：**「您的專長認證成就最近的變更，已經對您的會員續約資格產生風險」**，這表示您的其中一個或多個專長認證成就有過期的風險。 
 
-This often happens when an employee who helped your organization meet exam or certification requirements for a competency achievement leaves your organization. 
+這通常是在協助您的組織符合專長認證成就的測驗或認證要求的員工離開您的組織時發生。 
 
-Even though your membership renewal is at risk, your organization’s proficiency status continues to display until the one-year subscription has elapsed.
+即使您的會員資格續約有風險，您組織的熟練程度狀態繼續顯示，直到一年訂閱已過。
 
 若要續約或升級相同等級的會員資格，您的組織必須再次符合專長認證要求條件。
 

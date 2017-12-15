@@ -1,28 +1,28 @@
 ---
-title: Use the reconciliation files | Partner Center
-description: For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard.
+title: "使用對帳檔案 | 合作夥伴中心"
+description: "如需計費週期中每項費用的詳細明細項目檢視，請從合作夥伴中心儀表板下載對帳檔案。"
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 551afa2468e2bd79f1779a82e6ece3725b33237b
-ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
+ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
+ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2017
+ms.lasthandoff: 11/04/2017
 ---
-# <a name="use-the-reconciliation-files"></a>Use the reconciliation files
+# <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
-**Applies to**
+**適用於**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+-  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
+-  Microsoft Cloud 德國合作夥伴中心
 
-For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard. The details include charges for each customer's subscriptions, and detailed events (such as a mid-term addition of seats to a subscription).
+如需計費週期中每項費用的詳細明細項目檢視，請從合作夥伴中心儀表板下載對帳檔案。 詳細資料包括每個客戶的訂閱費用，以及詳細事件 (例如，期中增加訂閱基座)。
 
-## <a href="" id="itemizebypartner"></a>Itemize by partner
+## <a href="" id="itemizebypartner"></a>依合作夥伴詳細列舉
 
 
-Partners in the indirect model can use these additional fields in both license-based and usage-based reconciliation files to itemize by reseller.
+間接模型合作夥伴可以在授權型及用量型對帳檔案中使用這些額外欄位，以便依經銷商詳細列舉。
 
 <table>
 <colgroup>
@@ -31,33 +31,33 @@ Partners in the indirect model can use these additional fields in both license-b
 </colgroup>
 <thead>
 <tr class="header">
-<th>MPN ID</th>
-<th>Description</th>
+<th>MPN 識別碼</th>
+<th>描述</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>MPN ID</td>
-<td><p>The Microsoft Partner Network (MPN) ID of the CSP partner (direct or indirect).</p></td>
+<td>MPN 識別碼</td>
+<td><p>CSP 合作夥伴 (直接或間接) 的 Microsoft 合作夥伴網路 (MPN) 識別碼。</p></td>
 </tr>
 <tr class="even">
-<td>Reseller MPN ID</td>
-<td><p>Only appears on reconciliation files for partners in the indirect model.</p>
-<p>The MPN ID of the reseller of record for the subscription. This corresponds to the reseller ID listed for the specific subscription in Partner Center.</p>
-<p>eTo view or update the reseller, in the Partner Center menu, select <strong>Customers</strong>, then choose the customer from the list. In the customer menu, select <strong>Subscriptions</strong>, choose the subscription from the list. Select <strong>update</strong> to change the <strong>Reseller (MPN ID)</strong>.</p>
-<p>If a CSP partner sold the subscription directly to the customer, their MPN ID is listed twice, as both the MPN ID and the Reseller MPN ID.</p>
-<p>If a CSP partner has a reseller with no MPN ID, this value is set to the partner’s MPN ID instead.</p>
-<p>If the CSP partner removes a reseller ID, this value will be set to -1.</p></td>
+<td>經銷商 MPN 識別碼</td>
+<td><p>只會出現在間接模型合作夥伴的對帳檔案上。</p>
+<p>訂閱記錄中的經銷商 MPN 識別碼。 這會對應到合作夥伴中心中針對特定訂閱列出的經銷商識別碼。</p>
+<p>若要檢視或更新經銷商，請在合作夥伴中心功能表中選取 \[客戶\]<strong></strong>，然後從清單中選擇客戶。 在客戶功能表中，選取 \[訂閱\]<strong></strong>，從清單中選擇訂閱。 選取 \[更新\]<strong></strong> 以變更 \[經銷商 (MPN 識別碼)\]<strong></strong>。</p>
+<p>如果雲端解決方案提供者合作夥伴直接向客戶銷售訂閱，他們的 MPN 識別碼將會以 MPN 識別碼和經銷商 MPN 識別碼的形式列出兩次。</p>
+<p>如果雲端解決方案提供者合作夥伴具有沒有 MPN 識別碼的經銷商，這個值將會改成設為合作夥伴的 MPN 識別碼。</p>
+<p>如果雲端解決方案提供者合作夥伴移除經銷商識別碼，這個值將會設為 -1。</p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a href="" id="licensebasedfiles"></a> License-based file fields
+## <a href="" id="licensebasedfiles"></a>授權型檔案欄位
 
 
-To reconcile your charges against your customer's orders, compare the Syndication\_Partner\_Subscription\_Number from the reconciliation file against the Subscription ID from Partner Center.
+若要針對您對客戶訂單的費用來對帳，請比較對帳檔案中的 Syndication\_Partner\_Subscription\_Number 與合作夥伴中心的訂閱識別碼。
 
 <table>
 <colgroup>
@@ -67,166 +67,166 @@ To reconcile your charges against your customer's orders, compare the Syndicatio
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
-<td><strong>Description</strong></td>
-<td><strong>Sample Value</strong></td>
+<td><strong>欄</strong></td>
+<td><strong>描述</strong></td>
+<td><strong>範例值</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerId</td>
-<td><p>Unique identifier for a specific billing entity, in GUID format. Not required for reconciliation, however may be useful information. Same in all rows.</p></td>
+<td><p>特定帳單實體的唯一識別碼 (GUID 格式)。 對帳時不需要，但可能是很有用的資訊。 在所有資料列中都是如此。</p></td>
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
 <td>CustomerID</td>
-<td><p>Unique Microsoft ID, in GUID format, used to identify the customer.</p></td>
+<td><p>用來識別客戶的唯一 Microsoft ID（GUID 格式）。</p></td>
 <td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Unique identifier for an order in the Microsoft billing platform. May be useful to identify the order when contacting support but not for reconciliation.</p></td>
+<td><p>訂單在 Microsoft 帳單平台中的唯一識別碼。 可在連絡支援時方便識別訂單，但不是用於對帳。</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionID</td>
-<td><p>Unique identifier for a subscription in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p>
-<p>This is not the same as the Subscription ID on the Partner Admin Console. Please see Syndication_Partner_Subscription_Number.</p></td>
+<td><p>訂閱在 Microsoft 帳單平台中的唯一識別碼。 可在連絡支援時方便識別訂閱，但不是用於對帳。</p>
+<p>這與合作夥伴管理主控台上的訂閱識別碼不一樣。 請參閱 Syndication_Partner_Subscription_Number。</p></td>
 <td>usCBMgAAAAAAAAIA</td>
 </tr>
 <tr class="even">
 <td>SyndicationPartnerSubscriptionNumber</td>
-<td><p>Unique identifier for subscriptions. A customer can have multiple subscriptions for the same plan, so this is important for reconciliation file analysis.</p>
-<p>This field maps to the Subscription ID in the Partner Admin Console.</p></td>
+<td><p>訂閱的唯一識別碼。 客戶可針對同一方案擁有多項訂閱，因此這對於對帳檔案分析而言很重要。</p>
+<p>這個欄位對應到合作夥伴管理主控台中的訂閱識別碼。</p></td>
 <td>fb977ab5-test-test-test-24c8d9591708</td>
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>Unique offer ID. Standard offer ID as per price list.</p>
-<p><b>Note</b>: This value does not match Offer ID from the price list. See DurableOfferID below.</p></td>
+<td><p>唯一的優惠識別碼。 根據價目表的標準優惠識別碼。</p>
+<p><b>注意</b>：這個值不符合價目表上的優惠識別碼。 請參閱下方的 DurableOfferID。</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>Unique durable offer ID, as defined in the price list.</p>
-<p><b>Note</b>: This value matches the Offer ID from the price list.</p></td>
+<td><p>唯一的持續性優惠識別碼，如價目表中所定義。</p>
+<p><b>注意</b>：這個值符合價目表上的優惠識別碼。</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
 <td>OfferName</td>
-<td><p>The name of the service offering purchased by the customer, as defined in the price list.</p></td>
+<td><p>客戶購買的服務優惠名稱，如價目表中所定義。</p></td>
 <td>Microsoft Office 365 (Plan E3)</td>
 </tr>
 <tr class="even">
 <td>SubscriptionStartDate</td>
-<td><p>The subscription start date, set to the day after the order is submitted. By looking at the subscription start date in conjunction with the end date, you can determine if the customer is still within the first year of the subscription or if the subscription has been renewed for the following year.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>訂閱開始日期設定為送出訂單之後的隔日。 藉由同時查看訂閱開始日期與結束日期，您就可以判斷客戶是否仍在第一年訂閱期內，或下一年的訂閱已續約。</p>
+<p>時間一律是一天的開始時間 (0:00)。</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>The subscription end date: 12 months + x days after start date (to align with partner billing date) or 12 months from renewal date.</p>
-<p>At renewal, prices are updated to the current price list. Customer communication may be required in advance of automated renewal.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>訂閱結束日期：開始日期之後的 12 個月 + x 天 (與合作夥伴帳單日期配合) 或自續約日期起 12 個月。</p>
+<p>續約時，價格會更新至目前的價目表。 自動續約之前，可能需要與客戶連絡。</p>
+<p>時間一律是一天的開始時間 (0:00)。</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="even">
 <td>ChargeStartDate</td>
-<td><p>Start day of the charges.</p>
-<p>When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>開始計算費用的日期。</p>
+<p>當客戶變更基座數目時，此數字用於計算每日 (按比例) 的費用。</p>
+<p>時間一律是一天的開始時間 (0:00)。</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="odd">
 <td>ChargeEndDate</td>
-<td><p>End day of the charges.</p>
-<p>When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</p>
-<p>The time is always the end of the day, 23:59.</p></td>
+<td><p>結束計算費用的日期。</p>
+<p>當客戶變更基座數目時，此數字用於計算每日 (按比例) 的費用。</p>
+<p>時間一律是一天的結束時間 (23:59)。</p></td>
 <td>2/28/2015 23:59</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>The type of charge or adjustment. See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
-<td><p>See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
+<td><p>費用或調整的類型。 請參閱<a href="#charge_types">對應發票和對帳檔案之間的費用</a></p></td>
+<td><p>請參閱<a href="#charge_types">對應發票和對帳檔案之間的費用</a></p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>Price per seat. Ensure this matches the information stored in your billing system during reconciliation.</p></td>
+<td><p>每一基座價格。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
 <td>Quantity</td>
-<td><p>Number of seats. Ensure this matches the information stored in your billing system during reconciliation.</p></td>
+<td><p>基座數目。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>Amount</td>
-<td><p>Total of price for quantity. Useful to check that the amount calculation matches how you calculate this for your customers.</p></td>
+<td><p>數量總價。 檢查計算金額與您用來為客戶計算此項目的方式是否相符時很有用。</p></td>
 <td>13.32</td>
 </tr>
 <tr class="even">
 <td>TotalOtherDiscount</td>
-<td><p>Amount of discount applied to these charges. IUR or new subscriptions eligible for an incentive will also contain a discount amount in this column.</p></td>
+<td><p>套用至這些費用的折扣金額。 符合獎勵資格之 IUR 或新訂閱的訂單，也將於此欄中包含折扣金額。</p></td>
 <td>2.32</td>
 </tr>
 <tr class="odd">
 <td>Subtotal</td>
-<td><p>Total before tax. Checks that your subtotal matches your expected total, in case of a discount.</p></td>
+<td><p>稅前總計。 如果有折扣，可檢查小計是否和預期的總金額相符。</p></td>
 <td>11</td>
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>Tax amount charge, based on your market's tax rules and specific circumstances.</p></td>
+<td><p>稅金費用 (根據您所在市場的稅金規則與特定情況)。</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
 <td>TotalForCustomer</td>
-<td><p>Total after tax. Checks if you are charged tax in the invoice.</p></td>
+<td><p>稅後總計。 檢查發票中是否向您收取稅金。</p></td>
 <td>11</td>
 </tr>
 <tr class="even">
 <td>Currency</td>
-<td><p>Currency type. Each billing entity has only one currency. Check that it matches your first invoice and then after any major billing platform update.</p></td>
+<td><p>貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。</p></td>
 <td>EUR</td>
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer's organization name as reported in Partner Center. This is very important for reconciling the invoice with your system information.</p></td>
-<td>Test Customer A</td>
+<td><p>合作夥伴中心中回報的客戶組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
+<td>測試客戶 A</td>
 </tr>
 <tr class="even">
 <td>MPNID</td>
-<td><p>MPN ID of the CSP partner</p></td>
+<td><p>雲端解決方案提供者合作夥伴的 MPN 識別碼</p></td>
 <td>4390934</td>
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>MPN ID of the reseller of record for the subscription. See [Itemize by partner](#itemizebypartner).</p></td>
+<td><p>訂閱記錄中的經銷商 MPN 識別碼。 請參閱[依合作夥伴詳細列舉](#itemizebypartner)。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Customer's domain name, used to help identify the customer.</p></td>
+<td><p>用來協助識別客戶的客戶網域名稱。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionName</td>
-<td><p>Subscription nickname. If no nickname is specified, Partner Center uses the OfferName.</p></td>
+<td><p>訂閱暱稱。 如果未指定任何暱稱，合作夥伴中心會使用 OfferName。</p></td>
 <td>PROJECT ONLINE</td>
 </tr>
 <tr class="even">
 <td>SubscriptionDescription</td>
-<td><p>The name of the service offering purchased by the customer, as defined in the price list. (This is an identical field to Offer name).</p></td>
+<td><p>客戶購買的服務優惠名稱，如價目表中所定義。 （這是優惠名稱的相同欄位）。</p></td>
 <td>PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT</td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>Usage-based file fields
+## <a href="" id="usagebasedfiles"></a>用量型檔案欄位
 
 
-To reconcile your charges against your customer's usage, compare the ResellerID/ResellerName/ResellerBillableAccount from the reconciliation file, the customer name, and the Subscription ID from Partner Center.
+若要針對您客戶使用量的費用來對帳，請比較對帳檔案中的 ResellerID/ResellerName/ResellerBillableAccount、客戶名稱，與合作夥伴中心的訂閱識別碼。
 
-The following fields explain which services were used and the rate.
+下列欄位說明使用哪些服務及費率。
 
 <table>
 <colgroup>
@@ -236,219 +236,219 @@ The following fields explain which services were used and the rate.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
-<td><strong>Description</strong></td>
-<td><strong>Sample value</strong></td>
+<td><strong>欄位</strong></td>
+<td><strong>描述</strong></td>
+<td><strong>範例值</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerID</td>
-<td><p>Partner ID, in GUID format.</p></td>
+<td><p>合作夥伴識別碼 (GUID 格式)。</p></td>
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="odd">
 <td>PartnerName</td>
-<td><p>Partner Name.</p></td>
+<td><p>合作夥伴名稱。</p></td>
 <td>Acme Incorporated</td>
 </tr>
 <tr class="even">
 <td>PartnerBillableAccountID</td>
-<td><p>Partner Account ID.</p></td>
+<td><p>合作夥伴帳戶識別碼。</p></td>
 <td>1010578050</td>
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer's organization name as reported in Partner Center. This is very important for reconciling the invoice with your system information.</p></td>
-<td>Test Customer A</td>
+<td><p>合作夥伴中心中回報的客戶組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
+<td>測試客戶 A</td>
 </tr>
 <tr class="even">
 <td>MPNID</td>
-<td><p>MPN ID of the CSP partner.</p></td>
+<td><p>雲端解決方案提供者合作夥伴的 MPN 識別碼。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>MPN ID of the reseller of record for the subscription. See [Itemize by partner](#itemizebypartner).</p></td>
+<td><p>訂閱記錄中的經銷商 MPN 識別碼。 請參閱[依合作夥伴詳細列舉](#itemizebypartner)。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>InvoiceNumber</td>
-<td><p>Invoice number where the specified transaction appears.</p></td>
+<td><p>交易的指定位置顯示的發票號碼。</p></td>
 <td>D020001IVK</td>
 </tr>
 <tr class="odd">
 <td>ChargeStartDate</td>
-<td><p>Start date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>計費週期的開始日期，當顯示之前未收取潛在使用量資料費用的日期時除外 (從前一個計費週期開始)。</p>
+<p>時間一律是一天的開始時間 (0:00)。</p></td>
 <td>2/1/2014 0:00</td>
 </tr>
 <tr class="even">
 <td>ChargeEndDate</td>
-<td><p>End date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</p>
-<p>The time is always the end of the day, 23:59.</p></td>
+<td><p>計費週期的結束日期，當顯示之前未收取潛在使用量資料費用的日期時除外 (從前一個計費週期開始)。</p>
+<p>時間一律是一天的結束時間 (23:59)。</p></td>
 <td>2/28/2014 23:59</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionID</td>
-<td><p>Unique identifier for a subscription in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p>
-<p>This is not the same as the Subscription ID on the Partner Admin Console.</p></td>
+<td><p>訂閱在 Microsoft 帳單平台中的唯一識別碼。 可在連絡支援時方便識別訂閱，但不是用於對帳。</p>
+<p>這與合作夥伴管理主控台上的訂閱識別碼不一樣。</p></td>
 <td>usCBMgAAAAAAAAIA</td>
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>Nickname of the service offering.</p></td>
+<td><p>服務優惠的暱稱。</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionDescription</td>
-<td><p>Line of business of the service offering</p></td>
+<td><p>服務優惠的企業營運</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Unique identifier for an order in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p></td>
+<td><p>訂單在 Microsoft 帳單平台中的唯一識別碼。 可在連絡支援時方便識別訂閱，但不是用於對帳。</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
 <td>ServiceName</td>
-<td><p>The name of the Azure service in question.</p></td>
-<td>VIRTUAL MACHINES</td>
+<td><p>要求的 Azure 服務名稱。</p></td>
+<td>虛擬機器</td>
 </tr>
 <tr class="even">
 <td>ServiceType</td>
-<td><p>The specific type of Windows Azure service.</p></td>
+<td><p>Microsoft Azure 服務的特定類型。</p></td>
 <td><ul>
-<li>Service Bus – Individual or Pack</li>
-<li>SQL Azure database – Business or Web Edition</li>
+<li>服務匯流排 – 個人或套件</li>
+<li>SQL Azure 資料庫 – Business 或 Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>ResourceGUID</td>
-<td><p>Specific unique identifier for all the service data and pricing structure.</p></td>
+<td><p>所有服務資料與定價結構的特定唯一識別碼。</p></td>
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
 <td>Resource Name</td>
-<td><p>The name of the Azure resource.</p></td>
+<td><p>Azure 資源的名稱。</p></td>
 <td><ul>
-<li>Data Transfer In (GB)</li>
-<li>Data Transfer Out (GB)</li>
+<li>資料轉入 (GB)</li>
+<li>資料轉出 (GB)</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Region</td>
-<td><p>The region the usage applies to. Primarily used to assign rates to data transfers, as rates vary by region.</p></td>
-<td>Asia Pacific, Europe, Latin America, North America</td>
+<td>地區</td>
+<td><p>使用量適用的地區。 主要用來指定資料傳輸速率，費率因地區而異。</p></td>
+<td>亞太地區、歐洲、拉丁美洲、北美洲</td>
 </tr>
 <tr class="even">
 <td>SKU</td>
-<td><p>MSFT unique identifier for offer</p></td>
-<td>7UD-00001</td>
+<td><p>優惠的 MSFT 唯一識別碼</p></td>
+<td>7UD 00001</td>
 </tr>
 <tr class="odd">
 <td><p>DetailLineItemId</p></td>
-<td><p>An ID and quantity for itemizing the different rates for a service or resource in a given billing period. For Azure tiered rating, there may be one rate up to a certain quantity of billable units, then a different rate after that.</p></td>
+<td><p>用於詳細列出指定計費期間中，服務或資源不同費率的識別碼和數量。 對於 Azure 分層評分，到某個數量的計費單位會有一個評分，之後則有不同評分。</p></td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>ConsumedQuantity</td>
-<td><p>The amount of service consumed (hours, GB, etc.) during the reporting period.</p>
-<p>Also includes any unbilled usage from previous reporting periods.</p></td>
+<td><p>報表期間耗用的服務量 (小時、GB 等等)</p>
+<p>同時包括先前報表期間任何未計費的使用量。</p></td>
 <td>11</td>
 </tr>
 <tr class="odd">
 <td>IncludedQuantity</td>
-<td><p>Units included as part of the offer. Not typically present in CSP.</p></td>
+<td><p>包含在優惠中的單位。 通常不會出現在雲端解決方案提供者中。</p></td>
 <td>0</td>
 </tr>
 <tr class="even">
 <td><p>OverageQuantity</p></td>
-<td><p>Units not included as part of the offer, that must be paid for by the partner.</p>
-<p>Equal to the ConsumedQuantity - IncludedQuantity.</p></td>
+<td><p>不包含在優惠中的單位，必須由合作夥伴支付。</p>
+<p>等同於 ConsumedQuantity - IncludedQuantity。</p></td>
 <td>11</td>
 </tr>
 <tr class="odd">
 <td>ListPrice</td>
-<td><p>Offer price in effect at subscription start date.</p></td>
+<td><p>訂閱開始日期的生效優惠價格。</p></td>
 <td>$0.0808</td>
 </tr>
 <tr class="even">
 <td>PretaxCharges</td>
-<td><p>ListPrist times OverageQuantity, rounded to the nearest cent.</p></td>
+<td><p>ListPrist 乘以 OverageQuantity，四捨五入至美分。</p></td>
 <td>$0.085</td>
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Tax amount charge, based on your market's tax rules and specific circumstances.</p></td>
+<td><p>稅金費用 (根據您所在市場的稅金規則與特定情況)。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
 <td>PostTaxTotal</td>
-<td><p>Total after tax, when tax is applicable.</p></td>
+<td><p>稅後總計 (當適用稅金時)。</p></td>
 <td>$0.93</td>
 </tr>
 <tr class="odd">
 <td>Currency</td>
-<td><p>Currency type. Each billing entity has only one currency. Check that it matches your first invoice and then after any major billing platform update.</p></td>
+<td><p>貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。</p></td>
 <td>EUR</td>
 </tr>
 <tr class="even">
 <td>PretaxEffectiveRate</td>
-<td><p>Pretax price per unit. Equal to PretaxCharges / OverageQuantity, rounded to the nearest cent.</p></td>
+<td><p>每個單位的稅前價格。 等於 PretaxCharges / OverageQuantity, 四捨五入至美分。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="odd">
 <td>PostTaxEffectiveRate</td>
-<td><p>Post tax price per unit. Equal to PostTaxTotal / OverageQuantity, or PretaxEffectiveRate + tax rate per unit amoun, rounded to the nearest cent.</p></td>
+<td><p>每個單位的稅後價格。 等於 PostTaxTotal / OverageQuantity，或 PretaxEffectiveRate + 每單位數量稅率，四捨五入至美分。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>The type of charge or adjustment. See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
-<td><p>See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
+<td><p>費用或調整的類型。 請參閱<a href="#charge_types">對應發票和對帳檔案之間的費用</a></p></td>
+<td><p>請參閱<a href="#charge_types">對應發票和對帳檔案之間的費用</a></p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
-<td><p>Unique account ID in the MSFT billing platform.</p></td>
+<td><p>MSFT 帳單平台的唯一帳戶識別碼。</p></td>
 <td>1280018095</td>
 </tr>
 <tr class="even">
 <td>UsageDate</td>
-<td><p>Date of service deployment.</p></td>
+<td><p>服務部署的日期。</p></td>
 <td>2/1/2014 0:00</td>
 </tr>
 <tr class="odd">
 <td>MeteredRegion</td>
-<td><p>This column identifies the location of a data center within the region for services where this is applicable and populated.</p></td>
-<td>East Asia, South East Asia, North Europe, West Europe, North Central US, South Central US</td>
+<td><p>此欄可識別適用及填入此項目之服務地區內的資料中心的位置。</p></td>
+<td>東亞、東南亞、北歐、西歐、美國中北部、美國中南部</td>
 </tr>
 <tr class="even">
 <td>MeteredService</td>
-<td><p>This column is utilized to track the individual Microsoft Azure service that may not be specifically identified in the Service Name column. For example, data transfers are reported as &quot;Microsoft Azure - All Services&quot; in the Service Name column. This MeteredService column will indicate to which specific service the usage pertains.</p></td>
-<td>AccessControl, CDN, Compute, Database, ServiceBus, Storage</td>
+<td><p>此欄是用來追蹤可能未在 \[服務名稱\] 欄中特別指出的個別 Microsoft Azure 服務。 例如，在 \[服務名稱\] 欄中，資料傳輸是回報為 &quot;Microsoft Azure - 所有服務&quot;。 此 MeteredService 欄會指出使用量與哪個特定服務有關。</p></td>
+<td>AccessControl、CDN、Compute、Database、ServiceBus、Storage</td>
 </tr>
 <tr class="odd">
 <td>MeteredServiceType</td>
-<td><p>A subheading that further clarifies the individual Microsoft Azure service beyond the level provided by the MeteredService field.</p></td>
-<td>EXTERNAL</td>
+<td><p>進一步釐清超出 MeteredService 欄位提供之層級的個別 Microsoft Azure 服務副標題。</p></td>
+<td>外部</td>
 </tr>
 <tr class="even">
 <td>Project</td>
-<td><p>Customer-defined name for their service instance</p></td>
+<td><p>客戶為其服務執行個體定義的名稱</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>ServiceInfo</td>
-<td><p>The number of ServiceBus connections that were provisioned and utilized on a given day.</p></td>
-<td>For example: if you had an individually provisioned connection during a 30 day month, Service Info 1 would read “1.000000 Connections / 30 days”. If you had a 25 pack of ServiceBus connections provisioned and you had utilized 1 during that day, your daily usage statement for that day would indicate “25 Connections / 30 Days – Used: 1.000000”.</td>
+<td><p>於某一天佈建及使用的 ServiceBus 連線數目。</p></td>
+<td>例如：如果您在有 30 天的月份中有個別佈建的連線時，「服務資訊 1」的讀數會是「1.000000 連線 / 30 天」。 如果您佈建 25 組 ServiceBus 連線並在那天使用其中一組，那一天的每日使用量就會指示「25 組連線 / 30 天 - 已使用：1.000000」。</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
-<td><p>Unique Microsoft ID, in GUID format, used to identify the customer.</p></td>
+<td><p>用來識別客戶的唯一 Microsoft ID（GUID 格式）。</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Customer's domain name, used to help identify the customer.</p></td>
+<td><p>用來協助識別客戶的客戶網域名稱。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -463,217 +463,219 @@ The following fields explain which services were used and the rate.
 
 ## <a href="" id="charge_types"></a>對應發票和對帳檔案之間的費用
 
-Your invoice provides a summary of charges, while your reconciliation file provides a detailed breakdown of line-item transactions, including charge types.
+您的發票提供費用摘要，而對帳檔案則提供包括費用類型等明細項目交易的詳細細項。
 
-To cross-reference charge amounts between the invoice and reconciliation file, you can use Microsoft Excel's filter options to filter by charge types on the reconciliation file to map the invoice charges to a set of charge breakdowns on reconciliation file.
+若要交互參照發票和對帳檔案之間的費用金額，您可以使用 Microsoft Excel 篩選選項，在對帳檔案上依費用類型篩選，以便將發票費用對應到對帳檔案上的一組費用細項。
 
-The table below shows the mappings between an invoice section and associated charge types that might show up on the reconciliation files. 
+用量型和授權型訂閱的對帳檔案只會顯示交易和費用的相關使用量 (耗用單位和相關的費用)。 發票上顯示為「調整」的點數、折扣或退款不會出現在對帳檔案中。
+
+下表顯示發票區段和對帳檔案上可能會顯示之相關費用類型之間的對應。 
 
 <table>
 <tbody>
 <tr>
 <td>
-<p><strong>Invoice charge description</strong></p>
+<p><strong>發票費用描述</strong></p>
 </td>
 <td>
-<p><strong>Reconciliation file charge description (ChargeType column)</strong></p>
+<p><strong>對帳檔案費用描述（ChargeType 欄）</strong></p>
 </td>
 <td>
-<p><strong>What is this charge?</strong></p>
+<p><strong>這項費用是什麼？</strong></p>
 </td>
 <td>
-<p><strong>How do I map these ChargeTypes to the invoice?</strong></p>
+<p><strong>如何將這些 ChargeTypes 對應到發票？</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="8">
-<p><strong>Recurring Charges</strong></p>
+<p><strong>週期性費用</strong></p>
 </td>
 <td>
-<p>Cancel instance prorate</p>
+<p>取消執行個體按比例計算</p>
 </td>
 <td>
-<p>Prorated charges refunded to the customer when associated seats are changed</p>
+<p>當關聯的基座變更時，按比例計算退款給客戶的費用</p>
 </td>
 <td rowspan="8">
-<p>From license-based file, sum the <strong>Amount</strong> column</p>
+<p>從授權型檔案，加總 <strong>Amount</strong> 欄</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Cycle fee</p>
+<p>循環費用</p>
 </td>
 <td>
-<p>Periodic charges for a subscription</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Cycle instance prorate</p>
-</td>
-<td>
-<p>Prorated charges assessed from the customer when associated seats are changed</p>
+<p>訂閱的定期費用</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Prorate fees when cancel</p>
+<p>循環執行個體按比例計算</p>
 </td>
 <td>
-<p>Prorated refund for unused portion of service upon cancellation</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Prorate fees when purchase</p>
-</td>
-<td>
-<p>Prorated fees upon purchase</p>
+<p>當關聯的基座變更時，按比例計算向客戶收取的費用</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Purchase fee</p>
+<p>取消時按比例計算費用</p>
 </td>
 <td>
-<p>Initial charge for a subscription</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Prorate fee when renew</p>
-</td>
-<td>
-<p>Prorated fees upon subscription renewal</p>
+<p>取消時服務未使用部分之按比例計算的退款</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Renew fee</p>
+<p>購買時按比例計算費用</p>
 </td>
 <td>
-<p>Charge for renewing a subscription</p>
+<p>在購買時按比例計算的費用</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Other Products and Services</strong></p>
+<p>購買費用</p>
 </td>
 <td>
-<p>Prorate fees when activate</p>
+<p>訂閱的初始費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>續約時按比例計算費用</p>
 </td>
 <td>
-<p>Prorated fees from activation until end of billing period</p>
+<p>訂閱續約時按比例計算的費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>續約費用</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>Amount</strong> column</p>
+<p>訂閱續約時的費用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>其他產品與服務</strong></p>
+</td>
+<td>
+<p>啟用時按比例計算費用</p>
+</td>
+<td>
+<p>從啟用到計費期間結束時按比例計算的費用</p>
+</td>
+<td>
+<p>從授權型檔案，加總 <strong>Amount</strong> 欄</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p><strong>Usage Charges</strong></p>
+<p><strong>使用量費用</strong></p>
 </td>
 <td>
-<p>Assess usage fee when cancel</p>
+<p>取消時的存取用量費用</p>
 </td>
 <td>
-<p>Access usage fee upon cancellation for unpaid usage during the current billing period</p>
+<p>在目前計費期間中取消時，未支付之使用量的存取用量費用</p>
 </td>
 <td rowspan="2">
-<p>From usage-based file, sum the <strong>PretaxCharges</strong> column</p>
+<p>從用量型檔案，加總 <strong>PretaxCharges</strong> 欄</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Assess usage fee for current cycle</p>
+<p>目前週期的存取用量費用</p>
 </td>
 <td>
-<p>Access usage fee for the current billing period</p>
+<p>目前計費期間的存取用量費用</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Credits &amp; Adjustments</strong></p>
+<p><strong>信用 &amp; 調整</strong></p>
 </td>
 <td>
-<p>Offset a line item</p>
+<p>明細項目位移</p>
 </td>
 <td>
-<p>Partial or whole refund to a line item, including taxes</p>
+<p>明細項目的部分或完整退款 (含稅)</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>TotalForCustomer</strong> column</p>
-<p>From usage-based file, sum the <strong>PostTaxTotal</strong> column</p>
+<p>從授權型檔案，加總 <strong>TotalForCustomer</strong> 欄</p>
+<p>從用量型檔案，加總 <strong>PostTaxTotal</strong> 欄</p>
 </td>
 </tr>
 
 
 <tr>
 <td rowspan="4">
-<p><strong>Other Discounts</strong></br>
-<em>(usage-based)</em></p>
+<p><strong>其他折扣</strong></br>
+<em>（用量型）</em></p>
 </td>
 <td>
-<p>Activation discount</p>
+<p>啟用折扣</p>
 </td>
 <td>
-<p>Discount applied when subscription activated</p>
+<p>啟用訂閱時套用的折扣</p>
 </td>
 <td rowspan="4">
-<p>From usage-based file, sum the <strong>PretaxCharges</strong> column</p>
+<p>從用量型檔案，加總 <strong>PretaxCharges</strong> 欄</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Cycle discount</p>
+<p>循環折扣</p>
 </td>
 <td>
-<p>Discount applied on periodic charges</p>
-</td>
-</tr><tr>
-<td>
-<p>Renew discount</p>
-</td>
-<td>
-<p>Discount applied when subscription renewed</p>
+<p>套用至定期費用的折扣</p>
 </td>
 </tr><tr>
 <td>
-<p>Cancel discount</p>
+<p>續約折扣</p>
 </td>
 <td>
-<p>Charges applied when discounts cancelled</p>
+<p>訂閱續約時套用的折扣</p>
+</td>
+</tr><tr>
+<td>
+<p>取消折扣</p>
+</td>
+<td>
+<p>折扣取消時收取的費用</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Other Discounts</strong></br>
-<em>(license-based)</em></p>
+<p><strong>其他折扣</strong></br>
+<em>（授權型）</em></p>
 </td>
 <td>
-<p><em>May be applied to multiple charge types</em></p>
+<p><em>可套用至多個費用類型</em></p>
 </td>
 <td>
 <p>&nbsp;</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>TotalOtherDiscount</strong> column</p>
+<p>從授權型檔案，加總 <strong>TotalOtherDiscount</strong> 欄</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Taxes</strong>&nbsp;or&nbsp;<strong>VAT</strong></p>
+<p><strong>稅金</strong>&nbsp;或&nbsp;<strong>加值稅</strong></p>
 </td>
 <td>
-<p><em>May be applied to multiple charge types</em></p>
-<p><em>Exception: "Offset a line item" already includes taxes. See Credits &amp; Adjustments, above.</em></p>
+<p><em>可套用至多個費用類型</em></p>
+<p><em>例外：「明細項目位移」已含稅。 請參閱上方的＜信用 &amp; 調整＞。</em></p>
 </td>
 <td>
-<p>Taxes or value-added taxes (VAT)</p>
+<p>稅金或加值稅 (VAT)</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>Tax</strong> column</p>
-<p>From usage-based file, sum the <strong>TaxAmount</strong> column</p>
+<p>從授權型檔案，加總 <strong>Tax</strong> 欄</p>
+<p>從用量型檔案，加總 <strong>TaxAmount</strong> 欄</p>
 </td>
 </tr>
 </tbody>

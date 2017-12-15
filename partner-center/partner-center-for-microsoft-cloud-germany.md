@@ -1,53 +1,53 @@
 ---
-title: Partner Center for Microsoft Cloud Germany | Partner Center for Microsoft Cloud Germany
-description: Partner Center for Microsoft Cloud Germany is the business portal for Microsoft partners who want to offer Microsoft cloud solutions to customers in EU and EFTA countries. Microsoft Cloud Germany ensures that your customer data resides in Germany and a designated German data trustee controls access to it. Commercial customers in the European Union (EU) and European Free Trade Association (EFTA) can store and manage customer data in compliance with applicable German laws and regulations as well as key international standards. Microsoft cannot access customer data without approval from and supervision by the German data trustee or customer.
+title: "Microsoft Cloud 德國合作夥伴中心 | Microsoft Cloud 德國合作夥伴中心"
+description: "Microsoft Cloud 德國合作夥伴中心是一個商務入口網站，適用於希望向歐盟和歐洲自由貿易聯盟境內客戶提供 Microsoft Cloud 解決方案的 Microsoft 合作夥伴。 Microsoft Cloud 德國可確保您的客戶資料存放於德國，並由指定的德國資料託管單位控管資料存取。 歐盟和歐洲自由貿易聯盟境內的商業客戶可根據適用的德國法律和規範以及重要國際標準，保存並管理客戶資料。 Microsoft 在未經德國資料託管機關或客戶核准及監督的情況下，不得存取客戶資料。"
 author: MaggiePucciEvans
-ms.openlocfilehash: ffdc34a15896f63f838159eeb0328255e4ba810d
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+ms.openlocfilehash: 7411e8df770d460650d3e90d6cb7d0f686f32070
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/10/2017
 ---
-# <a name="partner-center-for-microsoft-cloud-germany"></a>Partner Center for Microsoft Cloud Germany
+# <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心
 
-**Applies to**
+**適用於**
 
--  Partner Center for Microsoft Cloud Germany
+-  Microsoft Cloud 德國合作夥伴中心
 
-## <a name="microsoft-cloud-germany-meeting-german-data-protection-requirements"></a>Microsoft Cloud Germany: Meeting German data protection requirements 
+## <a name="microsoft-cloud-germany-meeting-german-data-protection-requirements"></a>Microsoft Cloud 德國︰認識德國資料保護相關規定 
 
-Microsoft Cloud Germany is designed to meet strict German data protection requirements and includes a German data trustee, operating under German law, who controls physical and logical access to customer data. All customer data, and the systems that process or control access to customer data, reside in German datacenters. The network between these datacenters is isolated and dedicated within Germany.
+Microsoft Cloud 德國完全符合嚴格的德國資料保護相關規定，且設有德國資料託管單位 (依照德國法律行事) 來負責控管客戶資料的實體與邏輯存取。 所有客戶資料以及用來處理或控管客戶資料存取的系統，皆位於德國資料中心內。 這些資料中心之間為獨立且專屬的網路，且都在德國境內。
 
-Microsoft Cloud 德國提供 [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)、Office 365 和 Microsoft Dynamics 的獨立執行個體，這些執行個體都從德國境內的資料中心提供。 As a result, commercial customers in the European Union (EU) and European Free Trade Association (EFTA) can store and manage customer data in compliance with applicable German laws and regulations as well as key international standards. Microsoft personnel cannot access customer data without approval from and supervision by the German data trustee or customer.
+Microsoft Cloud 德國提供 [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)、Office 365 和 Microsoft Dynamics 的獨立執行個體，這些執行個體都從德國境內的資料中心提供。 因此，歐盟和歐洲自由貿易聯盟境內的商業客戶可根據適用的德國法律和規範以及重要國際標準，保存並管理客戶資料。 Microsoft 人員在未經德國資料託管機關或客戶核准及監督的情況下，不得存取客戶資料。
 
 如需詳細資訊，請參閱 [Microsoft Cloud 德國資料工作表](http://download.microsoft.com/download/6/1/3/613C9ECB-9167-4EF5-B131-3BAD8D8A126C/Microsoft_Cloud_Germany_Datasheet.pdf)。
 
-## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Partner Center for Microsoft Cloud Germany: Selling German Cloud solutions in EU and EFTA
+## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Microsoft Cloud 德國合作夥伴中心：在歐盟和歐洲自由貿易聯盟境內銷售德國雲端解決方案
 
-Once enrolled in the Cloud Solution Provider (CSP) for Microsoft Cloud Germany program, you'll use Partner Center to sell German Cloud-specific solutions and services to customers in EU and EFTA countries/regions. 
+註冊 Microsoft Cloud 德國雲端解決方案提供者計畫後，您需要透過合作夥伴中心向歐盟和歐洲自由貿易聯盟境內的客戶銷售德國特定雲端解決方案和服務。 
 
->**Note**<br>
-At the time this article was published, the following Partner Center features were not yet available in Partner Center for Microsoft Cloud Germany (since publication, some of the features may have been added to Partner Center and this list may be out of date):
+>**注意**<br>
+這篇文章發行時，Microsoft Cloud 德國合作夥伴中心尚未推出下列合作夥伴中心功能 (自發佈以來，有部分功能可能已加到合作夥伴中心，因此這份清單可能已經過時)：
 
-- Find a partner
-- Marketing profiles
-- Referrals
-- License analytics
-- Customer insights
-- Notification center
-- Indirect reseller/provider model and settings
-- Check service health
-- Independent Software Vendor (ISV) enrollment
-- Customer special qualification
+- 尋找合作夥伴
+- 商務設定檔
+- 轉介
+- 授權分析
+- 客戶的深入資訊
+- 通知中心
+- 間接經銷商/提供者型號和設定
+- 檢查服務健康狀況
+- 獨立軟體廠商 (ISV) 註冊
+- 客戶特殊資格
 
-To comply with German laws and regulations that govern the collection and use of individuals' data as well as key international standards, the following Partner Center tasks are managed using specific service portals. 
+為遵守用來約束個人資料收集和使用行為的德國法律和規範以及重要國際標準，下列合作夥伴中心事務將透過特定服務入口網站加以管理。 
 
-Feature or capability | Complete tasks in
+特色或功能 | 完成事務於
 :--- | :---
-Partner user management | Office 365 admin center or Azure for Microsoft Cloud Germany admin portal
-Customer user management | Office 365 admin center or Azure for Microsoft Cloud Germany admin portal
-Reset user password | Azure for Microsoft Cloud Germany admin portal
-License management | Office 365 admin center or Microsoft Cloud Germany Azure Active Directory Licensing portal
+合作夥伴使用者管理 | Office 365 系統管理員中心或 Microsoft Cloud 德國 Azure 系統管理員入口網站
+客戶使用者管理 | Office 365 系統管理員中心或 Microsoft Cloud 德國 Azure 系統管理員入口網站
+重設使用者密碼 | Microsoft Cloud 德國 Azure 管理員入口網站
+授權管理 | Office 365 系統管理員中心或 Microsoft Cloud 德國 Azure Active Directory 授權入口網站
 
 若要瞭解如何管理使用者和授權，請參閱 [Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)。
 

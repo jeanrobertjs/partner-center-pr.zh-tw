@@ -1,13 +1,13 @@
 ---
 title: "帳單 | 合作夥伴中心"
-Description: "身為雲端解決方案提供者合作夥伴，您要在 60 天內，向 Microsoft 支付您客戶之授權型與用量型訂閱的費用。"
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 971416c2fc4ac5fdc88cc6f64878bacf0e5b69ad
-ms.sourcegitcommit: c65facdf2eea370598bf9a10880239676e047c04
+ms.openlocfilehash: 1147875ebe6ed9a7cdb95c4d044833c2f9d1ece0
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="billing"></a>帳單
 
@@ -17,9 +17,14 @@ ms.lasthandoff: 10/18/2017
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-身為雲端解決方案提供者合作夥伴，您要在 60 天內，向 Microsoft 支付您客戶之授權型與用量型訂閱的費用。
+若為您的帳單，請移至 **\[儀表板\]** 功能表並選取 **\[帳單\]** 以查看您的帳單記錄和趨勢、目前月份的應付餘額、發票與對帳檔案的連結，以及最近的付款。
 
-若為您的帳單，請移至 **\[儀表板\]** 功能表，然後選取 **\[帳單\]**。 此帳單頁面會顯示您的帳單記錄和趨勢、發票與對帳檔案的連結，以及最近的付款。
+如果雲端解決方案提供者計畫中的合作夥伴已選擇每月計費，應於 60 天內，向 Microsoft 支付其客戶的訂閱費用 (包括授權型與用量型)。
+
+>**注意**<br>
+您的發票是目前每個月期間所有費用 (涵蓋方案、產品以及客戶) 的摘要，將於您所選帳單日期的 4 天內提供。
+
+關於向客戶收費的重要應知資訊：
 
 -   Microsoft 不會對您在發票開立事宜處理方式上有任何要求或條件。
 -   請使用對帳檔案內的客戶識別碼/名稱以及其他相關欄位，來判斷客戶的使用量。
@@ -66,7 +71,7 @@ ms.lasthandoff: 10/18/2017
 <td>日期</td>
 <td><ul>
 <li>您的每月帳單日期為您在註冊期間選取的日期。 Microsoft 將會傳送包含您帳單日期的確認電子郵件。</li>
-<li>您可以在 1 個月前事先看到價目表，價目表每個月會更新一次。 授權型價格保證在訂閱期間維持不變，通常是從購買日期算起的 12 個月。 用量型價格每個月可能會有所變更。 價格如有任何變更，我們將會透過我們的 \[合作夥伴價目表\] 發佈，並在 30 天前通知。</li>
+<li>您可以在一 (1) 個月前事先看到價目表，價目表每個月會更新一次。 授權型價格保證在訂閱期間維持不變，通常是從購買日期算起的 12 個月。 用量型價格每個月可能會有所變更。 價格如有任何變更，我們將會透過我們的 \[合作夥伴價目表\] 發佈，並在 30 天前通知。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -89,7 +94,7 @@ ms.lasthandoff: 10/18/2017
 <tr class="even">
 <td>發票可用性</td>
 <td><ul>
-<li>您可以在合作夥伴中心的 \[帳務\] 頁面，檢視和下載您的發票和對帳檔案。</li>
+<li>您可以在合作夥伴中心的 \[帳務\] 頁面，檢視和下載您的發票和對帳檔案。 請注意，每月發票於您所選帳單日期的 4 天內，可在合作夥伴中心中查看。</li>
 </ul></td>
 </tr>
 <tr class="odd">

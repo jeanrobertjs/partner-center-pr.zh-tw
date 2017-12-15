@@ -3,11 +3,11 @@ title: "資料中心專長認證"
 description: "資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。"
 author: Daniel Simpson
 keywords: "專長認證, 各專長認證, 資料中心"
-ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
+ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 11/21/2017
 ---
 #<a name="datacenter"></a>資料中心
 資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。
@@ -18,14 +18,16 @@ ms.lasthandoff: 09/29/2017
 
     - **System Center** 2012 專長領域
 
-        - [測驗 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx)：使用 System Center 2012 監視和操作私人雲端
-        - [測驗 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx)：使用 System Center 2012 設定和部署私人雲端
+        - [測驗 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx)：使用 System Center 2012 監視和操作私人雲端*
+        - [測驗 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx)：使用 System Center 2012 設定和部署私人雲端*
 
-    - **虛擬化**專長領域
+\* 2017 年 12 月 31 日即將淘汰。 在 2018 年 12 月 31 日前，仍可接受此測驗結果做為專長認證資格。 直到 2017 年 11 月 30 日前，您都可以報名參加此測驗。
+
+   - **虛擬化**專長領域
 
         - [測驗 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx)：透過 Windows Server Hyper-V 和 System Center 進行伺服器虛擬化
 
-    - **Windows Server 2012** 專長領域
+   - **Windows Server 2012** 專長領域
 
         - [測驗 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx)：安裝和設定 Windows Server 2012
         - [測驗 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx)：管理 Windows Server 2012
@@ -34,7 +36,7 @@ ms.lasthandoff: 09/29/2017
         - [測驗 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx)：實作進階伺服器基礎結構
         - [測驗 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx)：將您的技能升級至 MCSA Windows Server 2012
 
-    - **Windows Server 2016** 專長領域
+   - **Windows Server 2016** 專長領域
         - [測驗 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx)：與 Windows Server 2016 相關的安裝、儲存和運算
         - [測驗 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx)：Windows Server 2016 的網路功能
         - [測驗 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx)：Windows Server 2016 的身分識別
