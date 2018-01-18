@@ -1,19 +1,20 @@
 ---
-title: User management tasks for customer accounts | Partner Center
-description: After you buy a new subscription for a customer, you can assign licenses to specific users.
+title: "客戶帳戶的使用者管理工作 | 合作夥伴中心"
+description: "在您為客戶購買新的訂閱之後，您就可以指派授權給特定使用者。"
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-ms.openlocfilehash: 9bd854b4abd8c916e98cc0e771c711e40a9d71ff
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+ms.openlocfilehash: e1ac2234dfb0b6da431fe79c00dee4653b48a12a
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 12/21/2017
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a>User management tasks for customer accounts
+# <a name="user-management-tasks-for-customer-accounts"></a>客戶帳戶的使用者管理工作
 
-**Applies to**
+**適用於**
 
--  Partner Center
+-  合作夥伴中心
 
 
 
@@ -45,7 +46,7 @@ ms.lasthandoff: 07/07/2017
 
 2.  在 \[客戶\] 功能表中選取 **\[使用者和授權\]**。
 
-3.  從清單中選擇一或多位使用者。 If, for example, the customer just purchased new licenses and you wanted to assign them to people who don't have them yet, you can use the **Filter users by...** option to find the right group.
+3.  從清單中選擇一或多位使用者。 例如，如果客戶才剛剛購買新的授權，而您想要將它們指派給尚未擁有授權的人員，您可以使用 **\[依下列方式篩選使用者\]** 選項以尋找正確的群組。
 
 4.  選取 **\[管理授權\]**。 進行變更，然後 **\[儲存\]**。
 
@@ -63,9 +64,9 @@ ms.lasthandoff: 07/07/2017
 <a href="" id="deleteuseraccounts"></a>
 **為客戶刪除使用者帳戶**
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。 Choose the customer from the list.
+1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。 從清單中選擇客戶。
 
-2.  在 \[客戶\] 功能表中選取 **\[使用者和授權\]**。 Choose the user from the list.
+2.  在 \[客戶\] 功能表中選取 **\[使用者和授權\]**。 從清單中選擇使用者。
 
 3.  在螢幕最下方，選取 **\[刪除使用者帳戶\]**。
 
@@ -78,7 +79,7 @@ ms.lasthandoff: 07/07/2017
 
 2.  選取 **\[使用者和授權\]**。
 
-3.  選取 **\[刪除的使用者 ( )\]** 索引標籤。 其中應該會顯示 **(1)**，如果有多個可還原的已刪除使用者，則顯示更大的數字。
+3.  選取 **\[刪除的使用者 ( )\]** 索引標籤，其中應該會顯示 **(1)**，如果有多個可還原的已刪除使用者，則顯示更大的數字。
 
 4.  選取一個或多個已刪除使用者的核取方塊，然後選取 **\[還原\]**。
 
@@ -87,9 +88,9 @@ ms.lasthandoff: 07/07/2017
 ## <a name="related-topics"></a>相關主題
 
 
-[Assign or revoke licenses to multiple users](bulk-license-provisioning-for-multiple-users.md)
+[指派或撤銷多個使用者的授權](bulk-license-provisioning-for-multiple-users.md)
 
-[Create multiple users for a customer account](adding-multiple-users-to-a-customer-account.md)
+[為客戶帳戶建立多位使用者](adding-multiple-users-to-a-customer-account.md)
 
  
 

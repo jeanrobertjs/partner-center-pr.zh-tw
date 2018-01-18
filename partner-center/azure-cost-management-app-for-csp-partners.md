@@ -2,12 +2,13 @@
 title: "適用於 CSP 合作夥伴的 Cloudyn 支援的 Azure 成本管理 | 合作夥伴中心"
 description: "Cloudyn 支援的 Azure 成本管理需要對 Partner Center API 佈建存取權。"
 author: Janet
+Keywords: Azure cost management app, manage costs, web apps
 robots: 
-ms.openlocfilehash: d9f0b3f0f8bd6d76f05dacba27cf7ee2ddc5071b
-ms.sourcegitcommit: d9f3e4e8115c0ad44f97041d352b703cda7ba9e5
+ms.openlocfilehash: 3d122e0f88867d16df3713f79e735126b7f40dd4
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 合作夥伴適用的 Azure 成本管理應用程式  
 

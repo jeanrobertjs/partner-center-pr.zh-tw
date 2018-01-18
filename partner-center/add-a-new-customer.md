@@ -3,13 +3,14 @@ title: "新增新的客戶 | 合作夥伴中心"
 description: "在您可以銷售訂閱、管理帳單，或是提供支援之前，您必須先在合作夥伴中心中建立客戶的記錄。 這包含他們的連絡資訊，以及 Azure AD 網域。"
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-ms.openlocfilehash: c6bb20cdc2dbb7bc6c3a04bb8c01b5cfe685dfe4
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: "客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶"
+ms.openlocfilehash: 222fe2acb5abd09061b83a8ee67540666413d04d
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
-# <a name="add-a-new-customer"></a>新增新的客戶
+# <a name="add-a-new-customer"></a>加入新的客戶
 
 **適用於**
 

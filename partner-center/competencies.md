@@ -2,13 +2,13 @@
 title: "獲得 Microsoft 專長認證 | 合作夥伴中心"
 description: "獲得銀級和金級 Microsoft 專長認證，示範您在專業業務領域中提供高品質解決方案備受肯定的專業"
 author: KPacquer
-keywords: "專長認證、銀級會員, 金級會員, mpn, MAPS, 熟練程度"
+keywords: "專長認證, 銀級會員, 金級會員, mpn, MAPS, 熟練度, 權益, 效能目標, 技能目標"
 robots: noindex,nofollow
-ms.openlocfilehash: 6323613d785958db9bd511f10ca03988681f1867
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
+ms.openlocfilehash: b4ca5bff38a4d2b3e40616c971379e743ad87032
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 12/21/2017
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page

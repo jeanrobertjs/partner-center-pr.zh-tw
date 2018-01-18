@@ -3,11 +3,11 @@ title: "使用對帳檔案 | 合作夥伴中心"
 description: "如需計費週期中每項費用的詳細明細項目檢視，請從合作夥伴中心儀表板下載對帳檔案。"
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
-ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
+ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
+ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/04/2017
+ms.lasthandoff: 12/15/2017
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -149,7 +149,7 @@ ms.lasthandoff: 11/04/2017
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>每一基座價格。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
+<td><p>每一基座價格，即購買時價目表中所公佈的價格。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
@@ -492,13 +492,21 @@ ms.lasthandoff: 11/04/2017
 <p><strong>週期性費用</strong></p>
 </td>
 <td>
+<p>啟用費用</p>
+</td>
+<td>
+<p>當客戶購買後使用訂閱時，向客戶收取的金額</p>
+</td>
+<td rowspan="8">
+<p>從授權型檔案，加總 <strong>Amount</strong> 欄</p>
+</td>
+</tr>
+<tr>
+<td>
 <p>取消執行個體按比例計算</p>
 </td>
 <td>
 <p>當關聯的基座變更時，按比例計算退款給客戶的費用</p>
-</td>
-<td rowspan="8">
-<p>從授權型檔案，加總 <strong>Amount</strong> 欄</p>
 </td>
 </tr>
 <tr>

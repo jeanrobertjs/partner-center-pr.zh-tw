@@ -3,11 +3,11 @@ title: "Microsoft 合作夥伴網路會員資格 | 合作夥伴中心"
 description: "了解加入 Microsoft 合作夥伴網路可獲得的權益。"
 author: MaggiePucciEvans
 keywords: "合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格"
-ms.openlocfilehash: f429908c69f154e9a25af3c2688011491d7b4125
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
+ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/07/2017
 ---
 # <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
 
@@ -17,15 +17,15 @@ Microsoft 合作夥伴網路提供三種類型的會員資格。 每個類型都
 
 -   **網路會員**：當您加入這個免費的基本等級，您會收到一組[核心內部使用權權益](https://partner.microsoft.com/membership/core-benefits)，可協助您節省時間和金錢，同時加強您的功能、提供更好的客戶服務，以及建立人脈，實現完整業務潛能。
 
-    [深入了解 Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/how-it-works)
+    -   [深入了解 Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/how-it-works)
 
-    [立即加入 Microsoft 合作夥伴網路](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+    -   [立即加入 Microsoft 合作夥伴網路](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
 
 -   **行動寶盒**：購買行動寶盒，這個經濟實惠的年費型服務，可獲得額外的網路權益，包括開發人員工具、支援、訓練及軟體的存取權。 在這個等級，您可以提升您專業並開發新的技術。
 
-    [深入了解 Microsoft 行動寶盒](https://partner.microsoft.com/membership/action-pack)
+    -   [深入了解 Microsoft 行動寶盒](https://partner.microsoft.com/membership/action-pack)
 
-    [立即訂閱行動寶盒](mpn-get-action-pack.md)
+    -   [立即訂閱行動寶盒](mpn-get-action-pack.md)
 
 -   **專長認證**：證明您在一個或多個特殊業務領域中提供高品質解決方案方面卓有建樹的專長。 Microsoft 專長認證是設計來讓您做好準備，以便滿足客戶需求以及獲得潛在客戶肯定。 加入 Microsoft 合作夥伴菁英層，從同儕中脫穎而出。
 

@@ -2,11 +2,11 @@
 title: "加入 Microsoft 合作夥伴網路 | 合作夥伴中心"
 description: "在合作夥伴中心購買 Microsoft 行動寶盒，並獲得專長認證"
 author: labrenne
-ms.openlocfilehash: 7ac5c9fc7b66adf7796c23e97be994bffd751799
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: cf9ac91a4d8ad7a642863693c5db2193e12f25d9
+ms.sourcegitcommit: eca4ff8ce011fb5c687b333e5d08d085df2f5dcb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/12/2017
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>加入 Microsoft 合作夥伴網路 (MPN)
 
@@ -18,6 +18,8 @@ ms.lasthandoff: 11/22/2017
 ## <a name="new-to-partner-center"></a>新加入合作夥伴中心
 
  與 Microsoft 合作可讓您取得新商機，讓您的業務改頭換面。 在合作夥伴中心，您可以購買並更新 Microsoft 行動寶盒，您可以輕鬆存取專長認證和達到方式的相關資訊。
+
+ 我們正逐步於合作夥伴的 MAPS 或專長認證週年日，以及當重要的合作夥伴中心功能可供使用並經證明符合業務需求時，邀請合作夥伴到合作夥伴中心管理他們的會員資格。  目前，在您收到移動邀請前，可先在 Partner Membership Center (PMC) 計畫續約以及管理您的會員資格。
 
 ## <a name="get-your-mpn-id"></a>取得 MPN 識別碼
 

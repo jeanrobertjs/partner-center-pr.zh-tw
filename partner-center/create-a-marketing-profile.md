@@ -1,13 +1,14 @@
 ---
 title: "建立商務設定檔 | 合作夥伴中心"
-description: "在合作夥伴中心中建立商務設定檔，吸引更多潛在客戶。"
+description: "在合作夥伴中心建立商務設定檔以透過 Microsoft 獲得業務潛在客戶。"
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: edcecf3372453e17d85017a93a258919e29d6608
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+keywords: "pinpoint, 推薦, 業務潛在客戶, C2PC, 公司設定檔, 行銷您的公司, 尋找合作夥伴, 尋找解決方案提供者, 商務設定檔, 行銷設定檔"
+ms.openlocfilehash: e4e663d5c148f72f7ad352e21c4178a95e044c5f
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 11/28/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -23,6 +24,8 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 **適用於**
 
 -  合作夥伴中心
+-  Microsoft 合作夥伴網路合作夥伴
+-  雲端解決方案提供者計畫合作夥伴
 
 身為 Microsoft 合格合作夥伴，您可以建立商務設定檔，向尋找唯一解決方案和專業來解決其業務需求的客戶展示您的公司。
 
@@ -30,13 +33,16 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 取得這些業務潛在客戶的第一個步驟是，建立商務設定檔。 我們將會透過下列方式，向搜尋合作夥伴 (幫助實作 Microsoft 產品和解決方案) 的客戶顯示您的設定檔：
 
-*  **[尋找合作夥伴](https://partnercenter.microsoft.com/pcv/search)搜尋體驗**。 潛在客戶可以自行搜尋合作夥伴清單，來尋找符合其搜尋條件的合作夥伴。
+*  **[尋找解決方案提供者](https://partnercenter.microsoft.com/pcv/search)搜尋體驗**。 潛在客戶可以自行搜尋合作夥伴清單，來尋找符合其搜尋條件的合作夥伴。
 
 *  **Microsoft 銷售和服務員工的推薦**。 有興趣部署雲端技術解決方案的潛在客戶會向 Microsoft 尋求協助，尋找可以滿足其業務需求的專業人員。 這些 Microsoft 專業人員然後向潛在客戶推薦您的公司。
 
-**Pinpoint 和 C2PC**：我們即將合併這些工具到合作夥伴中心。 如果您過去曾使用這些工具，請在合作夥伴中心建立新的商務設定檔，以便繼續產生和管理您的業務潛在客戶。 我們目前不支援從先前的網站匯入設定檔。 
+>**重要事項**<br>
+為了協助我們的合作夥伴簡化業務營運，我們正在將以往分散在數個工具和網站間的特色和功能整合至合作夥伴中心，也就是這個網站。 在此項工作中，我們已將所有推薦相關功能移到合作夥伴中心，並淘汰 Pinpoint 和 C2PC 網站。 如果您過去使用 Pinpoint 或 C2PC 來透過 Microsoft 獲得推薦和進行管理，您將需要在合作夥伴中心建立新的商務設定檔以便繼續取得推薦。 我們已不再支援從這些網站匯入設定檔。 
 
 ## <a name="create-a-profile"></a>建立設定檔
+
+>**注意**：您必須先擁有合作夥伴中心帳戶，才能建立商務設定檔。 如果還沒有合作夥伴中心帳戶，請參閱[建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)以取得建立帳戶的說明。 
 
 為您獲得授權執行業務的每個地區，建立設定檔。 
 
@@ -46,7 +52,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 3.  在 **\[建立商務設定檔\]** 頁面中，選取地區，然後輸入您的設定檔資訊。
     
-    請注意，雖然合作夥伴中心支援多種語言，但有些像描述及自由格式標籤這類的元素可能需要包含不同語言的文字，如本主題中所述。
+    >**注意**：雖然合作夥伴中心支援多種語言，但有些像描述及自由格式標籤這類的元素可能需要包含不同語言的文字，如本主題中所述。
 
 ### <a href="" id="partner_info"></a>合作夥伴資訊
 

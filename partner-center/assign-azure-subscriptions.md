@@ -2,12 +2,12 @@
 title: "在合作夥伴中心指派 Azure 訂閱 | 合作夥伴中心"
 description: "現在您可以在合作夥伴中心指派 Azure 訂閱給您的客戶。"
 author: Labrenne
-keywords: "Azure, Azure 訂閱"
-ms.openlocfilehash: b5a2e1afbd0d0fe5941c22cf67d192cec004559e
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+keywords: "Azure, Azure 訂閱, 訂閱, 指派訂閱"
+ms.openlocfilehash: bdd8973809f01de002f45dd33ade48be0b70ddb3
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>在合作夥伴中心指派 Azure 訂閱
 

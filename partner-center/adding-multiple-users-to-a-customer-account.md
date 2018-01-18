@@ -3,9 +3,12 @@ title: "為客戶帳戶建立多位使用者 | 合作夥伴中心"
 description: "您可以透過將資料檔案 (以逗號分隔值的檔案格式 (.csv)) 上傳至合作夥伴中心，來一次新增多位使用者至客戶帳戶。"
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+keywords: "大量上傳, 新增多個使用者至客戶的帳戶, 新增客戶使用者, 大量上傳客戶使用者, 客戶帳戶, 客戶使用者, 使用者"
+ms.openlocfilehash: b360ced878973cde19b1a6aa8470ac4218ea6773
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>將多個使用者新增到客戶帳戶
 

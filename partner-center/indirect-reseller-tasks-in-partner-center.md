@@ -3,11 +3,12 @@ title: "在 CSP 中與間接提供者建立合作關係 | 合作夥伴中心"
 description: "身為 CSP 間接經銷商，您與間接提供者（也稱為代理商）合作，而後者與 Microsoft 有直接關係，而且可以提供客戶支援與帳單服務。 這表示您不必親自開始，反而可以與有經驗的技術提供者合作，讓他協助確保您成功。 在提供者-經銷商（雙層）模型中，提供者從 Microsoft 購買雲端解決方案和服務，接著由您轉售給客戶。"
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 1ee00b2fae46c49eaf7df2b0f2d6329231f2e4ab
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: "間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層"
+ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 11/28/2017
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接提供者建立合作關係
 
@@ -184,7 +185,7 @@ ms.lasthandoff: 11/10/2017
 
 3.  若要確認與提供者的合作關係，請選取核取方塊，然後選取 **\[授權間接提供者\]**。 提供者現在會列在您的 **\[間接提供者\]** 頁面，而您的公司現在會列在提供者的 **\[間接經銷商\]** 頁面。
 
-    >**注意**  當您與間接提供者建立合作關係時，您授權他們代表您的客戶提交訂單及新增訂閱，而且您將您的 Azure AD 租用戶的系統管理員存取授與他們。
+    >**注意**  當您與間接提供者建立合作關係時，您授權他們代表您的客戶提交訂單及新增訂閱，而且您將您公司的工作帳戶的系統管理員存取權限授與他們。 在您建立與提供者的合作關係後，可以在 Office 365 入口網站中移除提供者對您工作帳戶的系統管理員存取權。 
 
 4.  從您的 **\[儀表板\]** 功能表選取 **\[間接提供者\]**，以查看您有合作關係的提供者的清單。 
 

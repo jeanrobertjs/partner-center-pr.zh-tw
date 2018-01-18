@@ -1,13 +1,14 @@
 ---
 title: "將授權或服務新增到現有的訂閱 | 合作夥伴中心"
-description: "如果您的客戶需要的基座數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。"
+description: "如果您的客戶需要的授權數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。"
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: "新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權"
+ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>將授權或服務新增到現有的訂閱
 

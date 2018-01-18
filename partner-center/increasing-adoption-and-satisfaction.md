@@ -3,11 +3,11 @@ title: "提高採用率與滿意度 | 合作夥伴中心"
 description: "我們的合作夥伴使用許多標準來衡量事業是否有成長，以及投資的方向。 合作夥伴中心提供的資料有助於瞭解您的客戶是否使用其購買的授權及使用方式。"
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
-ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.openlocfilehash: cecf3c02ea52e61eb33bb39014b746dc89aa6ca7
+ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2017
+ms.lasthandoff: 12/02/2017
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 

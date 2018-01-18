@@ -3,11 +3,12 @@ title: "建立新訂閱 | 合作夥伴中心"
 description: "當您在合作夥伴中心中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。"
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
-ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
+Keywords: subscription, create new, add subscription,
+ms.openlocfilehash: 19bc20920cc2bfcdf3f39f8c1b8fcf207d51004d
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="create-a-new-subscription"></a>建立新訂閱
 
@@ -19,7 +20,7 @@ ms.lasthandoff: 10/17/2017
 
 當您在合作夥伴中心中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。
 
-請注意，某些供應項目會限制每一個客戶只能擁有一個訂閱。 若要查看受限制的供應項目清單，請造訪合作夥伴中心 \[定價與方案\] 頁面、開啟 \[方案組合\]，並選取 \[Office_Dynamics_Windows_Intune\] 索引標籤的 I 欄。 
+請注意，某些供應項目會限制每一個客戶只能擁有一個訂閱。 若要查看受限制的供應項目清單，請造訪合作夥伴中心 [定價與方案] 頁面。 
 
 
 **建立新訂閱**
