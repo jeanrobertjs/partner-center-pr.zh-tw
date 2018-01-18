@@ -3,91 +3,86 @@ title: "指派或撤銷多個使用者的授權 | 合作夥伴中心"
 description: "您可以指派授權與服務給一個使用者，或一次指派給客戶帳戶中的多個使用者，以及撤銷對使用者的授權指派。"
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
-
+Keywords: assign license, revoke license, assign to multiple users,
+ms.openlocfilehash: 513e2336d831095fcabc408db5fc467d8e909e36
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 12/21/2017
 ---
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a><span data-ttu-id="3c454-103">指派或撤銷多個使用者的授權</span><span class="sxs-lookup"><span data-stu-id="3c454-103">Assign or revoke licenses to multiple users</span></span>
 
-# 指派或撤銷多個使用者的授權
+**<span data-ttu-id="3c454-104">適用於</span><span class="sxs-lookup"><span data-stu-id="3c454-104">Applies to</span></span>**
 
-**適用於**
+-  <span data-ttu-id="3c454-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="3c454-105">Partner Center</span></span>
 
--  合作夥伴中心
+<span data-ttu-id="3c454-106">您可以指派授權與服務給一個使用者，或一次指派給客戶帳戶中的多個使用者，以及撤銷對使用者的授權指派。</span><span class="sxs-lookup"><span data-stu-id="3c454-106">You can assign licenses and services to a user, or to multiple users at once in a customer account, and revoke license assignments to users.</span></span>
 
-您可以指派授權與服務給一個使用者，或一次指派給客戶帳戶中的多個使用者，以及撤銷對使用者的授權指派。
+<span data-ttu-id="3c454-107">合作夥伴中心會追蹤及顯示客戶擁有的所有授權權益。</span><span class="sxs-lookup"><span data-stu-id="3c454-107">Partner Center tracks and shows all customer-owned license entitlements.</span></span>
 
-合作夥伴中心會追蹤及顯示客戶擁有的所有授權權益。
-
-## 本節內容
+## <a name="in-this-section"></a><span data-ttu-id="3c454-108">本節內容</span><span class="sxs-lookup"><span data-stu-id="3c454-108">In this section</span></span>
 
 
--   [指派授權給多個使用者](#assign-licenses-to-groups)
--   [撤銷使用者的授權指派](#revoking-licenses)
+-   [<span data-ttu-id="3c454-109">指派授權給多個使用者</span><span class="sxs-lookup"><span data-stu-id="3c454-109">Assign licenses to multiple users</span></span>](#assign-licenses-to-groups)
+-   [<span data-ttu-id="3c454-110">撤銷使用者的授權指派</span><span class="sxs-lookup"><span data-stu-id="3c454-110">Revoking users' license assignments</span></span>](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-**指派授權給多個使用者**
+<span data-ttu-id="3c454-111">**指派授權給多個使用者**</span><span class="sxs-lookup"><span data-stu-id="3c454-111">**Assign licenses to multiple users**</span></span>
 
-1.  從 \[儀表板\]**** 功能表上，選取 \[客戶\]****，然後從清單中選擇客戶。
-2.  選取 \[使用者和授權\]****。
-3.  從清單中選取兩個或更多使用者的核取方塊。 (若要選取目前頁面上的所有使用者，請選取 \[使用者\]**** 欄最上面的核取方塊。)
+1.  <span data-ttu-id="3c454-112">從 **\[儀表板\]** 功能表上，選取 **\[客戶\]**，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="3c454-112">From the **Dashboard** menu, select **Customers**, and then choose a customer from the list.</span></span>
+2.  <span data-ttu-id="3c454-113">選取 **\[使用者和授權\]**。</span><span class="sxs-lookup"><span data-stu-id="3c454-113">Select **Users and licenses**.</span></span>
+3.  <span data-ttu-id="3c454-114">從清單中選取兩個或更多使用者的核取方塊。</span><span class="sxs-lookup"><span data-stu-id="3c454-114">Select the check box for two or more users from the list.</span></span> <span data-ttu-id="3c454-115">(若要選取目前頁面上的所有使用者，請選取 **\[使用者\]** 欄最上面的核取方塊。)</span><span class="sxs-lookup"><span data-stu-id="3c454-115">(To select all users on the current page, select the check box at the top of the **Users** column.)</span></span>
 
-    您可以使用 \[第一頁\]****、\[上一頁\]****、\[下一頁\]**** 及 \[最後一頁\]**** 工具來跨多個頁面尋找及選取使用者。
+    <span data-ttu-id="3c454-116">您可以使用 **\[第一頁\]**、**\[上一頁\]**、**\[下一頁\]** 及 **\[最後一頁\]** 工具來跨多個頁面尋找及選取使用者。</span><span class="sxs-lookup"><span data-stu-id="3c454-116">You can find and select users across multiple pages using the **First**, **Previous**, **Next** and **Last** tools.</span></span>
 
-4.  選取 \[選取的使用者\]**** 連結。 顯示的清單會顯示選取的使用者。
-5.  選取 \[管理授權\]**** 連結。
+4.  <span data-ttu-id="3c454-117">選取 **\[選取的使用者\]** 連結。</span><span class="sxs-lookup"><span data-stu-id="3c454-117">Select the **Selected Users** link.</span></span> <span data-ttu-id="3c454-118">顯示的清單會顯示選取的使用者。</span><span class="sxs-lookup"><span data-stu-id="3c454-118">The displayed list shows the selected users.</span></span>
+5.  <span data-ttu-id="3c454-119">選取 **\[管理授權\]** 連結。</span><span class="sxs-lookup"><span data-stu-id="3c454-119">Select the **Manage licenses** link.</span></span>
 
-    \[管理授權\] 頁面會顯示客戶帳戶的授權權益清單，以及每項產品的 \[可用授權\]**** 計數。
+    <span data-ttu-id="3c454-120">\[管理授權\] 頁面會顯示客戶帳戶的授權權益清單，以及每項產品的 **\[可用授權\]** 計數。</span><span class="sxs-lookup"><span data-stu-id="3c454-120">The Manage licenses page shows the list of license entitlements for the customer accounts, and the count of **Available licenses** for each product.</span></span>
 
-    -   \[產品\]**** 欄中的核取方塊會顯示客戶授權產品的所有選取之使用者的狀態：
+    -   <span data-ttu-id="3c454-121">**\[產品\]** 欄中的核取方塊會顯示客戶授權產品的所有選取之使用者的狀態：</span><span class="sxs-lookup"><span data-stu-id="3c454-121">The check boxes in the **Product** column show the status of all selected users for the customer-entitled products:</span></span>
 
-        -   當所有選取的使用者都已經擁有授權時，產品的核取方塊就會填滿。
-        -   如果選取的使用者中只有部分擁有產品授權，產品的核取方塊就會部分填滿。
-        -   如果選取的使用者中沒有人擁有產品授權，產品的核取方塊就會是清除狀態。
-    -   每個選取的使用者都會在靠近頁面頂端顯示為一個小型的方塊。 使用者會依排序順序顯示。
+        -   <span data-ttu-id="3c454-122">當所有選取的使用者都已經擁有授權時，產品的核取方塊就會填滿。</span><span class="sxs-lookup"><span data-stu-id="3c454-122">When all selected users already have a license, the product's check box is filled.</span></span>
+        -   <span data-ttu-id="3c454-123">如果選取的使用者中只有部分擁有產品授權，產品的核取方塊就會部分填滿。</span><span class="sxs-lookup"><span data-stu-id="3c454-123">If some of the selected users have a product license, the product's check box is partially filled.</span></span>
+        -   <span data-ttu-id="3c454-124">如果選取的使用者中沒有人擁有產品授權，產品的核取方塊就會是清除狀態。</span><span class="sxs-lookup"><span data-stu-id="3c454-124">If none of the selected users have a product license, the check box is clear.</span></span>
+    -   <span data-ttu-id="3c454-125">每個選取的使用者都會在靠近頁面頂端顯示為一個小型的方塊。</span><span class="sxs-lookup"><span data-stu-id="3c454-125">Each selected user appears in a small box near the top of the page.</span></span> <span data-ttu-id="3c454-126">使用者會依排序順序顯示。</span><span class="sxs-lookup"><span data-stu-id="3c454-126">Users appear in sorted order.</span></span>
 
-    -   在 \[已指派\]**** 欄中選取任何連結，即可檢視顯示已擁有授權之選取的使用者的工具提示清單。
+    -   <span data-ttu-id="3c454-127">在 **\[已指派\]** 欄中選取任何連結，即可檢視顯示已擁有授權之選取的使用者的工具提示清單。</span><span class="sxs-lookup"><span data-stu-id="3c454-127">Select any link in the **Assigned** column to view a tooltip list showing the selected users that already have a license.</span></span>
 
-    -   沒有可用授權的任何產品都會顯示一個 \[購買更多\]**** 連結。 您可以在客戶需要授權時購買更多授權。
+    -   <span data-ttu-id="3c454-128">沒有可用授權的任何產品都會顯示一個 **\[購買更多\]** 連結。</span><span class="sxs-lookup"><span data-stu-id="3c454-128">Any product without available licenses shows a **Buy more** link.</span></span> <span data-ttu-id="3c454-129">您可以在客戶需要授權時購買更多授權。</span><span class="sxs-lookup"><span data-stu-id="3c454-129">You can purchase more licenses when customers require them.</span></span>
 
-6.  在 \[指派及撤銷授權\]**** 底下，為新使用者選取產品授權。 例如，如果選取的使用者中沒有人擁有 Office 365 企業版授權，且您想要新增它們，請選取核取方塊。 您需要擁有每項所選產品的足夠授權。
-7.  請透過選取每項產品的核取方塊來為使用者選取超過一項產品。
-    -   針對任何產品選取 \[檢視服務方案\]****，以檢視及選取使用者需要的服務方案。
+6.  <span data-ttu-id="3c454-130">在 **\[指派及撤銷授權\]** 底下，為新使用者選取產品授權。</span><span class="sxs-lookup"><span data-stu-id="3c454-130">Under **Assign and revoke licenses**, select the product licenses for the new users.</span></span> <span data-ttu-id="3c454-131">例如，如果選取的使用者中沒有人擁有 Office 365 企業版授權，且您想要新增它們，請選取核取方塊。</span><span class="sxs-lookup"><span data-stu-id="3c454-131">For example, if none of the selected users have Office 365 Enterprise licenses and you want to add them, select the check box.</span></span> <span data-ttu-id="3c454-132">您需要擁有每項所選產品的足夠授權。</span><span class="sxs-lookup"><span data-stu-id="3c454-132">You need enough licenses for each selected product.</span></span>
+7.  <span data-ttu-id="3c454-133">請透過選取每項產品的核取方塊來為使用者選取超過一項產品。</span><span class="sxs-lookup"><span data-stu-id="3c454-133">Select more than one product for the users by selecting each product's check box.</span></span>
+    -   <span data-ttu-id="3c454-134">針對任何產品選取 **\[檢視服務方案\]**，以檢視及選取使用者需要的服務方案。</span><span class="sxs-lookup"><span data-stu-id="3c454-134">Select **View service plans** for any product, to view and select the service plans that the users need.</span></span>
 
-8.  選取 \[儲存\]****。 合作夥伴中心就會開啟 \[已更新授權\]**** 確認頁面，列出使用者和他們新的授權。
+8.  <span data-ttu-id="3c454-135">選取 **\[儲存\]**。</span><span class="sxs-lookup"><span data-stu-id="3c454-135">Select **Save**.</span></span> <span data-ttu-id="3c454-136">合作夥伴中心就會開啟 **\[已更新授權\]** 確認頁面，列出使用者和他們新的授權。</span><span class="sxs-lookup"><span data-stu-id="3c454-136">Partner Center opens a **Licenses updated** confirmation page listing the users and their new licenses.</span></span>
 
-**注意**：部分 Microsoft 產品可能在特定地區沒有提供授權。 其他產品則取決於其他產品或服務，或者可以一起指派給同一個使用者。 在您儲存之後，確認頁面就會列出所有使用者授權指派成功的結果，以及任何授權指派錯誤。
+<span data-ttu-id="3c454-137">**注意**：部分 Microsoft 產品可能在特定地區沒有提供授權。</span><span class="sxs-lookup"><span data-stu-id="3c454-137">**Note**  Some Microsoft products may not be available in certain locations.</span></span> <span data-ttu-id="3c454-138">其他產品則取決於其他產品或服務，或者可以一起指派給同一個使用者。</span><span class="sxs-lookup"><span data-stu-id="3c454-138">Other products are dependent on other products or services, or can't be assigned together to the same user.</span></span> <span data-ttu-id="3c454-139">在您儲存之後，確認頁面就會列出所有使用者授權指派成功的結果，以及任何授權指派錯誤。</span><span class="sxs-lookup"><span data-stu-id="3c454-139">After you save, the confirmation page lists all users' results from successful license assignment, and any errors from the license assignment.</span></span>
 
  
 
 <a href="" id="revoking-licenses"></a>
-**撤銷使用者的授權指派**
+<span data-ttu-id="3c454-140">**撤銷使用者的授權指派**</span><span class="sxs-lookup"><span data-stu-id="3c454-140">**Revoking users' license assignments**</span></span>
 
-1.  從 \[儀表板\]**** 功能表上，選取 \[客戶\]****，然後從清單中選擇客戶。
-2.  選取 \[使用者和授權\]****。
-3.  從清單中選取兩個或更多使用者的核取方塊。 (若要選取目前頁面上的所有使用者，請選取 \[使用者\]**** 欄最上面的核取方塊。)
+1.  <span data-ttu-id="3c454-141">從 **\[儀表板\]** 功能表上，選取 **\[客戶\]**，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="3c454-141">From the **Dashboard** menu, select **Customers**, and then choose a customer from the list.</span></span>
+2.  <span data-ttu-id="3c454-142">選取 **\[使用者和授權\]**。</span><span class="sxs-lookup"><span data-stu-id="3c454-142">Select **Users and licenses**.</span></span>
+3.  <span data-ttu-id="3c454-143">從清單中選取兩個或更多使用者的核取方塊。</span><span class="sxs-lookup"><span data-stu-id="3c454-143">Select the check box for two or more users from the list.</span></span> <span data-ttu-id="3c454-144">(若要選取目前頁面上的所有使用者，請選取 **\[使用者\]** 欄最上面的核取方塊。)</span><span class="sxs-lookup"><span data-stu-id="3c454-144">(To select all users on the current page, select the check box at the top of the **Users** column.)</span></span>
 
-    透過 \[第一頁\]****、\[上一頁\]****、\[下一頁\]**** 及 \[最後一頁\]**** 工具來尋找及選取其他使用者。 您可以跨多個頁面選取。
+    <span data-ttu-id="3c454-145">透過 **\[第一頁\]**、**\[上一頁\]**、**\[下一頁\]** 及 **\[最後一頁\]** 工具來尋找及選取其他使用者。</span><span class="sxs-lookup"><span data-stu-id="3c454-145">Page through the **First**, **Previous**, **Next** and **Last** tools to find and select other users.</span></span> <span data-ttu-id="3c454-146">您可以跨多個頁面選取。</span><span class="sxs-lookup"><span data-stu-id="3c454-146">You can select across multiple pages.</span></span>
 
-4.  選取使用者之後，請選擇 \[選取的使用者\]**** 連結。 顯示的清單只會顯示選取的使用者。
-5.  選取 \[管理授權\]**** 連結。
-6.  在 \[指派及撤銷授權\]**** 底下，清除指派給使用者之產品的核取方塊。 例如，如果所有選取的使用者中都擁有 Office 365 企業版授權，且您想要撤銷它們，請選取核取方塊來將它清除。
-7.  選取 \[儲存\]****。
+4.  <span data-ttu-id="3c454-147">選取使用者之後，請選擇 **\[選取的使用者\]** 連結。</span><span class="sxs-lookup"><span data-stu-id="3c454-147">After selecting the users, choose the **Selected Users** link.</span></span> <span data-ttu-id="3c454-148">顯示的清單只會顯示選取的使用者。</span><span class="sxs-lookup"><span data-stu-id="3c454-148">The displayed list shows only the selected users.</span></span>
+5.  <span data-ttu-id="3c454-149">選取 **\[管理授權\]** 連結。</span><span class="sxs-lookup"><span data-stu-id="3c454-149">Select the **Manage licenses** link.</span></span>
+6.  <span data-ttu-id="3c454-150">在 **\[指派及撤銷授權\]** 底下，清除指派給使用者之產品的核取方塊。</span><span class="sxs-lookup"><span data-stu-id="3c454-150">Under **Assign and revoke licenses**, clear the check boxes for products assigned to the users.</span></span> <span data-ttu-id="3c454-151">例如，如果所有選取的使用者中都擁有 Office 365 企業版授權，且您想要撤銷它們，請選取核取方塊來將它清除。</span><span class="sxs-lookup"><span data-stu-id="3c454-151">For example, if all of the selected users have Office 365 Enterprise licenses and you want to revoke them, select the check box to clear it.</span></span>
+7.  <span data-ttu-id="3c454-152">選取 **\[儲存\]**。</span><span class="sxs-lookup"><span data-stu-id="3c454-152">Select **Save**.</span></span>
 
-## 相關主題
+## <a name="related-topics"></a><span data-ttu-id="3c454-153">相關主題</span><span class="sxs-lookup"><span data-stu-id="3c454-153">Related topics</span></span>
 
 
-[指派授權給使用者](assign-licenses-to-users.md)
-
- 
+[<span data-ttu-id="3c454-154">指派授權給使用者</span><span class="sxs-lookup"><span data-stu-id="3c454-154">Assign licenses to a user</span></span>](assign-licenses-to-users.md)
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

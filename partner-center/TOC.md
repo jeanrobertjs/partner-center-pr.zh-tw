@@ -18,11 +18,13 @@
 ## [工作帳戶與合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)
 ## [更新您的合作夥伴設定檔](update-your-partner-profile.md)
 ## [還原暫時停用的合作夥伴中心帳戶](suspended-partner-center-account.md)
-## [重設使用者密碼](reset-a-user-password.md)
 ## [建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)
+## [重設使用者密碼](reset-a-user-password.md)
 ## [新增 Azure 合作夥伴共用服務](shared-services.md)
 ## [定價與方案](pricing-and-offers.md)
 ## [自訂型錄](customize-the-catalog.md)
+
+# [拓展您的業務](grow-your-business.md)
 
 # [推薦](referrals.md)
 ## [建立商務設定檔](create-a-marketing-profile.md)
@@ -76,13 +78,13 @@
 ## [多重通路](multichannel.md)
 ## [多重合作夥伴](multipartner.md)
 
-# [來自 Microsoft 的支援](support-from-microsoft.md)
-## [檢查服務健康狀況](check-service-health.md)
+# [取得來自 Microsoft 的支援](support-from-microsoft.md)
 ## [報告合作夥伴中心的問題](report-problems-with-partner-center.md)
 ## [代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)
 ## [使用 API 取得自動化服務通知](get-automated-service-notifications-with-our-apis.md)
 
-# [客戶支援](customer-support.md)
+# [為客戶提供支援](customer-support.md)
+## [檢查服務健康狀況](check-service-health.md)
 ## [提供帳單支援](provide-billing-support.md)
 ## [提供技術支援](provide-technical-support.md)
 ## [Microsoft 的客戶通訊](customer-communication-from-microsoft.md)
