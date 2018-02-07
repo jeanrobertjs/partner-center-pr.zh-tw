@@ -1,45 +1,64 @@
 ---
 title: "客戶訂閱 |合作夥伴中心"
 description: "合作夥伴可以透過合作夥伴中心將訂閱銷售給客戶並管理它們。"
-ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
-author: MaggiePucciEvans
-ms.openlocfilehash: ffc2189f9c5a8d5df3b07707c23f540142917499
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+author: labrenne
+Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
+ms.openlocfilehash: 554aa69448b961c202f86ff76d85f797e6a0010c
+ms.sourcegitcommit: dcaa831710115ac0852131605115b9b6cc67c5d5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 01/04/2018
 ---
-# <a name="customer-subscriptions"></a><span data-ttu-id="d4c02-103">客戶訂閱</span><span class="sxs-lookup"><span data-stu-id="d4c02-103">Customer subscriptions</span></span>
+# <a name="customer-subscriptions"></a><span data-ttu-id="b0d00-103">客戶訂閱</span><span class="sxs-lookup"><span data-stu-id="b0d00-103">Customer subscriptions</span></span>
 
-**<span data-ttu-id="d4c02-104">適用於</span><span class="sxs-lookup"><span data-stu-id="d4c02-104">Applies to</span></span>**
+**<span data-ttu-id="b0d00-104">適用於</span><span class="sxs-lookup"><span data-stu-id="b0d00-104">Applies to</span></span>**
 
--  <span data-ttu-id="d4c02-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="d4c02-105">Partner Center</span></span>
+-  <span data-ttu-id="b0d00-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="b0d00-105">Partner Center</span></span>
 
-<span data-ttu-id="d4c02-106">您可以透過合作夥伴中心將訂閱銷售給客戶並管理它們。</span><span class="sxs-lookup"><span data-stu-id="d4c02-106">You can sell subscriptions to customers and manage them through Partner Center.</span></span> 
+<span data-ttu-id="b0d00-106">身為雲端解決方案提供者合作夥伴，其中一項主要工作當然是提供 Microsoft 產品訂閱給您的客戶。</span><span class="sxs-lookup"><span data-stu-id="b0d00-106">As a CSP partner, one of the central things you do, of course, is offer subscriptions for Microsoft products to your customers.</span></span> <span data-ttu-id="b0d00-107">您可以在合作夥伴中心輕鬆管理所有您提供給每個客戶的訂閱。</span><span class="sxs-lookup"><span data-stu-id="b0d00-107">In Partner Center you can manage all your subscriptions for each customer, easily.</span></span> <span data-ttu-id="b0d00-108">您可以新增訂閱、新增授權至現有訂閱，甚至提供試用訂閱給想要測試軟體的客戶。</span><span class="sxs-lookup"><span data-stu-id="b0d00-108">You can add subscriptions, add licenses to existing subscriptions, even offer trial subscriptions to customers who want to test drive the software.</span></span> <span data-ttu-id="b0d00-109">此外，您還可以利用合作夥伴中心所提供讓您了解客戶使用軟體情況的分析，加強對客戶的支援服務。</span><span class="sxs-lookup"><span data-stu-id="b0d00-109">In addition, using the analytics Partner Center provides for understanding how your customers are using the software, you will be better able to support them.</span></span>
 
-[<span data-ttu-id="d4c02-107">建立新訂閱</span><span class="sxs-lookup"><span data-stu-id="d4c02-107">Create a new subscription</span></span>](create-a-new-subscription.md)
+|**<span data-ttu-id="b0d00-110">若要這樣做</span><span class="sxs-lookup"><span data-stu-id="b0d00-110">To do this</span></span>**   |**<span data-ttu-id="b0d00-111">請閱讀本文</span><span class="sxs-lookup"><span data-stu-id="b0d00-111">Read this</span></span>**   |
+|----------------------|:----------------------|
+|<span data-ttu-id="b0d00-112">為合作夥伴中心現有的客戶建立新的訂閱，或是加入新客戶，再建立其訂閱</span><span class="sxs-lookup"><span data-stu-id="b0d00-112">Create a new subscription for an existing customer in Partner Center or add a new customer and then create their subscription</span></span>|[<span data-ttu-id="b0d00-113">建立新訂閱</span><span class="sxs-lookup"><span data-stu-id="b0d00-113">Create a new subscription</span></span>](create-a-new-subscription.md)|
+|<span data-ttu-id="b0d00-114">新增訂閱之後，就可以將授權指派給客戶的員工</span><span class="sxs-lookup"><span data-stu-id="b0d00-114">Once you've added the subscription, you can assign licenses to the customer's employees</span></span>  |[<span data-ttu-id="b0d00-115">指派授權給使用者</span><span class="sxs-lookup"><span data-stu-id="b0d00-115">Assign licenses to users</span></span>](assign-licenses-to-users.md)|
+|<span data-ttu-id="b0d00-116">您也可以管理大量授權更新</span><span class="sxs-lookup"><span data-stu-id="b0d00-116">You can also manage bulk license updates</span></span>   |[<span data-ttu-id="b0d00-117">指派或撤銷多個使用者的授權</span><span class="sxs-lookup"><span data-stu-id="b0d00-117">Assign or revoke licenses to multiple users</span></span>](bulk-license-provisioning-for-multiple-users.md)|
+|<span data-ttu-id="b0d00-118">客戶加入新的員工時，您可以將額外的授權新增至現有的訂閱</span><span class="sxs-lookup"><span data-stu-id="b0d00-118">As your customer adds new employees, you can add additional licenses to existing subscriptions</span></span>   |[<span data-ttu-id="b0d00-119">將授權或服務新增至現有的訂閱</span><span class="sxs-lookup"><span data-stu-id="b0d00-119">Add licenses or services to an existing subscription</span></span>](add-licenses-or-services-to-an-existing-subscription.md)|
+|<span data-ttu-id="b0d00-120">您的客戶在承諾購買軟體之前可能會想要進行試用，因此請提供試用訂閱</span><span class="sxs-lookup"><span data-stu-id="b0d00-120">Your customer may want to try out software before committing to it, so offer trial subscriptions</span></span>    |[<span data-ttu-id="b0d00-121">為客戶提供 Microsoft 產品試用</span><span class="sxs-lookup"><span data-stu-id="b0d00-121">Offer your customers trials of Microsoft products</span></span>](offer-your-customers-trials-of-microsoft-products.md)|
+|<span data-ttu-id="b0d00-122">您現在可以在合作夥伴中心內開始 Azure 訂閱程序</span><span class="sxs-lookup"><span data-stu-id="b0d00-122">You can start the Azure subscription process within Partner Center now</span></span>   |[<span data-ttu-id="b0d00-123">在合作夥伴中心指派 Azure 訂閱</span><span class="sxs-lookup"><span data-stu-id="b0d00-123">Assign Azure subscriptions in Partner Center</span></span>](assign-azure-subscriptions.md)|
+|<span data-ttu-id="b0d00-124">了解優惠方案的特殊定價</span><span class="sxs-lookup"><span data-stu-id="b0d00-124">Find out about special pricing for offers</span></span>   |[<span data-ttu-id="b0d00-125">取得優惠方案的特殊定價</span><span class="sxs-lookup"><span data-stu-id="b0d00-125">Get special pricing for offers</span></span>](get-special-pricing-for-offers.md)|
+|<span data-ttu-id="b0d00-126">了解客戶使用其軟體的情況，以便協助他們獲得更大效益。</span><span class="sxs-lookup"><span data-stu-id="b0d00-126">Learn how your customers are using their software in order to help them be more effective.</span></span>   | [<span data-ttu-id="b0d00-127">提高採用率與滿意度</span><span class="sxs-lookup"><span data-stu-id="b0d00-127">Increase adoption and satisfaction</span></span>](increasing-adoption-and-satisfaction.md)   | 
 
-[<span data-ttu-id="d4c02-108">指派授權給使用者</span><span class="sxs-lookup"><span data-stu-id="d4c02-108">Assign licenses to users</span></span>](assign-licenses-to-users.md)
 
-[<span data-ttu-id="d4c02-109">指派或撤銷多個使用者的授權</span><span class="sxs-lookup"><span data-stu-id="d4c02-109">Assign or revoke licenses to multiple users</span></span>](bulk-license-provisioning-for-multiple-users.md)
 
-[<span data-ttu-id="d4c02-110">暫停訂閱</span><span class="sxs-lookup"><span data-stu-id="d4c02-110">Suspend a subscription</span></span>](suspend-a-subscription.md)
 
-[<span data-ttu-id="d4c02-111">移除與經銷商或客戶的關係</span><span class="sxs-lookup"><span data-stu-id="d4c02-111">Remove a relationship with a reseller or a customer</span></span>](remove-a-relationship.md)
 
-[<span data-ttu-id="d4c02-112">將授權或服務新增到現有的訂閱</span><span class="sxs-lookup"><span data-stu-id="d4c02-112">Add licenses or services to an existing subscription</span></span>](add-licenses-or-services-to-an-existing-subscription.md)
 
-[<span data-ttu-id="d4c02-113">將 Dynamics AX 訂閱移轉至 Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="d4c02-113">Migrate Dynamics AX subscriptions to Dynamics 365</span></span>](manual-subscription-migration.md)
 
-[<span data-ttu-id="d4c02-114">將 Office 365 企業版 E4 訂閱移轉至新版 Office 365</span><span class="sxs-lookup"><span data-stu-id="d4c02-114">Migrate Office 365 Enterprise E4 subscriptions to newer Office 365 versions</span></span>](migrate-office365-e4-subscriptions-to-newer-versions.md)
 
-[<span data-ttu-id="d4c02-115">取得產品的特殊定價</span><span class="sxs-lookup"><span data-stu-id="d4c02-115">Get special pricing for offers</span></span>](get-special-pricing-for-offers.md)
 
-[<span data-ttu-id="d4c02-116">提高採用率與滿意度</span><span class="sxs-lookup"><span data-stu-id="d4c02-116">Increase adoption and satisfaction</span></span>](increasing-adoption-and-satisfaction.md)
 
-[<span data-ttu-id="d4c02-117">雲端解決方案提供者地區授權概觀</span><span class="sxs-lookup"><span data-stu-id="d4c02-117">CSP regional authorization overview</span></span>](regional-authorization-overview.md)
 
-[<span data-ttu-id="d4c02-118">雲端解決方案提供者地區授權租用戶彙總</span><span class="sxs-lookup"><span data-stu-id="d4c02-118">CSP regional authorization tenant consolidation</span></span>](csp-regional-authorization-tenant-consolidation.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
