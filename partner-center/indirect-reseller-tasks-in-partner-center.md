@@ -4,11 +4,11 @@ description: "身為 CSP 間接經銷商，您與間接提供者（也稱為代�
 ms.prod: 
 author: MaggiePucciEvans
 keywords: "間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層"
-ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: d3d41a15fc8836a84ba86acc26642a4c49c2e290
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接提供者建立合作關係
 
@@ -102,74 +102,8 @@ ms.lasthandoff: 11/28/2017
 
 ## <a name="assign-user-permissions"></a>指派使用者權限
 
-合作夥伴中心存取權是以角色為基礎，因此您可以指派權限，將組織的使用者檢視自訂為只顯示使用者完成特定工作所需的功能。 
+合作夥伴中心存取權是以角色為基礎，因此您可以指派權限，將組織的使用者檢視自訂為只顯示使用者完成特定工作所需的功能。 如需了解指派角色的最佳方式，請參閱[建立使用者帳戶與設定權限](Create-user-accounts-and-set-permissions.md)
 
-您必須為每個使用者選取兩個權限等級，或是選取 **\[非系統管理員\]** 或 **\[非代理人\]**：
-
--   代理人權限控制使用者可查看和變更的客戶資料及帳戶資訊類型。
-
--   系統管理員權限控制使用者擁有的合作夥伴中心功能存取等級。 此設定對合作夥伴中心外部有影響：全域管理員可以存取雲端解決方案提供者範圍以外的使用者帳戶及客戶帳戶。
-
-下表說明每個角色可在合作夥伴中心執行的動作。
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>合作夥伴中心內的角色</strong></p></td>
-<td><p><strong>可執行</strong></p></td>
-<td><p><strong>不可執行</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>系統管理代理人</strong></p></td>
-<td><ul>
-<li><p>客戶的服務健康狀況和服務要求</p></li>
-<li><p>要求委派的系統管理員權限</p></li>
-<li><p>代表客戶進行管理</p></li>
-</ul></td>
-<td><ul>
-<li><p>使用者管理</p></li>
-<li><p>合作夥伴中心服務要求</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>技術服務代理人</strong></p></td>
-<td><ul>
-<li><p>搜尋並檢視客戶</p></li>
-<li><p>服務健康狀況</p></li>
-<li><p>代表客戶要求支援 (注意：您必須是系統管理代理人，才能完成 Office 365 訂閱的這項工作)</p></li>
-<li><p>代表客戶管理訂閱及服務 (注意：您必須是系統管理代理人，才能完成 Office 365 訂閱的這項工作)</p></li>
-</ul></td>
-<td><ul>
-<li><p>檢視合作夥伴設定檔</p></li>
-<li><p>要求與客戶建立關係</p></li>
-<li><p>管理潛在客戶</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>全域管理員</strong></p></td>
-<td><ul>
-<li><p>具有能存取所有 Microsoft 帳戶/服務的完整權限</p></li>
-<li><p>建立合作夥伴中心的支援票證</p></li>
-<li><p>檢視、建立和管理合作夥伴使用者</p></li>
-<li><p>接受間接提供者建立合作關係的要求</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>使用者管理系統管理員</strong></p></td>
-<td><ul>
-<li><p>檢視、建立和管理使用者</p></li>
-<li><p>檢視所有合作夥伴設定檔</p></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## <a name="connect-with-an-indirect-provider"></a>與間接提供者保持聯繫
 
@@ -197,13 +131,13 @@ ms.lasthandoff: 11/28/2017
  
 ## <a name="connect-with-customers"></a>與客戶保持聯繫
 
-若要在合作夥伴中心與客戶進行交易，您的客戶必須擁有合作夥伴中心帳戶，而且您必須與他們建立經銷商關係。 若要允許間接提供者代表客戶購買訂閱及服務，提供者也必須與您的客戶建立經銷商關係。 
+ 若要在合作夥伴中心與客戶進行交易，您的客戶必須擁有合作夥伴中心帳戶，而且您必須與他們建立經銷商關係。 若要允許間接提供者代表客戶購買訂閱及服務，提供者也必須與您的客戶建立經銷商關係。 
 
 ### <a name="connect-with-existing-customers"></a>與現有客戶保持聯繫
 
 您已經透過其他入口網站 (例如 Office 365 合作夥伴系統管理中心或 Microsoft Azure 管理入口網站) 與之交易的客戶，會在您成功註冊成為間接經銷商時顯示於合作夥伴中心的客戶清單中。 選取 **\[儀表板\]**，然後選取 **\[客戶\]** 以查看您的客戶清單。 
 
-如果任何現有的客戶未見於清單中，您可能需要與他們建立經銷商關係。 若要這樣做，請傳送電子郵件以邀請他們在合作夥伴中心上與您聯繫，如下所述。
+當您與間接提供者聯繫時，並不會自動贏得間接提供者的客戶。 同樣的，您自行接洽或透過間接提供者 (但未經由合作夥伴中心) 往來的客戶，也不會在您註冊加入合作夥伴中心時自動顯示在您的客戶清單中。 您必須與客戶建立經銷商關係，才能在合作夥伴中心進行交易。  若要這樣做，請傳送電子郵件以邀請他們在合作夥伴中心上與您聯繫，如下所述。
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀請客戶與您建立經銷商關係
 

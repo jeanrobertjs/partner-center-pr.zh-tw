@@ -3,10 +3,11 @@ title: "暫停訂閱 | 合作夥伴中心"
 description: "如果客戶要求，或是發生未付款或詐騙等情形，合作夥伴可以暫停或取消訂閱。"
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-ms.openlocfilehash: 6252a494e69c2a2d2b33a0896092b064b52c1881
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: d5f0c3d4e424980a3e39ca0d798097b517e7c9f7
+ms.sourcegitcommit: d75170bb6b14aeee1a5d33dd8a36cc3cd7e9dfd2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 01/04/2018
 ---
 # <a name="suspend-a-subscription"></a>暫停訂閱
 
@@ -26,3 +27,5 @@ ms.contentlocale: zh-TW
 2.  選擇您要管理的訂閱。
 3.  在 **\[狀態\]** 區段中，選擇 **\[已暫停\]**。 然後 **\[提交\]** 變更。
 4.  所有的資料將被刪除，除非訂閱在 90 日内重新啟用，或 90 天加上開啟帳戶的時間和第一個計費期間之間的天數 (最多 120 天)。
+
+當您在暫停訂閱時，您在 **\[已暫停\]** 按鈕下方看到的日期會顯示該訂閱何時會自動到期 (如果您沒有重新啟用的話)。 

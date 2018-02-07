@@ -2,11 +2,12 @@
 title: "雲端解決方案提供者計畫 - 銷售隨選雲端解決方案 | 合作夥伴中心"
 description: "雲端解決方案提供者計畫可協助透過新客戶與新專業拓展您的企業。"
 author: labrenne
-ms.openlocfilehash: c3fe4a3dfc80f17eda3c87548d30417ecdd9527a
-ms.sourcegitcommit: 71fcb32b5c5636db5fdeea72ba9ea96a3cd49328
+keywords: "雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 代理商, 雲端解決方案提供者計畫"
+ms.openlocfilehash: 4ba8be87b3d7e5c92045c7c2c19112219131bdd0
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>雲端解決方案提供者計畫 - 銷售隨選雲端解決方案 
 

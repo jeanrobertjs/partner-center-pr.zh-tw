@@ -3,10 +3,12 @@ title: "客戶自我支援 | 合作夥伴中心"
 description: "客戶自我支援"
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-ms.openlocfilehash: 87dfdd4e3a56c60282f5a386011a23d3445b3001
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+keywords: "客戶自我支援, 自我支援,"
+ms.openlocfilehash: 0836ce7501dcbf1fadb7f675dab8fc0583a1d4cf
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="customer-self-support"></a>客戶自我支援
 

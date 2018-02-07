@@ -4,11 +4,11 @@ description: "系統管理員能為每個需要存取合作夥伴中心的合作
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
-ms.openlocfilehash: 4345db8cf8e383edbb58c269a3b0a948eade9d65
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 809641e488595e59beb63b0867b4758f3912106e
+ms.sourcegitcommit: fc49a5e334ed37db4ff4c594ecf89a1527a3bd1d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>建立使用者帳戶與指派權限
 
@@ -38,7 +38,7 @@ ms.lasthandoff: 12/21/2017
 
 使用者必須使用其使用者名稱和暫時密碼登入合作夥伴中心。 當使用者第一次登入合作夥伴中心時，系統會提示他們變更密碼。 
 
-
+>**注意**<br> 如果您的全域管理員已離開您的組織或轉任其他角色，而您需要新增新的全域管理員時，您必須在 [MPN 入口網站](https://partner.microsoft.com/support)登錄服務要求。 如果要求者可以提供必要的個人身分識別資訊並提供關於您組織的其他資訊，支援專員可能會要求將某個使用者的權限提高至全域管理員。
 
 ## <a name="assign-user-permissions"></a>指派使用者權限
 
@@ -59,9 +59,9 @@ ms.lasthandoff: 12/21/2017
 
 在每個一般分類中，每位使用者只能有一個角色，但同一位使用者在其他一般分類中也能擁有角色。 
 
->**重要**：如果使用者不需要特定的角色，請將指定保留為預設設定 - **「以下列身分管理您的組織帳戶」**。 使用者必須至少獲指派一個角色，才能在合作夥伴中心中工作。
+>**重要**：如果使用者不需要特定的角色，請讓指定等級保持為預設設定：**\[以下列身分管理您的組織帳戶\]**。 使用者必須至少獲指派一個角色，才能在合作夥伴中心中工作。
 
-下表說明每個角色可在合作夥伴中心執行的動作。 思考如何指派角色時，請考慮使用者在組織中執行的工作。 例如，您可能會希望全域系統管理員成為系統管理代理人。 處理行銷的人員可以同時管理商務設定檔。
+下表說明每個角色可在合作夥伴中心執行的動作。 思考如何指派角色時，請考慮使用者在組織中執行的工作。 例如，您可能會希望全域管理員同時也是系統管理代理人。 處理行銷的人員可以同時管理商務設定檔。
 
 <table>
 <colgroup>
@@ -121,14 +121,7 @@ ms.lasthandoff: 12/21/2017
 <li><p>檢視專長認證</p></li>
 <li><p>檢視及管理權益</p></li>
 <li><p>檢視及購買 MPN 優惠</p></li>
-<li><p>檢視 MPN 優惠訂購歷史及發票</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>使用者管理系統管理員</strong></p></td>
-<td><ul>
-<li><p>檢視、建立和管理使用者</p></li>
-<li><p>檢視所有合作夥伴設定檔</p></li>
+<li><p>檢視 MPN 優惠訂購記錄和發票</p></li>
 </ul></td>
 </tr>
 <tr class="even">

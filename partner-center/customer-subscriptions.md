@@ -1,13 +1,13 @@
 ---
 title: "客戶訂閱 |合作夥伴中心"
 description: "合作夥伴可以透過合作夥伴中心將訂閱銷售給客戶並管理它們。"
-ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
-author: MaggiePucciEvans
-ms.openlocfilehash: ffc2189f9c5a8d5df3b07707c23f540142917499
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+author: labrenne
+Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
+ms.openlocfilehash: 554aa69448b961c202f86ff76d85f797e6a0010c
+ms.sourcegitcommit: dcaa831710115ac0852131605115b9b6cc67c5d5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 01/04/2018
 ---
 # <a name="customer-subscriptions"></a>客戶訂閱
 
@@ -15,31 +15,50 @@ ms.lasthandoff: 06/14/2017
 
 -  合作夥伴中心
 
-您可以透過合作夥伴中心將訂閱銷售給客戶並管理它們。 
+身為雲端解決方案提供者合作夥伴，其中一項主要工作當然是提供 Microsoft 產品訂閱給您的客戶。 您可以在合作夥伴中心輕鬆管理所有您提供給每個客戶的訂閱。 您可以新增訂閱、新增授權至現有訂閱，甚至提供試用訂閱給想要測試軟體的客戶。 此外，您還可以利用合作夥伴中心所提供讓您了解客戶使用軟體情況的分析，加強對客戶的支援服務。
 
-[建立新訂閱](create-a-new-subscription.md)
+|**若要這樣做**   |**請閱讀本文**   |
+|----------------------|:----------------------|
+|為合作夥伴中心現有的客戶建立新的訂閱，或是加入新客戶，再建立其訂閱|[建立新訂閱](create-a-new-subscription.md)|
+|新增訂閱之後，就可以將授權指派給客戶的員工  |[指派授權給使用者](assign-licenses-to-users.md)|
+|您也可以管理大量授權更新   |[指派或撤銷多個使用者的授權](bulk-license-provisioning-for-multiple-users.md)|
+|客戶加入新的員工時，您可以將額外的授權新增至現有的訂閱   |[將授權或服務新增至現有的訂閱](add-licenses-or-services-to-an-existing-subscription.md)|
+|您的客戶在承諾購買軟體之前可能會想要進行試用，因此請提供試用訂閱    |[為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)|
+|您現在可以在合作夥伴中心內開始 Azure 訂閱程序   |[在合作夥伴中心指派 Azure 訂閱](assign-azure-subscriptions.md)|
+|了解優惠方案的特殊定價   |[取得優惠方案的特殊定價](get-special-pricing-for-offers.md)|
+|了解客戶使用其軟體的情況，以便協助他們獲得更大效益。   | [提高採用率與滿意度](increasing-adoption-and-satisfaction.md)   | 
 
-[指派授權給使用者](assign-licenses-to-users.md)
 
-[指派或撤銷多個使用者的授權](bulk-license-provisioning-for-multiple-users.md)
 
-[暫停訂閱](suspend-a-subscription.md)
 
-[移除與經銷商或客戶的關係](remove-a-relationship.md)
 
-[將授權或服務新增到現有的訂閱](add-licenses-or-services-to-an-existing-subscription.md)
 
-[將 Dynamics AX 訂閱移轉至 Dynamics 365](manual-subscription-migration.md)
 
-[將 Office 365 企業版 E4 訂閱移轉至新版 Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 
-[取得產品的特殊定價](get-special-pricing-for-offers.md)
 
-[提高採用率與滿意度](increasing-adoption-and-satisfaction.md)
 
-[雲端解決方案提供者地區授權概觀](regional-authorization-overview.md)
 
-[雲端解決方案提供者地區授權租用戶彙總](csp-regional-authorization-tenant-consolidation.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
