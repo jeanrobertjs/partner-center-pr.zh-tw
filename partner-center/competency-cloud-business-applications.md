@@ -3,11 +3,11 @@ title: "雲端商務應用程式專長認證"
 description: "雲端業務應用程式專長認證適合專精於為客戶部署和管理 Microsoft Dynamics 365 的合作夥伴。"
 author: Daniel Simpson
 keywords: "專長認證, 各項專長認證, 雲端業務應用程式"
-ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+ms.openlocfilehash: 89459db489bce42c7b91ac1b76bebe6e34c5a705
+ms.sourcegitcommit: 201493cd49b1b65206aa46442677ec1979287358
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="cloud-business-applications"></a>雲端業務應用程式 
 
@@ -51,7 +51,7 @@ ms.lasthandoff: 11/16/2017
     
     **和**
     
-    - 上述的那 **5** 個人員必須通過下列其中一項功能測驗：
+    - 相同或不同的 **5** 個人員必須通過下列其中一項功能測驗：
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service
         - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx)：Microsoft Dynamics 365 for Field Service *新測驗於 2017 年 12 月推出

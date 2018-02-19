@@ -3,10 +3,11 @@ title: "提供帳單支援 | 合作夥伴中心"
 description: "您與您的客戶之間擁有帳單關係，且為您客戶的任何帳單相關問題提供完全的支援。"
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
+ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
 ms.translationtype: HT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="provide-billing-support"></a>提供帳單支援
 
@@ -36,17 +37,15 @@ ms.contentlocale: zh-TW
 ## <a href="" id="billingdisputes"></a>帳單爭議
 
 
--   [代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)以提出任何帳單問題或爭議。
+-   [報告問題](report-problems-with-partner-center.md)以提出任何帳單問題或爭議。
 
 ## <a href="" id="escalatingissues"></a>向上呈報問題
 
 
 -   如果需要我們的協助，您可以代表客戶透過合作夥伴支援管道[向上呈報問題給 Microsoft](escalate-problems-to-microsoft.md)。
--   一旦問題解決，您必須通知客戶並結束和客戶之間針對此問題的通訊往來
+-   一旦問題解決，您必須通知客戶並結束和客戶之間針對此問題的通訊往來 
 
  
-
- 
-
+帳單爭議：報告問題 (https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center) 以提出任何帳單問題或爭議。
 
 

@@ -1,12 +1,14 @@
 ---
 title: "代表客戶報告問題 | 合作夥伴中心"
-Description: "如果客戶遇到您無法解決的服務問題，且問題符合將問題向上呈報給 Microsoft 中描述的條件，請針對它們提出支援票證。"
+Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-ms.openlocfilehash: 8c59c9d67ab06bd515945e613b14b79d21d318b8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+ms.openlocfilehash: af69b2fd3ad63e9b926afbb6ffef3cf575c5e997
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 
@@ -26,24 +28,25 @@ ms.contentlocale: zh-TW
 
 3.  針對有問題的服務，選取 **\[建立或檢視服務要求\]**。 系統會將您重新導向至 Microsoft Azure 入口網站或 Office 365 系統管理中心。
 
-    **Microsoft Azure**
+**Microsoft Azure**
 
-    1.  選取 **\[新增支援要求\]**。
-    2.  以適當的資訊填寫支援要求，並選取 **\[建立\]**：
+**注意**：為了讓您可以替 Azure 中的客戶建立服務要求，您的間接提供者必須授與您對客戶 Azure 帳戶的存取權。 這與代表 Office 365 的客戶進行管理有所不同。   
+
+1.  選取 **\[新增支援要求\]**。
+2.  以適當的資訊填寫支援要求，並選取 **\[建立\]**：
         -   在支援要求的 **\[基本\]** 區段中，請確定選取 **\[支援方案\]** 中的 **\[雲端解決方案提供者\]**。
         -   在支援要求的 **\[連絡人\]** 資訊區段中，輸入您的資訊，而不是客戶的資訊。
 
-    3.  接下來，在 Microsoft Azure 入口網站中檢視客戶的服務要求，請選取 **\[管理支援要求\]**。
+3.  接下來，在 Microsoft Azure 入口網站中檢視客戶的服務要求，請選取 **\[管理支援要求\]**。
 
-    **Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite**
 
-    1.  在 **\[建立服務要求\]** 區段中，選擇適當的支援主題類別。 您可能需要選取 **\[更多\]** 以檢視其他主題。
-    2.  完成服務要求表單，然候選取 **\[提交\]**。
-        **注意**：請務必包含您的連絡資訊，而非客戶連絡資訊。
 
-         
+**Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite**
 
-    3.  接下來，移至 Office 365 系統管理中心並選取 **\[查看所有支援票證\]**，以檢閱您的客戶的服務要求。
+1. 在 **\[建立服務要求\]** 區段中，選擇適當的支援主題類別。 您可能需要選取 **\[更多\]** 以檢視其他主題。    
+2. 完成服務要求表單，然候選取 **\[提交\]**。
+    **注意**：請務必包含您的連絡資訊，而非客戶連絡資訊。
+3. 接下來，移至 Office 365 系統管理中心並選取 **\[查看所有支援票證\]**，以檢閱您的客戶的服務要求。
 
 ## <a name="faq"></a>常見問題集
 

@@ -1,12 +1,14 @@
 ---
 title: "未付款、詐騙或濫用 | 合作夥伴中心"
-description: "您須承擔因客戶以詐騙方式購買和/或已購買服務客戶未付款的行為而引發的財務風險；因此，我們建議您實作防範詐騙與偵測風險的安全防護功能控制項。"
+description: "管理線上交易風險的策略，包括客戶不支付商品與服務款項以及詐騙活動或濫用。"
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
+keywords: "詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,"
 author: MaggiePucciEvans
-ms.openlocfilehash: d4b4703901b157324a3a1b9205f9bc2570dd9cb8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未付款、詐騙或濫用
 
@@ -16,45 +18,61 @@ ms.contentlocale: zh-TW
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-您須承擔因客戶以詐騙方式購買和/或已購買服務客戶未付款的行為而引發的財務風險；因此，我們建議您實作防範詐騙與偵測風險的安全防護功能控制項。 您必須負責決定是否擴充客戶的信用額度。
+您必須承擔因客戶以詐騙方式購買和/或已購買服務客戶未付款的行為而帶來的財務風險。 因此，強烈建議您做好降低風險的詐騙預防與偵測管控措施。
 
-## <a name="in-this-section"></a>本節內容
+## <a name="types-of-online-risk"></a>線上風險類型
 
+為了避免和/或解決詐騙活動或濫用問題，請務必了解潛在的風險，並擬定可以降低暴露於風險之機會的原則和做法。
 
--   [未付款](#nonpayment)
+#### <a name="risk-exposure-to-be-mitigated"></a>要降低的風險暴露面與機會
 
--   [詐騙或濫用安全防護功能](#fraudmisusemitigation)
+- **竊取服務**：無意支付享用服務應付款項的客戶，其所用伎倆包括使用盜用的付款方式、提供不實的帳單資訊和/或拖欠未結清的餘額。
 
-## <a href="" id="nonpayment"></a>未付款
+- **濫用服務**：違反 Microsoft 可接受的使用原則使用雲端服務的客戶
 
+#### <a name="examples-of-possible-fraud-or-service-abuse"></a>可能發生詐騙或服務濫用情況的範例
+- 垃圾郵件
+- 駭客入侵
+- DDOS 攻擊
+- 比特幣挖礦
+- 惡意程式碼散發
+- 轉售盜取的訂用帳戶 
 
--   建議您與客戶建立明確的收款原則，詳述收款程序及影響訂閱存取的時間。
--   您可以停用存取或直接取消未付款客戶的訂閱。
+#### <a name="examples-of-online-transaction-risk"></a>線上交易風險的範例
+- 「信用卡不存在」交易，也就是，交易並非其本人親自進行
+- 詐稱身分
+- 服務在收到首期付款之前即已佈建並使用
+- 易遭線上詐騙的新興市場/高風險區域
+- 危險分子有能力使帳戶建立作業與購買程序自動化
 
-## <a href="" id="fraudmisusemitigation"></a>詐騙或濫用安全防護功能
+## <a name="strategies-for-managing-online-risk"></a>管理線上風險的策略
 
+下列建議可以協助您制定貫穿客戶關係生命週期每一階段，都能降低暴露於線上交易風險之機會的原則和做法。  
 
-若要解決詐騙活動或濫用，您有下列選項：
+#### <a name="when-onboarding-new-customers"></a>在讓新客戶上門加入交易時
+- 盡可能與客戶建立個人關係，例如透過電話連絡
+- 尋找更好的方式來驗證客戶的資歷與背景 (徵信社/企業商務資信調查機構) 
+- 在註冊期間利用 SMS 驗證，以將遭到機器人蒙混建立帳戶和遂行購買的風險減至最低
+- 使用像數位身分識別服務之類的服務進行身分識別管理和追蹤
+- 透過嚴格的信用卡詐騙偵測系統評定客戶的財務能力
+- 建立明確的收款原則，其中應詳述您的收款流程，以及會導致訂用帳戶存取權限受影響的情況 (您可以在發生未付款情況時停用存取或[暫停客戶的訂用帳戶](suspend-a-subscription.md))
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>暫停訂閱</td>
-<td><p>在調查問題時，您可以自行從合作夥伴中心暫停訂閱。 請參閱[暫停訂閱](suspend-a-subscription.md)。</p></td>
-</tr>
-<tr class="even">
-<td>建立服務票證</td>
-<td><p>如果您有其他問題或對可疑活動有所疑慮，您可在合作夥伴中心建立服務要求。 請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。</p></td>
-</tr>
-</tbody>
-</table>
+#### <a name="post-purchase-customer-account-management"></a>購買後客戶帳戶管理
+- 在設定適當監控閾值時，與客戶合作來了解他們的雲端使用量商務需求。
+    >**注意**：您可以在合作夥伴中心[設定每月 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)來監視客戶當月份的使用量，並在客戶接近其預算時收到通知。
+- 定期監視[客戶活動記錄](activity-logs.md)，有助於早期偵測詐騙
+- 當偵測到可疑活動時，採取快速行動
+- 避免在沒有預先實作降低風險管控措施的情況下授與客戶對訂用帳戶的完整系統管理存取權限
+- 實作可快速接收、檢閱、因應和回覆 Microsoft 通知的流程
 
- 
+#### <a name="post-purchase-customer-billing-management"></a>購買後客戶帳單管理
+- 要求在初次交易和計費之前預先付款 
+- 不接受高風險付款方式，例如預付卡或儲值卡
+- 監視客戶付款以及應收帳款帳齡分析，並積極主動針對延遲及未付款項執行標準化催收程序。
 
+如需降低線上風險的詳細策略，請參閱[線上交易風險管理指南。](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+
+>**重要事項**<br>
 如果 Microsoft 偵測到合作夥伴或客戶活動經證實或有違反使用原則之嫌疑時，我們將會強制執行必要步驟。 可能會立即將客戶暫時停權，並根據您的要求通知您 Microsoft 所強制執行的動作或更新。
 
  

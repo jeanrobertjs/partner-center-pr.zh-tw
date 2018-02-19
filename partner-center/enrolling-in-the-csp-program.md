@@ -2,11 +2,11 @@
 title: "註冊雲端解決方案提供者計畫 | 合作夥伴中心"
 description: "了解以雲端解決方案提供者銷售的不同模型，並判斷哪個最適合您的業務"
 author: labrenne
-ms.openlocfilehash: 648be8e9df0c72096278c3b8881cf986721293ab
-ms.sourcegitcommit: 9952a3abf59a561a650d56ee23aed1ef1b94a50c
+ms.openlocfilehash: 198e2189d7346849be67f4a93515a9da8a4deb4f
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2017
+ms.lasthandoff: 01/24/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 
@@ -38,6 +38,8 @@ ms.lasthandoff: 11/20/2017
 4. 受指派為商務設定檔管理員角色的員工應設定您的商務設定檔，讓您可以接收客戶轉介。
 
 ### <a name="enroll-as-a-direct-partner"></a>註冊為直接合作夥伴
+
+>**注意**<br> 我們正在進行直接合作夥伴註冊需求的更新，目前無法接受新的申請。 我們計劃從 2018 日曆年度第 2 季開始重新開放申請。 請考慮註冊為間接經銷商。
 
 身為直接合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。
 

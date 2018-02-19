@@ -3,11 +3,14 @@ title: "將 Azure 訂用帳戶切換為其他合作夥伴 | 合作夥伴中心"
 description: "客戶可以變更雲端解決方案提供者計畫中要針對 Microsoft Azure 服務使用的合作夥伴。 不過，這是需要合作夥伴和客戶雙方手動操作的程序。"
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+keywords: "azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴"
+ms.openlocfilehash: 5bc29e78cb94068a5d7675f6f030bc31e78f40a4
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 01/24/2018
 ---
-# <a name="switch-azure-subscriptions-to-a-different-partner"></a>將 Azure 訂用帳戶切換為其他合作夥伴
+# <a name="switch-azure-subscriptions-to-a-different-partner"></a>將 Azure 訂閱切換為其他合作夥伴
 
 **適用於**
 
@@ -17,13 +20,16 @@ translationtype: HT
 
 **注意**：目前沒有可供 Azure 客戶從 EA、Open 或其他授權方案切換至雲端解決方案提供者的自動程序。 這是需要合作夥伴和客戶手動操作的程序。 此外，目前無法變更 Office 365、Enterprise Mobility Suite 或 Microsoft Dynamics CRM 訂閱之雲端解決方案提供者訂閱的合作夥伴。
 
+
  
 
 **切換 Azure 訂用帳戶的合作夥伴**
 
-1.  如果要將 Azure 訂用帳戶移轉至新的合作夥伴，客戶必須開始該程序，並以書面方式連絡其目前記錄的雲端解決方案提供者合作夥伴。
+1.  如果要將 Azure 訂用帳戶移轉至新的合作夥伴，客戶必須開始該程序，並以書面方式連絡其目前記錄的雲端解決方案提供者合作夥伴。 
 
-2.  該訂用帳戶的雲端解決方案提供者必須執行下列工作：
+    >**注意**<br> 目前的合作夥伴必須負責建立起始移轉程序的服務票證。 Microsoft 無法代表客戶或新合作夥伴介入。 客戶應做好與目前合作夥伴密切合作的計劃，使移轉程序進行順暢。
+
+2.  該訂用帳戶的雲端解決方案提供者合作夥伴必須執行下列工作：
 
     從合作夥伴中心建立 Azure 服務票證以要求訂用帳戶移轉：
 
@@ -69,7 +75,12 @@ translationtype: HT
 
         **PS C:\\&gt; Get-AzureRMRoleAssignment**
 
-    透過在 Azure 入口網站中管理訂用帳戶，來移除過時的訂用帳戶及資源存取權限。 在 \[合作夥伴中心\] 功能表中，選取 **\[客戶\]**。 展開客戶的列表並選取 **\[檢視訂閱\]**。 在 \[客戶\] 功能表中選取 **\[服務管理\]**。 在 **\[Microsoft Azure\]** 下方，按一下連結以移至 **\[Microsoft Azure 管理入口網站\]**。
+7. 移除過時存取權限
+
+    -  在 \[合作夥伴中心\] 功能表中，選取 **\[客戶\]**。 
+    -  展開客戶的列表並選取 **\[檢視訂閱\]**。 
+    -  在 \[客戶\] 功能表中選取 **\[服務管理\]**。 
+    -  在 **\[Microsoft Azure\]** 下方，按一下連結以移至 **\[Microsoft Azure 管理入口網站\]**。
 
  
 
