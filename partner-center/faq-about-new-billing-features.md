@@ -1,13 +1,12 @@
 ---
 title: "新計費功能的常見問題集 | 合作夥伴中心"
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
-ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 0c468df2176160ca5a1fdf8b90ce5b6f9b669cc2
-ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
+ms.openlocfilehash: 503a1fac539b2cd40e8b95ab458143801c5d0134
+ms.sourcegitcommit: 4964383ea9dcd51d27256a2969a453d67c5ebf0c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 02/03/2018
 ---
 # <a name="faq-about-new-billing-features"></a>新計費功能的常見問題集
 
@@ -578,7 +577,7 @@ ms.lasthandoff: 01/19/2018
 
 ### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>案例：在 29 日、30 日或 31 日的新購買 
 
-合作夥伴帳單日期是每個月 15 日。 合作夥伴在 5 月 29 日購買採用每月帳單週期的新訂閱 (1 份授權的費率為 $30 美元/月)。 在 29 日、30 日或 31日購買的訂閱，其週年日預設為下個月 1 日。 在此案例中，該訂閱將會獲得從 5 月 29 日到 5 月 31 日的免費期間，而帳務明細則出現在 6 月 1 日，並顯示一個月份的預收費用。
+合作夥伴帳單日期是每個月 15 日。 合作夥伴在 5 月 29 日購買採用每月帳單週期的新訂閱 (1 份授權的費率為 $30 美元/月)。 在 29 日、30 日或 31 日購買的訂閱，其週年日預設為下個月 1 日。 在此案例中，該訂閱將會獲得從 5 月 29 日到 5 月 31 日的免費期間，而帳務明細則出現在 6 月 1 日，並顯示一個月份的預收費用。
 
 6 月 15 日的對帳檔案將會包含下列帳務明細︰
 
