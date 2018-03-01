@@ -1,48 +1,46 @@
 ---
-title: "了解即將推出之銀會員及金會員資格的 Microsoft 專長認證要求條件 | 合作夥伴中心"
-description: "了解升級至金會員及銀會員資格等級所需具備的條件。"
+title: "銀級及金級會員資格的 Microsoft 專長認證要求條件 | 合作夥伴中心"
+description: "了解取得金級及銀級會員資格等級的專長認證要求條件。"
 author: Maggiepuccievans
-keywords: competencies, silver membership, gold membership, mpn, MAPS, proficiency, Microsoft Partner Network, network membership
-ms.openlocfilehash: da6bb2cef3b28681075854136415bc5b01acd2bd
-ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
+keywords: "專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格"
+ms.openlocfilehash: a922e579706b1c859ee6e645f814feaa7dd0d2e3
+ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2017
+ms.lasthandoff: 02/09/2018
 ---
-# <a name="upcoming-microsoft-competency-requirements-for-gold-and-silver-membership"></a>即將推出之金會員及銀會員資格的 Microsoft 專長認證要求條件
+# <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>金會員及銀會員資格的 Microsoft 專長認證要求條件
 
-**Applies to**
+**適用於**
 
--  Partner Center
+-  合作夥伴中心
 
-Demonstrate your proven expertise in delivering quality solutions in one or more specialized areas of business. Microsoft competencies are designed to prepare you to meet your customers’ needs, and to help you attract new customers who are looking for Microsoft-certified solution providers.
+證明您在一個或多個特殊業務領域中提供高品質解決方案方面卓有建樹的專長。 Microsoft 專長認證是設計來讓您做好滿足客戶需求的準備，以及協助您吸引正在尋找 Microsoft 認證解決方案提供者的新客戶。 加入 Microsoft 合作夥伴菁英層，從同儕中脫穎而出。
 
-下列解銀會員及金會員資格需求即將實施。 
+- 贏得**銀級會員資格**可證明您始終如一的能力、專長與承諾
 
-- 贏得**銀會員資格**可證明您始終如一的能力、專長與承諾
+- 贏得**金級會員資格**可證明您在特定 Microsoft 解決方案領域中的能力一流
 
-- Earn a **Gold membership** to demonstrate your best-in-class capability within a specific Microsoft solution area.
-
-Read about what's required to earn Silver and Gold membership in the following areas of expertise:
+閱讀關於在下列專長領域中獲取銀會員及金會員資格的資訊：
 
 
-| Competencies  | Technologies |
+| 專長認證  | 技術 |
 |   ------------------   |   -------   |
-| [Application Development competency](competency-application-development.md) | HTML5, C#, ASP.NET, UWP, Microsoft Azure apps |
-| [Application Integration competency](competency-application-integration.md) | Windows Server, SQL server/database, C#, Azure, BizTalk Server 2013|
-| [Cloud Business Applications competency](competency-cloud-business-applications.md)| Microsoft Dynamics 365/Enterprise/Operations/AX, SQL database |
-| [Cloud Customer Relationship Management competency](competency-cloud-customer-relationship-management.md)| Dynamics 365/Dynamics CRM |
-| [Cloud Platform competency](competency-cloud-platform.md)| Azure, Linux on Azure |
-| [Cloud Productivity competency](competency-cloud-productivity.md)| Microsoft Office 365 services (Exchange Online, SharePoint Online, Skype for Business, or Yammer)|
-| [Collaboration and Content competency](competency-collaboration-and-content.md)| Office 365, SharePoint Server 2016, App Builder |
-| [Communications competency](competency-communications.md)| Skype for Business, Enterprise Voice Skype for Business 2015 |
-| [Data Analytics competency](competency-data-analytics.md)| SQL databases, Azure, Microsoft R Server, Microsoft HD Insight, Power BI |
-| [Data Platform competency](competency-data-platform.md)| SQL databases, SQL Server 2016, Azure Data Warehouse, Azure Data Services, Transact-SQL |
-| [Data Center competency](competency-datacenter.md)| System Center 2012, Windows Server virtualization and Hyper-V, Windows Server 2012/2016 |
-| [DevOps competency](competency-devops.md)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, software lifecycle, scrum certifications |
-| [Enterprise Mobility Management competency](competency-enterprise-mobility-management.md)| Enterprise Mobility + Security (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), Mobile Device Management, identity & access management, info protection, cloud app security |
-| [Enterprise Resource Planning competency](competency-enterprise-resource-planning.md)| Dynamics AX/GP/SL/NAV/365, Enterprise Resource Planning (ERP), SQL Server 2012 databases  |
-| [Messaging competency](competency-messaging.md)| Office 365, Exchange Server 2016 |
-| [Project and Portfolio Management competency](competency-project-and-portfolio-management.md)| Microsoft Project, Project and Portfolio Management (PPM), SharePoint Server 2016|
-| [Small and Midmarket Cloud Solutions competency](competency-small-and-midmarket-cloud-solutions.md)| Office 365 |
-| [Windows and Devices competency](competency-windows-and-devices.md)| Windows 10, Windows 10 IoT, Universal Windows Platform, Surface Hub, Office 365, Skype for Business 2015, enterprise deployment |
+| [應用程式開發專長認證](https://partner.microsoft.com/membership/application-development-competency) | HTML5、C#、ASP.NET、UWP、Microsoft Azure 應用程式 |
+| [應用程式整合專長認證](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server、SQL 伺服器/資料庫、C#、Azure、BizTalk Server 2013|
+| [雲端商務應用程式專長認證](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/Enterprise/Operations/AX、SQL 資料庫 |
+| [雲端客戶關係管理專長認證](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365/Dynamics CRM |
+| [雲端平台專長認證](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure、Azure 上的 Linux |
+| [雲端生產力專長認證](https://partner.microsoft.com/membership/cloud-productivity-competency)| Microsoft Office 365 服務 (Exchange Online、SharePoint Online、商務用 Skype 或 Yammer)|
+| [共同作業及內容專長認證](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365、SharePoint Server 2016、應用程式建置商 |
+| [通訊專長認證](https://partner.microsoft.com/membership/communications-competency)| 商務用 Skype、商務用 Skype 2015 企業語音 |
+| [資料分析專長認證](https://partner.microsoft.com/membership/data-analytics-competency)| SQL 資料庫、Azure、Microsoft R Server、Microsoft HD Insight、Power BI |
+| [資料平台專長認證](https://partner.microsoft.com/membership/data-platform-competency)| SQL 資料庫、SQL Server 2016、Azure 資料倉儲、Azure 資料服務、Transact-SQL |
+| [資料中心專長認證](https://partner.microsoft.com/membership/datacenter-competency)| System Center 2012、Windows Server 虛擬化與 Hyper-V、Windows Server 2012/2016 |
+| [DevOps 專長認證](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio、Visual Studio Team Foundation Server (TFS) 2012、軟體生命週期、Scrum 認證 |
+| [企業行動力管理專長認證](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| 企業行動力 + 安全性 (EMS)、Microsoft Intune、Azure 資訊保護、Azure Active Directory Premium (AADP)、行動裝置管理、身分識別及存取管理、資訊保護、雲端應用程式安全性 |
+| [企業資源規劃專長認證](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365、企業資源規劃 (ERP)、SQL Server 2012 資料庫  |
+| [訊息中心專長認證](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
+| [專案與產品組合管理專長認證](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project、專案與組合管理 (PPM)、SharePoint Server 2016|
+| [小型及中端市場雲端解決方案專長認證](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
+| [Windows 與裝置專長認證](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10、Windows 10 IoT、通用 Windows 平台、Surface Hub、Office 365、商務用 Skype 2015、企業部署 |
