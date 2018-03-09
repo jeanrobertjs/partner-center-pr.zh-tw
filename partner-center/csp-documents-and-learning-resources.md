@@ -4,11 +4,11 @@ description: "本文包括雲端解決方案提供者計畫指南、合作夥伴
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: "雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠"
-ms.openlocfilehash: df704239dfc51f756405e0da19a64bca709b0035
-ms.sourcegitcommit: bd389c848158d41d1a012e246f57eefacec2ea2b
+ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2018
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>雲端解決方案提供者合約、價目表和優惠
 
@@ -45,7 +45,7 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 [Microsoft 雲端轉銷商合約 – 台灣](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
 
-[Microsoft 雲端轉銷商合約 - Microsoft Cloud 德國](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20173_GermanCloud.pdf)
+[Microsoft 雲端轉銷商合約 - Microsoft Cloud 德國](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
 
 [Microsoft 雲端轉銷商合約 - 美國政府適用的 Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
 
