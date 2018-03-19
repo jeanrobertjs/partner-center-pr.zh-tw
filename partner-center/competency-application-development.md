@@ -1,19 +1,19 @@
 ---
-title: Application Development Competency
-description: Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
+title: "應用程式開發專長認證"
+description: "促進快速軟體交付與持續改善。 加入我們為數超過 6 萬家的應用程式建置商合作夥伴，藉由取得應用程式開發專長認證，使您的業務差異化並確立自己的 Microsoft 合作夥伴地位。"
 author: Daniel Simpson
-keywords: competency,competencies,Cloud Business Applications, application development
+keywords: "專長認證, 各項專長認證, 雲端業務應用程式, 應用程式開發"
 ms.openlocfilehash: 153a40815f99950fa379f9bf35e55151fb159c96
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/07/2017
 ---
-# <a name="application-development"></a>Application Development 
+# <a name="application-development"></a>應用程式開發 
 
-Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
+促進快速軟體交付與持續改善。 加入我們為數超過 6 萬家的應用程式建置商合作夥伴，藉由取得應用程式開發專長認證，使您的業務差異化並確立自己的 Microsoft 合作夥伴地位。
 
-## <a name="application-builder-option"></a>Application Builder option
+## <a name="application-builder-option"></a>應用程式建置商選項
 如果您想要藉由通過測驗或認證來證明您的技能，應用程式建置商選項就非常適合。  從您選擇的專長領域中選擇要取得應用程式開發專長認證的測驗。
 
 

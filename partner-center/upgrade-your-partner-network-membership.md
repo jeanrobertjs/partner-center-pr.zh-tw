@@ -1,6 +1,6 @@
 ---
-title: Upgrade your Microsoft Partner Network membership | Partner Center
-description: When you upgrade your Microsoft Partner Network membership, you're eligible for exclusive membership benefits. Learn how to find and purchase available offers.
+title: "升級您的 Microsoft 合作夥伴網路會員資格 | 合作夥伴中心"
+description: "當您升級 Microsoft 合作夥伴網路會員資格時，有資格獲得專屬會員資格權益。 了解如何尋找並購買可用的優惠。"
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
@@ -9,42 +9,42 @@ ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/08/2017
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>Upgrade your Microsoft Partner Network membership
+# <a name="upgrade-your-microsoft-partner-network-membership"></a>升級您的 Microsoft 合作夥伴網路會員資格
 
-**Applies to**
+**適用於**
 
--  Partner Center
+-  合作夥伴中心
 
-Microsoft’s partner program offers the following three membership options, with incremental benefits to help you achieve your business goals.
+Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權益幫助您達到業務目標。
 
-- **Network membership.** The core membership level, offering entry-level benefits for training, support, and customer connections. You must be a network member to upgrade your membership.
+- **網路會員資格。** 核心會員資格層級，提供訓練、支援和客戶連接的入門級權益。 您必須是網路會員才能升級您的會員資格。
 
-- **Microsoft Action Pack subscription membership.** An affordable annual subscription, serving small and mid-sized partner companies. Includes the entry-level benefits that come with basic network membership plus allocations of internal-use rights service subscriptions, software licenses, and support.
+- **Microsoft 行動套件訂閱會員資格。** 服務中小型合作夥伴公司的實惠年度訂閱。 包括入門級權益，隨附基本網路會員資格，加上內部使用權服務訂閱、軟體授權和支援的配置。
 
-- **Microsoft competencies.** An earned designation showcasing your company’s capabilities. Includes entry-level benefits, additional internal-use rights, eligibility for partner incentives, and additional support and advisory hours.
+- **Microsoft 專長認證。** 贏得的榮譽稱號，展示貴公司的能力。 包括入門級權益、其他內部使用權、合作夥伴獎勵的資格，以及其他支援與諮詢時數。
 
-  - Silver competency – consistent capability, expertise, and commitment
+  - 銀級專長認證 – 一致的功能、專業，以及承諾
 
-  - Gold competency – best-in-class capability within a specific Microsoft solution area
+  - 金級專長認證 – 特定 Microsoft 解決方案領域同等級最佳功能
 
-After you join the Microsoft Partner Network, you’re eligible to upgrade your membership and purchase exclusive membership benefit offers. 如需有關 Microsoft 合作夥伴網路中會員資格的詳細資訊，請移至 [https://partner.microsoft.com](https://partner.microsoft.com)。
+您加入 Microsoft 合作夥伴網路之後，就可以升級您的會員資格，並購買專屬會員資格權益優惠。 如需有關 Microsoft 合作夥伴網路中會員資格的詳細資訊，請移至 [https://partner.microsoft.com](https://partner.microsoft.com)。
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>購買 Microsoft 行動套件訂閱
 
-Action Pack is an affordable yearly subscription to services, software, and support for businesses that want to grow their Microsoft practice in the cloud-first, mobile-first world. Subscribe to Action Pack to:
+對於想要在雲端優先、行動優先的世界中拓展其 Microsoft 業務的企業，行動套件是實惠的服務、軟體和支援每年訂閱。 訂閱行動套件，以便：
 
-- Use world-class developer tools to create applications and solutions for your customers on iOS, Android, Linux, and Windows 
+- 使用世界級的開發人員工具，為客戶在 iOS、Android、Linux 及 Windows 平台上建立應用程式和解決方案 
 
-- Get ten Windows 10 Enterprise (upgrade) licenses, three Visual Studio Professional licenses, and a no-cost Visual Studio Team Services account 
+- 取得十個 Windows 10 企業版（升級）授權、三個 Visual Studio Professional 授權，和免費 Visual Studio Team Services 帳戶 
 
-- Get up to ten Office 365 (E3) seats, plus five seats of Enterprise Mobility Suite and Microsoft Dynamics CRM Online Professional
+- 取得最多十個 Office 365 (E3) 基座，再加上 Enterprise Mobility Suite 和 Microsoft Dynamics CRM Online Professional 五個基座
 
-- Receive US$100 of Microsoft Azure credits every month
+- 取得每個月價值 $100 美元的 Microsoft Azure 點數
 
 如需 Microsoft 行動套件相關資訊，請移至 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
 
->**注意** 跟隨此連結，會將您移至其他網站。 Return to this site, Partner Center, to subscribe to Action Pack.
+>**注意** 跟隨此連結，會將您移至其他網站。 回到此網站 (合作夥伴中心) 來訂閱行動套件。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>訂閱 Microsoft 行動套件
@@ -59,13 +59,13 @@ Action Pack is an affordable yearly subscription to services, software, and supp
 
 5. 輸入您的付款詳細資訊，然後選取 **\[下一步\]**。
 
-6. 檢閱您的訂單詳細資料，然後當您準備好購買行動套件時選取 **\[購買\]**。 Your credit card will be charged immediately.
+6. 檢閱您的訂單詳細資料，然後當您準備好購買行動套件時選取 **\[購買\]**。 我們會立即向您的信用卡收費。
 
-7. Your order is confirmed. 選取 **\[關閉\]**。
+7. 您的訂單已確認。 選取 **\[關閉\]**。
 
-Your Action Pack subscription will renew automatically each year on this date. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從已購買的優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 
 
-### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Turn off automatic Action Pack subscription renewal
+### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>關閉自動行動套件訂閱續約
 
 1. 在 **\[儀表板\]** 功能表中，選取 **\[合作關係\] > \[優惠\]**。 Microsoft 行動套件列在 **\[已購買的優惠\]** 中。
 
@@ -73,11 +73,11 @@ Your Action Pack subscription will renew automatically each year on this date. Y
 
 3. 選取 **\[關閉自動續約\]** (如果您不想要您的行動套件訂閱每年自動續約)。 
 
-    >**Note**<br>
-If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again. We’ll remind you to renew before your subscription expires.
+    >**注意**<br>
+如果您關閉自動訂閱續約，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 我們將在您的訂閱到期之前提醒您續約。
 
 
-### <a name="renew-your-action-pack-subscription"></a>Renew your Action Pack subscription
+### <a name="renew-your-action-pack-subscription"></a>為您的行動套件訂閱續約
 
 1. 在 **\[儀表板\]** 功能表中，選取 **\[合作關係\] > \[優惠\]**。 Microsoft 行動套件列在 **\[已購買的優惠\]** 中。
 
@@ -93,34 +93,34 @@ If you turn off automatic subscription renewal, you won’t be able to turn it b
 
 7. 輸入您的付款詳細資訊，然後選取 **\[下一步\]**。
 
-8. 檢閱您的訂單詳細資料，然後當您準備好購買行動套件時選取 **\[購買\]**。 Your credit card will be charged immediately.
+8. 檢閱您的訂單詳細資料，然後當您準備好購買行動套件時選取 **\[購買\]**。 我們會立即向您的信用卡收費。
 
-9. Your order is confirmed. 選取 **\[關閉\]**。
+9. 您的訂單已確認。 選取 **\[關閉\]**。
 
-    Your Action Pack subscription will renew automatically each year on this date. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+    您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從已購買的優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 
 
 
-### <a name="cancel-your-action-pack-subscription"></a>Cancel your Action Pack subscription
+### <a name="cancel-your-action-pack-subscription"></a>取消您的行動套件訂閱
 
-To cancel your Microsoft Action Pack subscription, you must contact Partner Center Support.
+若要取消您的 Microsoft 行動套件訂閱，您必須連絡合作夥伴中心支援。
 
-1. Go to https://partnercenter.microsoft.com/partner/support.
+1. 前往 https://partnercenter.microsoft.com/partner/support。
 
 2. 選取 **\[回報合作夥伴中心的問題\]**，然後在下一頁選取 **\[新要求\]**。
 
 3. 展開 **\[問題類型\]** 清單，然後選取 **\[合作夥伴發票、付款或對帳檔案的說明\]**。 
 
-4. 完成填寫所需的資訊，然後選取 **\[提交\]**。 The Partner Center Support team will contact you to help you cancel your subscription.
+4. 完成填寫所需的資訊，然後選取 **\[提交\]**。 合作夥伴中心支援團隊會與您連絡，以協助您取消訂閱。
 
-    若要檢查您的服務要求狀態，請選取 **\[支援要求\] > \[合作夥伴中心要求\]**，然後選取 **\[開啟\]**。 Choose the appropriate service request from the list.  
+    若要檢查您的服務要求狀態，請選取 **\[支援要求\] > \[合作夥伴中心要求\]**，然後選取 **\[開啟\]**。 從清單中選取適當的服務要求。  
 
  
-### <a name="next-steps"></a>Next steps
+### <a name="next-steps"></a>後續步驟
 
-[Activate your Action Pack subscription](manage-your-partner-network-benefits.md)
+[啟用您的行動套件訂閱](manage-your-partner-network-benefits.md)
 
 
-### <a name="related-topics"></a>Related topics
+### <a name="related-topics"></a>相關主題
 
 [新增使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
 

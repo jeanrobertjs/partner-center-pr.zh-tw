@@ -1,6 +1,6 @@
 ---
 title: "移除與客戶的經銷商關係 | 合作夥伴中心"
-description: Removing a relationship removes any closed business relationships from your view in Partner Center.
+description: "移除關係會從合作夥伴中心的檢視中移除任何已關閉的企業關係。"
 author: KPacquer
 ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
 ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
@@ -10,9 +10,9 @@ ms.lasthandoff: 07/19/2017
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>移除與客戶的經銷商關係
 
-**Applies to**
+**適用對象：**
 
--   Partner Center
+-   合作夥伴中心
 
 直接合作夥伴：如果您不再與某個客戶交易，您可以在合作夥伴中心移除關係。 
 
@@ -24,12 +24,12 @@ ms.lasthandoff: 07/19/2017
 
 若要移除關係，您必須先暫停任何剩餘的使用中訂閱：
 
-1.  暫停任何使用中訂閱。 From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**. 
+1.  暫停任何使用中訂閱。 在儀表板中，移至 **\[客戶\]** > 選取客戶 > **\[訂閱\]** > 選取訂閱 > ***\[已暫停\]**。 
 
-   Repeat this for each active subscription.
+   針對每個使用中訂閱重複此步驟。
 
-2.  Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.
+2.  移除合作夥伴中心內的關係：從儀表板中，移至 **\[客戶\]** > 選取客戶 > **\[帳戶\]** > **\[移除經銷商關係\]**。
 
-    Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive. 
+    注意，如果有任何訂閱仍然在使用中，**\[移除經銷商關係\]** 連結將會是非使用中狀態。 
 
-To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).
+若要重新建立關係，請重複[要求建立關係](request-a-relationship-with-a-customer.md)的程序。

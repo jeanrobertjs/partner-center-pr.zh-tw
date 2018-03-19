@@ -10,7 +10,7 @@ ms.lasthandoff: 08/24/2017
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促銷吸引新客戶  
 
-**Applies to: Partner Center**
+**適用於：合作夥伴中心**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -32,18 +32,18 @@ Microsoft 提供兩種促銷優惠：適用於雲端解決方案提供者 (CSP) 
 
 您可以在 **\[促銷\]** 頁面查看您有資格享用的促銷 (如果有的話)。 選取 **\[儀表板\]** 功能表中的 **\[促銷\]**，以查看現行促銷的清單，另外了解一下折扣、促銷類型以及訂閱開始和結束日期。 如果沒有可用的促銷，您會看到指出這點的訊息。 
 
->**Note**<br>
-You can also see promotions when making a purchase. 當您選取訂閱時，促銷定價會顯示在 **\[檢閱\]** 頁面上。
+>**注意**<br>
+您也可以在進行購買時查看促銷。 當您選取訂閱時，促銷定價會顯示在 **\[檢閱\]** 頁面上。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>以促銷價格購買訂閱
 
-1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
+1. 在 **\[儀表板\]** 功能表上，選取 **\[客戶\]**，然後選取購買訂閱的客戶。 
 
-2. Select **Add subscription**.
+2. 選取 **\[新增訂閱\]**。
 
 3. 在 **\[新訂閱\]** 頁面上，選取可適用銷售的訂閱。
 
-4. Enter the number of licenses the customer needs. 
+4. 輸入客戶需要的授權數量。 
 
 5. 檢閱訂單 您會看到將在 **\[折扣\]** 欄套用的促銷定價。  
 

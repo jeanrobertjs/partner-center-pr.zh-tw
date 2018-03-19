@@ -1,6 +1,6 @@
 ---
-title: Request a relationship with a customer | Partner Center
-description: Requesting a relationship is used for multi-partner and multi-channel scenarios. It's also useful if a customer removes your delegated admin privileges and you need to restore them to provide provisioning or support.
+title: "要求與客戶建立關係 | 合作夥伴中心"
+description: "要求關係是用於多重合作夥伴和多重通路案例。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。"
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
@@ -9,38 +9,38 @@ ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/19/2017
 ---
-# <a name="connect-with-customers-in-partner-center"></a>Connect with customers in Partner Center
+# <a name="connect-with-customers-in-partner-center"></a>在合作夥伴中心中與客戶保持聯繫
 
-**Applies to**
+**適用於**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+-  合作夥伴中心
+-  美國政府適用的 Microsoft Cloud 合作夥伴中心
+-  Microsoft Cloud 德國合作夥伴中心
 
-To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service. To get administrator permissions from a customer, email them a reseller relationship request. After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf. 
+若要代表客戶管理客戶的服務或訂閱，客戶必須授與您該服務的系統管理員權限。 若要從客戶取得系統管理員權限，請透過電子郵件傳送建立經銷商關係要求給他們。 客戶核准您的要求後，您就能登入服務的系統管理員入口網站及代表客戶管理服務。 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invite a customer to establish a reseller relationship with you
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀請客戶與您建立經銷商關係
 
-1.  Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.
+1.  從您的 **\[儀表板\]** 功能表選取 **\[客戶\]**，然後選取 **\[要求建立經銷商關係\]**。
 
-2.  On the next page, review the draft email message. You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email. 
+2.  在下一頁，檢閱草稿電子郵件訊息。 您可以在預設電子郵件應用程式中開啟草稿訊息，或您可以將訊息複製到您的剪貼簿，並將它貼到電子郵件。 
 
-    You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account. Select **Done** when you’ve completed this step.
+    您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。 當您已經完成這個步驟，選取 **\[完成\]**。
 
-3.  Send the email to your customer.
+3.  將電子郵件傳送給您的客戶。
 
-4.  After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.
+4.  客戶接受邀請之後，他們將會出現在您的 **\[客戶\]** 頁面，而且您將能從該處佈建客戶及管理其服務。
 
- >**Note**<br>
-    In a multi-channel scenario, only one partner can have administrator permissions to manage a service on the customer's behalf. 
+ >**注意**<br>
+    在多通路案例中，只有一個合作夥伴可以擁有系統管理員權限來代表客戶管理服務。 
 
-5.  To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.
+5.  若要管理客戶的帳戶、服務、使用者及授權，選取其名稱旁邊的向下鍵，展開客戶記錄。
 
 
->**Important**<br>
-Customers can reassign or remove administrator permisions in a service's admin portal. However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions. In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.
+>**重要**<br>
+客戶可以在服務管理入口網站中重新指派或移除系統管理員權限。 不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。 在此情況下，如果客戶需要協助，您可以連絡 Microsoft 支援服務，以代表客戶開啟服務要求。
 
-## <a name="related-topics"></a>Related topics
+## <a name="related-topics"></a>相關主題
 
 [指派支援連絡人](assign-support-contacts.md)
 [移除與客戶的關係](remove-a-relationship.md)

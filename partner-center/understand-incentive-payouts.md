@@ -1,5 +1,5 @@
 ---
-title: Understand your incentive payouts | Partner Center
+title: "了解您的獎勵支付 | 合作夥伴中心"
 description: "檢視獎勵計畫的收益和支付。"
 author: labrenne
 ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
@@ -10,13 +10,13 @@ ms.lasthandoff: 07/10/2017
 ---
 #<a name="understand-your-incentive-payouts"></a>了解您的獎勵支付
 
-**Applies to**
+**適用於**
 
 -  合作夥伴中心
 
 獎勵系統管理員及使用者會收到他們自其獎勵計畫獲得到或即將獲得之收益與支出的概觀。   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Summary information on earnings and payout
+##<a name="summary-information-on-earnings-and-payout"></a>收益和支付摘要資訊
 
 獎勵使用者和獎勵系統管理員可以透過 **\[支付摘要\]** 查看他們在其所參與之獎勵計畫中的財務狀況。 您可以視需要詳細分析每個部分的摘要資訊。 
 
@@ -49,7 +49,7 @@ ms.lasthandoff: 07/10/2017
 
 ## <a name="analyze-incentives-earnings"></a>分析獎勵收益
 
-了解您的組織還可以在什麼地方透過獎勵計畫賺取更多收益，以及您的哪些收益已獲付款。 This data makes it clear where you have earned but have not yet been paid.  Understand which programs and activities have been most successful as well as find out which of your locations is earning. By program you can see what the total earnings potential is, the time during which you can participate in the program and when it expires. 收益的每項計畫及類型都會有不同的需求以及開始和結束日期。 
+了解您的組織還可以在什麼地方透過獎勵計畫賺取更多收益，以及您的哪些收益已獲付款。 這項資料可以釐清您賺取收益但尚未獲支付的來源。  了解哪些計畫和活動已取得最大成果，以及查明您的哪些地點正在獲利。 您可以依據計畫查看總計潛在收益的結果、您可參與計畫的時間以及該計畫到期的時間。 收益的每項計畫及類型都會有不同的需求以及開始和結束日期。 
 
 ## <a name="earning-trends"></a>收益趨勢 
 
@@ -96,28 +96,28 @@ ms.lasthandoff: 07/10/2017
 
 ## <a name="downloading-earnings-transactions"></a>下載收益交易 
 
-|**欄位**        |**Definition**     |
+|**欄位**        |**定義**     |
 |--------------------|:-------------------------------------------------|                                                 
 |[EarningID]      |針對每個收益明細項目建立唯一識別碼 |               
 |合作夥伴名稱   | 合作夥伴在合作夥伴中心註冊的名稱                    |
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | 合作夥伴的 MPN V-Org ID 的國家/地區|
+|[MPN/PCN]        |MPN 識別碼 (合作夥伴的 Microsoft 合作夥伴網路識別碼)/公用客戶號碼|
+|[位置]       | 合作夥伴的 MPN V-Org ID 的國家/地區|
 |[計畫名稱]   |獎勵計畫的名稱 |
 |[客戶名稱]  |   客戶的名稱 |
 |[客戶位置]  | 客戶所在的國家/地區  |
 |[主合約編號]    |合約名稱 |
-|InvoiceNumber| 發票號碼|
+|[InvoiceNumber]| 發票號碼|
 |[合約編號]   |授權合約編號 |
 |[訂閱識別碼]    |訂閱識別碼 |
 |[合約開始日期]   |授權合約的開始日期 |
 |[合約結束日期] |授權合約的結束日期，包括續約和展期 |
 |[訂閱開始日期]    |訂閱的開始日期|
 |[訂閱結束日期]  |訂閱的結束日期|
-|Product SKU    |產品的 SKU 號碼|
+|[產品 SKU]    |產品的 SKU 號碼|
 |[產品名稱]   |Microsoft 產品的名稱|
 |[交易日期]   |發生該筆交易的日期與時間 (UTC)。|
 |[授權計數]  |售出的授權數目 |
-|Quantity   |售出的單位數目| 
+|[數量]   |售出的單位數目| 
 |[前期數量] |上一個收益期間的單位數量 |
 |[單價] |售出的每一單位價格| 
 |[交易金額] |計算率與此金額相乘即可計算獎勵收益|
@@ -128,7 +128,7 @@ ms.lasthandoff: 07/10/2017
 |[收益期間]     |以計畫為依據的收益期間 |
 |[收益期間開始]   |計畫的收益期間開始時間 (UTC) |
 |[收益期間結束] |計畫的收益期間結束時間 (UTC)|
-|Calculation Date   |計算收益的時間 (UTC)|
+|[計算日期]   |計算收益的時間 (UTC)|
 |[收益貨幣]   |收益金額的貨幣 |
 |[收益匯率]|用來將交易貨幣轉換為收益貨幣的外匯匯率|
 |[報告貨幣]|報告使用的貨幣|
@@ -136,7 +136,7 @@ ms.lasthandoff: 07/10/2017
 |[報告匯率]|用來將收益貨幣轉換為報告貨幣的外匯匯率|
 |[回贈收益金額]  |視為回贈退款的金額 (美元) |
 |[聯營收益金額]    |視為聯合營收的金額 (美元) |
-|ExchangeRateDate   |匯率換算日期 |
+|[ExchangeRateDate]   |匯率換算日期 |
 |[付款識別碼] |用來核對獎勵收益與付款使帳目一致的內部編號 |
 |[PaymentStatus]  |顯示收益已獲支付還是付款仍在擱置中|
 
@@ -145,8 +145,8 @@ ms.lasthandoff: 07/10/2017
 |**欄位名稱**   |**描述**   |
 |-------------------|:--------------------|
 |[合作夥伴名稱]|合作夥伴在合作夥伴中心註冊的名稱|
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Country/Region of Partner's MPN V-Org ID|
+|[MPN/PCN]        |MPN 識別碼 (合作夥伴的 Microsoft 合作夥伴網路識別碼)/公用客戶號碼|
+|[位置]       | 合作夥伴的 MPN V-Org ID 的國家/地區|
 |[計畫名稱]   |獎勵計畫的名稱 |
 |[收益類型]   |收益類型 (回贈、調整) |
 |[付款金額貨幣]|   付款使用的貨幣類型|
