@@ -1,14 +1,14 @@
 ---
-title: "常見帳單案例 | 合作夥伴中心"
-description: "這個主題將說明在您新增新訂閱、調整訂閱中的授權數目，或取消訂閱後帳單上應該會看見的項目。 針對用量型和授權型訂閱會有不同的影響。"
+title: 常見帳單案例 | 合作夥伴中心
+description: 這個主題將說明在您新增新訂閱、調整訂閱中的授權數目，或取消訂閱後帳單上應該會看見的項目。 針對用量型和授權型訂閱會有不同的影響。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, free period, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 0bfdf6e5f5a9617413981f0a0758f25e0a0eca54
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+ms.openlocfilehash: 92c253bb7d73a48eb9b6acc36f54d7f33482c1ad
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="common-billing-scenarios"></a>常見帳單案例
 
@@ -42,8 +42,6 @@ ms.lasthandoff: 02/09/2018
 **帳單：**授權型訂閱會在訂閱週年日，事先收取整個期間的費用。
 
 **週年日：**採用每月計費的訂閱會與合作夥伴帳單日期校準，而採用年度計費的訂閱則與購買日期校準。
-
-**免費期間：**採用每月計費的訂閱擁有免費期間，從購買日期到下一個合作夥伴帳單日期之間。
 
 **期間：**所有授權型訂閱都擁有 12 個月付費期間。 年度計費訂閱的付費期間從購買日期開始計算，每月計費訂閱的付費期間從購買日之後的帳單日期開始計算。
 

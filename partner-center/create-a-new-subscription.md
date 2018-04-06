@@ -1,16 +1,16 @@
 ---
-title: "建立新訂閱 | 合作夥伴中心"
-description: "當您在合作夥伴中心中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。"
+title: 建立、暫停或取消客戶訂閱 | 合作夥伴中心
+description: 當您在合作夥伴中心中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
-Keywords: subscription, create new, add subscription,
-ms.openlocfilehash: 22c19d5f8530f4c79bda522e8087379b488f6474
-ms.sourcegitcommit: 86b5aa793bc453219246c667f82dbebc3a37c3eb
+Keywords: subscription, create new, add subscription, suspend, cancel,
+ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
+ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2018
+ms.lasthandoff: 03/01/2018
 ---
-# <a name="create-a-new-subscription"></a>建立新訂閱
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
 **適用於**
 
@@ -42,18 +42,23 @@ ms.lasthandoff: 01/03/2018
 
 7.  您也可以在編輯頁面上變更授權數目，或是暫停訂閱。
 
+## <a name="suspend-or-cancel-a-subscription"></a>暫停或取消訂閱
 
-**讓客戶能夠管理他們的 Azure 訂閱**
+如果客戶要求，或是發生未付款或詐騙等情形，合作夥伴可以暫停或取消訂閱。
 
-建立客戶的 Microsoft Azure 訂閱之後，您可以允許他們管理訂閱。 若要這樣做，您必須登入客戶的 Microsoft Azure 管理入口網站。 
+當您將訂閱的狀態變更為 **\[已暫停\]** 時，使用者就無法登入或存取服務。 系統管理員仍然可以登入並存取資料。
 
-1.  若要開啟客戶的 Azure 入口網站，請展開客戶清單中列示該客戶的項目，或是選取客戶的名稱後再選取 **\[Microsoft Azure 管理入口網站\]**。
-    
- >**注意** <br> 如果系統提示您登入 Azure 入口網站，表示您可能沒有委派系統管理員權限。 選取 **\[要求建立關係\]** 以邀請客戶將您列名為他們的「記錄可查夥伴」。 客戶接受您的邀請後，系統就會自動將委派的管理員權限授與您。 
+**暫停訂閱**
 
-2.  在 Azure 入口網站中，開啟客戶的 Azure 訂閱清單並選取其 Azure 訂閱。
+1.  從 **\[儀表板\]** 功能表上，選取 **\[客戶\]**，然後從清單中選擇客戶。
+2.  選擇您要管理的訂閱。
+3.  在 **\[狀態\]** 區段中，選擇 **\[已暫停\]**。 然後 **\[提交\]** 變更。
+4.  所有的資料將被刪除，除非訂閱在 90 日内重新啟用，或 90 天加上開啟帳戶的時間和第一個計費期間之間的天數 (最多 120 天)。
 
-3.  將角色指派給客戶的任何使用者，讓客戶可以在他們的訂閱之下建立和管理資源。
+當您在暫停訂閱時，您在 **\[已暫停\]** 按鈕下方看到的日期會顯示該訂閱何時會自動到期 (如果您沒有重新啟用的話)。 
+
+
+
 
  
 

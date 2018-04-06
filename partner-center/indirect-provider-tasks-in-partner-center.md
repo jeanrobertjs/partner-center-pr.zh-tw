@@ -1,12 +1,12 @@
 ---
-title: "在 CSP 中與間接經銷商建立合作關係 | 合作夥伴中心"
-description: "做為間接提供者或代理商，您可以與間接經銷商合夥，以擴展您的觸及範圍。"
+title: 在 CSP 中與間接經銷商建立合作關係 | 合作夥伴中心
+description: 做為間接提供者或代理商，您可以與間接經銷商合夥，以擴展您的觸及範圍。
 author: MaggiePucciEvans
-ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
+ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 03/12/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
 
@@ -72,6 +72,7 @@ ms.lasthandoff: 11/03/2017
 | **若要完成此目標** | **執行這項操作** | **其中** |
 |   ------------------   |   -------   |   -----   |
 | 讓經銷商管理客戶帳戶，並擁有系統管理員權限以管理其訂閱 | 當您新增客戶，關聯經銷商到客戶帳戶 | 在 **\[新客戶\]** 頁面 |
+|讓經銷商管理 Azure 客戶帳戶|當您新增客戶，關聯經銷商到 Azure 客戶帳戶|在 \[**Azure 服務入口網站**\] 中，選取[使用者設定](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)提供間接經銷商**租用戶擁有者**權限|
 | 提供經銷商獎勵的信用點數 | 關聯經銷商到訂閱（新或現有） | 在 **\[新訂閱\]** 頁面上 |
 | 委派特定訂閱的客戶支援給經銷商 | 從 **\[指派的支援連絡人\]** 清單選取經銷商 | 在訂閱的詳細資料頁面上：從您的 **\[客戶\]** 頁面選取客戶，然後從客戶的 **\[訂閱\]** 頁面選取訂閱 |
 

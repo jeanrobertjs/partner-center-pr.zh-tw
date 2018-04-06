@@ -1,35 +1,34 @@
 ---
-title: "將 Azure 訂用帳戶切換為其他合作夥伴 | 合作夥伴中心"
-description: "客戶可以變更雲端解決方案提供者計畫中要針對 Microsoft Azure 服務使用的合作夥伴。 不過，這是需要合作夥伴和客戶雙方手動操作的程序。"
+title: 轉移 Azure 訂閱 | 合作夥伴中心
+description: 客戶可以變更雲端解決方案提供者計畫中要針對 Microsoft Azure 服務使用的合作夥伴。 不過，這是需要合作夥伴和客戶雙方手動操作的程序。
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-keywords: "azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴"
-ms.openlocfilehash: 5bc29e78cb94068a5d7675f6f030bc31e78f40a4
-ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
+keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
+ms.openlocfilehash: fa4e7128a052c291f26f9ff47101c85bcd764bc1
+ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2018
+ms.lasthandoff: 02/21/2018
 ---
-# <a name="switch-azure-subscriptions-to-a-different-partner"></a>將 Azure 訂閱切換為其他合作夥伴
+# <a name="transfer-azure-subscriptions"></a>轉移 Azure 訂閱 
 
 **適用於**
 
 -  合作夥伴中心
 
-客戶可以變更雲端解決方案提供者計畫中要針對 Microsoft Azure 服務使用的合作夥伴。 不過，這是需要合作夥伴和客戶雙方手動操作的程序。
+客戶可以決定切換至雲端解決方案提供者或其 Microsoft Azure 服務中的其他合作夥伴。 不過，這是需要合作夥伴和客戶雙方手動操作的程序。
 
-**注意**：目前沒有可供 Azure 客戶從 EA、Open 或其他授權方案切換至雲端解決方案提供者的自動程序。 這是需要合作夥伴和客戶手動操作的程序。 此外，目前無法變更 Office 365、Enterprise Mobility Suite 或 Microsoft Dynamics CRM 訂閱之雲端解決方案提供者訂閱的合作夥伴。
+**注意** 目前無法變更 Office 365、Enterprise Mobility Suite 或 Microsoft Dynamics CRM 訂閱之雲端解決方案提供者訂閱的合作夥伴。
 
 
- 
 
 **切換 Azure 訂用帳戶的合作夥伴**
 
-1.  如果要將 Azure 訂用帳戶移轉至新的合作夥伴，客戶必須開始該程序，並以書面方式連絡其目前記錄的雲端解決方案提供者合作夥伴。 
+1.  如果要將 Azure 訂閱轉移至新的合作夥伴，客戶必須開始該程序，並以書面方式連絡其目前記錄的合作夥伴。 
 
-    >**注意**<br> 目前的合作夥伴必須負責建立起始移轉程序的服務票證。 Microsoft 無法代表客戶或新合作夥伴介入。 客戶應做好與目前合作夥伴密切合作的計劃，使移轉程序進行順暢。
+    >**注意**<br> 目前的合作夥伴必須負責建立起始移轉程序的服務票證。 Microsoft 無法代表客戶或新合作夥伴介入。 客戶應做好與目前合作夥伴密切合作的計劃，使轉移程序進行順暢。
 
-2.  該訂用帳戶的雲端解決方案提供者合作夥伴必須執行下列工作：
+2.  該訂閱的合作夥伴必須執行下列工作：
 
     從合作夥伴中心建立 Azure 服務票證以要求訂用帳戶移轉：
 
@@ -43,7 +42,7 @@ ms.lasthandoff: 01/24/2018
 
         下載[雲端解決方案提供者訂閱移轉表單](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)。
 
-3.  訂用帳戶的目前雲端解決方案提供者合作夥伴：請填寫[雲端解決方案提供者訂閱移轉表單](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)，簽署該表單，然後將它寄給客戶。 如果要填寫表單，您將會需要下列資訊：
+3.  訂閱的合作夥伴：請填寫[雲端解決方案提供者訂閱移轉表單](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)，簽署該表單，然後將它寄給客戶。 如果要填寫表單，您將會需要下列資訊：
 
     -   目前合作夥伴的連絡資訊和 Microsoft ID。 在 \[合作夥伴中心\] 功能表中，選取 **\[帳戶設定\]** &gt; **\[組織設定檔\]**，並使用列於該處的 **\[Microsoft ID\]**、**\[組織名稱\]** 與 **\[地址\]**。
 
@@ -51,17 +50,20 @@ ms.lasthandoff: 01/24/2018
 
     -   要移轉的訂閱識別碼。 在展開的客戶列表中，選取 **\[檢視訂閱\]**，然後展開已選擇的訂閱以查看 **\[訂閱識別碼\]**。
 
-4.  客戶和訂閱的新雲端解決方案提供者：
+    >**注意**<br> 轉移訂閱會產生兩個訂閱識別碼，您會在已轉移訂閱的 **\[編輯訂閱\]** 頁面上看到這兩個訂閱碼：**1**- 合作夥伴中心訂閱識別碼，用於計費目的。 這個識別碼會出現在您的對帳檔案。 
+    **2** - 原始 Azure 訂閱識別碼也會保留並出現在合作夥伴中心，以及 Azure 管理入口網站中。 **記錄支援票證時，這兩個識別碼都要用到。**
+
+4.  訂閱的客戶和新合作夥伴：
 
     檢閱表單，填寫新合作夥伴的相關資訊，然後簽署該表單。 確認新客戶已準備好合約協定。 將表單重新寄給目前記錄的合作夥伴。
 
     *重要*：如果新的雲端解決方案提供者與客戶之間沒有經銷商關係，則他們必須在移轉之前建立關係。 [您可以在這裡找到相關做法的資訊](https://int.msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx)。
 
-5.  目前的雲端解決方案提供者合作夥伴︰
+5.  目前的合作夥伴︰
 
     請確定表單包含兩個合作夥伴系統管理員的連絡資訊 - Microsoft 支援服務將會連絡這兩個系統管理員以驗證移轉。 請確定三個簽名皆已正確簽署，然後使用 **\[檔案上傳\]** 選項將已完成的表單連結至現有的服務要求。 一位 Microsoft 支援服務工程師將會在上班時間的 8 小時內回覆您，以驗證接收及完成。
 
-6.  新的雲端解決方案提供者合作夥伴：
+6.  新的合作夥伴：
 
     更新 Azure 訂用帳戶設定以將舊合作夥伴從帳戶中移除。 如果要查看已佈建的角色指派，請執行兩個 Powershell Commandlet。
 

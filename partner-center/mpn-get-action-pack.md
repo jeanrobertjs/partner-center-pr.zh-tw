@@ -1,12 +1,12 @@
 ---
-title: "購買或續約行動套件 | 合作夥伴中心"
-description: "了解如何購買或續約 Microsoft 行動作套件訂閱。"
+title: 購買或續約行動套件 | 合作夥伴中心
+description: 了解如何購買或續約 Microsoft 行動作套件訂閱。
 author: MaggiePucciEvans
-ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 9213901def90384076102655a2df1c0605455d7a
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>購買或續約 Microsoft 行動套件訂閱
 
@@ -96,6 +96,14 @@ ms.lasthandoff: 11/22/2017
 
 若要檢查您的服務要求狀態，請選取 **\[支援要求\] > \[合作夥伴中心要求\]**，然後選取 **\[開啟\]**。 從清單選擇適當的服務。  
 
+## <a name="how-to-get-your-maps-invoice"></a>如何取得您的 MAPS 發票
+
+若要下載 Microsoft 行動套件訂閱發票的複本，您必須遵循下列指示步驟。
+
+1. 登入 [partnercenter.microsoft.com](https://partnercenter.microsoft.com) 
+2. 按一下 [合作關係]。 
+3. 選擇優惠，然後按一下 [已購買]。 
+4. 按一下 [下載發票]
  
 ## <a name="next-steps"></a>後續步驟
 

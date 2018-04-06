@@ -1,13 +1,13 @@
 ---
-title: "帳單基本知識 | 合作夥伴中心"
+title: 帳單基本知識 | 合作夥伴中心
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
-keywords: "帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案"
-ms.openlocfilehash: 59cdd6a3b0024356479ef0da87a87ac79148d316
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
+ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="billing-basics"></a>帳單基本知識
 
@@ -59,7 +59,6 @@ ms.lasthandoff: 01/17/2018
 <tr class="odd">
 <td>調整/點數/取消</td>
 <td><ul>
-<li>適用於測試帳戶與整合測試的點數未獲授權。 為了避免您在執行測試時被收取訂閱費用或被收取提早終止費用，您可以在「免費期間」取消訂閱。 您必須負責 Azure 服務的所有使用量費用。</li>
 <li>計點或調整之後，您會在下一次計費發票上看到延遲的調整與點數。</li>
 </ul></td>
 </tr>
@@ -89,15 +88,6 @@ ms.lasthandoff: 01/17/2018
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>最多獎勵一個月免費</td>
-<td><ul>
-<li>採用每月計費的新訂閱將繼續擁有免費期間，並與合作夥伴帳單日期一致。</li>
-<LI> 採用年度計費的訂閱將不提供免費期間，並與購買日期一致。 合作夥伴將會繼續在每月帳單日期收到發票以及對帳檔案，其中包含每月和年度訂閱的收費活動。
-<li>如果您沒有依照適當的合約取消訂閱，所有訂閱會自動續約 12 個月，並往後繼續收取 12 個月份的費用。</li>
-<li>用量型服務沒有任何免費期間。</li>
-</ul></td>
-</tr>
-<tr class="even">
 <td>帳單規則</td>
 <td><ul>
 <li>訂閱是以年為單位，而且會自動續約。</li>
@@ -107,7 +97,7 @@ ms.lasthandoff: 01/17/2018
 <li>費用是根據售出的基座數目 (而非佈建的基座數目) 計算。</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>調整/點數/取消</td>
 <td><ul>
 <li>取消授權型服務目前不收取提早終止費用。</li>
@@ -133,7 +123,6 @@ Azure 是採取「隨付隨用」模式，有使用 Azure 服務，才需要付�
 <tr class="odd">
 <td>帳單規則</td>
 <td><ul>
-<li>帳單於訂閱開始日期開始。 用量型帳單沒有任何「免費期間」。</li>
 <li>訂閱是以月為單位，並會以新的計量服務費率自動續約。 帳單是根據用量於每個月期後付款。</li>
 <li>計量服務的費率可能會在發票週期內有所變更。
 <ul>
