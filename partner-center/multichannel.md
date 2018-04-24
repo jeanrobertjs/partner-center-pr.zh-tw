@@ -1,13 +1,13 @@
 ---
-title: "多通路 | 合作夥伴中心"
-description: "有時候客戶可能會想雇用您來佈建及支援他們在其他地方購買的訂閱。"
+title: 多通路 | 合作夥伴中心
+description: 有時候客戶可能會想雇用您來佈建及支援他們在其他地方購買的訂閱。
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-ms.openlocfilehash: 2f0354c8e8e0f80bd42af363dc86b829b96b9bbf
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: bbba14ec95a99ad2f36cf9173d43fb244d3ca677
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="multi-channel-support"></a>多通路支援
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 06/09/2017
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-合作夥伴中心的多通路功能支援客戶想要雇用合作夥伴來管理並支援在其他地方購買之訂閱的案例。 多通路支援適用於當客戶：
+合作夥伴儀表板的多通路功能支援客戶想要雇用合作夥伴來管理並支援在其他地方購買之訂閱的案例。 多通路支援適用於當客戶：
 
 -   已經直接從 Microsoft，或透過顧問、Open 或 EA 方案購買訂閱。
 
@@ -45,7 +45,7 @@ ms.lasthandoff: 06/09/2017
 </table>
 
 >**重要**<br>
-CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴中心。 
+CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴儀表板。 
 
 ## <a name="see-also"></a>請參閱
 

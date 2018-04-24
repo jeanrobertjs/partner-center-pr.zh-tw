@@ -1,14 +1,14 @@
 ---
-title: "檢視客戶活動記錄 | 合作夥伴中心"
-description: "活動記錄提供客戶的交易和夥伴管理動作相關資訊。"
+title: 檢視客戶活動記錄 | 合作夥伴中心
+description: 活動記錄提供客戶的交易和夥伴管理動作相關資訊。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
-ms.openlocfilehash: b877143abdc07dc0f6e23ef33ee64cd72afda11e
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: ae5ac419d505984f5f955ddaad62acbf19d16dfa
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="view-customer-activity-logs"></a>檢視客戶活動記錄
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 12/21/2017
 
     請選取任一活動記錄的向下箭號，以檢視所記錄活動的相關詳細資料。 單一活動記錄可能會顯示大量資料，例如訂購多種產品。
 
-3.  選取 **\[匯出記錄\]**。 合作夥伴中心會將客戶的訂閱資料轉換成 .csv 檔案，然後將檔案上傳到您電腦中的預設下載資料夾。 資料欄包含：
+3.  選取 **\[匯出記錄\]** 以將客戶的訂閱資料複製到 .csv 檔案，然後將檔案下載到您電腦中的預設下載資料夾。 資料欄包含：
     -   **受影響客戶**—客戶的公司名稱；
     -   **動作**—訂閱的產品名稱；
     -   **合作夥伴使用者**—與活動相關聯的合作夥伴；

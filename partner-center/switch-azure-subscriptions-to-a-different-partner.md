@@ -4,11 +4,11 @@ description: 客戶可以變更雲端解決方案提供者計畫中要針對 Mic
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
-ms.openlocfilehash: fa4e7128a052c291f26f9ff47101c85bcd764bc1
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
+ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 03/30/2018
 ---
 # <a name="transfer-azure-subscriptions"></a>轉移 Azure 訂閱 
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 02/21/2018
 
     從合作夥伴中心建立 Azure 服務票證以要求訂用帳戶移轉：
 
-    -   在合作夥伴中心儀表板功能表中，選取 **\[客戶\]**，從清單中選取客戶，然後選取 **\[服務管理\]**。 在 **\[支援票證\]** 區段底下，選取 **\[新增票證\]** 下拉式清單並選擇 **\[Microsoft Azure\]**。
+    -   在儀表板功能表中，選取 **\[客戶\]**，從清單中選取客戶，然後選取 **\[服務管理\]**。 在 **\[支援票證\]** 區段底下，選取 **\[新增票證\]** 下拉式清單並選擇 **\[Microsoft Azure\]**。
 
     -   在 Azure 入口網站中，選取 **\[新增支援要求\]**。
 
@@ -57,7 +57,7 @@ ms.lasthandoff: 02/21/2018
 
     檢閱表單，填寫新合作夥伴的相關資訊，然後簽署該表單。 確認新客戶已準備好合約協定。 將表單重新寄給目前記錄的合作夥伴。
 
-    *重要*：如果新的雲端解決方案提供者與客戶之間沒有經銷商關係，則他們必須在移轉之前建立關係。 [您可以在這裡找到相關做法的資訊](https://int.msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx)。
+    *重要*：如果新的雲端解決方案提供者與客戶之間沒有經銷商關係，則他們必須在移轉之前建立關係。 [您可以在這裡找到相關做法的資訊](request-a-relationship-with-a-customer.md)。
 
 5.  目前的合作夥伴︰
 
@@ -71,7 +71,7 @@ ms.lasthandoff: 02/21/2018
 
         **PS C:\\&gt; Add-AzureRMAccount -tenant "CustomerDomainName"**
 
-        尋找 customerDomainName：在 \[合作夥伴中心\] 功能表中，選取 \**[客戶\]**。 從客戶清單中選取客戶。 在 \[客戶\] 功能表中，選取 **\[帳戶\]**，並使用 **\[網域名稱\]** 的內容。
+        尋找 customerDomainName：在 \[合作夥伴中心\] 功能表中，選取 \ **[客戶\]**。 從客戶清單中選取客戶。 在 \[客戶\] 功能表中，選取 **\[帳戶\]**，並使用 **\[網域名稱\]** 的內容。
 
     -   在帳戶上檢視角色，包括先前的雲端解決方案提供者合作夥伴：
 

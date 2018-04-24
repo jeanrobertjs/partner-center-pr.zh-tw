@@ -3,11 +3,11 @@ title: 帳單基本知識 | 合作夥伴中心
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
-ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="billing-basics"></a>帳單基本知識
 
@@ -53,7 +53,7 @@ ms.lasthandoff: 02/28/2018
 <tr class="even">
 <td>發票可用性</td>
 <td><ul>
-<li>您可以在合作夥伴中心的 \[帳務\] 頁面，檢視和下載您的發票和對帳檔案。 請注意，每月發票於您所選帳單日期的 4 天內，可在合作夥伴中心中查看。</li>
+<li>您可以在合作夥伴儀表板的 \[帳務\] 頁面，檢視和下載您的發票和對帳檔案。 請注意，每月發票於您所選帳單日期的 4 天內，可在合作夥伴儀表板中查看。</li>
 </ul></td>
 </tr>
 <tr class="odd">

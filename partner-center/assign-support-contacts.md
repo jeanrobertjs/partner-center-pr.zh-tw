@@ -1,14 +1,14 @@
 ---
-title: "指派支援連絡人 | 合作夥伴中心"
-description: "身為經銷商合作夥伴，您可以指派經銷商做為支援連絡人。"
+title: 指派支援連絡人 | 合作夥伴中心
+description: 身為經銷商合作夥伴，您可以指派經銷商做為支援連絡人。
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
-keywords: "協助代理人, 支援, 指派支援連絡人, 指定的支援連絡人"
-ms.openlocfilehash: dd69715d77fc94f24e93c3ecfbd26f145e84c332
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+keywords: 協助代理人, 支援, 指派支援連絡人, 指定的支援連絡人
+ms.openlocfilehash: f67d314ca0e6fe70cdaba70395f1e80a7e049b88
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="assign-support-contacts"></a>指派支援連絡人
 
@@ -16,9 +16,9 @@ ms.lasthandoff: 12/21/2017
 
 -  合作夥伴中心
 
-當您為客戶設定 Microsoft 服務訂閱時，您可以將這些產品的技術支援指派到指定的產品經銷商，而不是自行提供支援。
+當您為客戶設定 Microsoft 服務訂閱時，您可以將這些產品的技術支援指派給指定的經銷商，而不是自行提供支援。
 
-設定支援連絡人之後，客戶會在產品支援頁面上看到受指派的支援連絡人資訊。 例如，Office 客戶需要支援時，他們可以移至 Office.com 網頁，使用其系統管理員認證登入，選取 **\[系統管理\]** 磚，並在 **\[支援\]** 區段中，查看受指派的支援連絡人資訊。
+設定支援連絡人之後，客戶會在產品支援頁面上看到受指派的支援連絡人資訊。 例如，Office 365 客戶需要支援時，他們可以移至 Office.com 網頁，使用其系統管理員認證登入，選取 **\[系統管理\]** 磚，並在 **\[支援\]** 區段中，查看受指派的支援連絡人資訊。
 
 這可用於[多合作夥伴](multipartner.md)和[多通路](multichannel.md)案例。 
 
@@ -27,7 +27,7 @@ ms.lasthandoff: 12/21/2017
 
 1.  從與您指派的產品經銷商[要求建立關係](request-a-relationship-with-a-customer.md)開始。 與他們協議出處理技術支援的支援合約。
 
-2.  在合作夥伴中心儀表板中，選取 **\[客戶\]**、選取客戶，然後選取訂閱，例如 Office 365 商務進階版。
+2.  在合作夥伴儀表板中，選取 **\[客戶\]**、選取客戶，然後選取訂閱，例如 Office 365 商務進階版。
 
 3.  在 **\[指派的支援連絡人\]**，選取指派的產品經銷商，然後按一下 **\[提交\]**。 
 

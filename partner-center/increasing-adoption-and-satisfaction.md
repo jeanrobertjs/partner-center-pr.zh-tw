@@ -1,13 +1,13 @@
 ---
-title: "提高採用率與滿意度 | 合作夥伴中心"
-description: "我們的合作夥伴使用許多標準來衡量事業是否有成長，以及投資的方向。 合作夥伴中心提供的資料有助於瞭解您的客戶是否使用其購買的授權及使用方式。"
+title: 提高採用率與滿意度 | 合作夥伴中心
+description: 我們的合作夥伴使用許多標準來衡量事業是否有成長，以及投資的方向。 合作夥伴中心提供的資料有助於瞭解您的客戶是否使用其購買的授權及使用方式。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: cecf3c02ea52e61eb33bb39014b746dc89aa6ca7
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+ms.openlocfilehash: 1273572052afb076cf34a090f32ba7aca72d6d85
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
@@ -26,11 +26,11 @@ ms.lasthandoff: 12/02/2017
 
 **單一客戶**
 
--   從合作夥伴中心功能表選取 **\[客戶\]**，然後選取 **\[客戶的深入資訊\]**。
+-   從 **\[儀表板\]** 選取 **\[客戶\]**，然後選取 **\[客戶的深入資訊\]**。
 
 **涵蓋您的客戶組合**
 
-1.  在合作夥伴中心 **\[儀表板\]** 中，向下捲動至 **\[Office 授權分析\]** 區段。
+1.  在 **\[儀表板\]** 上，選取 **\[分析\]**。
 2.  選取 **\[匯出\]** 來下載整個客戶集的部署與使用量資料
 
 詞彙︰

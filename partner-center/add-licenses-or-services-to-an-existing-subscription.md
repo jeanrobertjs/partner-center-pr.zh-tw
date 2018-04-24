@@ -1,14 +1,14 @@
 ---
-title: "將授權或服務新增到現有的訂閱 | 合作夥伴中心"
-description: "如果您的客戶需要的授權數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。"
+title: 將授權或服務新增到現有的訂閱 | 合作夥伴中心
+description: 如果您的客戶需要的授權數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-keywords: "新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權"
-ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: 新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權
+ms.openlocfilehash: 1f23892efab9e00fa492eb96d894763276bf673a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>將授權或服務新增到現有的訂閱
 
@@ -88,7 +88,7 @@ ms.lasthandoff: 12/08/2017
 1.  如果要查看訂閱是否符合升級的資格，請選擇您的客戶，然後開啟其訂閱清單。
 2.  如果訂閱可以升級，您將會在訂閱名稱之後看見一個資訊圖示。 暫留於此圖示上，然後選取 **\[立即升級\]**。
 3.  選取新的訂閱詳情，然後選擇 **\[送出\]**。
-4.  針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 針對此情況，合作夥伴中心將會提供受影響的帳戶和服務清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](http://go.microsoft.com/fwlink/p/?LinkId=723576)。
+4.  針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 針對此情況，合作夥伴儀表板將會提供受影響的帳戶和服務清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](http://go.microsoft.com/fwlink/p/?LinkId=723576)。
 
  
 

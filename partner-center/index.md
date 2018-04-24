@@ -1,18 +1,18 @@
 ---
-title: "歡迎使用 Microsoft 合作夥伴中心"
-description: "Microsoft 合作夥伴中心"
+title: 歡迎使用 Microsoft 合作夥伴中心
+description: Microsoft 合作夥伴中心
 author: labrenne
-ms.openlocfilehash: 049fe3790b02a2755fe493c4eb611f7c0f99d699
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="welcome-to-the-microsoft-partner-center"></a>歡迎使用 Microsoft 合作夥伴中心
+# <a name="welcome-to-your-partner-dashboard"></a>歡迎使用合作夥伴儀表板
 
-Microsoft 合作夥伴中心 - 此網站 - 是 Microsoft 的商業夥伴建置、管理及拓展業務的位置。 (請注意，並非此頁面討論的所有項目都適用於每個合作夥伴。 某些功能將分階段推出。)
+Microsoft 合作夥伴儀表板 - 此網站 - 是 Microsoft 的商業夥伴建置、管理及拓展業務的位置。 (請注意，並非此頁面討論的所有項目都適用於每個合作夥伴。 某些功能將分階段推出。)
 
-## <a name="create-an-account-on-partner-center-to"></a>在合作夥伴中心建立帳戶，可以：
+## <a name="create-a-partner-dashboard-account-to"></a>建立合作夥伴儀表板帳戶可以：
 
 -   管理您與 Microsoft 的合作關係
     -   購買 Microsoft 行動寶盒和其他內部使用權限會員資格權益 
@@ -35,7 +35,7 @@ Microsoft 合作夥伴中心 - 此網站 - 是 Microsoft 的商業夥伴建置�
    
 
 >**重要事項**<br>
-合作夥伴中心會持續發展，加入更多特性和功能。 了解[最新動向](whats-new-in-pc.md)。
+合作夥伴儀表板會持續發展，加入更多特性和功能。 了解[最新動向](whats-new-in-pc.md)。
 
 
 ## <a name="get-started"></a>開始使用
@@ -46,7 +46,7 @@ Microsoft 合作夥伴中心 - 此網站 - 是 Microsoft 的商業夥伴建置�
 |------------|:-------------|
 |[加入 Microsoft 合作夥伴網路](mpn-overview.md)|與 Microsoft 合作，取得內部使用權利軟體與服務、Microsoft 行動寶盒，並獲得銀級和金級專長認證 |
 |[雲端解決方案提供者計畫 - 銷售隨選雲端解決方案](csp-overview.md) | 哪個雲端解決方案提供者模型適合您、您可以透過雲端解決方案提供者在哪些地方銷售、您可以透過雲端解決方案提供者銷售哪些項目 |
-|[設定您的合作夥伴中心帳戶](partner-center-account-setup.md)|建立使用者帳戶、管理您的設定檔、管理密碼，以及自訂產品目錄 |
+|[設定您的合作夥伴儀表板帳戶](partner-center-account-setup.md)|建立使用者帳戶、管理您的設定檔、管理密碼，以及自訂產品目錄 |
 |[設定客戶帳戶](customer-accounts.md)|新增使用者、建立新帳戶，以及查看客戶清單 |
 |[與其他合作夥伴合作](work-with-other-partners.md)|尋找其專長可補足您專長的合作夥伴 |
 
@@ -57,7 +57,7 @@ Microsoft 合作夥伴中心 - 此網站 - 是 Microsoft 的商業夥伴建置�
 | **移至此處**  |**了解一下**   |
 |------------|:-------------|
 |[透過 Microsoft 推薦拓展您的業務](referrals.md)|針對客戶建立商務設定檔，然後接收和回應轉介|
-|[適用於 Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners.md)| 使用熟悉的 Microsoft Power BI 儀表板深入了解貴公司的績效|
+|[適用於 Power BI 的合作夥伴分析應用程式](power-bi-app-for-direct-partners.md)| 使用熟悉的 Microsoft Power BI 儀表板深入了解貴公司的績效|
 |[管理客戶的訂閱](customer-subscriptions.md)|新訂閱、試用訂閱、指派授權、促銷和折扣|
 |[將專長認證加入您的商務設定檔](learn-about-competencies.md)|展示專長、了解專長認證選項|
 |[帳單](billing.md)|檢閱帳單案例、稅與加值稅，以及 Azure 消費預算 |

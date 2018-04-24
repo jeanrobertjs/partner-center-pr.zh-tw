@@ -1,14 +1,14 @@
 ---
-title: "指派或撤銷多個使用者的授權 | 合作夥伴中心"
-description: "您可以指派授權與服務給一個使用者，或一次指派給客戶帳戶中的多個使用者，以及撤銷對使用者的授權指派。"
+title: 指派或撤銷多個使用者的授權 | 合作夥伴中心
+description: 您可以指派授權與服務給一個使用者，或一次指派給客戶帳戶中的多個使用者，以及撤銷對使用者的授權指派。
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
-ms.openlocfilehash: 513e2336d831095fcabc408db5fc467d8e909e36
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: e8116e5955fee38b628d72740ffc3d376115aad8
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>指派或撤銷多個使用者的授權
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 12/21/2017
 
 您可以指派授權與服務給一個使用者，或一次指派給客戶帳戶中的多個使用者，以及撤銷對使用者的授權指派。
 
-合作夥伴中心會追蹤及顯示客戶擁有的所有授權權益。
+合作夥伴儀表板會追蹤及顯示客戶擁有的所有授權權益。
 
 ## <a name="in-this-section"></a>本節內容
 
@@ -55,7 +55,7 @@ ms.lasthandoff: 12/21/2017
 7.  請透過選取每項產品的核取方塊來為使用者選取超過一項產品。
     -   針對任何產品選取 **\[檢視服務方案\]**，以檢視及選取使用者需要的服務方案。
 
-8.  選取 **\[儲存\]**。 合作夥伴中心就會開啟 **\[已更新授權\]** 確認頁面，列出使用者和他們新的授權。
+8.  選取 **\[儲存\]**。 合作夥伴儀表板就會開啟 **\[已更新授權\]** 確認頁面，列出使用者和他們新的授權。
 
 **注意**：部分 Microsoft 產品可能在特定地區沒有提供授權。 其他產品則取決於其他產品或服務，或者可以一起指派給同一個使用者。 在您儲存之後，確認頁面就會列出所有使用者授權指派成功的結果，以及任何授權指派錯誤。
 

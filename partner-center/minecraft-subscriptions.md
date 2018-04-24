@@ -3,11 +3,11 @@ title: '向教育機構客戶銷售 Minecraft: Education Edition'
 description: '向教育機構客戶銷售 Minecraft: Education Edition'
 author: KPacquer
 keywords: 授權的教育合作夥伴
-ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 276e5365eec99468becf9522284c6048f3750011
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育機構客戶銷售 Minecraft: Education Edition
 
@@ -36,7 +36,7 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，例如針對�
 
 **檢查您的經銷商資格**
 
-1.  從 **\[儀表板\]** 功能表，選取 **\[帳戶設定\]**。
+1.  從 **\[儀表板\]** 的右上方選取 **\[設定\]**，然後選取 **\[檢視所有設定\]**。
 2.  在您的 **\[合作夥伴設定檔\]** 中，於 **\[雲端解決方案提供者計畫資訊\]** 區段，尋找 **\[經銷商資格\]**。
 3.  如果您沒有看見 **\[經銷商資格\]**，代表您尚未獲得購買特殊優惠的授權。
 

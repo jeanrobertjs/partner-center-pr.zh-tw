@@ -3,11 +3,11 @@ title: 銷售到特色產業 | 合作夥伴中心
 Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: 02eb734789fa27e08c5e2a42cc0f5b57428f7c06
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: ba11aba6b0d687a8e8fd9680595004769a75ad01
+ms.sourcegitcommit: 83e71b6146e66689cc833090836cf9f4e47341ab
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/04/2018
 ---
 # <a name="sell-to-specialized-industries"></a>銷售到特色產業
 
@@ -20,9 +20,9 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，例如針對�
 |**特殊定價**   |**經銷商要求資格**   |**客戶要求資格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |教育   |成為[授權教育版賣家](https://www.mepn.com/MEPN/AEPHome.aspx)   | 必須是[合格教育版使用者](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2)   |
-|政府   |使用 [Microsoft 政府雲端驗證表單](http://azuregov.microsoft.com/csp)註冊|   無|
+|政府   |若要銷售 Azure，請使用 [Microsoft 政府雲端驗證表單](http://azuregov.microsoft.com/csp)註冊 若要銷售授權型訂閱給政府機構，沒有要求資格。|   無|
 |非營利事業  |無   |透過 [Microsoft 非營利計畫](https://nonprofit.microsoft.com/#/register)註冊以便符合資格   |
-
+深入了解[非營利特別優惠](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)
 
 **檢查您的經銷商資格**
 

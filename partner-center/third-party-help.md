@@ -1,13 +1,13 @@
 ---
-title: "可在合作夥伴中心取得協力廠商軟體 | 合作夥伴中心"
-description: "您現在可以探索和購買要加入至產品組合提供給客戶的協力廠商軟體。"
+title: 可在合作夥伴中心取得協力廠商軟體 | 合作夥伴中心
+description: 您現在可以探索和購買要加入至產品組合提供給客戶的協力廠商軟體。
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
-ms.openlocfilehash: ebf84fa0851bd1255a770a8ce00be3d06d45bca5
-ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
+ms.openlocfilehash: 78e586321305422d7e03153127b833b477491bf6
+ms.sourcegitcommit: 07bb4ad82a7f431ae4f04bcd488fa72e49b6ae7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/18/2018
+ms.lasthandoff: 03/28/2018
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>將協力廠商軟體加入至您的產品組合
 
@@ -49,7 +49,7 @@ ms.lasthandoff: 01/18/2018
 1.  從 **\[儀表板\]** 選取 **\[客戶\]**。
 2.  選取 **\[新訂閱\]**。
 3.  針對協力廠商軟體針對每月計費。 年度計費和試用計費目前不適用於協力廠商。
-4.  從 **\[協力廠商\]**索引標籤選取您要購買的產品。
+4.  從 **\[協力廠商\]** 索引標籤選取您要購買的產品。
 5.  核取您想要新增的訂閱並輸入授權數目。 然後 **\[提交\]** 該訂單。
 6.  新增訂閱之後，請按一下訂閱清單中的訂閱名稱來開啟它。 
 7.  您可以在編輯頁面上變更授權數目，或是暫停訂閱。

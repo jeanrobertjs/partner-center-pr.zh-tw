@@ -4,11 +4,11 @@ description: 當您在合作夥伴中心中建立客戶的記錄之後，您便�
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
-ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
+ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -18,9 +18,9 @@ ms.lasthandoff: 03/01/2018
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-當您在合作夥伴中心中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。
+當您在合作夥伴儀表板中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。
 
-請注意，某些供應項目會限制每一個客戶只能擁有一個訂閱。 若要查看受限制的供應項目清單，請造訪合作夥伴中心 [定價與方案] 頁面。 
+請注意，某些供應項目會限制每一個客戶只能擁有一個訂閱。 若要查看受限制的供應項目清單，請造訪合作夥伴儀表板 [定價與方案] 頁面。 
 
 
 **建立新訂閱**

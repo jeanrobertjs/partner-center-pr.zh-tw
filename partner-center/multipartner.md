@@ -1,13 +1,13 @@
 ---
-title: "多合作夥伴支援 | 合作夥伴中心"
-description: "客戶可能會想要與雲端解決方案提供者計畫中專精不同服務的多個合作夥伴合作。"
+title: 多合作夥伴支援 | 合作夥伴中心
+description: 客戶可能會想要與雲端解決方案提供者計畫中專精不同服務的多個合作夥伴合作。
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
-ms.openlocfilehash: a3ef6c100324e6793c369dc21f37f5bcc795933d
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: e6d6b8d6c2c65738fb1fa5a1c84b523fb28257fe
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="multi-partner-support"></a>多合作夥伴支援
 
@@ -17,9 +17,9 @@ ms.lasthandoff: 06/09/2017
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-合作夥伴中心的多合作夥伴功能可支援客戶需要與多個合作夥伴合作的案例。 例如，客戶可能要雇用有 Office 365 專業的一個合作夥伴，但也雇用專精 Microsoft Azure 的其他合作夥伴。
+合作夥伴儀表板的多合作夥伴功能可支援客戶需要與多個合作夥伴合作的案例。 例如，客戶可能要雇用有 Office 365 專業的一個合作夥伴，但也雇用專精 Microsoft Azure 的其他合作夥伴。
 
-若要使用合作夥伴中心的多合作夥伴功能，請邀請客戶提供您委派管理員權限。 如需有關如何與已經有合作夥伴的客戶建立關係的資訊，請參閱[要求與客戶建立關係](request-a-relationship-with-a-customer.md)。
+若要使用合作夥伴儀表板的多合作夥伴功能，請邀請客戶提供您委派管理員權限。 如需有關如何與已經有合作夥伴的客戶建立關係的資訊，請參閱[要求與客戶建立關係](request-a-relationship-with-a-customer.md)。
 
 多重合作夥伴功能不會：
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 06/09/2017
 -   變更訂閱的記錄可查夥伴
 
 >**重要**<br>
-CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴中心。  
+CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴儀表板。  
 
  
 

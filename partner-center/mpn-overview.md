@@ -1,13 +1,13 @@
 ---
-title: "Microsoft 合作夥伴網路會員資格 | 合作夥伴中心"
-description: "了解加入 Microsoft 合作夥伴網路可獲得的權益。"
+title: Microsoft 合作夥伴網路會員資格 | 合作夥伴中心
+description: 了解加入 Microsoft 合作夥伴網路可獲得的權益。
 author: MaggiePucciEvans
-keywords: "合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格"
-ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
+keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格
+ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
 
@@ -36,15 +36,15 @@ Microsoft 合作夥伴網路提供三種類型的會員資格。 每個類型都
     [深入了解獲得銀級和金級專長認證](https://partner.microsoft.com/membership/competencies)
 
    
-## <a name="get-started-with-partner-center"></a>開始使用合作夥伴中心
+## <a name="get-started-with-the-partner-dashboard"></a>開始使用合作夥伴儀表板
 
-為了讓您能輕鬆地與 Microsoft 合作並節省您的時間與金錢，我們正在背景努力準備，將目前分散在數個網站的功能、特性與工作流程移動到合作夥伴中心，也就是這個網站。 
+為了讓您能輕鬆地與 Microsoft 合作並節省您的時間與金錢，我們正在背景努力準備，將目前分散在數個網站的功能、特性與工作流程移動到合作夥伴儀表板，也就是這個網站。 
 
-當我們將特定功能移動到合作夥伴中心時，同時也會淘汰裝載這些功能的舊網站。 若要繼續利用這些功能，您將需要在此網站 (合作夥伴中心) 建立帳戶。 
+當我們將特定功能移動到合作夥伴儀表板時，同時也會淘汰裝載這些功能的舊網站。 若要繼續利用這些功能，您將需要在此網站 (合作夥伴儀表板) 建立帳戶。 
 
-例如，假如您以前在 Pinpoint 中取得及管理推薦，該網站已淘汰，所有推薦相關功能現在都放在合作夥伴中心。 請執行下列步驟來開始使用合作夥伴中心：   
+例如，假如您以前在 Pinpoint 中取得及管理推薦，該網站已淘汰，所有推薦相關功能現在都放在合作夥伴儀表板。 請執行下列步驟來開始使用合作夥伴儀表板：   
 
--   [建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)
+-   [建立合作夥伴儀表板帳戶](mpn-create-a-partner-center-account.md)
 
 -   [建立商務設定檔以取得客戶推薦](create-a-marketing-profile.md)
 

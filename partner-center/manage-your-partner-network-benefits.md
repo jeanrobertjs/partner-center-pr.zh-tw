@@ -1,12 +1,12 @@
 ---
-title: "管理您的 Microsoft 合作夥伴網路權益 | 合作夥伴中心"
-description: "身為 Microsoft 合作夥伴網路會員，您有資格獲得特定會員資格權益。 說明如何在合作夥伴中心啟用及管理您的會員資格權益。"
+title: 管理您的 Microsoft 合作夥伴網路權益 | 合作夥伴中心
+description: 身為 Microsoft 合作夥伴網路會員，您有資格獲得特定會員資格權益。 說明如何在合作夥伴中心啟用及管理您的會員資格權益。
 author: MaggiePucciEvans
-ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
@@ -14,7 +14,7 @@ ms.lasthandoff: 11/03/2017
 
 -  合作夥伴中心
 
-Microsoft 合作夥伴網路的會員資格可讓您享有特定權益套件。 您的公司必須是 Microsoft 合作夥伴網路的會員，您才能購買和啟用會員資格權益。 如果您不是該網路的會員，您可以在 [https://partner.microsoft.com](https://partner.microsoft.com) 加入。
+Microsoft 合作夥伴網路的會員資格可讓您享有特定權益套件。 您的公司必須是 Microsoft 合作夥伴網路的會員，您才能購買和啟用會員資格權益。 如果您還不是該網路的會員，您可以立即加入：[https://partner.microsoft.com](https://partner.microsoft.com)。
 
 >**注意** 跟隨此連結，會將您移至其他網站。 回到此網站 (合作夥伴中心) 來更新與升級您的網路會員資格。
 
@@ -23,11 +23,11 @@ Microsoft 合作夥伴網路的會員資格可讓您享有特定權益套件。 
 
 ## <a name="manage-your-membership-benefits"></a>管理您的會員資格權益
 
-購買權益套件之後，請將授權、訂閱及其他權益指派給員工以開始使用這些項目。 
+購買權益套件之後，您需將授權、訂閱及其他權益指派給員工以開始使用這些項目。 
 
 權益套件包括內部使用權限權益、雲端服務、Visual Studio 訂閱和支援等各項配置。 
 
-若要檢視和管理您所獲得的所有會員資格權益，請移至 **\[儀表板\]**功能表，然後選取 **\[合作關係\] > \[權益\]**。 **\[權益\]** 頁面隨即開啟。 
+若要檢視和管理您的會員權益，請從 **\[儀表板\]** 功能表選取 **\[權益\]**。 **\[權益\]** 頁面隨即開啟。 
 
 #### <a name="manage-software-benefits"></a>管理軟體權益
 

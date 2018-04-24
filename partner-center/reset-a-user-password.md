@@ -1,11 +1,13 @@
 ---
-title: "重設使用者密碼 | 合作夥伴中心"
-description: "如果使用者忘記密碼，您可以指派臨時密碼給他們。 他們下次登入合作夥伴中心時可以使用臨時密碼。"
+title: 重設使用者密碼 | 合作夥伴中心
+description: 如果使用者忘記密碼，您可以指派臨時密碼給他們。 他們下次登入合作夥伴中心時可以使用臨時密碼。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 5f0c1914bf1627f8175f2db9a31469a08159fce7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="reset-a-user-password"></a>重設使用者密碼
 
@@ -19,7 +21,7 @@ translationtype: HT
 
 **以系統管理員身分重設使用者密碼**
 
-1.  在合作夥伴中心，移至 \[儀表板\] 功能表 &gt; **\[帳戶設定\]** &gt; **\[使用者管理\]**。
+1.  移至 **\[設定\]** &gt; **\[使用者管理\]**。
 2.  從清單選取使用者。
 
 3.  選擇頁面底部的 **\[重設密碼\]**。

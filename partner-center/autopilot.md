@@ -1,13 +1,13 @@
 ---
-title: "透過 Windows Autopilot 簡化裝置設定 | 合作夥伴中心"
-description: "在合作夥伴中心新增 Windows AutoPilot 部署設定檔，以透過 Windows Autopilot 簡化裝置設定"
+title: 透過 Windows Autopilot 簡化裝置設定 | 合作夥伴中心
+description: 在合作夥伴中心新增 Windows AutoPilot 部署設定檔，以透過 Windows Autopilot 簡化裝置設定
 author: KPacquer
-keywords: "autopilot, windows autopilot, microsoft autopilot, 全自動部署, oobe, 登入畫面"
-ms.openlocfilehash: 061ee1cedbd3bc849419044bad022ccb12ef9b9f
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+keywords: autopilot, windows autopilot, microsoft autopilot, 全自動部署, oobe, 登入畫面
+ms.openlocfilehash: b106577ef60dba6535f89d2ef4bce4a5d19bedd9
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>透過 Windows Autopilot 簡化裝置設定 
 
@@ -23,7 +23,7 @@ ms.lasthandoff: 09/29/2017
 ## <a name="requirements"></a>需求
 
 *  已預先安裝 Windows 10 專業版 Creators Update (1703 版或更新版本) 或 Windows 10 Pro for Advanced PCs 的裝置。
-*  稱為硬體雜湊 (128 HWH 或 4k HWH) 的裝置識別碼，通常由 OEM 提供。 您可以使用識別碼，在合作夥伴中心指派組織設定檔。 2017 年 9 月之後，您將不再需要硬體雜湊。 
+*  稱為硬體雜湊 (128 HWH 或 4k HWH) 的裝置識別碼，通常由 OEM 提供。 您可以使用識別碼，在合作夥伴儀表板指派組織設定檔。 
 *  裝置必須能夠存取網際網路。 當裝置無法連線時，會顯示預設 Windows 全新體驗 (OOBE) 畫面。
 *  在 MDM 中註冊裝置必須有 Azure Active Directory Premium。
 
@@ -34,7 +34,7 @@ ms.lasthandoff: 09/29/2017
 
 ## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>使用 Windows AutoPilot 設定檔從 OOBE 移除 Windows 頁面
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 部署設定檔中的設定範例
+**Windows AutoPilot 部署設定檔中的設定範例**
 *  略過設定中的隱私權設定
 *  停用設定中的本機系統管理員帳戶
 *  自動略過設定中的頁面
@@ -43,19 +43,19 @@ ms.lasthandoff: 09/29/2017
 
 ### <a name="add-devices-and-apply-a-profile"></a>新增裝置並套用設定檔
 
-您可以在合作夥伴中心建立 Windows AutoPilot 部署設定檔，並將其套用至裝置清單。
+您可以在合作夥伴儀表板建立 Windows AutoPilot 部署設定檔，並將其套用至裝置清單。
 
-若要進行裝置設定，請將裝置清單上傳至合作夥伴中心、建立適用於這些裝置的設定檔，然後加以套用。
+若要進行裝置設定，請上傳裝置清單、建立適用於這些裝置的設定檔，然後加以套用。
 
-1.  將裝置清單新增至合作夥伴中心
+1.  新增裝置清單。
 
-    銷售代理人和系統管理代理人擁有將裝置清單新增至合作夥伴中心的存取權限。
+    銷售專員和系統管理代理人擁有將裝置清單新增至合作夥伴儀表板的存取權限。
     
     間接經銷商可以和他們的間接提供者合作來新增這份清單。
 
     a.  使用下列主題中的 PowerShell 指令碼建立 .csv 檔案：[Windows AutoPilot 概觀](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)。 這個 .csv 檔案內含裝置資訊，包括序號、OEM 名稱、型號名稱、產品識別碼和裝置識別碼。 
 
-    b.  從 [合作夥伴中心] 儀表板，移至 **\[客戶\]**> 選取收到裝置的客戶 >**\[裝置\] > \[新增裝置\]**。
+    b。  從儀表板，移至 **\[客戶\]**> 選取收到裝置的客戶 >**\[裝置\] > \[新增裝置\]**。
 
     c.  命名裝置批次，例如「Contoso 銷售部門電腦 – 2017 年 4 月訂單」。 
 
@@ -63,7 +63,7 @@ ms.lasthandoff: 09/29/2017
 
     **注意：**如果您在嘗試上傳 .csv 檔案後收到錯誤訊息，請檢查檔案的格式。 8 月之後，您可以只使用 [硬體雜湊]，或使用 OEM 名稱、序號和型號等欄位 (依此順序)，或是 Windows 產品識別碼。 您也可以使用 **\[新增裝置\]** 旁邊連結所提供的範例 .csv 檔案。
 
-2.  建立可套用至裝置的設定檔 (只有系統管理代理人擁有可在合作夥伴中心建立和套用設定檔的存取權)。
+2.  建立可套用至裝置的設定檔 (只有系統管理代理人擁有可在合作夥伴儀表板建立和套用設定檔的存取權)。
 
     a.  在 **\[裝置\]** 中按一下 **\[新增設定檔\]**。
 

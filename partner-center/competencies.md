@@ -1,14 +1,14 @@
 ---
-title: "獲得 Microsoft 專長認證 | 合作夥伴中心"
-description: "獲得銀級和金級 Microsoft 專長認證，示範您在專業業務領域中提供高品質解決方案備受肯定的專業"
+title: 獲得 Microsoft 專長認證 | 合作夥伴中心
+description: 獲得銀級和金級 Microsoft 專長認證，示範您在專業業務領域中提供高品質解決方案備受肯定的專業
 author: KPacquer
-keywords: "專長認證, 銀級會員, 金級會員, mpn, MAPS, 熟練度, 權益, 效能目標, 技能目標"
+keywords: 專長認證, 銀級會員, 金級會員, mpn, MAPS, 熟練度, 權益, 效能目標, 技能目標
 robots: noindex,nofollow
-ms.openlocfilehash: b4ca5bff38a4d2b3e40616c971379e743ad87032
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 0e1fc6639888c67f6ce420106e9a0e41a267ac36
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -57,11 +57,11 @@ Microsoft 專長認證成就彰顯您在提供高品質解決方案方面備受�
 
 ### <a href="" id="associating_achievements"></a>讓您的員工共同參與以完成技能目標
 
-1.  為您組織中的員工新增使用者帳戶。 從[合作夥伴中心](http://partnercenter.microsoft.com)儀表板，移至 **\[帳戶設定\] > \[新增使用者\]** (PMC 使用者可以藉由選取 **\[使用 PMC 資料新增使用者\]**，一次新增多個使用者)。
+1.  為您組織中的員工新增使用者帳戶。 從[合作夥伴儀表板](http://partnercenter.microsoft.com)，移至 **\[帳戶設定\] > \[新增使用者\]** (PMC 使用者可以藉由選取 **\[使用 PMC 資料新增使用者\]**，一次新增多個使用者)。
 
     建立使用者帳戶之後，我們會將新的使用者名稱和密碼傳送給他們，並提示您下載包含相關資訊的記錄檔，以便在需要時協助重設使用者名稱和密碼。 您也可以[設定使用者帳戶，讓他們可以自行重設密碼](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)。
 
-2. 要求您組織中的員工登入他們的 Microsoft 帳戶 (MSA)，並將此帳戶與其使用者帳戶產生關聯。 (從[合作夥伴中心](http://partnercenter.microsoft.com)儀表板，移至**\[帳戶設定\]**)。員工可以使用相同或不同的 MSA，透過 Microsoft 合作夥伴大學來建立與其 Microsoft 技術測驗與認證及其帳戶的關聯。
+2. 要求您組織中的員工登入他們的 Microsoft 帳戶 (MSA)，並將此帳戶與其使用者帳戶產生關聯。 (從[合作夥伴儀表板](http://partnercenter.microsoft.com)，移至 **\[帳戶設定\]**)。員工可以使用相同或不同的 MSA，透過 Microsoft 合作夥伴大學來建立與其 Microsoft 技術測驗與認證及其帳戶的關聯。
 
 3.  員工建立其帳戶關聯或完成技能目標之後，**請等候 24 小時**。 在此之後，進度就會顯示在 **\[專長認證\]** 區段中。
 
