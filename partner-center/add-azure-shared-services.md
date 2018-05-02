@@ -1,8 +1,8 @@
 ---
-title: "新增 Azure 合作夥伴共用服務 | 合作夥伴中心"
-description: "雲端解決方案提供者合作夥伴現在可以購買 Azure 訂閱供自己使用。"
+title: 新增 Azure 合作夥伴共用服務 | 合作夥伴中心
+description: 雲端解決方案提供者合作夥伴現在可以購買 Azure 訂閱供自己使用。
 author: labrenne
-Keywords: "Azure, 共用服務, 租用戶"
+Keywords: Azure, 共用服務, 租用戶
 ms.openlocfilehash: 859e4a1b08e26f2370493ad611a6126b74aeaf64
 ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
