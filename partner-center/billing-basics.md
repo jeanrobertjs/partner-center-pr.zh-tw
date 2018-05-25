@@ -3,11 +3,11 @@ title: 帳單基本知識 | 合作夥伴中心
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
-ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="billing-basics"></a>帳單基本知識
 
@@ -144,3 +144,32 @@ Azure 是採取「隨付隨用」模式，有使用 Azure 服務，才需要付�
 </tbody>
 </table>
 
+## <a name="one-time-billing"></a>一次性帳單
+
+雲端解決方案提供者 (CSP) 中的合作夥伴可提供 Microsoft Azure 虛擬機器上的保留執行個體給客戶。 客戶可事先保留虛擬機器 – 使用一年或三年期限 – 並體驗 Azure 使用率的大幅度節省。   
+
+您的客戶需事先支付 Azure 保留的 VM 執行個體。 當您代表客戶購買 Azure 保留的 VM 執行個體時，您會收到這些一次性費用的發票和對帳檔案。 
+
+>[!IMPORTANT]
+>如果您在所用貨幣與您不同的市場中為客戶購買 Azure 保留的 VM 執行個體，預設帳單貨幣會以客戶的市場為準，而不是您的所在位置。 如果您在多個市場擁有客戶，您會針對需要付費客戶的每種貨幣收到不同的發票和對帳檔案，讓您可用適當的貨幣向客戶開立發票。 
+
+若要存取一次收費發票以及對帳檔案，請從您的合作夥伴儀表板選取 **\[帳單\]**，然後選取 **\[一次\]**。 
+
+### <a name="manage-your-one-time-billing"></a>管理您的一次性帳單
+
+#### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>檢視您目前的帳單狀態、發票，以及對帳檔案
+
+1.  在合作夥伴儀表板中，選取 **\[帳單\]**、**\[一次\]** 檢視您的帳單狀態。 
+2.  選取發票或對帳檔案來檢視更多詳細資訊。 
+
+#### <a name="view-a-customers-order-history"></a>檢視客戶的訂購記錄
+
+1.  從您的儀表板功能表，選取 **\[客戶\]**。
+2.  在 **\[客戶\]** 頁面上，尋找您要檢視其訂購記錄的客戶，然後選取向下箭號來展開客戶的記錄。 
+3.  選取 **\[檢視訂單\]** 來顯示訂購記錄。
+
+#### <a name="create-a-credit-or-void-note"></a>建立信貸或無效票據
+
+有些時候，您可能需要作廢發票，再核發新發票。 例如，客戶可能變更其企業名稱，然後收到舊名稱的發票。 
+
+若要作廢發票再核發新的，請從帳單頁面的調整下方下載表格。

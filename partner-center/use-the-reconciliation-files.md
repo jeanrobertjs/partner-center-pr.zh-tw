@@ -3,11 +3,11 @@ title: 使用對帳檔案 | 合作夥伴中心
 description: 如需計費週期中每項費用的詳細明細項目檢視，請從合作夥伴中心儀表板下載對帳檔案。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -204,7 +204,7 @@ ms.lasthandoff: 02/28/2018
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>用來協助識別客戶的客戶網域名稱。</p></td>
+<td><p>用來協助識別客戶的客戶網域名稱。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -448,7 +448,7 @@ ms.lasthandoff: 02/28/2018
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>用來協助識別客戶的客戶網域名稱。</p></td>
+<td><p>用來協助識別客戶的客戶網域名稱。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -458,6 +458,34 @@ ms.lasthandoff: 02/28/2018
 </tr>
 </tbody>
 </table>
+
+## <a href="" id="onetimefiles"></a>一次性購買檔案欄位
+
+|**欄位** |**定義**|
+|:----------------|:-----------------------------|
+|PartnerId |合作夥伴識別碼 (GUID 格式)。 |
+|CustomerId |用來識別客戶的唯一 Microsoft ID（GUID 格式）。 |
+|CustomerName |合作夥伴中心中回報的客戶組織名稱。 這在使用您的系統資訊對帳發票時非常重要。 |
+|CustomerDomainName |客戶的網域名稱。 |
+|CustomerCountry |客戶所在的國家/地區。 |
+|InvoiceNumber |交易的指定位置顯示的發票號碼。 |
+|MpnId |雲端解決方案提供者合作夥伴的 MPN 識別碼 (直接或間接)。 |
+|經銷商 MPN 識別碼 |只會出現在間接模型合作夥伴的對帳檔案上。 保留區記錄中的經銷商 MPN 識別碼。 這會對應到合作夥伴中心中針對特定保留區列出的經銷商識別碼。 如果雲端解決方案提供者合作夥伴直接向客戶銷售保留區，他們的 MPN 識別碼將會以 MPN 識別碼和經銷商 MPN 識別碼的形式列出兩次。 如果雲端解決方案提供者合作夥伴具有沒有 MPN 識別碼的經銷商，這個值將會改成設為合作夥伴的 MPN 識別碼。 如果雲端解決方案提供者合作夥伴移除經銷商識別碼，這個值將會設為 -1。 |
+|OrderId |訂單在 Microsoft 帳單平台中的唯一識別碼。 可在連絡支援時方便識別 Azure Reservations，但不是用於對帳。 |
+|OrderDate |下訂單的日期。 |
+|ProductId |產品的識別碼。 |
+|SkuId  |特定 SKU 的識別碼。 |
+|AvailabilityId |特定可用性的識別碼。 「可用性」是指特定 SKU 是否可供特定的國家/地區、貨幣、行業區段等等購買。 |
+|SkuName  |特定 SKU 的標題。 |
+|ProductName |產品的名稱。 |
+|ChargeType |費用或調整的類型。 |
+|UnitPrice |訂購的每件產品價格。 |
+|Quantity |訂購的產品數目。 |
+|Subtotal |稅前總計。 如果有折扣，可檢查小計是否和預期的總金額相符。 |
+|TaxTotal |所有適用稅額的總計。 |
+|Total |此次購買的總金額。 |
+|Currency |貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。 |
+|DiscountDetails |任何相關折扣的詳細清單。 |
 
 
 

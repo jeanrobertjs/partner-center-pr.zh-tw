@@ -1,12 +1,12 @@
 ---
-title: "美國政府適用的 Microsoft Cloud 合作夥伴中心 | 美國政府適用的 Microsoft Cloud 合作夥伴中心"
-description: "美國政府適用的 Microsoft Cloud 合作夥伴中心是一個商務入口網站，適用於希望向美國政府機構客戶提供 Microsoft 雲端解決方案的 Microsoft 合作夥伴。"
+title: 美國政府適用的 Microsoft Cloud 合作夥伴中心 | 美國政府適用的 Microsoft Cloud 合作夥伴中心
+description: 美國政府適用的 Microsoft Cloud 合作夥伴中心是一個商務入口網站，適用於希望向美國政府機構客戶提供 Microsoft 雲端解決方案的 Microsoft 合作夥伴。
 author: MaggiePucciEvans
-ms.openlocfilehash: 829c1cdc6568c1bde2e2fff594632acd90a4ee16
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+ms.openlocfilehash: 4f2fb444b3d0fe47b53b58429f5afb14bf00ed3b
+ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 04/18/2018
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>美國政府適用的 Microsoft Cloud 合作夥伴中心
 
@@ -51,3 +51,5 @@ ms.lasthandoff: 11/10/2017
 如需如何管理使用者和授權的詳細資訊，請參閱 [美國政府適用的 Microsoft Cloud 合作夥伴中心內的使用者及授權管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)。
 
 如需註冊美國政府適用的 Microsoft Cloud CSP 計畫的相關資訊，請參閱[註冊美國政府適用的 Microsoft Cloud CSP 計畫](enroll-in-csp-for-microsoft-us-govt-cloud.md)。
+
+如需常見問題集，請參閱 [Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫常見問題集](faq-for-us-govt-cloud.md)。

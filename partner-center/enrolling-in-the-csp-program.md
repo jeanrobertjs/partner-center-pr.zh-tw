@@ -2,11 +2,11 @@
 title: 註冊雲端解決方案提供者計畫 | 合作夥伴中心
 description: 了解以雲端解決方案提供者銷售的不同模型，並判斷哪個最適合您的業務
 author: labrenne
-ms.openlocfilehash: f1f5fcdda8c162ae42fb5d619c8ee04e420b4c8c
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
+ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 04/26/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 
@@ -29,6 +29,7 @@ ms.lasthandoff: 04/08/2018
 
 ### <a name="enroll-as-an-indirect-reseller"></a>註冊為間接經銷商
 
+
 1. 一旦您註冊為間接經銷商，就需要[尋找間接提供者](https://partnercenter.microsoft.com/partner/find-a-provider)以搭配合作。 您合作的提供者將會以您的方式傳送客戶、管理您可銷售的軟體購買、負責客戶帳單與支援，並可讓您將焦點放在建置您的經銷商業務。
 
 2. 您的全域管理員應該會在合作夥伴儀表板設定您的帳戶。 全域管理員可以新增您組織的員工以便在合作夥伴儀表板工作、根據他們的工作內容指派角色與權限給員工，並設定組織設定檔。
@@ -39,7 +40,7 @@ ms.lasthandoff: 04/08/2018
 
 ### <a name="enroll-as-a-direct-partner"></a>註冊為直接合作夥伴
 
->**注意**<br> 我們正在進行直接合作夥伴註冊需求的更新，目前無法接受新的申請。 我們計劃從 2018 日曆年度第 2 季開始重新開放申請。 請考慮註冊為間接經銷商。
+>**注意**<br> 我們正在進行直接合作夥伴註冊需求的更新，目前無法接受新的申請。 我們計劃從 8 月 31 日起開始重新開放申請。 請考慮註冊為間接經銷商。 
 
 身為直接合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。
 

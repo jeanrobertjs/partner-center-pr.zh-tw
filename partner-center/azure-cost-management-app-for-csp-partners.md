@@ -4,11 +4,11 @@ description: Cloudyn 支援的 Azure 成本管理需要對 Partner Center API �
 author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
-ms.openlocfilehash: 01553b850d5839d721de5406c3f1c63094f76bd6
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 1b778dee20e449f778b9a67ea681a9ee9a430c8c
+ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/11/2018
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 合作夥伴適用的 Azure 成本管理應用程式  
 
@@ -20,16 +20,17 @@ ms.lasthandoff: 04/08/2018
 
 ## <a name="before-you-begin"></a>在您開始前
 在可以使用 Azure 成本管理之前，請先確定您符合下列需求：
+
 - 您是雲端解決方案提供者計畫的合作夥伴。
-- 您有能力建立合作夥伴儀表板 API Web 應用程式。
+- 您有能力建立 Partner Center API Web 應用程式。
 
 ## <a name="overview"></a>概觀
 
-Cloudyn 支援的 Azure 成本管理是 Web 應用程式，可讓您追蹤並管理您有多少客戶正在使用 Azure 以及使用成本。 您是透過合作夥伴儀表板 API 使用此應用程式。
+Cloudyn 支援的 Azure 成本管理是 Web 應用程式，可讓您追蹤並管理您有多少客戶正在使用 Azure 以及使用成本。 您是透過合作夥伴中心 API 使用此應用程式。
 
-## <a name="register-your-web-app-in-the-partner-dashboard"></a>在合作夥伴儀表板註冊您的 Web 應用程式
-當您在合作夥伴儀表板註冊 Azure Active Directory Web 應用程式，您就啟用對合作夥伴儀表板 API 的存取權。 
-1.  使用[全域系統管理員或系統管理代理人帳戶](create-user-accounts-and-set-permissions.md)登入[合作夥伴儀表板](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)。
+## <a name="register-your-web-app-in-the-partner-center"></a>在合作夥伴中心註冊您的 Web 應用程式
+當您在合作夥伴中心註冊 Azure Active Directory Web 應用程式，您就啟用對合作夥伴中心 API 的存取權。 
+1.  使用[全域系統管理員或系統管理代理人帳戶](create-user-accounts-and-set-permissions.md)登入[合作夥伴中心](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)。
 2.  在 **\[儀表板\]** 中，選取 **\[帳戶設定\]** &gt; **[\[應用程式管理\]](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**。
 3.  在 **\[Web 應用程式\]** 區段中，按一下 **\[新增 Web 應用程式\]**。
 <br> **注意**：如果您先前已建立 Web 應用程式，可以略過步驟 3。
@@ -44,7 +45,7 @@ Cloudyn 支援的 Azure 成本管理是 Web 應用程式，可讓您追蹤並管
 ## <a name="next-steps"></a>後續步驟
 啟動 [30 天免費試用版](https://go.microsoft.com/fwlink/?linkid=857895)。
 若要啟動試用版，您需要下列資訊：
-- 合作夥伴儀表板登入憑證
+- 合作夥伴中心登入憑證
 - 商務識別碼 GUID
 - 應用程式識別碼 GUID
 - 應用程式秘密金鑰值

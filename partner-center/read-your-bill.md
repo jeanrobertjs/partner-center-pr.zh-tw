@@ -1,14 +1,14 @@
 ---
-title: "閱讀您的帳單 |合作夥伴中心"
-description: "您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 可在合作夥伴中心儀表板取得。"
+title: 閱讀您的帳單 |合作夥伴中心
+description: 您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 可在合作夥伴中心儀表板取得。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-keywords: "訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？"
-ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
+ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -97,29 +97,44 @@ ms.lasthandoff: 11/10/2017
 <td>發票日期</td>
 <td>您收到發票的日期。</td>
 </tr>
+
 <tr class="odd">
 <td>付款期限</td>
+<td>對於一次性購買，這一律是 60 天。</td>
+</tr>
+
+
+<tr class="even">
+<td>付款截止日期</td>
 <td>必須在此日期前收到您的付款。</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>客戶採購單</td>
 <td>您的採購單號碼。</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>客戶服務</td>
 <td>存取客戶服務的網址。</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>服務收件者</td>
 <td>服務使用所在的地址。 (這是與公司審查相關聯的公司登記地址，並且無法變更。)</td>
 </tr>
 </tbody>
 </table>
 
- 
+## <a name="itemized-list-of-one-time-charges"></a>一次性費用的分項清單
 
- 
-
+|**欄位** |**定義**|
+|:----------------|:-----------------------------|
+|日期 |購買日期。 |
+|描述 |產品名稱。 |
+|數量 |購買的產品 (例如保留區) 數目。 |
+|單價 |產品 (例如保留區) 的單價。 |
+|折扣 |適用的任何折扣。 |
+|稅前金額 |稅前購買小計。 |
+|營業稅 |稅額。 |
+|總計 |至今應付總額。 |
  
 
 
