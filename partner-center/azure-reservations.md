@@ -3,11 +3,12 @@ title: Microsoft Azure VM 保留區概觀 | 合作夥伴中心
 Description: Overview of selling Microsoft Azure Reserved VM Instances in CSP.
 author: v-petand
 keywords: azure, 保留區, vm, 管理, 帳單, 購買, Azure RI, Azure 保留的 VM 執行個體
-ms.openlocfilehash: 9fac5749fda6106772d8fed28a320432206d528c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 65306d265c88769c83a948a192bc96b2a0a76294
+ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/05/2018
+ms.locfileid: "1978565"
 ---
 # <a name="sell-microsoft-azure-reserved-vm-instances"></a>銷售 Microsoft Azure 保留的 VM 執行個體 
 
@@ -25,6 +26,15 @@ ms.lasthandoff: 05/11/2018
 -   可在組織或個別部門層級管理保留的執行個體使用率 
 
 若要深入了解 Azure 保留的 VM 執行個體，請參閱 Microsoft Azure 網站上的 [Azure 保留的 VM 執行個體供應項目](https://azure.microsoft.com/pricing/reserved-vm-instances/)和[一起變得更好：Azure 保留的 VM 執行個體和伺服器訂閱](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/) (英文)。
+
+> [!NOTE]  
+> 下列市場未提供 Azure 保留的 VM 執行個體：  
+> * 巴西  
+> * 中國  
+> * 印度  
+> * 俄羅斯  
+> * 南韓  
+> * 台灣  
 
 Azure 保留的 VM 執行個體的可用性將會以下列方式吸引您的客戶：
 

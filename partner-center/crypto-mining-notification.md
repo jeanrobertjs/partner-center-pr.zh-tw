@@ -4,11 +4,12 @@ description: 可能發生加密貨幣採礦活動的通知。
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
-ms.openlocfilehash: 1e7e695ec19600fd1f32138982c8f609db168cc7
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
+ms.openlocfilehash: 5b96f3d5adf717eae6d4dc739e9678b69300a4b4
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936197"
 ---
 # <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>加密貨幣採礦活動的合作夥伴儀表板通知
 
@@ -44,6 +45,16 @@ ms.lasthandoff: 05/10/2018
 
 對於加密貨幣採礦的偵測是啟發學習法，可能無法達到 100% 準確。 請務必就地控管和監控系統，以避免詐騙或其他未經許可的活動。 如需詳細資訊，請參閱[未付款、詐騙或濫用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)。
 
+如果您有任何關於此通知的問題或疑慮，您可以使用下列程序開啟支援要求。
+
+1.  在 \[儀表板\] 中，選取 **\[支援\]**，然後選取 **\[合作夥伴中心要求\]**。
+3.  選取 **\[新要求\]**。 
+4.  在 **\[問題類型\]** 下拉式功能表中，選取 **\[新增或管理客戶\]**。
+5.  在 **\[影響\]** 下拉式功能表中，選取 **\[中\]**。
+6.  在 **\[標題\]** 欄位中，輸入**加密貨幣採礦通知**。
+7.  在 **\[描述\]** 欄位中，輸入受影響訂閱的名稱以及其他問題或疑慮。 
+8.  輸入您的連絡人資訊。
+9.  選取 **\[提交\]**。
 
 
 
