@@ -4,6 +4,7 @@
 ## [取得 Microsoft 行動套件](mpn-get-action-pack.md)
 ## [取得銀會員或金會員資格](learn-about-competencies.md)
 ## [取得會員資格權益](manage-your-partner-network-benefits.md)
+## [續訂您的 MPN 優惠方案](renew-mpn-offers.md)
 
 
 # [雲端解決方案提供者](csp-overview.md)
