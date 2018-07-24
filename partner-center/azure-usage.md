@@ -3,11 +3,12 @@ title: 調整 Microsoft Azure VM 大小以提供最大保留區使用率 | 合�
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, 保留區, vm, 管理, 使用率, 調整大小
-ms.openlocfilehash: 4050780f9d3dc3ad7d3c4ece0d363845ec1efe9c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 9ddf74d209f9174b4192a9d89b65a41e371f37ae
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1883099"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率 
 
@@ -119,7 +120,7 @@ ms.lasthandoff: 05/11/2018
 -   consumptionMeter 是已套用保留區折扣之 VM 的 MeterId。
 -   由於已套用保留區折扣，所以 ReservationMeter 會顯示 $0 費用。 
 
-如需詳細資訊，請參閱[合作夥伴儀表板 API](https://docs.microsoft.com/partner-center/develop/) 中的[取得客戶的 Azure 使用率記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) (英文)。
+如需詳細資訊，請參閱[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/) 中的[取得客戶的 Azure 使用率記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) (英文)。
 
 >[!IMPORTANT]
 >軟體成本 (例如 Microsoft Windows Server) 目前不包含在 VM 保留區的價格中，並會在訂單記錄和發票中顯示為不同的一行項目。 不過，如果客戶擁有 Azure Hybrid Use Benefit，將不會套用軟體成本。 如需詳細資訊，請參閱 [Windows 軟體的成本不包括在保留執行個體內](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs)。  

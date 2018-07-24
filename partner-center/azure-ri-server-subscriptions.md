@@ -3,11 +3,12 @@ title: Azure 保留的 VM 執行個體 (RI) + Azure 伺服器訂閱 | 合作夥�
 description: 透過將 Azure RI 與伺服器訂閱引進雲端解決方案提供者計畫，我們得以用更理想的方式協助合作夥伴，以更具成本效益的解決方案支援高度可預測的持續性雲端工作負載，解決快速成長的客戶需求。 雲端解決方案提供者計畫可讓合作夥伴透過 Microsoft 合作夥伴中心和 Azure 入口網站，代表商業客戶取得、佈建和管理 Azure RI 與伺服器訂閱。
 author: v-petand
 keywords: Azure, 訂閱, VM, 保留區, 保留的執行個體
-ms.openlocfilehash: 92b9bc437f383574527a9357239ee2460ebe4f46
-ms.sourcegitcommit: 933caff79bc4bf8855de4347f0bfde11662840f2
+ms.openlocfilehash: a86274f22c2c2cc8c24105e3b8937e6e297bae9d
+ms.sourcegitcommit: 2ce27f09e77eb1f6d7a33e7b154fec3b80ae36d1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 06/19/2018
+ms.locfileid: "2076038"
 ---
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure 保留的 VM 執行個體 (RI) + Azure 伺服器訂閱
 
@@ -74,6 +75,7 @@ Azure 保留的 VM 執行個體和伺服器訂閱以其鞏固提高營收和獲�
 -   [Azure Reservations 概觀網路研討會](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
 -   [現代化商務營運指南](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (英文)：此份完整指南涵蓋重要原則和營運概念，例如合約、透過合作夥伴中心訂購、發票、價目表詳細資料、獎勵、對帳檔案、API/SDK、沙箱，以及 Azure 合作夥伴共用服務。
 -   [銷售資料表](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+-   [現代化優惠國家/地區可用性和客戶貨幣矩陣](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 -   [合作夥伴大學上的 Azure 授權模組](https://aka.ms/azure_partner_licensing)
 -   [Azure RI 常見問題](https://www.yammer.com/cloudpartnercommunity/#/files/133462302)
 -   [Azure 定價概觀](https://azure.microsoft.com/en-us/pricing/#explore-cost)
@@ -90,7 +92,7 @@ Azure 保留的 VM 執行個體和伺服器訂閱以其鞏固提高營收和獲�
 [Azure Hybrid Benefit](https://azure.microsoft.com/en-us/pricing/hybrid-benefit) 可協助您從您的 Windows Server 授權獲得更多價值，並可節省高達 40% * 的虛擬機器。 您可以與軟體保證所涵蓋的 Windows Server Datacenter 和 Standard 版本資料中心授權搭配使用權益。 根據版本，您可以轉換或重複使用在 Azure 中執行 Windows Server 虛擬機器的授權，並支付較低的基底運算費率 (Linux 虛擬機器費率)。
 
 Azure Hybrid Benefit - 適用於 Windows Server 或 SQL Server 移轉的最具成本效益雲端：
--   Windows Server 搭配 Azure Hybrid Benefit 和保留的執行個體，可節省高達 82%
+-   Windows Server 搭配 Azure Hybrid Benefit 和保留的執行個體，可節省高達 80%
 -   移轉到 Azure SQL Database2 搭配 Azure Hybrid Benefit 可節省高達 30%*
 -   依照您自己的步調進行 - 移動幾個工作負載或整個資料中心
 -   將目前在軟體保證的投資發揮至極限

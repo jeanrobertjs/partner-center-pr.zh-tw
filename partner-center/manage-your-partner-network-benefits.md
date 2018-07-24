@@ -1,12 +1,14 @@
 ---
 title: 管理您的 Microsoft 合作夥伴網路權益 | 合作夥伴中心
-description: 身為 Microsoft 合作夥伴網路會員，您有資格獲得特定會員資格權益。 說明如何在合作夥伴中心啟用及管理您的會員資格權益。
+description: 身為 Microsoft 合作夥伴網路會員，您有資格購買特定會員資格權益。 說明如何在合作夥伴儀表板中啟用及管理您的會員資格權益。
 author: MaggiePucciEvans
-ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: MPN, 會員資格權益, 成員資格
+ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207278"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
@@ -14,20 +16,19 @@ ms.lasthandoff: 04/08/2018
 
 -  合作夥伴中心
 
-Microsoft 合作夥伴網路的會員資格可讓您享有特定權益套件。 您的公司必須是 Microsoft 合作夥伴網路的會員，您才能購買和啟用會員資格權益。 如果您還不是該網路的會員，您可以立即加入：[https://partner.microsoft.com](https://partner.microsoft.com)。
+>[!IMPORTANT]
+>本文說明如何在合作夥伴儀表板 (先前稱為合作夥伴中心) - 也就是本網站 - 中開始使用 Microsoft 合作夥伴網路 (MPN) 會員資格權益。 如果您尚未收到將您的公司資訊從 Partner Membership Center (PMC) 移至合作夥伴儀表板的邀請，請繼續在 PMC 中管理您的 MPN 會員資格權益。 立即[登入](https://partner.microsoft.com/_login?authType=OpenIdConnect) PMC。   
 
->**注意** 跟隨此連結，會將您移至其他網站。 回到此網站 (合作夥伴中心) 來更新與升級您的網路會員資格。
-
-在 Microsoft 合作夥伴網路中加入或續約會員資料後，您就可以購買權益優惠方案。
+當您加入 Microsoft 合作夥伴網路 (MPN) 時，可以存取能協助您建立並拓展業務的會員資格權益。 如果您還不是 MPN 的會員，您可以在 [MPN 網站](https://partner.microsoft.com/membership)上加入。
 
 
-## <a name="manage-your-membership-benefits"></a>管理您的會員資格權益
+## <a name="manage-your-membership-benefits-in-the-dashboard"></a>在儀表板中管理您的會員資格權益
 
-購買權益套件之後，您需將授權、訂閱及其他權益指派給員工以開始使用這些項目。 
+購買會員資格權益套件之後，您需取得軟體金鑰並指派授權、訂閱及其他權益給員工以開始使用這些項目。 
 
-權益套件包括內部使用權限權益、雲端服務、Visual Studio 訂閱和支援等各項配置。 
+權益套件包括內部使用權限權益、雲端服務、Visual Studio 訂閱和支援等各項配置。 您可以在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/internal-use-software)網站找到行動套件訂閱的詳細資料。  
 
-若要檢視和管理您的會員權益，請從 **\[儀表板\]** 功能表選取 **\[權益\]**。 **\[權益\]** 頁面隨即開啟。 
+若要檢視和管理您的會員權益權益，請前往您的 [**\[權益\]** 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits) (需要登入)。
 
 #### <a name="manage-software-benefits"></a>管理軟體權益
 
@@ -72,10 +73,11 @@ Microsoft 合作夥伴網路的會員資格可讓您享有特定權益套件。 
 
     透過移除指派的使用者，然後指定不同的使用者，您可以隨時重新指派訂閱。 
 
+#### <a name="manage-technical-benefits"></a>管理技術權益
 
-#### <a name="manage-support-benefits"></a>管理支援權益
+1. 選取 **\[技術權益\]** 以查看您的 Microsoft 技術權益清單。
 
-1. 選取 **\[支援\]** 以查看您的 Microsoft 支援服務相關權益清單。 
+    技術權益可能包含 Microsoft 產品支援事件、合作夥伴諮詢時數，以及技術售前和部署服務。   
 
 2. 尋找您要開始使用的支援權益，然後選取資料列最右邊的向下箭頭，即可展開支援權益的詳細資料。 
 
@@ -83,14 +85,17 @@ Microsoft 合作夥伴網路的會員資格可讓您享有特定權益套件。 
    
     a.  從清單選取使用者。 若想要指派的使用者不在清單中，您可以在 **\[帳戶設定\]** 中[新增使用者](create-user-accounts-and-set-permissions.md)。
 
-    b.  提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。 
+    b.  提供使用者的電子郵件地址，但此地址不同於和貴公司儀表板帳戶相關聯的電子郵件地址。 
     
-    做為保護措施，我們將會透過電子郵件將存取 Microsoft 產品支援的指示傳送到此電子郵件地址，除了使用者的合作夥伴中心帳戶電子郵件。 請注意，可能需要數天來啟用這個權益及透過電子郵件傳送指示給受指派的使用者。    
+    做為保護措施，我們將會透過電子郵件將存取 Microsoft 產品支援的指示傳送到此電子郵件地址，除了使用者的儀表板帳戶電子郵件。 請注意，可能需要數天來啟用這個權益及透過電子郵件傳送指示給受指派的使用者。    
     
-    c.  將其他電子郵件地址輸入完畢時，選取 **\[指派使用者\]**。 
+    c.  完成輸入其他電子郵件地址後，選取 **\[指派使用者\]**。 
+
+4. 在雲端和混合式解決方案的售前、設計、部署及應用程式開發階段，您可以使用您的技術售前協助或諮詢時數權益來請求技術協助。 若要請求協助，請填寫[要求表單](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
+)，然後選取 **\[提交要求\]**。
 
 
-#### <a name="see-also"></a>請參閱
+#### <a name="see-also"></a>也請參閱
 
 [新增使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
 

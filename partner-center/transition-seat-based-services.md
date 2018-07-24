@@ -1,12 +1,13 @@
 ---
-title: "將授權型服務客戶移轉到合作夥伴中心上的雲端解決方案提供者計畫 | 合作夥伴中心"
-description: "客戶及其訂閱無法自動移轉到合作夥伴中心，但是您可以手動進行移轉。"
+title: 將授權型服務客戶移轉到合作夥伴中心上的雲端解決方案提供者計畫 | 合作夥伴中心
+description: 客戶及其訂閱無法自動移轉到合作夥伴中心，但是您可以手動進行移轉。
 author: labrenne
-ms.openlocfilehash: 43494cb92655dca4c4ed74753ac1c82cf61f73e2
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+ms.openlocfilehash: 1ba04bf90b03dd3b900caa1a3bf92a32c0dc8b54
+ms.sourcegitcommit: 8863a4d62d4523bcd16ab3c010b24e97656081e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "2093455"
 ---
 # <a name="moving-license-based-services-customers-to-the-cloud-solution-provider-program-on-partner-center"></a>將授權型服務客戶移轉到合作夥伴中心上的雲端解決方案提供者計畫
 
@@ -14,7 +15,7 @@ ms.lasthandoff: 02/09/2018
 
 -  合作夥伴中心
 
-合作夥伴中心目前無法自動將您的客戶及其訂閱從一個授權計畫移轉到另一個。 不過，您可以使用合作夥伴中心的多通路及多合作夥伴功能，手動移轉個別客戶。 深入了解 [CSP 多通路及多合作夥伴功能](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/KCDoc.aspx?k=G03KC-1-5871)。 
+如果您的客戶想雇用多個合作夥伴、將其訂閱轉移到另一個合作夥伴，或管理其在其他地方購買的訂閱，您可以手動移動他們。
 
 ## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>將客戶的授權型訂閱移轉到雲端解決方案提供者計畫 (CSP)
 
@@ -27,4 +28,6 @@ ms.lasthandoff: 02/09/2018
 4. 客戶屆時將繼續沿用您已佈建的訂閱，而不會中斷。
 
 如果您佈建客戶一直都在使用的那些相同優惠方案，就不需要重新指派授權，而且也不會對終端使用者造成干擾。 如果您將客戶移轉到不同的優惠方案，則必須更新他們的授權指派。
+
+## <a name="multi-channel-support"></a>多通路支援
 

@@ -3,12 +3,12 @@ title: 續訂您的 MPN 優惠方案 | 合作夥伴中心
 description: 從合作夥伴儀表板續訂您的 MPN 優惠方案
 author: labrenne
 keywords: MPN, Microsoft 行動套件, MAPS, 專長認證更新, 續約日期
-ms.openlocfilehash: ed037f6445d18a57033da51bc87d8f61d58370c3
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: 5b5009006ec6e4052e564e0c23deb2511485025e
+ms.sourcegitcommit: e84af3f0fd7683b83d0e15ad880aa92ee5efb0c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991686"
+ms.lasthandoff: 06/11/2018
+ms.locfileid: "2018219"
 ---
 # <a name="renew-your-mpn-offers"></a>續訂您的 MPN 優惠方案
 
@@ -31,7 +31,7 @@ ms.locfileid: "1991686"
 
 您在週年日之後有 30 天可以續訂。 您在這段期間繼續享有權益。 Microsoft 會在週年日之前 15 天提醒您週年日即將到來。 您會在週年日之後 23 天收到另一個提醒。 當您在該週年日加上 30 天的時間範圍期間續訂時，您的權益將維持不變。 如果您未在續約時間範圍內續訂，就會失去您的權益和專長認證。
 
-當您在續約時間範圍期間續訂時，新的週年日將會落在續約後 365 天。
+當您在續約時間範圍期間續訂時，新的週年日將會落在目前週年日後的 365 天。
 
 ## <a name="manage-auto-renewal"></a>管理自動續約
 

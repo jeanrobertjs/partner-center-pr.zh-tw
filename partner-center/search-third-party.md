@@ -3,12 +3,12 @@ title: 探索您想要銷售的協力廠商供應項目 | 合作夥伴中心
 description: 搜尋並找到適合納入您的產品組合的協力廠商供應項目類型。
 author: labrenne
 keywords: 協力廠商供應項目, 要購買的軟體, 搜尋協力廠商
-ms.openlocfilehash: d328ec6594d7cd71b373f7cbec3620951c6858df
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
+ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991687"
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2204952"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>探索您想要銷售的協力廠商供應項目
 
@@ -31,7 +31,7 @@ ms.locfileid: "1991687"
 
 若要取得更多詳細資料，請選取一項產品。 這會將您帶到詳細資料頁面，其中提供產品的深入資訊，包括其用途、與 Microsoft 產品搭配運作的方式、訓練銷售人員進行銷售的方式，以及如何建立強效行銷的提示。 
 
-您會找到 ISV 網站的連結、連絡資訊，通常也會有產品的影片示範。 
+您也會找到 ISV 網站的連結、連絡資訊，通常也會有產品的影片示範。 
 
 ## <a name="add-the-product-to-your-portfolio"></a>新增產品至您的產品組合
 

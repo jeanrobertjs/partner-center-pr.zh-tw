@@ -2,11 +2,12 @@
 title: 建立合作夥伴中心帳戶 | 合作夥伴中心
 description: Microsoft 合作夥伴網路會員需要建立合作夥伴中心帳戶，才能管理他們的網路權益和專長認證，以及建立商務設定檔。
 author: MaggiePucciEvans
-ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 27b0915cdd199e479371864dfba2879eadeaea0d
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207268"
 ---
 # <a name="create-a-partner-center-account"></a>建立合作夥伴中心帳戶
 
@@ -76,6 +77,6 @@ ms.lasthandoff: 04/08/2018
 
 -   [管理您的會員資格權益](manage-your-partner-network-benefits.md)
 
--   [了解金會員及銀會員資格的專長認證要求條件](learn-about-competencies.md)
+-   [了解金會員及銀會員資格的專長認證要求條件](https://partner.microsoft.com/membership/competencies)
 
 -   [建立商務設定檔以透過 Microsoft 獲得業務潛在客戶](create-a-marketing-profile.md)

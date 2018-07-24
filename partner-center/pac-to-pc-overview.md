@@ -3,11 +3,12 @@ title: 準備從合作夥伴系統管理中心移往合作夥伴中心 | 合作�
 description: Office 365 合作夥伴系統管理中心功能即將移轉到合作夥伴中心。
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
-ms.openlocfilehash: 5167ed6c6f29cccc5d9bee41c7cd7b97e9d90257
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: a72b35ef214b84a876c1dc6783009e284baee996
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1911292"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>合作夥伴系統管理中心即將移轉到合作夥伴儀表板
 
@@ -27,7 +28,7 @@ Office 365 合作夥伴系統管理中心 (PAC) 即將移往 Microsoft 合作夥
 
 **雲端解決方案提供者合作夥伴**：如果您是雲端解決方案提供者合作夥伴，我們將從 2018 年 4 月開始自動將您重新導向至合作夥伴儀表板。 
 
-**顧問合作夥伴**：如果您是顧問合作夥伴，我們將在 2018 年 5 月期間自動將您重新導向至合作夥伴儀表板。
+**顧問合作夥伴** (如果您不透過雲端解決方案提供者交易，並使用 PAC 提供試用/配額給客戶) 一旦我們決定您自動重新導向至合作夥伴中心的時間表，就會在此處公布。 
 
 
 ## <a name="start-using-the-microsoft-partner-dashboard-now"></a>立即開始使用 Microsoft 合作夥伴儀表板！

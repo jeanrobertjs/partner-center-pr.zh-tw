@@ -4,11 +4,12 @@ description: 客戶可以變更雲端解決方案提供者計畫中要針對 Mic
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
-ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
-ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
+ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2018
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2088955"
 ---
 # <a name="transfer-azure-subscriptions"></a>轉移 Azure 訂閱 
 
@@ -50,8 +51,8 @@ ms.lasthandoff: 03/30/2018
 
     -   要移轉的訂閱識別碼。 在展開的客戶列表中，選取 **\[檢視訂閱\]**，然後展開已選擇的訂閱以查看 **\[訂閱識別碼\]**。
 
-    >**注意**<br> 轉移訂閱會產生兩個訂閱識別碼，您會在已轉移訂閱的 **\[編輯訂閱\]** 頁面上看到這兩個訂閱碼：**1**- 合作夥伴中心訂閱識別碼，用於計費目的。 這個識別碼會出現在您的對帳檔案。 
-    **2** - 原始 Azure 訂閱識別碼也會保留並出現在合作夥伴中心，以及 Azure 管理入口網站中。 **記錄支援票證時，這兩個識別碼都要用到。**
+    >**注意**<br> 轉移訂閱會產生兩個訂閱識別碼，您會在已轉移訂閱的 **\[編輯訂閱\]** 頁面上看到這兩個訂閱碼：**1**- 合作夥伴中心訂閱識別碼，用於計費目的。 
+    **2** - 原始 Azure 訂閱識別碼也會保留並出現在合作夥伴中心，以及 Azure 管理入口網站中。 這個識別碼會出現在您的對帳檔案。  **記錄支援票證時，這兩個識別碼都要用到。**
 
 4.  訂閱的客戶和新合作夥伴：
 

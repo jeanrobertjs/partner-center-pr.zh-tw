@@ -4,7 +4,7 @@
 ## [取得 Microsoft 行動套件](mpn-get-action-pack.md)
 ## [取得銀會員或金會員資格](learn-about-competencies.md)
 ## [取得會員資格權益](manage-your-partner-network-benefits.md)
-## [續訂您的 MPN 優惠方案](renew-mpn-offers.md)
+
 
 
 # [雲端解決方案提供者](csp-overview.md)
@@ -15,7 +15,7 @@
 ## [客戶合約範本](agreements.md)
 
 ## [適用於銷售 (sell-in) 國内雲](csp-national-clouds-overview.md)
-### [美國政府適用的 Microsoft Cloud 合作夥伴儀表板](partner-center-for-microsoft-us-govt-cloud.md)
+### [Microsoft Cloud for US Government 適用的合作夥伴儀表板](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Microsoft Cloud 德國合作夥伴儀表板](partner-center-for-microsoft-cloud-germany.md)
 
 # [管理您的合作夥伴儀表板帳戶](partner-center-account-setup.md)
@@ -71,14 +71,17 @@
 ### [將授權型服務客戶移轉到雲端服務提供者計畫](transition-seat-based-services.md)
 ### [將 Dynamics AX 訂閱升級至 Dynamics 365](manual-subscription-migration.md)
 ### [將 Office 365 企業版 E4 訂閱遷移至新版 Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
+### [將商務用 Skype Online 方案 1 移轉至較新的 Office 365 版本](skype-retiring.md)
 ### [轉移 Azure 訂閱](switch-azure-subscriptions-to-a-different-partner.md)
 ### [銷售 Minecraft: Education Edition](minecraft-subscriptions.md)
+### [銷售到特色產業](Get-special-pricing-for-offers.md)
 ### [提高採用率與滿意度](increasing-adoption-and-satisfaction.md)
 ### [透過 Windows Autopilot 簡化裝置設定](autopilot.md)
 
 # 合作夥伴儀表板資料與分析
 ## [取得並分析您的業務資料](data-analysis-lp.md)
 ## [適用於 Microsoft Power BI 的合作夥伴分析應用程式](power-bi-app-for-direct-partners.md)
+## [將您的雲端解決方案提供者業務和其他合作夥伴進行比較](partner-contributions.md)
 
 # [與其他合作夥伴合作](work-with-other-partners.md)
 ## [在合作夥伴儀表板的間接提供者工作](indirect-provider-tasks-in-partner-center.md)
