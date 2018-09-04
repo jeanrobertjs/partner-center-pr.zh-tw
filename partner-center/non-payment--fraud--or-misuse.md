@@ -1,79 +1,81 @@
 ---
-title: "未付款、詐騙或濫用 | 合作夥伴中心"
-description: "管理線上交易風險的策略，包括客戶不支付商品與服務款項以及詐騙活動或濫用。"
+title: 未付款、詐騙或濫用 | 合作夥伴中心
+description: 管理線上交易風險的策略，包括客戶不支付商品與服務款項以及詐騙活動或濫用。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: "詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,"
+keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
 author: MaggiePucciEvans
-ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876278"
 ---
-# <a name="non-payment-fraud-or-misuse"></a><span data-ttu-id="3599b-104">未付款、詐騙或濫用</span><span class="sxs-lookup"><span data-stu-id="3599b-104">Non-payment, fraud, or misuse</span></span>
+# <a name="non-payment-fraud-or-misuse"></a><span data-ttu-id="ee814-104">未付款、詐騙或濫用</span><span class="sxs-lookup"><span data-stu-id="ee814-104">Non-payment, fraud, or misuse</span></span>
 
-**<span data-ttu-id="3599b-105">適用於</span><span class="sxs-lookup"><span data-stu-id="3599b-105">Applies to</span></span>**
+**<span data-ttu-id="ee814-105">適用於</span><span class="sxs-lookup"><span data-stu-id="ee814-105">Applies to</span></span>**
 
--  <span data-ttu-id="3599b-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="3599b-106">Partner Center</span></span>
--  <span data-ttu-id="3599b-107">美國政府適用的 Microsoft Cloud 合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="3599b-107">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="3599b-108">Microsoft Cloud 德國合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="3599b-108">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="ee814-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="ee814-106">Partner Center</span></span>
+-  <span data-ttu-id="ee814-107">美國政府適用的 Microsoft Cloud 合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="ee814-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="ee814-108">Microsoft Cloud 德國合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="ee814-108">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="3599b-109">您必須承擔因客戶以詐騙方式購買和/或已購買服務客戶未付款的行為而帶來的財務風險。</span><span class="sxs-lookup"><span data-stu-id="3599b-109">You are financially responsible for fraudulent purchases by your customers and/or customers' non-payment of purchased services.</span></span> <span data-ttu-id="3599b-110">因此，強烈建議您做好降低風險的詐騙預防與偵測管控措施。</span><span class="sxs-lookup"><span data-stu-id="3599b-110">Therefore, we strongly recommend that you put in place fraud prevention and detection risk mitigation controls.</span></span>
+<span data-ttu-id="ee814-109">您必須承擔因客戶以詐騙方式購買和/或已購買服務客戶未付款的行為而帶來的財務風險。</span><span class="sxs-lookup"><span data-stu-id="ee814-109">You are financially responsible for fraudulent purchases by your customers and/or customers' non-payment of purchased services.</span></span> <span data-ttu-id="ee814-110">因此，強烈建議您做好降低風險的詐騙預防與偵測管控措施。</span><span class="sxs-lookup"><span data-stu-id="ee814-110">Therefore, we strongly recommend that you put in place fraud prevention and detection risk mitigation controls.</span></span>
 
-## <a name="types-of-online-risk"></a><span data-ttu-id="3599b-111">線上風險類型</span><span class="sxs-lookup"><span data-stu-id="3599b-111">Types of online risk</span></span>
+## <a name="types-of-online-risk"></a><span data-ttu-id="ee814-111">線上風險類型</span><span class="sxs-lookup"><span data-stu-id="ee814-111">Types of online risk</span></span>
 
-<span data-ttu-id="3599b-112">為了避免和/或解決詐騙活動或濫用問題，請務必了解潛在的風險，並擬定可以降低暴露於風險之機會的原則和做法。</span><span class="sxs-lookup"><span data-stu-id="3599b-112">To avoid and/or address fraudulent activity or misuse, it's important to understand potential risks and to develop policies and practices that can reduce your exposure.</span></span>
+<span data-ttu-id="ee814-112">為了避免和/或解決詐騙活動或濫用問題，請務必了解潛在的風險，並擬定可以降低暴露於風險之機會的原則和做法。</span><span class="sxs-lookup"><span data-stu-id="ee814-112">To avoid and/or address fraudulent activity or misuse, it's important to understand potential risks and to develop policies and practices that can reduce your exposure.</span></span>
 
-#### <a name="risk-exposure-to-be-mitigated"></a><span data-ttu-id="3599b-113">要降低的風險暴露面與機會</span><span class="sxs-lookup"><span data-stu-id="3599b-113">Risk exposure to be mitigated</span></span>
+#### <a name="risk-exposure-to-be-mitigated"></a><span data-ttu-id="ee814-113">要降低的風險暴露面與機會</span><span class="sxs-lookup"><span data-stu-id="ee814-113">Risk exposure to be mitigated</span></span>
 
-- <span data-ttu-id="3599b-114">**竊取服務**：無意支付享用服務應付款項的客戶，其所用伎倆包括使用盜用的付款方式、提供不實的帳單資訊和/或拖欠未結清的餘額。</span><span class="sxs-lookup"><span data-stu-id="3599b-114">**Theft of service** Customers who have no intention of paying for consumed services by using stolen payment instruments, providing false billing information, and/or defaulting on outstanding balances</span></span>
+- <span data-ttu-id="ee814-114">**竊取服務**：無意支付享用服務應付款項的客戶，其所用伎倆包括使用盜用的付款方式、提供不實的帳單資訊和/或拖欠未結清的餘額。</span><span class="sxs-lookup"><span data-stu-id="ee814-114">**Theft of service** Customers who have no intention of paying for consumed services by using stolen payment instruments, providing false billing information, and/or defaulting on outstanding balances</span></span>
 
-- <span data-ttu-id="3599b-115">**濫用服務**：違反 Microsoft 可接受的使用原則使用雲端服務的客戶</span><span class="sxs-lookup"><span data-stu-id="3599b-115">**Abuse of service** Customers who use cloud services in violation of Microsoft’s acceptable use policy</span></span>
+- <span data-ttu-id="ee814-115">**濫用服務**：違反 Microsoft 可接受的使用原則使用雲端服務的客戶</span><span class="sxs-lookup"><span data-stu-id="ee814-115">**Abuse of service** Customers who use cloud services in violation of Microsoft’s acceptable use policy</span></span>
 
-#### <a name="examples-of-possible-fraud-or-service-abuse"></a><span data-ttu-id="3599b-116">可能發生詐騙或服務濫用情況的範例</span><span class="sxs-lookup"><span data-stu-id="3599b-116">Examples of possible fraud or service abuse</span></span>
-- <span data-ttu-id="3599b-117">垃圾郵件</span><span class="sxs-lookup"><span data-stu-id="3599b-117">Spamming</span></span>
-- <span data-ttu-id="3599b-118">駭客入侵</span><span class="sxs-lookup"><span data-stu-id="3599b-118">Hacking</span></span>
-- <span data-ttu-id="3599b-119">DDOS 攻擊</span><span class="sxs-lookup"><span data-stu-id="3599b-119">DDOS attacks</span></span>
-- <span data-ttu-id="3599b-120">比特幣挖礦</span><span class="sxs-lookup"><span data-stu-id="3599b-120">Bitcoin mining</span></span>
-- <span data-ttu-id="3599b-121">惡意程式碼散發</span><span class="sxs-lookup"><span data-stu-id="3599b-121">Malware distribution</span></span>
-- <span data-ttu-id="3599b-122">轉售盜取的訂用帳戶</span><span class="sxs-lookup"><span data-stu-id="3599b-122">Resale of pirated subscriptions</span></span> 
+#### <a name="examples-of-possible-fraud-or-service-abuse"></a><span data-ttu-id="ee814-116">可能發生詐騙或服務濫用情況的範例</span><span class="sxs-lookup"><span data-stu-id="ee814-116">Examples of possible fraud or service abuse</span></span>
+- <span data-ttu-id="ee814-117">垃圾郵件</span><span class="sxs-lookup"><span data-stu-id="ee814-117">Spamming</span></span>
+- <span data-ttu-id="ee814-118">駭客入侵</span><span class="sxs-lookup"><span data-stu-id="ee814-118">Hacking</span></span>
+- <span data-ttu-id="ee814-119">DDOS 攻擊</span><span class="sxs-lookup"><span data-stu-id="ee814-119">DDOS attacks</span></span>
+- <span data-ttu-id="ee814-120">比特幣挖礦</span><span class="sxs-lookup"><span data-stu-id="ee814-120">Bitcoin mining</span></span>
+- <span data-ttu-id="ee814-121">惡意程式碼散發</span><span class="sxs-lookup"><span data-stu-id="ee814-121">Malware distribution</span></span>
+- <span data-ttu-id="ee814-122">轉售盜取的訂用帳戶</span><span class="sxs-lookup"><span data-stu-id="ee814-122">Resale of pirated subscriptions</span></span> 
 
-#### <a name="examples-of-online-transaction-risk"></a><span data-ttu-id="3599b-123">線上交易風險的範例</span><span class="sxs-lookup"><span data-stu-id="3599b-123">Examples of online transaction risk</span></span>
-- <span data-ttu-id="3599b-124">「信用卡不存在」交易，也就是，交易並非其本人親自進行</span><span class="sxs-lookup"><span data-stu-id="3599b-124">"Credit card not present" transactions, i.e., transactions do not occur in person</span></span>
-- <span data-ttu-id="3599b-125">詐稱身分</span><span class="sxs-lookup"><span data-stu-id="3599b-125">Misrepresented identities</span></span>
-- <span data-ttu-id="3599b-126">服務在收到首期付款之前即已佈建並使用</span><span class="sxs-lookup"><span data-stu-id="3599b-126">Services provisioned and used before initial payment are received</span></span>
-- <span data-ttu-id="3599b-127">易遭線上詐騙的新興市場/高風險區域</span><span class="sxs-lookup"><span data-stu-id="3599b-127">Emerging markets/high-risk regions for online fraud</span></span>
-- <span data-ttu-id="3599b-128">危險分子有能力使帳戶建立作業與購買程序自動化</span><span class="sxs-lookup"><span data-stu-id="3599b-128">The ability for bad actors to automate account creation and purchasing</span></span>
+#### <a name="examples-of-online-transaction-risk"></a><span data-ttu-id="ee814-123">線上交易風險的範例</span><span class="sxs-lookup"><span data-stu-id="ee814-123">Examples of online transaction risk</span></span>
+- <span data-ttu-id="ee814-124">「信用卡不存在」交易，也就是，交易並非其本人親自進行</span><span class="sxs-lookup"><span data-stu-id="ee814-124">"Credit card not present" transactions, i.e., transactions do not occur in person</span></span>
+- <span data-ttu-id="ee814-125">詐稱身分</span><span class="sxs-lookup"><span data-stu-id="ee814-125">Misrepresented identities</span></span>
+- <span data-ttu-id="ee814-126">服務在收到首期付款之前即已佈建並使用</span><span class="sxs-lookup"><span data-stu-id="ee814-126">Services provisioned and used before initial payment are received</span></span>
+- <span data-ttu-id="ee814-127">易遭線上詐騙的新興市場/高風險區域</span><span class="sxs-lookup"><span data-stu-id="ee814-127">Emerging markets/high-risk regions for online fraud</span></span>
+- <span data-ttu-id="ee814-128">危險分子有能力使帳戶建立作業與購買程序自動化</span><span class="sxs-lookup"><span data-stu-id="ee814-128">The ability for bad actors to automate account creation and purchasing</span></span>
 
-## <a name="strategies-for-managing-online-risk"></a><span data-ttu-id="3599b-129">管理線上風險的策略</span><span class="sxs-lookup"><span data-stu-id="3599b-129">Strategies for managing online risk</span></span>
+## <a name="strategies-for-managing-online-risk"></a><span data-ttu-id="ee814-129">管理線上風險的策略</span><span class="sxs-lookup"><span data-stu-id="ee814-129">Strategies for managing online risk</span></span>
 
-<span data-ttu-id="3599b-130">下列建議可以協助您制定貫穿客戶關係生命週期每一階段，都能降低暴露於線上交易風險之機會的原則和做法。</span><span class="sxs-lookup"><span data-stu-id="3599b-130">These recommendations can help you develop policies and practices that can reduce your exposure to online transaction risk through the lifecycle of your relationships with your customers.</span></span>  
+<span data-ttu-id="ee814-130">下列建議可以協助您制定貫穿客戶關係生命週期每一階段，都能降低暴露於線上交易風險之機會的原則和做法。</span><span class="sxs-lookup"><span data-stu-id="ee814-130">These recommendations can help you develop policies and practices that can reduce your exposure to online transaction risk through the lifecycle of your relationships with your customers.</span></span>  
 
-#### <a name="when-onboarding-new-customers"></a><span data-ttu-id="3599b-131">在讓新客戶上門加入交易時</span><span class="sxs-lookup"><span data-stu-id="3599b-131">When onboarding new customers</span></span>
-- <span data-ttu-id="3599b-132">盡可能與客戶建立個人關係，例如透過電話連絡</span><span class="sxs-lookup"><span data-stu-id="3599b-132">Establish personal relationships with customers when possible, e.g. contact by phone</span></span>
-- <span data-ttu-id="3599b-133">尋找更好的方式來驗證客戶的資歷與背景 (徵信社/企業商務資信調查機構)</span><span class="sxs-lookup"><span data-stu-id="3599b-133">Look for better ways to verify customers' credentials & background (credit bureaus/business commercial report agencies)</span></span> 
-- <span data-ttu-id="3599b-134">在註冊期間利用 SMS 驗證，以將遭到機器人蒙混建立帳戶和遂行購買的風險減至最低</span><span class="sxs-lookup"><span data-stu-id="3599b-134">Use SMS verification during sign-up to minimize exposure to robotic account creation and purchasing</span></span>
-- <span data-ttu-id="3599b-135">使用像數位身分識別服務之類的服務進行身分識別管理和追蹤</span><span class="sxs-lookup"><span data-stu-id="3599b-135">Identity management and tracking using services such as digital identity services</span></span>
-- <span data-ttu-id="3599b-136">透過嚴格的信用卡詐騙偵測系統評定客戶的財務能力</span><span class="sxs-lookup"><span data-stu-id="3599b-136">Rigorous credit card fraud detection systems to assess customer financial strength</span></span>
-- <span data-ttu-id="3599b-137">建立明確的收款原則，其中應詳述您的收款流程，以及會導致訂用帳戶存取權限受影響的情況 (您可以在發生未付款情況時停用存取或[暫停客戶的訂用帳戶](suspend-a-subscription.md))</span><span class="sxs-lookup"><span data-stu-id="3599b-137">Establish a clear collections policy that details your collections process and when access to subscriptions will be impacted (you can disable access or [suspend a customer's subscriptions](suspend-a-subscription.md) for non-payment)</span></span>
+#### <a name="when-onboarding-new-customers"></a><span data-ttu-id="ee814-131">在讓新客戶上門加入交易時</span><span class="sxs-lookup"><span data-stu-id="ee814-131">When onboarding new customers</span></span>
+- <span data-ttu-id="ee814-132">盡可能與客戶建立個人關係，例如透過電話連絡</span><span class="sxs-lookup"><span data-stu-id="ee814-132">Establish personal relationships with customers when possible, e.g. contact by phone</span></span>
+- <span data-ttu-id="ee814-133">尋找更好的方式來驗證客戶的資歷與背景 (徵信社/企業商務資信調查機構)</span><span class="sxs-lookup"><span data-stu-id="ee814-133">Look for better ways to verify customers' credentials & background (credit bureaus/business commercial report agencies)</span></span> 
+- <span data-ttu-id="ee814-134">在註冊期間利用 SMS 驗證，以將遭到機器人蒙混建立帳戶和遂行購買的風險減至最低</span><span class="sxs-lookup"><span data-stu-id="ee814-134">Use SMS verification during sign-up to minimize exposure to robotic account creation and purchasing</span></span>
+- <span data-ttu-id="ee814-135">使用像數位身分識別服務之類的服務進行身分識別管理和追蹤</span><span class="sxs-lookup"><span data-stu-id="ee814-135">Identity management and tracking using services such as digital identity services</span></span>
+- <span data-ttu-id="ee814-136">透過嚴格的信用卡詐騙偵測系統評定客戶的財務能力</span><span class="sxs-lookup"><span data-stu-id="ee814-136">Rigorous credit card fraud detection systems to assess customer financial strength</span></span>
+- <span data-ttu-id="ee814-137">建立明確的收款原則，其中應詳述您的收款流程，以及會導致訂用帳戶存取權限受影響的情況 (您可以在發生未付款情況時停用存取或[暫停客戶的訂用帳戶](suspend-a-subscription.md))</span><span class="sxs-lookup"><span data-stu-id="ee814-137">Establish a clear collections policy that details your collections process and when access to subscriptions will be impacted (you can disable access or [suspend a customer's subscriptions](suspend-a-subscription.md) for non-payment)</span></span>
 
-#### <a name="post-purchase-customer-account-management"></a><span data-ttu-id="3599b-138">購買後客戶帳戶管理</span><span class="sxs-lookup"><span data-stu-id="3599b-138">Post-purchase customer account management</span></span>
-- <span data-ttu-id="3599b-139">在設定適當監控閾值時，與客戶合作來了解他們的雲端使用量商務需求。</span><span class="sxs-lookup"><span data-stu-id="3599b-139">Work with customers to understand their cloud usage business needs while setting appropriate monitoring thresholds</span></span>
-    ><span data-ttu-id="3599b-140">**注意**：您可以在合作夥伴中心[設定每月 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)來監視客戶當月份的使用量，並在客戶接近其預算時收到通知。</span><span class="sxs-lookup"><span data-stu-id="3599b-140">**Note** You can [set a monthly Azure spending budget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center to monitor customer usage during the month and be notified when customers are close to their budget.</span></span>
-- <span data-ttu-id="3599b-141">定期監視[客戶活動記錄](activity-logs.md)，有助於早期偵測詐騙</span><span class="sxs-lookup"><span data-stu-id="3599b-141">Monitor [customer activity logs](activity-logs.md) regularly to help detect fraud early</span></span>
-- <span data-ttu-id="3599b-142">當偵測到可疑活動時，採取快速行動</span><span class="sxs-lookup"><span data-stu-id="3599b-142">Take quick action when suspicious activities are detected</span></span>
-- <span data-ttu-id="3599b-143">避免在沒有預先實作降低風險管控措施的情況下授與客戶對訂用帳戶的完整系統管理存取權限</span><span class="sxs-lookup"><span data-stu-id="3599b-143">Avoid giving customers full administrative access to subscriptions without first implementing risk mitigation controls</span></span>
-- <span data-ttu-id="3599b-144">實作可快速接收、檢閱、因應和回覆 Microsoft 通知的流程</span><span class="sxs-lookup"><span data-stu-id="3599b-144">Implement a process to quickly receive, review, act on, and respond to Microsoft notifications</span></span>
+#### <a name="post-purchase-customer-account-management"></a><span data-ttu-id="ee814-138">購買後客戶帳戶管理</span><span class="sxs-lookup"><span data-stu-id="ee814-138">Post-purchase customer account management</span></span>
+- <span data-ttu-id="ee814-139">在設定適當監控閾值時，與客戶合作來了解他們的雲端使用量商務需求。</span><span class="sxs-lookup"><span data-stu-id="ee814-139">Work with customers to understand their cloud usage business needs while setting appropriate monitoring thresholds</span></span>
+    ><span data-ttu-id="ee814-140">**注意**：您可以在合作夥伴中心[設定每月 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)來監視客戶當月份的使用量，並在客戶接近其預算時收到通知。</span><span class="sxs-lookup"><span data-stu-id="ee814-140">**Note** You can [set a monthly Azure spending budget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center to monitor customer usage during the month and be notified when customers are close to their budget.</span></span>
+- <span data-ttu-id="ee814-141">定期監視[客戶活動記錄](activity-logs.md)，有助於早期偵測詐騙</span><span class="sxs-lookup"><span data-stu-id="ee814-141">Monitor [customer activity logs](activity-logs.md) regularly to help detect fraud early</span></span>
+- <span data-ttu-id="ee814-142">當偵測到可疑活動時，採取快速行動</span><span class="sxs-lookup"><span data-stu-id="ee814-142">Take quick action when suspicious activities are detected</span></span>
+- <span data-ttu-id="ee814-143">避免在沒有預先實作降低風險管控措施的情況下授與客戶對訂用帳戶的完整系統管理存取權限</span><span class="sxs-lookup"><span data-stu-id="ee814-143">Avoid giving customers full administrative access to subscriptions without first implementing risk mitigation controls</span></span>
+- <span data-ttu-id="ee814-144">實作可快速接收、檢閱、因應和回覆 Microsoft 通知的流程</span><span class="sxs-lookup"><span data-stu-id="ee814-144">Implement a process to quickly receive, review, act on, and respond to Microsoft notifications</span></span>
 
-#### <a name="post-purchase-customer-billing-management"></a><span data-ttu-id="3599b-145">購買後客戶帳單管理</span><span class="sxs-lookup"><span data-stu-id="3599b-145">Post-purchase customer billing management</span></span>
-- <span data-ttu-id="3599b-146">要求在初次交易和計費之前預先付款</span><span class="sxs-lookup"><span data-stu-id="3599b-146">Request pre-payments prior to initial transactions and billing</span></span> 
-- <span data-ttu-id="3599b-147">不接受高風險付款方式，例如預付卡或儲值卡</span><span class="sxs-lookup"><span data-stu-id="3599b-147">Don't accept high-risk payment instruments, e.g. pre-paid or stored-value cards</span></span>
-- <span data-ttu-id="3599b-148">監視客戶付款以及應收帳款帳齡分析，並積極主動針對延遲及未付款項執行標準化催收程序。</span><span class="sxs-lookup"><span data-stu-id="3599b-148">Monitor customer payments and aging accounts receivables and aggressively enforce standardized dunning processes for late or non-payment</span></span>
+#### <a name="post-purchase-customer-billing-management"></a><span data-ttu-id="ee814-145">購買後客戶帳單管理</span><span class="sxs-lookup"><span data-stu-id="ee814-145">Post-purchase customer billing management</span></span>
+- <span data-ttu-id="ee814-146">要求在初次交易和計費之前預先付款</span><span class="sxs-lookup"><span data-stu-id="ee814-146">Request pre-payments prior to initial transactions and billing</span></span> 
+- <span data-ttu-id="ee814-147">不接受高風險付款方式，例如預付卡或儲值卡</span><span class="sxs-lookup"><span data-stu-id="ee814-147">Don't accept high-risk payment instruments, e.g. pre-paid or stored-value cards</span></span>
+- <span data-ttu-id="ee814-148">監視客戶付款以及應收帳款帳齡分析，並積極主動針對延遲及未付款項執行標準化催收程序。</span><span class="sxs-lookup"><span data-stu-id="ee814-148">Monitor customer payments and aging accounts receivables and aggressively enforce standardized dunning processes for late or non-payment</span></span>
 
-<span data-ttu-id="3599b-149">如需降低線上風險的詳細策略，請參閱[線上交易風險管理指南。](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)</span><span class="sxs-lookup"><span data-stu-id="3599b-149">For more detailed strategies for mitigating online risk, see the [Online transaction risk management guide.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)</span></span>
+<span data-ttu-id="ee814-149">如需降低線上風險的詳細策略，請參閱[線上交易風險管理指南。](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)</span><span class="sxs-lookup"><span data-stu-id="ee814-149">For more detailed strategies for mitigating online risk, see the [Online transaction risk management guide.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)</span></span>
 
->**<span data-ttu-id="3599b-150">重要事項</span><span class="sxs-lookup"><span data-stu-id="3599b-150">Important</span></span>**<br>
-<span data-ttu-id="3599b-151">如果 Microsoft 偵測到合作夥伴或客戶活動經證實或有違反使用原則之嫌疑時，我們將會強制執行必要步驟。</span><span class="sxs-lookup"><span data-stu-id="3599b-151">If Microsoft detects partner or customer activity that we confirm or suspect violates the Acceptable Use policy, we will take enforcement steps.</span></span> <span data-ttu-id="3599b-152">可能會立即將客戶暫時停權，並根據您的要求通知您 Microsoft 所強制執行的動作或更新。</span><span class="sxs-lookup"><span data-stu-id="3599b-152">The customer could be immediately suspended, and you'll be notified of enforcement actions or updated on your requests by Microsoft.</span></span>
+>**<span data-ttu-id="ee814-150">重要事項</span><span class="sxs-lookup"><span data-stu-id="ee814-150">Important</span></span>**<br>
+<span data-ttu-id="ee814-151">如果 Microsoft 偵測到合作夥伴或客戶活動經證實或有違反使用原則之嫌疑時，我們將會強制執行必要步驟。</span><span class="sxs-lookup"><span data-stu-id="ee814-151">If Microsoft detects partner or customer activity that we confirm or suspect violates the Acceptable Use policy, we will take enforcement steps.</span></span> <span data-ttu-id="ee814-152">可能會立即將客戶暫時停權，並根據您的要求通知您 Microsoft 所強制執行的動作或更新。</span><span class="sxs-lookup"><span data-stu-id="ee814-152">The customer could be immediately suspended, and you'll be notified of enforcement actions or updated on your requests by Microsoft.</span></span>
 
  
 

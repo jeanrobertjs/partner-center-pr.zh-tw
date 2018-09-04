@@ -3,42 +3,44 @@ title: 在合作夥伴中心指派 Azure 訂閱 | 合作夥伴中心
 description: 現在您可以在合作夥伴中心指派 Azure 訂閱給您的客戶。您也可以讓客戶自行管理訂閱
 author: Labrenne
 keywords: Azure, Azure 訂閱, 訂閱, 指派訂閱, 管理 azure 訂閱
-ms.openlocfilehash: 756e5499bacf600397ce78e130645897ffa8acf1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: cc847b9a0cab253c911141c26c4ab457ad0d98cc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875008"
 ---
-# <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a><span data-ttu-id="31807-104">在合作夥伴儀表板指派 Azure 訂閱</span><span class="sxs-lookup"><span data-stu-id="31807-104">Assign Azure subscriptions in the Partner Dashboard</span></span>
+# <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a><span data-ttu-id="a5483-104">在合作夥伴儀表板指派 Azure 訂閱</span><span class="sxs-lookup"><span data-stu-id="a5483-104">Assign Azure subscriptions in the Partner Dashboard</span></span>
 
-**<span data-ttu-id="31807-105">適用對象：</span><span class="sxs-lookup"><span data-stu-id="31807-105">Applies to</span></span>**
+**<span data-ttu-id="a5483-105">適用對象：</span><span class="sxs-lookup"><span data-stu-id="a5483-105">Applies to</span></span>**
 
--  <span data-ttu-id="31807-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="31807-106">Partner Center</span></span>
+-  <span data-ttu-id="a5483-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="a5483-106">Partner Center</span></span>
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-the-partner-dashboard"></a><span data-ttu-id="31807-107">在合作夥伴儀表板指派 Azure 訂閱給您的客戶</span><span class="sxs-lookup"><span data-stu-id="31807-107">Assign Azure subcriptions to your customers in the Partner Dashboard</span></span>
+## <a name="assign-azure-subcriptions-to-your-customers-in-the-partner-dashboard"></a><span data-ttu-id="a5483-107">在合作夥伴儀表板指派 Azure 訂閱給您的客戶</span><span class="sxs-lookup"><span data-stu-id="a5483-107">Assign Azure subcriptions to your customers in the Partner Dashboard</span></span>
 
-1. <span data-ttu-id="31807-108">從 **\[儀表板\]** 功能表選取 **\[客戶\]**，並找出您想要管理的客戶。</span><span class="sxs-lookup"><span data-stu-id="31807-108">Select **Customers** from your **Dashboard** menu and locate the customer you want to manage.</span></span>
+1. <span data-ttu-id="a5483-108">從 **\[儀表板\]** 功能表選取 **\[客戶\]**，並找出您想要管理的客戶。</span><span class="sxs-lookup"><span data-stu-id="a5483-108">Select **Customers** from your **Dashboard** menu and locate the customer you want to manage.</span></span>
 
-2.  <span data-ttu-id="31807-109">選取該列結尾的向下鍵以展開客戶記錄，然後選取 **\[Microsoft Azure 管理入口網站\]**。</span><span class="sxs-lookup"><span data-stu-id="31807-109">Select the down arrow at the end of the row to expand the customer's record and then select **Microsoft Azure Management Portal**.</span></span> <span data-ttu-id="31807-110">系統會將您引導到 Azure 入口網站，讓您管理客戶的訂閱。</span><span class="sxs-lookup"><span data-stu-id="31807-110">You will be directed to the Azure Portal where you can manage the customer's subscriptions.</span></span> 
+2.  <span data-ttu-id="a5483-109">選取該列結尾的向下鍵以展開客戶記錄，然後選取 **\[Microsoft Azure 管理入口網站\]**。</span><span class="sxs-lookup"><span data-stu-id="a5483-109">Select the down arrow at the end of the row to expand the customer's record and then select **Microsoft Azure Management Portal**.</span></span> <span data-ttu-id="a5483-110">系統會將您引導到 Azure 入口網站，讓您管理客戶的訂閱。</span><span class="sxs-lookup"><span data-stu-id="a5483-110">You will be directed to the Azure Portal where you can manage the customer's subscriptions.</span></span> 
 
-4. <span data-ttu-id="31807-111">從 Azure 入口網站，選取 **\[訂閱\]**。</span><span class="sxs-lookup"><span data-stu-id="31807-111">From the Azure portal, select **Subscriptions**.</span></span>
+4. <span data-ttu-id="a5483-111">從 Azure 入口網站，選取 **\[訂閱\]**。</span><span class="sxs-lookup"><span data-stu-id="a5483-111">From the Azure portal, select **Subscriptions**.</span></span>
 
-5. <span data-ttu-id="31807-112">選取您想要指派的訂閱，然後選取 **\[存取控制\]**。</span><span class="sxs-lookup"><span data-stu-id="31807-112">Select the subscription you would like to assign, then select **Access Control**.</span></span>
+5. <span data-ttu-id="a5483-112">選取您想要指派的訂閱，然後選取 **\[存取控制\]**。</span><span class="sxs-lookup"><span data-stu-id="a5483-112">Select the subscription you would like to assign, then select **Access Control**.</span></span>
 
-6. <span data-ttu-id="31807-113">選取 **\[新增\]** 將使用者新增至訂閱。</span><span class="sxs-lookup"><span data-stu-id="31807-113">Select **Add** to add a user to the subscription.</span></span> 
+6. <span data-ttu-id="a5483-113">選取 **\[新增\]** 將使用者新增至訂閱。</span><span class="sxs-lookup"><span data-stu-id="a5483-113">Select **Add** to add a user to the subscription.</span></span> 
 
-7. <span data-ttu-id="31807-114">將使用者新增至訂閱後，您可以指派角色給使用者，以及使用者可以存取的特定帳戶。</span><span class="sxs-lookup"><span data-stu-id="31807-114">After you add the user to the subscription, you can assign the user a role and the specific account that user will have access to.</span></span> 
+7. <span data-ttu-id="a5483-114">將使用者新增至訂閱後，您可以指派角色給使用者，以及使用者可以存取的特定帳戶。</span><span class="sxs-lookup"><span data-stu-id="a5483-114">After you add the user to the subscription, you can assign the user a role and the specific account that user will have access to.</span></span> 
 
-**<span data-ttu-id="31807-115">讓客戶能夠管理他們的 Azure 訂閱</span><span class="sxs-lookup"><span data-stu-id="31807-115">Enable customers to manage their Azure subscriptions</span></span>**
+**<span data-ttu-id="a5483-115">讓客戶能夠管理他們的 Azure 訂閱</span><span class="sxs-lookup"><span data-stu-id="a5483-115">Enable customers to manage their Azure subscriptions</span></span>**
 
-<span data-ttu-id="31807-116">建立客戶的 Microsoft Azure 訂閱之後，您可以允許他們管理訂閱。</span><span class="sxs-lookup"><span data-stu-id="31807-116">After you create a Microsoft Azure subscription for a customer, you can enable them to manage the subscription.</span></span> <span data-ttu-id="31807-117">若要這樣做，您必須登入客戶的 Microsoft Azure 管理入口網站。</span><span class="sxs-lookup"><span data-stu-id="31807-117">To do this, you’ll need to log on to the customer’s Microsoft Azure Management portal.</span></span> 
+<span data-ttu-id="a5483-116">建立客戶的 Microsoft Azure 訂閱之後，您可以允許他們管理訂閱。</span><span class="sxs-lookup"><span data-stu-id="a5483-116">After you create a Microsoft Azure subscription for a customer, you can enable them to manage the subscription.</span></span> <span data-ttu-id="a5483-117">若要這樣做，您必須登入客戶的 Microsoft Azure 管理入口網站。</span><span class="sxs-lookup"><span data-stu-id="a5483-117">To do this, you’ll need to log on to the customer’s Microsoft Azure Management portal.</span></span> 
 
-1.  <span data-ttu-id="31807-118">若要開啟客戶的 Azure 入口網站，請展開客戶清單中列示該客戶的項目，或是選取客戶的名稱後再選取 **\[Microsoft Azure 管理入口網站\]**。</span><span class="sxs-lookup"><span data-stu-id="31807-118">To open the customer’s Azure portal, either expand the customer’s listing in your customer list or select the customer’s name and then select **Microsoft Azure Management Portal**.</span></span>
+1.  <span data-ttu-id="a5483-118">若要開啟客戶的 Azure 入口網站，請展開客戶清單中列示該客戶的項目，或是選取客戶的名稱後再選取 **\[Microsoft Azure 管理入口網站\]**。</span><span class="sxs-lookup"><span data-stu-id="a5483-118">To open the customer’s Azure portal, either expand the customer’s listing in your customer list or select the customer’s name and then select **Microsoft Azure Management Portal**.</span></span>
     
- >**<span data-ttu-id="31807-119">注意</span><span class="sxs-lookup"><span data-stu-id="31807-119">Note</span></span>** <br> <span data-ttu-id="31807-120">如果系統提示您登入 Azure 入口網站，表示您可能沒有委派系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="31807-120">If you are prompted to log on to the Azure portal, you may not have delegated administrative privileges.</span></span> <span data-ttu-id="31807-121">選取 **\[要求建立關係\]** 以邀請客戶將您列名為他們的「記錄可查夥伴」。</span><span class="sxs-lookup"><span data-stu-id="31807-121">Select **Request a relationship** to invite the customer to identify you as their Partner of Record.</span></span> <span data-ttu-id="31807-122">客戶接受您的邀請後，系統就會自動將委派的管理員權限授與您。</span><span class="sxs-lookup"><span data-stu-id="31807-122">After the customer accepts your invitation, you are automatically granted delegated administrative privileges.</span></span> 
+ >**<span data-ttu-id="a5483-119">注意</span><span class="sxs-lookup"><span data-stu-id="a5483-119">Note</span></span>** <br> <span data-ttu-id="a5483-120">如果系統提示您登入 Azure 入口網站，表示您可能沒有委派系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="a5483-120">If you are prompted to log on to the Azure portal, you may not have delegated administrative privileges.</span></span> <span data-ttu-id="a5483-121">選取 **\[要求建立關係\]** 以邀請客戶將您列名為他們的「記錄可查夥伴」。</span><span class="sxs-lookup"><span data-stu-id="a5483-121">Select **Request a relationship** to invite the customer to identify you as their Partner of Record.</span></span> <span data-ttu-id="a5483-122">客戶接受您的邀請後，系統就會自動將委派的管理員權限授與您。</span><span class="sxs-lookup"><span data-stu-id="a5483-122">After the customer accepts your invitation, you are automatically granted delegated administrative privileges.</span></span> 
 
-2.  <span data-ttu-id="31807-123">在 Azure 入口網站中，開啟客戶的 Azure 訂閱清單並選取其 Azure 訂閱。</span><span class="sxs-lookup"><span data-stu-id="31807-123">In the Azure portal, open the customer’s subscriptions list and select the customer’s Azure subscription.</span></span>
+2.  <span data-ttu-id="a5483-123">在 Azure 入口網站中，開啟客戶的 Azure 訂閱清單並選取其 Azure 訂閱。</span><span class="sxs-lookup"><span data-stu-id="a5483-123">In the Azure portal, open the customer’s subscriptions list and select the customer’s Azure subscription.</span></span>
 
-3.  <span data-ttu-id="31807-124">將角色指派給客戶的任何使用者，讓客戶可以在他們的訂閱之下建立和管理資源。</span><span class="sxs-lookup"><span data-stu-id="31807-124">Assign a role to any of the customer’s users so that they can create and manage resources under their subscription.</span></span>
+3.  <span data-ttu-id="a5483-124">將角色指派給客戶的任何使用者，讓客戶可以在他們的訂閱之下建立和管理資源。</span><span class="sxs-lookup"><span data-stu-id="a5483-124">Assign a role to any of the customer’s users so that they can create and manage resources under their subscription.</span></span>
 
 
