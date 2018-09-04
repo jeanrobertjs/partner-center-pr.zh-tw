@@ -1,13 +1,15 @@
 ---
-title: "升級您的 Microsoft 合作夥伴網路會員資格 | 合作夥伴中心"
-description: "當您升級 Microsoft 合作夥伴網路會員資格時，有資格獲得專屬會員資格權益。 了解如何尋找並購買可用的優惠。"
+title: 升級您的 Microsoft 合作夥伴網路會員資格 | 合作夥伴中心
+description: 當您升級 Microsoft 合作夥伴網路會員資格時，有資格獲得專屬會員資格權益。 了解如何尋找並購買可用的優惠。
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875708"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升級您的 Microsoft 合作夥伴網路會員資格
 
@@ -27,7 +29,7 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
   - 金級專長認證 – 特定 Microsoft 解決方案領域同等級最佳功能
 
-您加入 Microsoft 合作夥伴網路之後，就可以升級您的會員資格，並購買專屬會員資格權益優惠。 如需有關 Microsoft 合作夥伴網路中會員資格的詳細資訊，請移至 [https://partner.microsoft.com](https://partner.microsoft.com)。
+您加入 Microsoft 合作夥伴網路之後，就可以升級您的會員資格，並購買專屬會員資格權益優惠。 如需有關 Microsoft 合作夥伴網路會員資格的詳細資訊，請移至[https://partner.microsoft.com](https://partner.microsoft.com)。
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>購買 Microsoft 行動套件訂閱
@@ -42,7 +44,7 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 - 取得每個月價值 $100 美元的 Microsoft Azure 點數
 
-如需 Microsoft 行動套件相關資訊，請移至 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
+如需 Microsoft 行動寶盒相關資訊，請移至[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
 
 >**注意** 跟隨此連結，會將您移至其他網站。 回到此網站 (合作夥伴中心) 來訂閱行動套件。
 
@@ -104,7 +106,7 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 若要取消您的 Microsoft 行動套件訂閱，您必須連絡合作夥伴中心支援。
 
-1. 前往 https://partnercenter.microsoft.com/partner/support。
+1. 移至https://partnercenter.microsoft.com/partner/support。
 
 2. 選取 **\[回報合作夥伴中心的問題\]**，然後在下一頁選取 **\[新要求\]**。
 
@@ -112,7 +114,7 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 4. 完成填寫所需的資訊，然後選取 **\[提交\]**。 合作夥伴中心支援團隊會與您連絡，以協助您取消訂閱。
 
-    若要檢查您的服務要求狀態，請選取 **\[支援要求\] > \[合作夥伴中心要求\]**，然後選取 **\[開啟\]**。 從清單中選取適當的服務要求。  
+    若要檢查您的服務要求狀態，請選取 **\[支援要求\] > \[合作夥伴中心要求\]**，然後選取 **\[開啟\]**。 從清單選擇適當的服務。  
 
  
 ### <a name="next-steps"></a>後續步驟

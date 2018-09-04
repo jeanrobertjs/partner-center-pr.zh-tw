@@ -1,13 +1,15 @@
 ---
-title: "拓展您的 Microsoft 合作夥伴業務 | 合作夥伴中心"
-description: "拓展 Microsoft 合作夥伴業務的相關資源。 包含如何透過 Microsoft 獲得業務潛在客戶 (推薦)。"
-keywords: "推薦, 回應推薦, 潛在客戶, 業務潛在客戶, 行銷設定檔, 商務設定檔, 拓展您的業務, 業務機會, 專長認證, 銀級會員, 金級會員, 試用供應項目, 市場擴張, 國内雲"
+title: 拓展您的 Microsoft 合作夥伴業務 | 合作夥伴中心
+description: 拓展 Microsoft 合作夥伴業務的相關資源。 包含如何透過 Microsoft 獲得業務潛在客戶 (推薦)。
+keywords: 推薦, 回應推薦, 潛在客戶, 業務潛在客戶, 行銷設定檔, 商務設定檔, 拓展您的業務, 業務機會, 專長認證, 銀級會員, 金級會員, 試用供應項目, 市場擴張, 國内雲
 author: MaggiePucciEvans
-ms.openlocfilehash: f12f529765ce0b6c6d9b5c69ee84be2fddf0525e
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: cf1244e7671b53c3aa813f493cd7b9bdf90c24d5
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876448"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>拓展您的 Microsoft 合作夥伴業務 
 
@@ -32,6 +34,9 @@ Microsoft 提供許多資源，協助您拓展合作夥伴業務。 了解此網
 | 提供 Microsoft 產品的試用訂閱給您的客戶 | 請閱讀[為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)以了解如何使用試用訂閱來提升目前客戶群的銷售量。| 雲端解決方案提供者合作夥伴 |
 | 提供 Microsoft 訂閱的促銷價格給您的客戶 | Microsoft 有時會在授權型訂閱上提供促銷，可讓您將結餘部分退還給客戶，並拓展業務。 請閱讀[提供 Microsoft 訂閱的促銷價格給您的客戶](promotions.md)以深入了解。 | 雲端解決方案提供者合作夥伴 |
 | 在其他市場銷售 | 雲端解決方案提供者銷售通路可以在許多國家/地區進行銷售。 請參閱[雲端解決方案提供者市場](agreements.md)以查看清單。 如需雲端解決方案提供者通路的簡介，請參閱[雲端解決方案提供者概觀](csp-overview.md)。  | 雲端解決方案提供者合作夥伴 |
+銷售到特色產業像非營利組織符合法定和教育版|[銷售到特色產業](get-special-pricing-for-offers.md)|雲端解決方案提供者合作夥伴|
+|拓展您的業務，透過獎勵合作程式中的許多活動。 透過在儀表板的活動檔案宣告。| [建立和管理獎勵宣告](create-incentives-claims.md)|雲端解決方案提供者合作夥伴|
+|包含協力廠商供應項目適用於您要銷售的 Microsoft 軟體建置新的軟體套件組合|[探索協力廠商供應項目](third-party-offers.md)|雲端解決方案提供者合作夥伴|
 
 ## <a name="see-also"></a>請參閱
 

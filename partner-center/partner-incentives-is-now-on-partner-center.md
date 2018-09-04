@@ -1,12 +1,14 @@
 ---
-title: "合作夥伴獎勵現在位於合作夥伴中心 | 合作夥伴中心"
-description: "獎勵計畫可鼓勵合作夥伴開發新的行銷技術、提供訓練以及其他更多功能"
+title: 合作夥伴獎勵現在位於合作夥伴中心 | 合作夥伴中心
+description: 獎勵計畫可鼓勵合作夥伴開發新的行銷技術、提供訓練以及其他更多功能
 author: labrenne
-ms.openlocfilehash: df329e690c839a8763268479fd52b5797fcc4a4c
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 086f81a07aa4f12f40c7f7d1ca47dc6051cd4e59
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875668"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>合作夥伴獎勵現在位於合作夥伴中心 
 

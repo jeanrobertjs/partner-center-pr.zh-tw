@@ -1,16 +1,18 @@
 ---
-title: "將您的 MPN 會員資格從 Partner Membership Center 轉換到合作夥伴中心"
-description: "PMC 使用者：我們目前透過合作夥伴中心來管理 MPN 會員資格。 以下是接下來要做的動作。"
+title: 將您的 MPN 會員資格從 Partner Membership Center 轉換到合作夥伴中心
+description: PMC 使用者：我們目前透過合作夥伴中心來管理 MPN 會員資格。 以下是接下來要做的動作。
 author: KPacquer
-keywords: "mpn 會員資格, 專長認證, pmc 到合作夥伴中心"
+keywords: mpn 會員資格, 專長認證, pmc 到合作夥伴中心
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
-ms.openlocfilehash: 2349ee30aa54a756e7fdc49c24917807a7443425
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875858"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>將您的 MPN 會員資格從 Partner Membership Center 轉換到合作夥伴中心
 
@@ -43,7 +45,7 @@ Partner Membership Center 使用者：我們目前透過合作夥伴中心來管
 
 ## <a href="" id="nonadmin_tasks"></a>員工工作：更新帳戶
 
-1.  從 Microsoft 合作夥伴中心或系統管理員取得您的登入資訊。 如果您沒有收到登入資訊，請連絡您組織的系統管理員，要求他們直接重新傳送給您。 
+1.  取得您登入的資訊是從 Microsoft 合作夥伴中心，或從您的系統管理員。如果您沒有收到登入資訊，請連絡您組織的系統管理員，要求他們直接將您重新傳送。 
 
 2.  連接您的 Microsoft 合作夥伴大學帳戶。 從合作夥伴中心儀表板，選取 **\[更新設定檔\]** > **\[取得合作夥伴大學存取權\]**。  連接這個帳戶之後，您就可以再次存取合作夥伴大學。
 

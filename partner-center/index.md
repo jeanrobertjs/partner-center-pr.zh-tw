@@ -2,20 +2,21 @@
 layout: LandingPage
 hide_bc: true
 title: 從這裡獲得合作夥伴儀表板的相關協助
-description: 需要設定帳戶、與客戶保持聯繫，或購買行動套件訂閱的相關協助嗎？ 請在合作夥伴儀表板說明庫中尋找解答。
+description: 需要設定帳戶、與客戶保持聯繫，或購買行動套件訂閱的相關協助嗎？ 建立專為在雲端解決方案提供者與 MPN 計畫的合作夥伴此儀表板說明庫中尋找解答。
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
-ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919898"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876368"
 ---
-# <a name="start-here-for-help-with-partner-center-dashboard"></a>從這裡獲得合作夥伴中心儀表板的相關協助
+# <a name="start-here-for-help-with-partner-dashboard"></a>從這裡獲得合作夥伴儀表板的相關協助
 
-需要設定帳戶、與客戶保持聯繫，或購買行動套件訂閱的相關協助嗎？ 請在合作夥伴中心儀表板說明庫中尋找解答。
+需要設定帳戶、與客戶保持聯繫，或購買行動套件訂閱的相關協助嗎？ 建立專為在雲端解決方案提供者與 MPN 計畫的合作夥伴此儀表板說明庫中尋找解答。
 
 如果您已經熟悉儀表板，請參閱[新功能](/partner-center/whats-new-in-pc)。
 

@@ -1,12 +1,14 @@
 ---
-title: "組織稅務資訊 | 合作夥伴中心"
-description: "如果情況許可，請務必將加值稅識別碼加入您組織的資訊中"
+title: 組織稅務資訊 | 合作夥伴中心
+description: 如果情況許可，請務必將加值稅識別碼加入您組織的資訊中
 author: labrenne
-ms.openlocfilehash: 5d95c6bf8524b2d8af746e163dc50e33c5696e54
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 050ea8fc4cdbbddf601114714ff45b312318b196
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874638"
 ---
 # <a name="organization-tax-information"></a>組織稅務資訊
 

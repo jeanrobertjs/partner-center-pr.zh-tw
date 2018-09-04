@@ -1,52 +1,60 @@
 ---
-title: "資料中心專長認證"
-description: "資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。"
+title: 資料中心專長認證
+description: 資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。
 author: Daniel Simpson
-keywords: "專長認證, 各專長認證, 資料中心"
-ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
-ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
-ms.translationtype: HT
+keywords: 專長認證, 各專長認證, 資料中心
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 28dc7d87b4ce203c423b9f23a006d75d3de638c0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876238"
 ---
-#<a name="datacenter"></a>資料中心
-資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。
-##<a name="datacenter-solutions-option"></a>資料中心解決方案選項
-如果您想要藉由通過測驗或認證來證明自己的技能，資料中心解決方案選項就很適合這個目的。 從您所選專長領域中選擇測驗，以取得資料中心專長認證。
-###<a name="silver"></a>銀會員
-1. 您的組織必須有 **2** 個人員通過其中任何一項測驗
+>[!IMPORTANT]
+>若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
 
-    - **System Center** 2012 專長領域
+<!--
+#Datacenter
+The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+##Datacenter Solutions option
+The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
+###Silver
+1. Your organization must have **2** individuals pass any one of the exams.
 
-        - [測驗 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx)：使用 System Center 2012 監視和操作私人雲端*
-        - [測驗 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx)：使用 System Center 2012 設定和部署私人雲端*
+    - **System Center** 2012 focus area
 
-\* 2017 年 12 月 31 日即將淘汰。 在 2018 年 12 月 31 日前，仍可接受此測驗結果做為專長認證資格。 直到 2017 年 11 月 30 日前，您都可以報名參加此測驗。
+        - [Exam 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoring and Operating a Private Cloud with System Center 2012*
+        - [Exam 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuring and Deploying a Private Cloud with System Center 2012*
 
-   - **虛擬化**專長領域
+\* Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-        - [測驗 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx)：透過 Windows Server Hyper-V 和 System Center 進行伺服器虛擬化
+   - **Virtualization** focus area
 
-   - **Windows Server 2012** 專長領域
+        - [Exam 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Server Virtualization with Windows Server Hyper-V and System Center
 
-        - [測驗 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx)：安裝和設定 Windows Server 2012
-        - [測驗 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx)：管理 Windows Server 2012
-        - [測驗 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx)：設定進階 Windows Server 2012 服務
-        - [測驗 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx)：設計和實作伺服器基礎結構
-        - [測驗 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx)：實作進階伺服器基礎結構
-        - [測驗 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx)：將您的技能升級至 MCSA Windows Server 2012
+   - **Windows Server 2012** focus area
 
-   - **Windows Server 2016** 專長領域
-        - [測驗 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx)：與 Windows Server 2016 相關的安裝、儲存和運算
-        - [測驗 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx)：Windows Server 2016 的網路功能
-        - [測驗 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx)：Windows Server 2016 的身分識別
-        - [測驗 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx)：將您的技能升級至 MCSA：Windows Server 2016
-        - [測驗 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx)：保護 Windows Server 2016 安全
+        - [Exam 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012
+        - [Exam 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administering Windows Server 2012
+        - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+        - [Exam 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure
+        - [Exam 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure
+        - [Exam 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012
 
-###<a name="gold"></a>金會員
-1. 您的組織必須有 **4** 個人員通過必要的認證。
+   - **Windows Server** 2016 focus area
+        - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016
+        - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+        - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
+        - [Exam 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016
+        - [Exam 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Securing Windows Server 2016
 
-    - **4** 個人員必須通過下列其中一項測驗：
+###Gold
+1. Your organization must have **4** individuals pass the required certification.
 
-        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx)：Windows Server 2012
-        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx)：Windows Server 2016
+    - **4** individuals must pass one of the following exams:
+
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx): Windows Server 2012
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx): Windows Server 2016
+-->

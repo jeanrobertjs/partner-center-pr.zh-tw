@@ -2,12 +2,13 @@
 title: 協力廠商產品 | 合作夥伴中心
 description: 隨著業務擴大，您可將協力廠商產品納入您的產品搭售方案，藉以開發並深化您的產品組合。
 author: labrenne
-ms.openlocfilehash: 70945db54e006e99760112ca71884b5b0a6f4197
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8972c59781276e9c1c839e02f3dd0d196bed7f71
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1931089"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874588"
 ---
 # <a name="third-party-offers"></a>協力廠商優惠 
 

@@ -1,12 +1,15 @@
 ---
-title: "向上呈報問題給 Microsoft | 合作夥伴中心"
-description: "我們預期您將會為客戶解決問題。"
+title: 向上呈報問題給 Microsoft | 合作夥伴中心
+description: 我們預期您將會為客戶解決問題。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-ms.openlocfilehash: 1875758bbaeb1b19efe0132d7b4157586479a81d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2ffb4a63384a4ee51b485d832ba847315573b633
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876458"
 ---
 # <a name="escalate-problems-to-microsoft"></a>向上呈報問題給 Microsoft
 
@@ -30,7 +33,21 @@ ms.contentlocale: zh-TW
 
 -   影響多租用戶的地區性問題
 
-若要取得 Microsoft 的協助，請在合作夥伴中心提出支援要求。 問題解決時，您必須通知客戶並結束和客戶之間針對此問題的通訊往來。 請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。
+## <a name="submit-a-support-request"></a>提出支援要求
+
+1. 從儀表板中，選取**客戶**。
+2. 選取的客戶需要支援。
+3. 選取 [**服務管理**，然後選取 [**服務要求**。
+4. 選取**新的要求**，然後選取 [ **Microsoft Office 365**。
+5. 您被引導至 Office 365 入口網站，您需要使用您的合作夥伴儀表板認證登入。
+6. 選取**支援**，從左側功能表的**新的服務要求**。
+7. 選取支援主題。
+
+>[!NOTE]
+>請務必開始從儀表板，如此便能維持合作夥伴和客戶之間的關係。 
+
+
+如需代表客戶報告問題資訊，請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。
 
  
 

@@ -3,11 +3,13 @@ title: 分析您的商務設定檔有效性 | 合作夥伴中心
 description: 透過合作夥伴中心評估、交涉和回應轉介。
 author: KPacquer
 robots: noindex,nofollow
-ms.openlocfilehash: 15050124e65f7740a4f76eb075ad7701ed918154
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: def007588180904b929cd568b43a04548e574cd6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875358"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>分析您的商務設定檔有效性
 <!-- 

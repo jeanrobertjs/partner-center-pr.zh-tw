@@ -1,43 +1,53 @@
 ---
-title: "應用程式開發專長認證"
-description: "促進快速軟體交付與持續改善。 加入我們為數超過 6 萬家的應用程式建置商合作夥伴，藉由取得應用程式開發專長認證，使您的業務差異化並確立自己的 Microsoft 合作夥伴地位。"
+title: 應用程式開發專長認證
+description: 促進快速軟體交付與持續改善。 加入我們為數超過 6 萬家的應用程式建置商合作夥伴，藉由取得應用程式開發專長認證，使您的業務差異化並確立自己的 Microsoft 合作夥伴地位。
 author: Daniel Simpson
-keywords: "專長認證, 各項專長認證, 雲端業務應用程式, 應用程式開發"
-ms.openlocfilehash: 153a40815f99950fa379f9bf35e55151fb159c96
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: 專長認證, 各項專長認證, 雲端業務應用程式, 應用程式開發
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 3b23ced367061546cd0a48467d68e6a07db0d2c6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876678"
 ---
-# <a name="application-development"></a>應用程式開發 
+>[!IMPORTANT]
+>若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
 
-促進快速軟體交付與持續改善。 加入我們為數超過 6 萬家的應用程式建置商合作夥伴，藉由取得應用程式開發專長認證，使您的業務差異化並確立自己的 Microsoft 合作夥伴地位。
+<!--
 
-## <a name="application-builder-option"></a>應用程式建置商選項
-如果您想要藉由通過測驗或認證來證明您的技能，應用程式建置商選項就非常適合。  從您選擇的專長領域中選擇要取得應用程式開發專長認證的測驗。
+# Application Development 
 
+Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
 
-### <a name="silver"></a>銀會員
-1. 您的組織必須有 **2** 個人員通過下列其中一項測驗或評定要求條件。
-
-    - **Web 應用程式開發**專長領域
-        - [測驗 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx)：搭配 JavaScript 與 CSS3 的 HTML5 程式設計  
-        - [測驗 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx)：C# 程式設計 
-        - [測驗 70-486](https://www.microsoft.com/en-us/learning/exam-70-486.aspx)：開發 ASP.NET MVC Web 應用程式  
-
-    - **通用 Windows 平台**專長領域
-        - [測驗 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx)：開發行動應用程式 
-        - [測驗 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx)：通用 Windows 平台 – 應用程式架構和 UX/UI *  
-        - [測驗 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx)：通用 Windows 平台 – 應用程式資料、服務和程式碼撰寫模式*  
-
-    - **Azure 應用程式開發**專長領域
-        - [測驗 70 532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx)：開發 Microsoft Azure 解決方案 
-        - [測驗 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx)：開發 Windows Azure 和 Web 服務
-        - [測驗 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx)：實作 Microsoft Azure 基礎結構解決方案   
+## Application Builder option
+The Application Builder option is ideal if you prefer to prove your skills by passing exams or certifications.  Choose exams from the focus area of your choice to attain the Application Development competency.
 
 
-### <a name="gold"></a>金會員
-1. 您的組織必須有 **4** 個人員通過必要的認證。
-    - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx)：應用程式建置商 
+### Silver
+1. Your organization must have **2** individuals pass one of the following exams, or the assessment requirements.
 
-* 2017 年 9 月 30 日即將淘汰
+    - **Web App Dev** focus area
+        - [Exam 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx): Programming in HTML5 with JavaScript and CSS3  
+        - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C# 
+        - [Exam 70-486](https://www.microsoft.com/en-us/learning/exam-70-486.aspx): Developing ASP.NET MVC Web Applications  
+
+    - **Universal Windows Platform** focus area
+        - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps 
+        - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform – App Architecture and UX/UI *  
+        - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform – App Data, Services, and Coding Patterns *  
+
+    - **Azure App Dev** focus area
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions 
+        - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions   
+
+
+### Gold
+1. Your organization must have **4** individuals pass the required certification.
+    - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder 
+
+*Retiring September 30, 2017
+
+-->

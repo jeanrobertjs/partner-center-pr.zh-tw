@@ -4,11 +4,13 @@ description: 當您在合作夥伴中心中建立客戶的記錄之後，您便�
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 103fb80729c82287136dd3f006cc514d795a91be
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874848"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -17,6 +19,7 @@ ms.lasthandoff: 04/08/2018
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
+-  雲端解決方案提供者合作夥伴
 
 當您在合作夥伴儀表板中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。
 
@@ -31,10 +34,11 @@ ms.lasthandoff: 04/08/2018
 
 3.  選取您要使用的訂閱計費類型。  如需可協助您在每月與年度計費頻率之間做選擇的詳細資訊，請參閱[新計費功能的常見問題集](faq-about-new-billing-features.md)
  
- >**注意**<br> 您現在可以選擇為客戶提供特定產品的免費試用。 可供試用的產品將會在類別目錄的 [試用] 索引標籤下列出。 請參閱[為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)。
+ >[!Note]
+ >您可以提供試用訂閱的客戶。 可供試用的產品是在類別目錄中的 [試用] 索引標籤。 請參閱[為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)。
 
  
-4. 選取計費頻率後，從 [類別目錄] 中選取您想要的產品訂閱。 產品可用性取決於客戶的類型 (教育機構、政府單位等) 以及您選取的計費頻率。 如果沒有提供某項產品，客戶可能已有該產品的訂閱，而且僅允許一份訂閱。 或者，您可能已暫停訂閱，此時只需重新啟用即可，而不是購買新的訂閱。
+4. 選取之後的帳單週期，選取您想在類別目錄中的訂閱的產品。 產品可用性取決於客戶的類型 (教育機構、政府單位等) 以及您選取的計費頻率。 如果沒有提供某項產品，客戶可能已有該產品的訂閱，而且僅允許一份訂閱。 或者，您可能已暫停訂閱，此時只需重新啟用即可，而不是購買新的訂閱。
 
 5. 選取您想要新增的訂閱並輸入授權數目。 然後 **\[提交\]** 該訂單。
 

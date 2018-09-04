@@ -1,13 +1,15 @@
 ---
-title: "回應推薦 | 合作夥伴中心"
-description: "透過合作夥伴中心評估、交涉和回應推薦。"
+title: 回應推薦 | 合作夥伴中心
+description: 透過合作夥伴中心評估、交涉和回應推薦。
 author: KPacquer
-keywords: "推薦, RFI, 尋找合作夥伴"
-ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
-ms.translationtype: HT
+keywords: 推薦, RFI, 尋找合作夥伴
+ms.localizationpriority: medium
+ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875418"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>在合作夥伴中心回應推薦
 
@@ -23,7 +25,7 @@ ms.lasthandoff: 11/10/2017
 
 *  Microsoft 行銷活動
 *  內部 Microsoft 銷售和服務專員
-*  使用**[尋找合作夥伴](https://partnercenter.microsoft.com/pcv/search)**工具的客戶搜尋。
+*  使用**[尋找合作夥伴](https://partnercenter.microsoft.com/pcv/search)** 工具的客戶搜尋。
 
 客戶有興趣與您連絡時，他們會提交資訊要求 (RFI)。 
 

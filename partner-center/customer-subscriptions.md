@@ -3,11 +3,13 @@ title: 客戶訂閱 |合作夥伴中心
 description: 合作夥伴可以透過合作夥伴中心將訂閱銷售給客戶並管理它們。
 author: labrenne
 Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
-ms.openlocfilehash: 95210c91a49c54eb28984ce74b2685af7d164131
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 3c051f0fbf627c7e7478e18c0b685eb7a45cf879
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876488"
 ---
 # <a name="customer-subscriptions"></a>客戶訂閱
 

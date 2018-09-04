@@ -3,12 +3,13 @@ title: 續訂您的 MPN 優惠方案 | 合作夥伴中心
 description: 從合作夥伴儀表板續訂您的 MPN 優惠方案
 author: labrenne
 keywords: MPN, Microsoft 行動套件, MAPS, 專長認證更新, 續約日期
-ms.openlocfilehash: 5b5009006ec6e4052e564e0c23deb2511485025e
-ms.sourcegitcommit: e84af3f0fd7683b83d0e15ad880aa92ee5efb0c7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 6347536a0b2dfd4af682ef98d1c130f65a68410e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2018
-ms.locfileid: "2018219"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875478"
 ---
 # <a name="renew-your-mpn-offers"></a>續訂您的 MPN 優惠方案
 

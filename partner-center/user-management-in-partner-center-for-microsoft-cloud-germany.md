@@ -1,10 +1,14 @@
 ---
-title: "Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理 | Microsoft Cloud 德國合作夥伴中心"
-description: "為遵守用來約束個人資料收集和使用行為的國內、地方和業界特定相關規定，Microsoft Cloud 德國合作夥伴中心不提供使用者管理功能。 不過，您可以在 Microsoft Cloud 德國 Azure 入口網站中新增及管理使用者。"
+title: Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理 | Microsoft Cloud 德國合作夥伴中心
+description: 為遵守用來約束個人資料收集和使用行為的國內、地方和業界特定相關規定，Microsoft Cloud 德國合作夥伴中心不提供使用者管理功能。 不過，您可以在 Microsoft Cloud 德國 Azure 入口網站中新增及管理使用者。
 author: MaggiePucciEvans
-ms.openlocfilehash: 94e8caf84dc0ba52f231f03c7e4a9475fce075a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875768"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理
 
@@ -26,12 +30,11 @@ translationtype: HT
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>如何在 Microsoft Cloud 德國 Azure 入口網站管理使用者 
 
-如果您已登入 Microsoft Cloud 德國合作夥伴中心，便可直接開啟 Microsoft Cloud 德國 Azure 入口網站，而不需再次登入。 不過，如果您需要直接登入 Microsoft Cloud 德國 Azure 入口網站，請移至 [https://portal.microsoftazure.de](https://portal.microsoftazure.de)。 
+如果您已登入 Microsoft Cloud 德國合作夥伴中心，便可直接開啟 Microsoft Cloud 德國 Azure 入口網站，而不需再次登入。 不過，如果您需要直接向 Microsoft Cloud 德國 Azure 入口網站登入，請移至[https://portal.microsoftazure.de](https://portal.microsoftazure.de)。 
 
 成功登入 Microsoft Cloud 德國 Azure 入口網站後，請開啟 Azure Active Directory (Azure AD) 概觀頁面，然後按照下列主題中的指示進行：
 
->**注意**
- 選取這些連結便會進入其他網站。 
+>**注意** 選取這些連結便會進入其他網站。 
 
 -  [**將使用者新增至 Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

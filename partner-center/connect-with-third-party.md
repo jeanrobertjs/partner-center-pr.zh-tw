@@ -3,12 +3,13 @@ title: 將協力廠商軟體加入至您的產品組合 | 合作夥伴中心
 description: 購買適用於 Microsoft 產品的協力廠商軟體
 author: labrenne
 keywords: 協力廠商供應項目, 要購買的軟體
-ms.openlocfilehash: 5b2e06b026f1ab9c9e1dfbe14d22aef9af83fa7d
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991690"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875518"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>將協力廠商軟體加入至您的產品組合
 

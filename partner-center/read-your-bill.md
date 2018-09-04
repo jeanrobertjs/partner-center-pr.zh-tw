@@ -4,11 +4,13 @@ description: 您的發票是目前每個月期間 (在程式、產品以及客�
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
-ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875178"
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -25,6 +27,7 @@ ms.lasthandoff: 05/10/2018
 >**注意**<br>
 您的發票是目前每個月期間所有費用 (涵蓋方案、產品以及客戶) 的摘要，將於您所選帳單日期的 4 天內提供。
 
+您會收到一張發票適用於授權型 (Office365) 以及用量型 (Azure) 的費用，以及適用於一次性 （Azure 保留的 VM 執行個體） 個別發票費用。
 
 如需費用的分項詳細資料，請使用隨附的對帳檔案。 對帳檔案包含客戶識別碼和您將用來建立客戶發票的訂閱識別碼。 如需詳細資訊，請參閱[如何使用對帳檔案](use-the-reconciliation-files.md)。
 
@@ -54,22 +57,26 @@ ms.lasthandoff: 05/10/2018
 <td>我們可寄送發票給您的收件地址。 若要變更此地址，請移至 \[帳戶設定\] > \[合作夥伴帳單設定檔\]。 </td>
 </tr>
 <tr class="odd">
-<td>週期性費用</td>
+<td>授權型費用</td>
 <td>所購買之用量型授權的每月 (或每年度) 的定額金額 (於服務前預先計費)。 這個數字是授權型對帳檔案 (欄位 T) 中，&quot;Subtotal&quot; 欄位中的所有費用總和。</td>
 </tr>
 <tr class="even">
-<td>使用量費用</td>
+<td>用量型費用</td>
 <td>Azure 使用量，包括在帳單月份啟用和使用的新服務或應用程式。 這個數字是用量型對帳檔案 (欄位 Z) 中，&quot;PretaxCharges&quot; 欄位中的所有費用總和。</td>
 </tr>
 <tr class="odd">
-<td>額度 &amp; 調整</td>
-<td>對訂閱所做之變更的額度或調整 (例如：增加或減少訂閱基座)。</td>
-</tr>
-<tr class="even">
-<td>其他折扣</td>
+<td>折扣</td>
 <td>例如，客戶以一般訂閱價格訂閱時獲得的折扣。 這會顯示為定額金額，而不是每一單位或每一授權的價格。</td>
 </tr>
 <tr class="odd">
+<td>點數</td>
+<td>對訂閱所做之變更的額度或調整 (例如：增加或減少訂閱基座)。</td>
+</tr>
+<tr class="even">
+<tr class="even">
+<td>Subtotal</td>
+<td>稅金，稅金專屬費用與點數前總計。</td>
+</tr>
 <td>稅金</td>
 <td>在發票第 2 頁開始位置的詳細資料區段中加總的目前費用的總稅金。 此數字是以下所有費用的總和：
 <ul>
@@ -77,9 +84,13 @@ ms.lasthandoff: 05/10/2018
 <li>授權型檔案 (欄位 U) 的 &quot;Tax&quot; 欄位。</li>
 </ul></td>
 </tr>
+<tr class="odd">
+<td>其他的點數</td>
+<td>稅金專屬的點數。</td>
+</tr>
 <tr class="even">
 <td>目前總費用</td>
-<td>付款期限到期時，以您使用的帳單貨幣計算的計費期間應付金額。</td>
+<td>付款期限到期時，以您使用的帳單貨幣計算的帳單期間應付金額。</td>
 </tr>
 <tr class="odd">
 <td>付款指示</td>
@@ -97,13 +108,10 @@ ms.lasthandoff: 05/10/2018
 <td>發票日期</td>
 <td>您收到發票的日期。</td>
 </tr>
-
 <tr class="odd">
 <td>付款期限</td>
 <td>對於一次性購買，這一律是 60 天。</td>
 </tr>
-
-
 <tr class="even">
 <td>付款截止日期</td>
 <td>必須在此日期前收到您的付款。</td>

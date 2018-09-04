@@ -1,14 +1,16 @@
 ---
-title: "未付款、詐騙或濫用 | 合作夥伴中心"
-description: "管理線上交易風險的策略，包括客戶不支付商品與服務款項以及詐騙活動或濫用。"
+title: 未付款、詐騙或濫用 | 合作夥伴中心
+description: 管理線上交易風險的策略，包括客戶不支付商品與服務款項以及詐騙活動或濫用。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: "詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,"
+keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
 author: MaggiePucciEvans
-ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876278"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未付款、詐騙或濫用
 

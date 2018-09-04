@@ -3,11 +3,13 @@ title: 帳單基本知識 | 合作夥伴中心
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
-ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876388"
 ---
 # <a name="billing-basics"></a>帳單基本知識
 
@@ -168,8 +170,8 @@ Azure 是採取「隨付隨用」模式，有使用 Azure 服務，才需要付�
 2.  在 **\[客戶\]** 頁面上，尋找您要檢視其訂購記錄的客戶，然後選取向下箭號來展開客戶的記錄。 
 3.  選取 **\[檢視訂單\]** 來顯示訂購記錄。
 
-#### <a name="create-a-credit-or-void-note"></a>建立信貸或無效票據
+#### <a name="download-a-credit-note"></a>下載取消貸記金額附註
 
-有些時候，您可能需要作廢發票，再核發新發票。 例如，客戶可能變更其企業名稱，然後收到舊名稱的發票。 
-
-若要作廢發票再核發新的，請從帳單頁面的調整下方下載表格。
+您執行完整的貸記金額 （Void 發票） 和重新計費的事件中，我們將會提供您取消貸記金額附註以取消看原始發票，以及完整新的文件。 您可以要求取消貸記金額/重新計費，原因如下：
+-   地址或購買的順序校正
+-   產生發票，再套用稅金退款。 您可以要求取消貸記金額/筆取得提取回至原始發票稅務退款。 這也適用於退款，因為您可以要求取消貸記金額/筆的原始的發票，然後提取中退款。

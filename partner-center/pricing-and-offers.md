@@ -2,11 +2,13 @@
 title: 定價與方案 | 合作夥伴中心
 description: ''
 author: labrenne
-ms.openlocfilehash: 6ab870da8008d72751956c2f2a103c638ed393f7
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f64114cfcce49bac9958cddb8e0f3663a1e49203
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875078"
 ---
 # <a name="pricing-and-offers"></a>定價與方案
 

@@ -1,12 +1,15 @@
 ---
-title: "管理您的客戶清單 | 合作夥伴中心"
-description: "客戶記錄是您在合作夥伴中心最重要的資訊資產之一。"
+title: 管理您的客戶清單 | 合作夥伴中心
+description: 客戶記錄是您在合作夥伴中心最重要的資訊資產之一。
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876818"
 ---
 # <a name="manage-your-customer-list"></a>管理您的客戶清單
 
@@ -25,8 +28,14 @@ ms.contentlocale: zh-TW
 
 1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。
 2.  若要搜尋客戶，請在搜尋方塊中輸入客戶名稱或網域名稱。
-3.  選取客戶列末端的**「向下箭號」**來查看其 Microsoft ID，以及與他們相關聯的訂閱和服務的快速連結。
+3.  選取客戶列末端的 **「向下箭號」** 來查看其 Microsoft ID，以及與他們相關聯的訂閱和服務的快速連結。
 
+## <a name="update-a-customers-company-name"></a>更新客戶的公司名稱
+
+從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。
+2.  若要搜尋客戶，請在搜尋方塊中輸入客戶名稱或網域名稱。
+3.  選取客戶列末端的 **「向下箭號」** 來查看其 Microsoft ID，以及與他們相關聯的訂閱和服務的快速連結。
+4.  在客戶**帳單**資訊，請更新的公司名稱。 當您儲存新的值時，它將會反映在客戶清單。 這只會變更的帳單到公司名稱和客戶清單值。 它將不會反映任何一處其他。
 
 ## <a name="export-your-customer-list"></a>匯出客戶清單
 

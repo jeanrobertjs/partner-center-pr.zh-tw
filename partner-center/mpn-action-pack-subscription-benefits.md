@@ -3,12 +3,13 @@ title: Microsoft 行動套件訂閱權益 | 合作夥伴中心
 description: 這個頁面中的資訊已移至 https://partner.microsoft.com/membership/internal-use-software。
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 1a8b654ef72aa6114cb05ace6d6f99171a684dd2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8967965341981161e6818b870198465913b9d3ab
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207208"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876828"
 ---
 # <a name="get-action-pack-subscription-details-on-the-microsoft-partner-networkhttpspartnermicrosoftcommembershipinternal-use-software-site"></a>在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/internal-use-software)網站上取得行動套件訂閱的詳細資料。 
 

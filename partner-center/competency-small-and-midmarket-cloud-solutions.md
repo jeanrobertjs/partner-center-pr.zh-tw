@@ -1,35 +1,43 @@
 ---
-title: "小型及中端市場雲端解決方案專長認證"
-description: "小型及中端市場雲端解決方案專長認證可協助您以專營小型及中型企業 Office 365 解決方案銷售與部署合作夥伴的身分來建立您的品牌。"
+title: 小型及中端市場雲端解決方案專長認證
+description: 小型及中端市場雲端解決方案專長認證可協助您以專營小型及中型企業 Office 365 解決方案銷售與部署合作夥伴的身分來建立您的品牌。
 author: Daniel Simpson
-keywords: "專長認證, 各專長認證, 小型及中端市場雲端解決方案"
-ms.openlocfilehash: bef3e59db9ed70ecd4cde3ea6878271f25aa50dd
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+keywords: 專長認證, 各專長認證, 小型及中端市場雲端解決方案
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: f8034f7d779d2dae13b916f01efa8c10be224bb2
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876188"
 ---
-# <a name="small-and-midmarket-cloud-solutions"></a>小型及中端市場雲端解決方案 
-小型及中端市場雲端解決方案專長認證可協助您以專營小型及中型企業 Office 365 解決方案銷售與部署合作夥伴的身分來建立您的品牌。
+>[!IMPORTANT]
+>若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
 
-## <a name="o365-services-option"></a>O365 服務選項
-Office 365 服務選項很適合銷售和提供 Office 365 服務給客戶的合作夥伴。 完成選項中的所有步驟，即可取得小型及中端市場雲端解決方案專長認證。
+<!--
+# Small and Midmarket Cloud Solutions 
+The Small and Midmarket Cloud Solutions competency helps you to create your brand as a partner specialized in selling and deploying Office 365 solutions to small and midsized businesses.
 
-### <a name="silver"></a>銀會員
-1. 您的組織必須達到績效門檻。
+## O365 Services option
+The Office 365 Services option is ideal for partners that sell and provide Office 365 services for their customers. Complete all the steps within the option to attain the Small and Midmarket Cloud Solutions competency.
+
+### Silver
+1. Your organization must meet the performance thresholds.
     
-    - 在過去 12 個月您的客戶群必須增加 4 個新的 Office 365 客戶。
-    - 這些客戶必須將您當做 Office 365 委派的系統管理員或「有記錄可查的交易合作夥伴或數位合作夥伴」納入關聯。
-    - [深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。
+    - You must increase your customer base by 4 new Office 365 customers within the previous 12 months.
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-### <a name="gold"></a>金會員
-1. 您的組織必須達到績效門檻。
+### Gold
+1. Your organization must meet the performance thresholds.
 
-    - 在過去 12 個月您的客戶群必須增加 25 個新的 Office 365 客戶。
-    - 這些客戶必須將您當做 Office 365 委派的系統管理員或「有記錄可查的交易合作夥伴或數位合作夥伴」納入關聯。
-    - [深入了解 ](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)這些關聯。  
+    - You must increase your customer base by 25 new Office 365 customers within the previous 12 months.
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. 您的組織必須有 **2** 個人員通過測驗要求條件。
+2. Your organization must have **2** individuals pass the exam requirements.
 
-    - **2** 個人員必須每個都通過下列測驗：
-        - [測驗 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx)：啟用 Office 365 服務
+    - **2** individuals must each pass the following exam:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
+-->

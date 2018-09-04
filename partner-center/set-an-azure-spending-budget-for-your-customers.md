@@ -1,13 +1,15 @@
 ---
-title: "為客戶設定 Azure 消費預算 | 合作夥伴中心"
-description: "在合作夥伴中心，您可以設定每個客戶每月的預算，免得月底的 Azure 帳單金額讓他們很吃驚。"
+title: 為客戶設定 Azure 消費預算 | 合作夥伴中心
+description: 在合作夥伴中心，您可以設定每個客戶每月的預算，免得月底的 Azure 帳單金額讓他們很吃驚。
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-ms.openlocfilehash: 5e6b34031f9bdd5a3532a7f1a8b862a4f0618ad7
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: adea2e44dcde77ae8f6c020407cd65957fdfd5cd
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875368"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>為客戶設定 Azure 消費預算
 

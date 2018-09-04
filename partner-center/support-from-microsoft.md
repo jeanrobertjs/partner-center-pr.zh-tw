@@ -1,13 +1,15 @@
 ---
-title: "來自 Microsoft 的支援 | 合作夥伴中心"
-description: "當您使用 Microsoft 服務或合作夥伴中心遇到問題時，您可以向上呈報給 Microsoft 以尋求協助，並且可以追蹤問題直到問題解決為止。"
+title: 來自 Microsoft 的支援 | 合作夥伴中心
+description: 當您使用 Microsoft 服務或合作夥伴中心遇到問題時，您可以向上呈報給 Microsoft 以尋求協助，並且可以追蹤問題直到問題解決為止。
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-ms.openlocfilehash: 9a74fe3cf8bde5000d4bb8ae5e1d0e1190a19411
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: ec944f86dc8011ca753d475d66096b093610d4c3
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876468"
 ---
 # <a name="support-from-microsoft"></a>來自 Microsoft 的支援
 
@@ -26,6 +28,8 @@ ms.lasthandoff: 11/16/2017
 [代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)
 
 [使用 API 取得自動化服務通知](get-automated-service-notifications-with-our-apis.md)
+
+[Microsoft 權益支援](https://partner.microsoft.com/support/contact-support)
 
  
 

@@ -4,11 +4,13 @@ description: 請依照下列指示合併不同國家/地區的租用戶。
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: 移轉客戶, 佈建, 租用戶帳戶, 合併租用戶
-ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875978"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>雲端解決方案提供者地區授權租用戶彙總
 
@@ -42,7 +44,7 @@ ms.lasthandoff: 04/08/2018
 
 3.  按一下 **\[要求建立經銷商關係\]**。 系統就會提供您一則預設的電子郵件訊息以供您提供給您的客戶。 此訊息包含一個 URL，其中包含您新的合作夥伴中心帳戶唯一的組織識別碼。
 
-4.  **客戶動作：**確保您要移轉的每個作用中客戶都會造訪此 URL。 開啟 URL 時，會提示客戶登入 Office 365 入口網站。 客戶使用和用來存取 Azure 及 Office 365 管理入口網站時相同的組織識別碼登入。
+4.  **客戶動作：** 確保您要移轉的每個作用中客戶都會造訪此 URL。 開啟 URL 時，會提示客戶登入 Office 365 入口網站。 客戶使用和用來存取 Azure 及 Office 365 管理入口網站時相同的組織識別碼登入。
 
 5.  登入之後，就會提示客戶帳戶的全域系統管理員送出合約，以提供委派的系統管理員權限給新的雲端解決方案提供者帳戶。 如果他們同意，客戶就能選取核取方塊並同意授權關係。
 

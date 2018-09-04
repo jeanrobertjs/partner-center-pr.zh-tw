@@ -3,11 +3,13 @@ title: 雲端解決方案提供者計畫 - 銷售隨選雲端解決方案 | 合�
 description: 雲端解決方案提供者計畫可協助透過新客戶與新專業拓展您的企業。
 author: labrenne
 keywords: 雲端解決方案提供者, CSP, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 過雲端解決方案提供者銷售, 直接合作夥伴, 間接雲端解決方案提供者合作夥伴, 間接雲端解決方案提供者經銷商, 直接雲端解決方案提供者, 間接雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 散發者, 雲端解決方案提供者計畫
-ms.openlocfilehash: 1e23de4014e9d3dd85134c17e60dfeacc8acf9d7
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7075949392621c73d8c5d45f2971c759b1114f9e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875748"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>雲端解決方案提供者計畫 - 銷售炙手可熱的雲端解決方案 
 
@@ -26,11 +28,22 @@ ms.lasthandoff: 04/08/2018
 
 ### <a name="direct-bill-model"></a>直接帳單模型
 
- 在直接帳單模型中，合作夥伴直接向 Microsoft 購買 Microsoft 產品和訂閱，並透過他們的內部銷售人員直接銷售給客戶。 已經運作或願意開發適當的銷售、計費和支援基礎結構的合作夥伴，可以選擇雲端解決方案提供者直接模型。 適合直接雲端解決方案提供者模型的合作夥伴必須符合下列必要條件：
+ 在直接帳單模型中，合作夥伴直接向 Microsoft 購買 Microsoft 產品和訂閱，並透過他們的內部銷售人員直接銷售給客戶。 已經運作或願意開發適當的銷售、計費和支援基礎結構的合作夥伴，可以選擇雲端解決方案提供者直接模型。 以使它成為是直接合作夥伴的需求最近已變更，就會生效截至 2018 年 8 月 31 日。 直接合作夥伴必須符合自其下一個的註冊期間在 2018 年 8 月 31 日之後開始新的需求。
+
+
+#### <a name="new-expanded-requirements"></a>新的展開的需求：
+
+支援
+- 購買與 Microsoft 進階支援合作夥伴套件的一對一的優先雲端支援展開您支援的功能。 或者，選擇 Microsoft 頂級支援合作夥伴套件來存取完整的類別目錄的主動式服務、 24/7 提升權限中斷/修正支援，以及技術帳戶管理跨雲端、 混合式部署和內部部署。 
+
+服務
+
+- 示範您提供至少一個受管理的服務、 IP 的服務或客戶解決方案的應用程式。 深入了解新增受管理的服務
+
+- 符合最低基礎結構的功能，例如計費以及佈建。
+我們會監視年度效能，以確認符合這些需求的直接帳單合作夥伴已示範穩定的業務成長。 不有任何特定的效能目標就地在這個時候，但 Microsoft 可能會實作列在未來的效能。 
+
 - 針對您想要銷售的地點擁有使用中 Microsoft 合作夥伴網路 (MPN) 識別碼
-- 現有客戶支援基礎結構
-- 現有客戶計費基礎結構
-- 擁有投資技術整合和支援整備的資金
 
 
 ### <a name="indirect-model"></a>間接模型

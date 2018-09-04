@@ -2,12 +2,13 @@
 title: 移除與客戶的經銷商關係 | 合作夥伴中心
 description: 移除關係會從合作夥伴中心的檢視中移除任何已關閉的企業關係。
 author: KPacquer
-ms.openlocfilehash: eb48bb660fbd6acac91426eff5c0b9f4c8c45729
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 37b4866a4bdb0d2785581c71a329c236ab9a4d81
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2088965"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875508"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>移除與客戶的經銷商關係
 

@@ -2,11 +2,13 @@
 title: 美國政府適用的 Microsoft Cloud 合作夥伴中心 | 美國政府適用的 Microsoft Cloud 合作夥伴中心
 description: 美國政府適用的 Microsoft Cloud 合作夥伴中心是一個商務入口網站，適用於希望向美國政府機構客戶提供 Microsoft 雲端解決方案的 Microsoft 合作夥伴。
 author: MaggiePucciEvans
-ms.openlocfilehash: 4f2fb444b3d0fe47b53b58429f5afb14bf00ed3b
-ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e17f2211e72501fdc72fe077b53d855fc2119759
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/18/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875638"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>美國政府適用的 Microsoft Cloud 合作夥伴中心
 

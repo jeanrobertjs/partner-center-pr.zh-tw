@@ -1,13 +1,15 @@
 ---
-title: "銀級及金級會員資格的 Microsoft 專長認證要求條件 | 合作夥伴中心"
-description: "了解取得金級及銀級會員資格等級的專長認證要求條件。"
+title: 銀級及金級會員資格的 Microsoft 專長認證要求條件 | 合作夥伴中心
+description: 了解取得金級及銀級會員資格等級的專長認證要求條件。
 author: Maggiepuccievans
-keywords: "專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格"
-ms.openlocfilehash: a922e579706b1c859ee6e645f814feaa7dd0d2e3
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
-ms.translationtype: HT
+keywords: 專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格
+ms.localizationpriority: medium
+ms.openlocfilehash: 705a9037282a77d33dd356e8d49fe855b5521a9a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875728"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>金會員及銀會員資格的 Microsoft 專長認證要求條件
 
