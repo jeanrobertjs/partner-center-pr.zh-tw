@@ -3,11 +3,13 @@ title: 使用對帳檔案 | 合作夥伴中心
 description: 如需計費週期中每項費用的詳細明細項目檢視，請從合作夥伴中心儀表板下載對帳檔案。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877548"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -516,8 +518,8 @@ ms.lasthandoff: 05/10/2018
 </td>
 </tr>
 <tr>
-<td rowspan="8">
-<p><strong>週期性費用</strong></p>
+<td rowspan="10">
+<p><strong>授權型費用</strong></p>
 </td>
 <td>
 <p>啟用費用</p>
@@ -525,7 +527,7 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>當客戶購買後使用訂閱時，向客戶收取的金額</p>
 </td>
-<td rowspan="8">
+<td rowspan="10">
 <p>從授權型檔案，加總 <strong>Amount</strong> 欄</p>
 </td>
 </tr>
@@ -586,6 +588,7 @@ ms.lasthandoff: 05/10/2018
 </td>
 </tr>
 <tr>
+
 <td>
 <p>續約費用</p>
 </td>
@@ -595,16 +598,10 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr>
 <td>
-<p><strong>其他產品與服務</strong></p>
-</td>
-<td>
 <p>啟用時按比例計算費用</p>
 </td>
 <td>
 <p>從啟用到計費期間結束時按比例計算的費用</p>
-</td>
-<td>
-<p>從授權型檔案，加總 <strong>Amount</strong> 欄</p>
 </td>
 </tr>
 <tr>
@@ -631,7 +628,7 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr>
 <td>
-<p><strong>信用 &amp; 調整</strong></p>
+<p><strong>點數</strong></p>
 </td>
 <td>
 <p>明細項目位移</p>
@@ -644,12 +641,9 @@ ms.lasthandoff: 05/10/2018
 <p>從用量型檔案，加總 <strong>PostTaxTotal</strong> 欄</p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="4">
-<p><strong>其他折扣</strong></br>
-<em>（用量型）</em></p>
+<p><strong>用量型的折扣</strong></p>
 </td>
 <td>
 <p>啟用折扣</p>
@@ -657,6 +651,7 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>啟用訂閱時套用的折扣</p>
 </td>
+
 <td rowspan="4">
 <p>從用量型檔案，加總 <strong>PretaxCharges</strong> 欄</p>
 </td>
@@ -668,14 +663,16 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>套用至定期費用的折扣</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>續約折扣</p>
 </td>
 <td>
 <p>訂閱續約時套用的折扣</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>取消折扣</p>
 </td>
@@ -683,16 +680,17 @@ ms.lasthandoff: 05/10/2018
 <p>折扣取消時收取的費用</p>
 </td>
 </tr>
+
+
 <tr>
 <td>
-<p><strong>其他折扣</strong></br>
-<em>（授權型）</em></p>
+<p><strong>授權型的折扣</strong></p>
 </td>
 <td>
 <p><em>可套用至多個費用類型</em></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td>
 <p>從授權型檔案，加總 <strong>TotalOtherDiscount</strong> 欄</p>
@@ -704,7 +702,7 @@ ms.lasthandoff: 05/10/2018
 </td>
 <td>
 <p><em>可套用至多個費用類型</em></p>
-<p><em>例外：「明細項目位移」已含稅。 請參閱上方的＜信用 &amp; 調整＞。</em></p>
+<p><em>例外：「明細項目位移」已含稅。 請參閱上面的點數。</em></p>
 </td>
 <td>
 <p>稅金或加值稅 (VAT)</p>

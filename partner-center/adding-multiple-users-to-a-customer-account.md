@@ -4,11 +4,13 @@ description: 您可以透過將資料檔案 (以逗號分隔值的檔案格式 (
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: 大量上傳, 新增多個使用者至客戶的帳戶, 新增客戶使用者, 大量上傳客戶使用者, 客戶帳戶, 客戶使用者, 使用者
-ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e7a5e7f9c0cebf81373c500dd3a552710fcf845a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876968"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>將多個使用者新增到客戶帳戶
 
@@ -54,15 +56,13 @@ ms.lasthandoff: 04/08/2018
 
     **注意** 大部分帳戶建立錯誤的原因出自資料檔案問題，包括資訊遺失、格式不正確或電子郵件地址重複，或是檔案中有太多筆記錄。
 
-     
-
 7.  在合作夥伴儀表板驗證檔案之後，請為新的使用者選取地理 **\[位置\]**。
 8.  選取 **\[儲存\]**。
 9.  下載使用者的暫時密碼資訊。
 
-**重要：**請務必立即下載包含暫時密碼的檔案，因為您無法在之後執行此作業。 新的使用者必須他們新帳戶的暫時密碼登入他們的新帳戶。
+**重要：** 請務必立即下載包含暫時密碼的檔案，因為您無法在之後執行此作業。 新的使用者必須他們新帳戶的暫時密碼登入他們的新帳戶。
 
-合作夥伴儀表板會自動指派 **\[可以使用授權與服務\]** 的權限給新的使用者。
+10. 新的使用者會自動獲指派**授權與服務可以使用**的權的限。 
 
  
 

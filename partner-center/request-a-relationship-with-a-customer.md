@@ -1,13 +1,15 @@
 ---
-title: "要求與客戶建立關係 | 合作夥伴中心"
-description: "要求關係是用於多重合作夥伴和多重通路案例。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。"
+title: 要求與客戶建立關係 | 合作夥伴中心
+description: 要求關係是用於多重合作夥伴和多重通路案例。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877218"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作夥伴中心中與客戶保持聯繫
 
@@ -31,9 +33,7 @@ ms.lasthandoff: 07/19/2017
 
 4.  客戶接受邀請之後，他們將會出現在您的 **\[客戶\]** 頁面，而且您將能從該處佈建客戶及管理其服務。
 
- >**注意**<br>
-    在多通路案例中，只有一個合作夥伴可以擁有系統管理員權限來代表客戶管理服務。 
-
+ 
 5.  若要管理客戶的帳戶、服務、使用者及授權，選取其名稱旁邊的向下鍵，展開客戶記錄。
 
 

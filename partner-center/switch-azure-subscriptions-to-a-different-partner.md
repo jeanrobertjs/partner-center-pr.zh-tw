@@ -4,12 +4,13 @@ description: 客戶可以變更雲端解決方案提供者計畫中要針對 Mic
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
-ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2088955"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877558"
 ---
 # <a name="transfer-azure-subscriptions"></a>轉移 Azure 訂閱 
 
@@ -18,6 +19,8 @@ ms.locfileid: "2088955"
 -  合作夥伴中心
 
 客戶可以決定切換至雲端解決方案提供者或其 Microsoft Azure 服務中的其他合作夥伴。 不過，這是需要合作夥伴和客戶雙方手動操作的程序。
+
+**注意：** 在這個階段只直接或間接提供者可轉移訂閱。
 
 **注意** 目前無法變更 Office 365、Enterprise Mobility Suite 或 Microsoft Dynamics CRM 訂閱之雲端解決方案提供者訂閱的合作夥伴。
 

@@ -3,12 +3,13 @@ title: 探索您想要銷售的協力廠商供應項目 | 合作夥伴中心
 description: 搜尋並找到適合納入您的產品組合的協力廠商供應項目類型。
 author: labrenne
 keywords: 協力廠商供應項目, 要購買的軟體, 搜尋協力廠商
-ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
-ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2204952"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876718"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>探索您想要銷售的協力廠商供應項目
 

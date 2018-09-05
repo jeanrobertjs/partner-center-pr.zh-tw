@@ -1,12 +1,14 @@
 ---
-title: "註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫 |美國政府適用的 Microsoft Cloud 合作夥伴中心"
-description: "在您註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫之前，請先深入了解 CSP 計畫需求。"
+title: 註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫 |美國政府適用的 Microsoft Cloud 合作夥伴中心
+description: 在您註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫之前，請先深入了解 CSP 計畫需求。
 author: MaggiePucciEvans
-ms.openlocfilehash: 69e50e7b16c7b39eef68b0e841f21414c1923f14
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877198"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
@@ -64,7 +66,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 >**注意**<br>
 您將使用者指派給系統管理代理人角色之後，這些使用者就可以存取您在 **\[客戶\]** 頁面上的客戶清單，並[新增客戶](add-a-new-customer.md)。   
 
-1.  登入 Microsoft Azure 管理入口網站 (網址為 https://portal.azure.us/)。
+1.  登入 Microsoft Azure 管理入口網站： https://portal.azure.us/。
 
 2.  將系統管理代理人角色指派給組織中的適當使用者。 若要這樣做，您需要將這些使用者新增到內建的 **AdminAgent** 群組。 如需做法詳細資訊，請參閱[在 Azure Active Directory 中管理群組的成員](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)。
  

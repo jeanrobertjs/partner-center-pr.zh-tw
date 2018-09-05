@@ -1,12 +1,14 @@
 ---
-title: "Office 365 合作夥伴系統管理中心客戶：您的企業營運已移轉到合作夥伴中心 | 合作夥伴中心"
-description: "將企業營運移轉到合作夥伴中心的 Office 365 合作夥伴系統管理中心客戶的重要考量"
+title: Office 365 合作夥伴系統管理中心客戶：您的企業營運已移轉到合作夥伴中心 | 合作夥伴中心
+description: 將企業營運移轉到合作夥伴中心的 Office 365 合作夥伴系統管理中心客戶的重要考量
 author: KPacquer
-ms.openlocfilehash: 2ef8450988027c480b60a51f2626bb94c95c1cb3
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: ebed2c963a85edad05440a4d5adb61eb25ceb097
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876888"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 合作夥伴系統管理中心客戶：請準備好將企業營運移轉到合作夥伴中心
 

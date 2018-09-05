@@ -3,12 +3,13 @@ title: 購買或續約 Microsoft 行動套件 | 合作夥伴中心
 description: 了解如何取得 Microsoft 行動套件，無論是首次購買還是續約。
 author: MaggiePucciEvans
 keywords: 行動套件, MAPS, 續約 MAPS, 續約行動套件, 取得行動套件
-ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207258"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876708"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>首次購買或續約 Microsoft 行動套件訂閱
 
@@ -55,7 +56,7 @@ ms.locfileid: "2207258"
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>若要在合作夥伴儀表板中續約 Microsoft 行動套件訂閱
 
-1. 移至您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面，然後選取 **\[已購買\]**。 找到 **\[Microsoft 行動套件訂閱\]** 磚。  
+1. 移至您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面，然後選取 **\[已購買\]**。 找出 [ **Microsoft 行動套件訂閱**] 磚。  
 
 2. 選取 **\[續約訂閱\]**，然後選取您的付款方式。 您可以使用信用卡或電子銀行轉帳來付費。
 

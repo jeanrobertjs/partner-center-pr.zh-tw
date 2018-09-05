@@ -1,12 +1,15 @@
 ---
-title: "還原暫時停用的合作夥伴中心帳戶 | 合作夥伴中心"
-description: "了解如何還原暫時停用的合作夥伴中心帳戶、發生合作夥伴帳戶暫時停用的原因，以及暫時停用期間能如何使用帳戶。"
+title: 還原暫時停用的合作夥伴中心帳戶 | 合作夥伴中心
+description: 了解如何還原暫時停用的合作夥伴中心帳戶、發生合作夥伴帳戶暫時停用的原因，以及暫時停用期間能如何使用帳戶。
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877028"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>還原暫時停用的合作夥伴中心帳戶
 
@@ -39,9 +42,9 @@ Microsoft 會基於下列其中一個原因而暫時停用合作夥伴中心帳�
 
 **若要提出支援要求**
 
-1.    在 **\[儀表板\]** 功能表中，選取 **\[支援要求\] > \[合作夥伴中心要求\]**。
-2.    選取 **\[新要求\]**。 
-3.    完成表單並選取 **\[提交\]**。 合作夥伴中心支援代表將會與您連絡，並說明帳戶遭暫時停用的原因以及復權方式。
+1.  在 **\[儀表板\]** 功能表中，選取 **\[支援要求\] > \[合作夥伴中心要求\]**。
+2.  選取 **\[新要求\]**。 
+3.  完成表單並選取 **\[提交\]**。 合作夥伴中心支援代表將會與您連絡，並說明帳戶遭暫時停用的原因以及復權方式。
 
 
 

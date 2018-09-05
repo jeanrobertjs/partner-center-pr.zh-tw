@@ -1,12 +1,14 @@
 ---
-title: "了解您的獎勵支付 | 合作夥伴中心"
-description: "檢視獎勵計畫的收益和支付。"
+title: 了解您的獎勵支付 | 合作夥伴中心
+description: 檢視獎勵計畫的收益和支付。
 author: labrenne
-ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
-ms.sourcegitcommit: e5fd98695ed481a46de6c7bc5b06625036a30f84
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: fb41598dfb79b8bbaee593aaffbd0cd79efbdd2c
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877428"
 ---
 #<a name="understand-your-incentive-payouts"></a>了解您的獎勵支付
 
@@ -106,7 +108,7 @@ ms.lasthandoff: 07/10/2017
 |[客戶名稱]  |   客戶的名稱 |
 |[客戶位置]  | 客戶所在的國家/地區  |
 |[主合約編號]    |合約名稱 |
-|[InvoiceNumber]| 發票號碼|
+|InvoiceNumber| 發票號碼|
 |[合約編號]   |授權合約編號 |
 |[訂閱識別碼]    |訂閱識別碼 |
 |[合約開始日期]   |授權合約的開始日期 |

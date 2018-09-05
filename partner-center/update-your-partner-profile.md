@@ -3,11 +3,13 @@ title: 更新您的合作夥伴設定檔 | 合作夥伴中心
 description: 當您第一次以系統管理員身分登入時，請確定支援詳細資料正確、回報免稅 (若適用)，並檢閱設定檔中的連絡人資訊。
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.openlocfilehash: 4e6f1fb61d48c6fa73bfa5966c53a72fc2cfe38f
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 739def78e0b6893fe71b754277d97f63684789c2
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877348"
 ---
 # <a name="update-your-partner-profile"></a>更新您的合作夥伴設定檔
 
@@ -29,10 +31,11 @@ ms.lasthandoff: 04/08/2018
 
 -   決定您是否適用免稅。如果適用，請在您新增任何客戶或訂閱之前提出申請。 請參閱[稅金與免稅](tax-and-tax-exemptions.md)。
 
-**確認您的設定檔資訊**
+**驗證和更新您的設定檔資訊**
 
 1.  前往 **\[設定\]** &gt; **\[檢視所有設定\]**。 
 2.  檢閱您的 **\[合作夥伴設定檔\]**、**\[合作夥伴帳單設定檔\]** 與 **\[組織設定檔\]**。
+3.  如果您需要變更您的法定登記地址的詳細資料，可能會進行驗證連絡到您的公司。 當您變更您的法定登記詳細資料，它可能會影響您的稅務資訊。 請確定您的稅務資訊保持正確。 連絡客戶[支援](https://partner.microsoft.com/support/contact-support)問題。
 
  
 

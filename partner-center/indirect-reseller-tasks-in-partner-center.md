@@ -4,11 +4,13 @@ description: 身為雲端解決方案提供者間接經銷商，您與間接提�
 ms.prod: ''
 author: MaggiePucciEvans
 keywords: 間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層
-ms.openlocfilehash: ff694f4cdb1b232812618f8b78ffc24238f0947e
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2f148d04b9e65624332bba8a2e687209856aa676
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877208"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接提供者建立合作關係
 

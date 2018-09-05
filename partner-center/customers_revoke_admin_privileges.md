@@ -3,12 +3,13 @@ title: 授予合作夥伴的客戶代理人系統管理權限 | 合作夥伴中�
 description: 身為經銷商合作夥伴，您的客戶可以委派您做為他們的系統管理員。他們也可以移除權限。
 author: labrenne
 keywords: 委派的管系統管理員權限, 代表的系統管理員, 移除權限
-ms.openlocfilehash: 7f1bd81f40892f851e1582a7a842a64c55e4ff63
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7209917a92eb2cd9ae86c31f3126bdbac402a04e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1913943"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877168"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>授予合作夥伴的客戶代理人系統管理權限
 

@@ -1,52 +1,49 @@
 ---
-title: "客戶支援 |合作夥伴中心"
-description: "您是您客戶首要的連絡點，而且應該要能提供客戶如下所列的技術與帳戶支援服務：帳單與訂閱支援。佈建/部署說明，以及軟體設定。解決效能問題、服務可用性問題、用戶端連線問題，以及因為遺失或未正確設定的設定、不完整的軟體整合、權限問題，或其他部署問題所造成的用戶端桌面問題。管理服務與軟體的更新。使用方式問題的解答。「雲端解決方案提供者」必須對客戶提供如何獲得支援的明確說明。 如果您未提供 24 小時電話支援，就必須提供服務層級協定，向客戶說明選項。 Microsoft 不對雲端解決方案提供者客戶提供支援。"
+title: 提供給您的客戶支援 |合作夥伴中心
+description: 合作夥伴，才能收到連入的支援要求的客戶、 診斷問題的合作夥伴的次數最並再解決問題的基準支援界限的範圍內的項目。
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 62a3a469180b084123f409e97f093056d36bfdd9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877268"
 ---
-# <a name="customer-support"></a>客戶支援
+# <a name="providing-support-to-your-customers"></a>您的客戶提供支援
 
-**適用於**
+**適用對象：**
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-您是您客戶首要的連絡點，而且應該要能提供客戶如下所列的技術與帳戶支援服務：
+## <a name="microsoft-partner-support-guidance"></a>Microsoft 合作夥伴支援指導方針
 
--   帳單與訂閱支援
+在雲端解決方案提供者模型中進行交易合作夥伴給其客戶受信任的顧問，擁有關係結束端對端，當他們的客戶會有問題，包括支援。 透過支援觸控點的合作夥伴可以深入了解的客戶，以及業務，以找出新的服務及磁碟機值的解決方案。
 
--   佈建/部署說明，以及軟體設定
+若要完成的支援需求，合作夥伴可能會轉售支援從另一個實體，它們可能會外包給其支援結構的全部或部分和/或他們可能會將結構設定為直接提供支援。  合作夥伴可能會收取所有或部分提供給客戶的支援。 合作夥伴應該表達給其客戶的支援他們提供，在服務幾小時後，請連絡方法，以及定價 （如果支援充電功能）。 
 
--   解決效能問題、服務可用性問題、用戶端連線問題，以及因為遺失或未正確設定的設定、不完整的軟體整合、權限問題，或其他部署問題所造成的用戶端桌面問題。
+合作夥伴，才能收到連入的支援要求的客戶、 診斷問題的合作夥伴的次數最並再解決問題的基準支援界限的範圍內的項目。 如果無法解決的問題，合作夥伴，他們可以向上呈報問題給 Microsoft 透過下列支援車輛：
 
--   管理服務與軟體的更新
+- **商業**問題支援是適用於雲端解決方案提供者計畫中的所有合作夥伴
+-   **提供技術支援問題**是可透過：
+    -   頂級支援適用於合作夥伴 （基底費用）
+    -   進階的支援適用於合作夥伴 （基底費用）
+    -   簽章 Cloud Support （隨附於金級/銀級專長認證）
 
--   使用方式問題的解答
+## <a name="providing-billing-subscription-management-and-technical-support"></a>提供帳單及訂閱管理技術支援 
 
-「雲端解決方案提供者」必須對客戶提供如何獲得支援的明確說明。 如果您未提供 24 小時電話支援，就必須提供服務層級協定，向客戶說明選項。 Microsoft 不對雲端解決方案提供者客戶提供支援。
+每個線上服務有特定和詳細需求，提供給客戶的帳單及訂閱管理技術支援。 請參閱下列文件，如需詳細資訊。
 
-## <a href="" id="supportingtrainingcustomers"></a>支援和訓練您的客戶
+-   [透過雲端解決方案提供者銷售 Dynamics 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+
+-   [透過雲端解決方案提供者銷售 azure 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+
+-   [透過雲端解決方案提供者銷售 office 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
-如果您收到許多說明和如何使用的問題、您的帳戶採用次數很低，或您正在尋求追加銷售的機會，您可以考慮訓練課程。 透過教導您的客戶如何更充分地使用他們購買的雲端解決方案軟體，您很可能就會看到生產力和滿意度提升，且支援需求也會下降。 如需建議和祕訣，請參閱[提高採用率與滿意度](increasing-adoption-and-satisfaction.md)。
-
-## <a name="customer-support"></a>客戶支援
-
-
-[提供帳單支援](provide-billing-support.md)
-
-[提供技術支援](provide-technical-support.md)
-
-[Microsoft 的客戶通訊](customer-communication-from-microsoft.md)
-
-[客戶自我支援](customer-self-support.md)
-
-[向上呈報問題給 Microsoft](escalate-problems-to-microsoft.md)
 
  
 

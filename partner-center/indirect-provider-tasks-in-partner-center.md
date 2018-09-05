@@ -2,12 +2,13 @@
 title: 在 CSP 中與間接經銷商建立合作關係 | 合作夥伴中心
 description: 做為間接提供者或代理商，您可以與間接經銷商合夥，以擴展您的觸及範圍。
 author: MaggiePucciEvans
-ms.openlocfilehash: 295dfa22feb6864697d8ffd94708f0868479b52a
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: bdb60386eda7c9b46f7616662cec6775b111ca1d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919888"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876768"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
 

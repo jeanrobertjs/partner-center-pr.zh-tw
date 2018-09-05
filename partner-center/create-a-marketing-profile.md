@@ -4,11 +4,13 @@ description: 在合作夥伴中心建立商務設定檔以透過 Microsoft 獲�
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, 推薦, 業務潛在客戶, C2PC, 公司設定檔, 行銷您的公司, 尋找合作夥伴, 尋找解決方案提供者, 商務設定檔, 行銷設定檔
-ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877623"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -16,7 +18,7 @@ FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
 FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
 FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
 FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
- -->
+-->
 
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>建立商務設定檔以透過 Microsoft 獲得業務潛在客戶
@@ -58,7 +60,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 標誌可以是 GIF、JPG、PNG 檔案，最大寬度為 300 像素。 我們建議使用方形或長的外觀比例。 不建議使用高的外觀比例。
 
-您的描述最多可有 1000 個字元。 建立絕佳描述的秘訣： 
+最多 2500年個字元，可以是您的描述。 建立絕佳描述的秘訣： 
 
 *  **要簡短**，將重要資訊放在第一個句子或前面兩個句子。 這應該是抓住客戶吸引力的標題。 在 [尋找合作夥伴] 搜尋體驗，我們在搜尋結果預覽中顯示第一行或前面兩行。
 *  **將貴公司經歷專注於 Microsoft 特定供應項目**。 搜尋推薦的客戶，通常正在尋找有 Microsoft 特定經驗的合作夥伴。

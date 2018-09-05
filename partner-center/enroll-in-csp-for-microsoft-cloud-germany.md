@@ -1,11 +1,14 @@
 ---
-title: "註冊 Microsoft Cloud 德國雲端解決方案提供者計畫 | Microsoft Cloud 德國合作夥伴中心"
-description: "在您註冊 Microsoft Cloud 德國雲端解決方案提供者計畫之前，請先深入了解雲端解決方案提供者計畫需求。"
+title: 註冊 Microsoft Cloud 德國雲端解決方案提供者計畫 | Microsoft Cloud 德國合作夥伴中心
+description: 在您註冊 Microsoft Cloud 德國雲端解決方案提供者計畫之前，請先深入了解雲端解決方案提供者計畫需求。
 author: MaggiePucciEvans
-ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
-ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877498"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>註冊 Microsoft Cloud 德國雲端解決方案提供者計畫
 
@@ -33,7 +36,7 @@ ms.contentlocale: zh-TW
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>步驟 1 - 建立專屬於 Microsoft Cloud 德國合作夥伴中心的帳戶 
 
-1.  若要註冊 Microsoft Cloud 德國 CSP 計畫，請移至 [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)，然後選取 **\[登入\]**。 
+1.  若要註冊 Microsoft Cloud 德國雲端解決方案提供者，請移至[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)然候選取**登入**。 
 
 2.  使用您公司專屬於 Office 365、Microsoft Azure 或 Microsoft Dynamics 的 Microsoft Cloud 德國帳戶的全域管理員認證進行登入。 如果您的公司沒有專屬於這些入口網站的帳戶，請選取 **\[建立帳戶\]** 以申請一個。
 
@@ -69,7 +72,7 @@ Microsoft Cloud 德國提供 Microsoft Azure 的獨立執行個體，這些執�
 >**注意**<br>
 將使用者指派給系統管理代理人角色之後，您的儀表板功能表中將會出現 **\[客戶\]** 功能表，您就可以存取客戶清單並[新增新客戶](add-a-new-customer.md)。   
 
-1.  登入 Azure 德國入口網站 (網址為 https://portal.microsoftazure.de/)。
+1.  登入 Azure 德國入口網站，在https://portal.microsoftazure.de/。
 
 2.  將系統管理代理人角色指派給組織中的適當使用者。 若要這樣做，您需要將這些使用者新增到內建的 **AdminAgent** 群組。 如需做法詳細資訊，請參閱[在 Azure Active Directory 中管理群組的成員](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)。
  

@@ -3,11 +3,13 @@ title: 可在合作夥伴中心取得協力廠商軟體 | 合作夥伴中心
 description: 您現在可以探索和購買要加入至產品組合提供給客戶的協力廠商軟體。
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
-ms.openlocfilehash: 78e586321305422d7e03153127b833b477491bf6
-ms.sourcegitcommit: 07bb4ad82a7f431ae4f04bcd488fa72e49b6ae7c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/28/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877438"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>將協力廠商軟體加入至您的產品組合
 

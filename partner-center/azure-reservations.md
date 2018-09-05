@@ -1,16 +1,17 @@
 ---
-title: Microsoft Azure VM 保留區概觀 | 合作夥伴中心
-Description: Overview of selling Microsoft Azure Reserved VM Instances in CSP.
+title: Microsoft Azure 保留區概觀 |合作夥伴中心
+Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
-keywords: azure, 保留區, vm, 管理, 帳單, 購買, Azure RI, Azure 保留的 VM 執行個體
-ms.openlocfilehash: 65306d265c88769c83a948a192bc96b2a0a76294
-ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
-ms.translationtype: HT
+keywords: azure，保留區，管理，帳單，購買，Azure RI，Azure 保留的執行個體
+ms.localizationpriority: medium
+ms.openlocfilehash: 3f5073bfd82d16485e3f0d5f4c9f79b1d5b5e7c7
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2018
-ms.locfileid: "1978565"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876958"
 ---
-# <a name="sell-microsoft-azure-reserved-vm-instances"></a>銷售 Microsoft Azure 保留的 VM 執行個體 
+# <a name="sell-microsoft-azure-reserved-instances"></a>銷售 Microsoft Azure 保留的執行個體 
 
 **適用對象：**
 
@@ -18,32 +19,40 @@ ms.locfileid: "1978565"
 -  Microsoft Azure 入口網站
 -  雲端解決方案提供者中的合作夥伴
 
-雲端解決方案提供者 (CSP) 中的合作夥伴現在可提供 Microsoft Azure 虛擬機器上的保留執行個體給客戶。 如果客戶事先保留 Azure 虛擬機器上的空間，即可獲得大幅節省。 Azure 保留的 VM 執行個體以下列方式提供簡易和彈性給客戶：
+雲端解決方案提供者計畫 (CSP) 中的合作夥伴可提供給其客戶的保留執行個體的 Microsoft Azure。 客戶事先保留即可獲得大幅節省。 Azure 保留的執行個體提供給客戶簡易和彈性以下列方式：
 
 -   一年或三年保留期限 
--   容易入門；幾秒內就能設定好虛擬機器 
+-   容易入門;在數秒內完成安裝 
 -   隨時可取消或交換保留的執行個體以調整退款 
 -   可在組織或個別部門層級管理保留的執行個體使用率 
 
-若要深入了解 Azure 保留的 VM 執行個體，請參閱 Microsoft Azure 網站上的 [Azure 保留的 VM 執行個體供應項目](https://azure.microsoft.com/pricing/reserved-vm-instances/)和[一起變得更好：Azure 保留的 VM 執行個體和伺服器訂閱](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/) (英文)。
-
 > [!NOTE]  
-> 下列市場未提供 Azure 保留的 VM 執行個體：  
-> * 巴西  
-> * 中國  
-> * 印度  
-> * 俄羅斯  
-> * 南韓  
-> * 台灣  
+> 下列市場未提供 azure 保留的執行個體：  
+> * 阿根廷
+> * 亞塞拜然
+> * 白俄羅斯
+> * 巴西
+> * 中國
+> * 印度
+> * 印尼
+> * 哈薩克
+> * 列支敦斯登
+> * 馬來西亞
+> * 墨西哥
+> * 俄羅斯
+> * 沙烏地阿拉伯
+> * 南非
+> * 南韓
+> * 台灣
+> * 土耳其
+> * 烏克蘭
 
-Azure 保留的 VM 執行個體的可用性將會以下列方式吸引您的客戶：
+Azure 保留的執行個體的可用性將會以下列方式吸引您的客戶：
 
 -   保留的執行個體相較於隨付隨用 (PAYG) 定價，能提供大幅度節省
 -   事先支付一年或三年期限，能更理想掌控預算和預測 
 -   優先使用最接近辦公室的 Azure 區域運算容量  
--   Azure Reservations 結合 Microsoft Windows Server 和 Azure SQL Database (即將於合作夥伴儀表板推出) 等軟體時，可提供端對端解決方案的基礎結構。   
-
-如需客戶如何受惠於事先購買 Azure 虛擬機器執行個體的詳細資訊，請參閱 Azure 說明中的[使用 Azure 保留的虛擬機器執行個體以節省虛擬機器的成本](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)。
+-   Azure reservations，可提供端對端解決方案的基礎結構結合 Microsoft Windows Server 和 Azure SQL Database 等軟體時。   
 
 ## <a name="before-you-begin"></a>在您開始前
 
@@ -57,18 +66,15 @@ Azure 保留的 VM 執行個體的可用性將會以下列方式吸引您的客�
 -   如果客戶想將 Azure 訂閱從直接或 EA 轉移至雲端解決方案提供者，保留區無法轉移。 
 
 >[!NOTE]
-> 您可以同時在合作夥伴儀表板和 Azure 入口網站中，以及使用合作夥伴儀表板 API 來購買、販售和管理 Azure 保留的執行個體。 請依照下列連結以深入了解。 
+> 您可以購買、 販售，和管理 Azure reservations，同時在合作夥伴儀表板和 Azure 入口網站，以及使用合作夥伴中心 API。 請依照下列連結以深入了解。 
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
 |**如需以下相關資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
 |在合作夥伴儀表板中為您的客戶購買 Azure Reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
-|Azure Reservations 的帳單   |[Azure Reservations 的帳單](azure-reservations-billing.md)   |
 |在合作夥伴儀表板中管理 Azure Reservations | [在合作夥伴儀表板中管理 Azure Reservations](azure-reservations-manage.md)
 |判斷正確的 VM 大小，並確認客戶 VM 使用率   |[調整 VM 大小以提供最大 Azure Reservations 使用率](azure-usage.md)   |
-|在 Azure 入口網站中購買 Azure Reservations | Azure 說明中的[預付具有 Azure 保留的 VM 執行個體的虛擬機器](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
-|在 Azure 入口網站中管理 Azure Reservations   |Azure 說明中的[管理保留的 VM 執行個體](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
-|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
+|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
 
  
 

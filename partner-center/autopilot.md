@@ -3,11 +3,13 @@ title: 透過 Windows Autopilot 簡化裝置設定 | 合作夥伴中心
 description: 在合作夥伴中心新增 Windows AutoPilot 部署設定檔，以透過 Windows Autopilot 簡化裝置設定
 author: KPacquer
 keywords: autopilot, windows autopilot, microsoft autopilot, 全自動部署, oobe, 登入畫面
-ms.openlocfilehash: b106577ef60dba6535f89d2ef4bce4a5d19bedd9
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: b9fc13accd5d229f66ed425ace68e0df00e14016
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877578"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>透過 Windows Autopilot 簡化裝置設定 
 
@@ -61,7 +63,7 @@ ms.lasthandoff: 04/08/2018
 
     d.  按一下 **\[瀏覽\]** > 選取裝置資訊檔案 > **\[驗證\]**。
 
-    **注意：**如果您在嘗試上傳 .csv 檔案後收到錯誤訊息，請檢查檔案的格式。 8 月之後，您可以只使用 [硬體雜湊]，或使用 OEM 名稱、序號和型號等欄位 (依此順序)，或是 Windows 產品識別碼。 您也可以使用 **\[新增裝置\]** 旁邊連結所提供的範例 .csv 檔案。
+    **注意：** 如果您在嘗試上傳 .csv 檔案後收到錯誤訊息，請檢查檔案的格式。 8 月之後，您可以只使用 [硬體雜湊]，或使用 OEM 名稱、序號和型號等欄位 (依此順序)，或是 Windows 產品識別碼。 您也可以使用 **\[新增裝置\]** 旁邊連結所提供的範例 .csv 檔案。
 
 2.  建立可套用至裝置的設定檔 (只有系統管理代理人擁有可在合作夥伴儀表板建立和套用設定檔的存取權)。
 
