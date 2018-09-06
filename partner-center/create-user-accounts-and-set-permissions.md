@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c5735a61a867c06268bb2257f3295d49bbe83f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874568"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405430"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>建立使用者帳戶與指派權限
 
@@ -61,6 +61,12 @@ ms.locfileid: "2874568"
 
 >[!Important]
 >使用者必須至少獲指派一個角色，才能在合作夥伴儀表板中工作。
+
+
+### <a name="find-your-global-admin"></a>尋找您的全域管理員
+
+有時使用者可能需要變更其角色，或為新的使用者可能會想要的特定的角色指派。  
+若要尋找的 「 全域管理員使用者可以進行角色變更或 [將角色指派給新的使用者，從頂端的**設定圖示**右邊的儀表板，選取 [**管理使用者**和篩選器上全域系統管理員。 
 
 如需角色與每個角色可以採取什麼動作的特定資訊，請參閱[指派使用者權限](permissions-overview.md)。
 
