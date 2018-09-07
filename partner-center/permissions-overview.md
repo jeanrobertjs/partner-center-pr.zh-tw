@@ -4,12 +4,12 @@ description: 需要使用合作夥伴儀表板每個員工必須有指派的角�
 author: labrenne
 keywords: 角色、 權限，系統管理員、 代理程式
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6e32b5e65d2d1dc52a5703fc405a14f9d5bc3e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
+ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875988"
+ms.lasthandoff: 09/07/2018
+ms.locfileid: "3630609"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色與權限
 
@@ -62,6 +62,7 @@ ms.locfileid: "2875988"
 <td><ul>
 <li><p>檢視、建立和管理使用者</p></li>
 <li><p>檢視所有合作夥伴設定檔</p></li>
+<li><p>檢視、建立和管理合作夥伴使用者</p></li>
 </ul></td>
 </tr>
 <tr class="even">
