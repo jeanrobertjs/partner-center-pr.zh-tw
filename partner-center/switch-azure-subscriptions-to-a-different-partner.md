@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
+ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877558"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "3966155"
 ---
 # <a name="transfer-azure-subscriptions"></a>轉移 Azure 訂閱 
 
@@ -20,9 +20,11 @@ ms.locfileid: "2877558"
 
 客戶可以決定切換至雲端解決方案提供者或其 Microsoft Azure 服務中的其他合作夥伴。 不過，這是需要合作夥伴和客戶雙方手動操作的程序。
 
-**注意：** 在這個階段只直接或間接提供者可轉移訂閱。
+>[!Note]  
+>這一次僅限直接或間接提供者都能轉移訂閱。
 
-**注意** 目前無法變更 Office 365、Enterprise Mobility Suite 或 Microsoft Dynamics CRM 訂閱之雲端解決方案提供者訂閱的合作夥伴。
+>[!Note] 
+>它不是目前無法變更 Office 365、 Enterprise Mobility Suite 或 Microsoft Dynamics CRM 的訂閱之雲端解決方案提供者訂閱的合作夥伴。
 
 
 
@@ -30,7 +32,8 @@ ms.locfileid: "2877558"
 
 1.  如果要將 Azure 訂閱轉移至新的合作夥伴，客戶必須開始該程序，並以書面方式連絡其目前記錄的合作夥伴。 
 
-    >**注意**<br> 目前的合作夥伴必須負責建立起始移轉程序的服務票證。 Microsoft 無法代表客戶或新合作夥伴介入。 客戶應做好與目前合作夥伴密切合作的計劃，使轉移程序進行順暢。
+    >[!Note]
+    >目前的合作夥伴必須負責建立起始移轉程序的服務票證。 Microsoft 無法代表客戶或新合作夥伴介入。 客戶應做好與目前合作夥伴密切合作的計劃，使轉移程序進行順暢。
 
 2.  該訂閱的合作夥伴必須執行下列工作：
 
@@ -54,7 +57,8 @@ ms.locfileid: "2877558"
 
     -   要移轉的訂閱識別碼。 在展開的客戶列表中，選取 **\[檢視訂閱\]**，然後展開已選擇的訂閱以查看 **\[訂閱識別碼\]**。
 
-    >**注意**<br> 轉移訂閱會產生兩個訂閱識別碼，您會在已轉移訂閱的 **\[編輯訂閱\]** 頁面上看到這兩個訂閱碼：**1**- 合作夥伴中心訂閱識別碼，用於計費目的。 
+     >[!Note]
+     >轉移訂閱會產生兩個訂閱識別碼，您會在已轉移訂閱的 **\[編輯訂閱\]** 頁面上看到這兩個訂閱碼：**1**- 合作夥伴中心訂閱識別碼，用於計費目的。 
     **2** - 原始 Azure 訂閱識別碼也會保留並出現在合作夥伴中心，以及 Azure 管理入口網站中。 這個識別碼會出現在您的對帳檔案。  **記錄支援票證時，這兩個識別碼都要用到。**
 
 4.  訂閱的客戶和新合作夥伴：
@@ -62,6 +66,9 @@ ms.locfileid: "2877558"
     檢閱表單，填寫新合作夥伴的相關資訊，然後簽署該表單。 確認新客戶已準備好合約協定。 將表單重新寄給目前記錄的合作夥伴。
 
     *重要*：如果新的雲端解決方案提供者與客戶之間沒有經銷商關係，則他們必須在移轉之前建立關係。 [您可以在這裡找到相關做法的資訊](request-a-relationship-with-a-customer.md)。
+
+    >[!Note]
+    >新的雲端解決方案提供者合作夥伴和客戶租用戶必須是相同的區域。 
 
 5.  目前的合作夥伴︰
 
