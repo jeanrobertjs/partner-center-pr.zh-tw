@@ -4,12 +4,12 @@ description: 購買適用於 Microsoft 產品的協力廠商軟體
 author: labrenne
 keywords: 協力廠商供應項目, 要購買的軟體
 ms.localizationpriority: medium
-ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
+ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875518"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "4062160"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>將協力廠商軟體加入至您的產品組合
 
@@ -21,7 +21,7 @@ ms.locfileid: "2875518"
 
 合作夥伴中心目前有整合於 Azure、Office 365 或 Dynamics 的協力廠商供應項目。 
 
-## <a name="connecting-with-third-party-partners"></a>與協力廠商合作夥伴保持聯繫
+## <a name="connect-with-third-party-partners"></a>與協力廠商合作夥伴保持聯繫
  
 身為雲端解決方案提供者合作夥伴，您可以搜尋所有協力廠商軟體供應項目。 您可以與 ISV 合作夥伴連線，並建立您的產品目錄。 ISV 合作夥伴也可以搜尋要與之合作的雲端解決方案提供者合作夥伴。 他們可以搜尋您銷售的 Microsoft 產品類型，以及檢閱您的商務設定檔。 請務必讓商務設定檔保持在最新狀態。 您按一下位於產品識別碼的 [我有興趣] 按鈕，再填寫出現的表單，即可通知 ISV 合作夥伴，表示您對他們的產品感興趣。 Microsoft 會將它傳送給 ISV 合作夥伴。 他們的回應會保留在合作夥伴中心。 同樣的，當 ISV 合作夥伴表達與您合作的興趣時，您也會經由合作夥伴中心收到通知。 力求在 48 小時內回應。
 
