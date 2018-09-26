@@ -5,12 +5,12 @@ ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 25f57a2ddc16ebb1f98d6f2f083fca870b74fdff
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dadd034214edabcea3d96c7e86f9c1de609dd3d3
+ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876268"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "4197686"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 
@@ -32,7 +32,11 @@ ms.locfileid: "2876268"
 
 **Microsoft Azure**
 
-**注意**：為了讓您可以替 Azure 中的客戶建立服務要求，您的間接提供者必須授與您對客戶 Azure 帳戶的存取權。 這與代表 Office 365 的客戶進行管理有所不同。   
+**注意：** 當您需要為您在 Azure 中的客戶建立服務要求時，請注意下列內容：
+
+- 為了讓您在 Azure 中的客戶建立服務要求，您的間接提供者必須授與您存取客戶的 Azure 帳戶。 這與代表 Office 365 的客戶進行管理有所不同。 
+
+- 雖然在合作夥伴中心的技術服務系統管理員無法在 Azure 服務入口網站中建立服務要求，可以做什麼是 Azure 服務入口網站中建立支援群組，並提供給該群組的權限來記錄支援要求。
 
 1.  選取 **\[新增支援要求\]**。
 2.  以適當的資訊填寫支援要求，並選取 **\[建立\]**：
@@ -90,7 +94,7 @@ ms.locfileid: "2876268"
 
 **如何取得其他 Dynamics 365 支援？**
 
- 如果您遇到問題的相關： 帳單 」，財務 Dynamics 365 計畫訂閱、 授權，與作業、 IURs 或您需要進一步的技術支援：
+ 如果您遇到問題的相關： 財務 Dynamics 365 計畫訂用帳戶，授權，帳單，與作業、 IURs 或您需要進一步的技術支援：
  
 連絡客戶[支援 Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

@@ -4,12 +4,12 @@ description: 當您第一次以系統管理員身分登入時，請確定支援�
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ce6ba69f39bd23e9c7a8275e5d619881419dc3d
-ms.sourcegitcommit: 602f29fb7c1ec054f6f7ddac2e7d85a6f1657f8e
+ms.openlocfilehash: 34372626af495800abba254b06a161243a991e6f
+ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "4095880"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "4197666"
 ---
 # <a name="update-your-partner-profile"></a>更新您的合作夥伴設定檔
 
@@ -28,7 +28,7 @@ ms.locfileid: "4095880"
 
 在您註冊**您的 MPN 識別碼到您的合作夥伴儀表板帳戶建立關聯**，在螢幕上合作夥伴儀表板中，在搜尋方塊中輸入 MPN 識別碼。 這可讓我們連接到您的位置的該 MPN 識別碼。
 
-1. 您可以也登入合作夥伴儀表板，移至 [**設定** &gt; **檢視所有設定** &gt;**的合作夥伴設定檔**。
+1. 您也可以登入合作夥伴儀表板，移至**設定] 圖示**，然後選取**合作夥伴設定**。
 
 2. 從您的合作夥伴設定檔上的位置清單中，選取您想要與該 MPN 識別碼產生關聯或搜尋方塊中輸入 MPN 識別碼的位置。
 
@@ -38,8 +38,8 @@ ms.locfileid: "4095880"
 
 **更新您的支援詳細資料** 
 
-1.  移至 **\[設定\]** &gt; **\[檢視所有設定\]** &gt; **\[合作夥伴設定檔\]**。
-2.  在 **\[支援\]** 區段中，選取 **\[更新\]**。
+1.  移至**設定] 圖示**，並選取 [**合作夥伴設定**。
+2.  在頁面的 [**支援**] 區段中，選取 [**更新**]。
 3.  如果您的任何客戶打電話給 Microsoft 尋求支援，Microsoft 會請他們轉向您在支援設定檔中列出的網站、電子郵件與電話連絡人資訊。
 
 **回報免稅**
@@ -48,7 +48,7 @@ ms.locfileid: "4095880"
 
 **驗證和更新您的設定檔資訊**
 
-1.  前往 **\[設定\]** &gt; **\[檢視所有設定\]**。 
+1.  移至**設定] 圖示**，並選取 [**合作夥伴設定**。 
 2.  檢閱您的 **\[合作夥伴設定檔\]**、**\[合作夥伴帳單設定檔\]** 與 **\[組織設定檔\]**。
 3.  如果您需要變更您的法定登記地址的詳細資料，可能會連線到您的公司進行驗證。 當您變更您合法的詳細資料，它可能會影響您的稅務資訊。 請確定您的稅務資訊保持正確。 連絡客戶[支援](https://partner.microsoft.com/support/contact-support)問題。
 
