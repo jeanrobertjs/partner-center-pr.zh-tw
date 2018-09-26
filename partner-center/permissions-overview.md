@@ -4,12 +4,12 @@ description: 需要使用合作夥伴儀表板每個員工必須有指派的角�
 author: labrenne
 keywords: 角色、 權限，系統管理員、 代理程式
 ms.localizationpriority: medium
-ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
-ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
+ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
+ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/07/2018
-ms.locfileid: "3630609"
+ms.lasthandoff: 09/26/2018
+ms.locfileid: "4227442"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色與權限
 
@@ -17,17 +17,19 @@ ms.locfileid: "3630609"
 
 - 合作夥伴儀表板
 
-在儀表板中的每個角色隨附的特定權限讓使用者執行特定工作。 在儀表板中的運作方式的所有人必須獲指派角色。
+在儀表板中的每個角色隨附的特定權限允許使用者執行特定工作。 在儀表板中的運作方式的所有人必須獲指派角色。
 
-根據您的組織的規模某些使用者可能會工作地點或僅適用於一個位置。 
+根據您的組織的規模某些使用者可能會工作地點或僅適用於同一個位置。 
 
 例如：
 
-- 全域系統管理員可以是法定登記營業和特定位置; 的系統管理員或者，全域系統管理員可以是僅在其中一個位置商務版的系統管理員。 
-- 獎勵系統管理員可以管理一或多個位置，但這些位置說明需要指定。
+- 全域系統管理員可以是法定登記營業和特定位置; 的系統管理員或者，全域系統管理員可以是只在其中一個位置的企業系統管理員。 
+- 獎勵系統管理員可以管理一或多個位置，但需要指定這些位置。
 
 
 下表說明每個角色可在合作夥伴儀表板執行的動作。 思考如何指派角色時，請考慮使用者在組織中執行的工作。 例如，您可能會希望全域管理員同時也是系統管理代理人。 處理行銷的人員可以同時管理商務設定檔。
+
+如需角色與權限的概觀，閱讀[建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)。
 
 <table>
 <colgroup>
@@ -115,7 +117,7 @@ ms.locfileid: "3630609"
 <tr class="odd">
 <td><p><strong>獎勵使用者</strong></p></td>
 <td><ul>
-<li><p>可以檢視獎勵計畫</p></li>
+<li><p>可檢視獎勵計畫</p></li>
 <li><p>可檢視和起始獎勵宣告</p></li>
 <li><p>可檢視銀行及稅務詳細資料</p></li>
 <li><p>檢視回贈和合作收益</p></li>
