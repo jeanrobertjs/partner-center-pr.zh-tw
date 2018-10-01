@@ -1,25 +1,25 @@
 ---
-title: 合作夥伴貢獻-上方效能指標掌握 |合作夥伴中心
-Description: Use partner contributions to understand how your business is growing and succeeding
+title: 合作夥伴貢獻-維持在效能指示器上方 |合作夥伴中心
+Description: Use partner contributions data to understand how your business is growing and succeeding
 Author: labrenne
 keywords: 業務資料
 ms.localizationpriority: medium
-ms.openlocfilehash: bfdc1f67225ac7ca24fa33d3992b95617d16b321
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4aafc30e4fed9dbaefff818f1c6a4a2affeb0af2
+ms.sourcegitcommit: 6dc4be68a77b5068dc0c7cb171d017200db76ede
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875528"
+ms.lasthandoff: 10/01/2018
+ms.locfileid: "4242801"
 ---
-# <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>合作夥伴貢獻： 在您的效能指示器上方保持
+# <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>合作夥伴貢獻： 在您的效能指示器上方所留
 
 **適用對象：**
 - 合作夥伴中心
 
-資料推動業務決策。 使用合作夥伴貢獻頁面上的計量，找出您的成功之處、您客戶的成功之處，以及需要注意的領域。 您也可以查看您與其他合作夥伴的績效比較。 在規劃新的業務務目標時，請使用此資訊。
+資料推動業務決策。 使用合作夥伴貢獻頁面上的計量，找出您的成功之處、您客戶的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。
 
 >[!NOTE]
->合作夥伴貢獻是目前僅適用於銷售 Dynamics 365 的合作夥伴。
+>合作夥伴貢獻，目前僅適用於銷售 Dynamics 365 的合作夥伴。
 
 我們正在追蹤下列計量︰
 
@@ -44,6 +44,9 @@ ms.locfileid: "2875528"
 
 每個計量顯示為一個長條 (1 到 4)，代表使用所選篩選器 (產品、工作負載、客戶位置) 與其他合作夥伴進行比較的位置。 這些長條下面的值是最小值和最大值 (min & max) 的值範圍。 將滑鼠游標停留在長條上時，會顯示每個長條的最小值和最大值範圍。  
 
+8. **資料重新整理月份**： 行尾 12 個月，最多選取來計算計量。
+9. **計量趨勢**： 相較於前一個月的行尾 12 個月趨勢。 箭號指示趨勢方向。 如果您沒有看到箭號，趨勢未變更。
+
 >[!NOTE] 
 >- 計量會對行尾 12 個月 (TTM) 的所有客戶進行彙總，但「已認證個人」除外        
 >- 將根據您套用至產品、工作負載和客戶位置的篩選器來計算計量
@@ -54,19 +57,19 @@ ms.locfileid: "2875528"
 ## <a name="frequently-asked-questions"></a>常見問題集
 
 1. 為什麼看不到合作夥伴貢獻頁面上？
-    - 合作夥伴貢獻是目前僅適用於銷售 Dynamics 365 擁有 MPN 或雲端解決方案提供者帳戶的合作夥伴。 這項功能不會適用於中國和德國尚未啟用。
+    - 合作夥伴貢獻，目前僅適用於銷售 Dynamics 365 擁有 MPN 或雲端解決方案提供者帳戶的合作夥伴。 這項功能不會針對中國和德國尚未啟用。
 2. 我是為 Dynamics 365 的合作夥伴，為什麼無法看到合作夥伴貢獻資料？
-      - 您可能不需要 MPN 或雲端解決方案提供者帳戶角色。 例如： 建議和 DAP 仍未啟用。  
+      - 您可能沒有 MPN 或雲端解決方案提供者帳戶角色。 例如： 顧問和 DAP 仍未啟用。  
     - 若要檢視此頁面在組織中沒有適當的使用者角色。 請連絡您的全域系統管理員。
 
-    - 您的組織會位於中國或德國中。
+    - 您的組織都位於中國或德國中。
 
-3. 我的淨新增營收 > 0，但我是否有任何資料的每月的作用中使用者 (MAU)？
-    - 適用於大部分 VL 或 Open channel 帳單的客戶顯示在佈建的基座，讓我們看不到 MAU 尚未前。
+3. 我的淨新增營 > 0，但我是否有任何資料的每月的作用中使用者 (MAU)？
+    - 適用於大部分 VL 或 Open channel 帳單的客戶顯示讓我們看不到 MAU 尚未佈建的基座前。
 
-4.  為何我 MAU > 0，但我是否有任何資料的淨新增營收嗎？
-    - 對於 Web Direct 或轉銷商，在帳單週期內的資料之前，在佈建基座。 帳單可能會發生的月份、 四分之一處或更新版本為基礎的訂閱的條款。 這也是使用試用訂閱、 內部使用權、 及政府客戶。
-5.  我的營收的資料不符合？
-    - 這是最有可能因為 DPOR 關聯、 時間的差異或非雲端資料。
+4.  為何我 MAU > 0，但我是否有任何資料的淨新增營嗎？
+    - 對於 Web Direct 或轉銷商，基座佈建之前在帳單週期內的資料。 帳單會發生月份、 四分之一或更新版本為基礎的訂閱的條款。 這也會發生試用訂閱、 內部使用權、 與政府客戶。
+5.  我的營收資料沒有怎麼辦？
+    - 這是最有可能因為 DPOR 關聯、 計時差異或非雲端資料。
 6.  為何我已認證個人資料低？
-    - 我們只顯示特定的客戶租用戶區域中，人員已通過 1 或多個 5 的一項測驗所需的雲端業務應用程式專長認證、 客戶參與或財務與選項的路徑。   
+    - 我們只顯示特定的客戶租用戶區域內，使用者已通過 1 或多個 5 的一項測驗所需的雲端業務應用程式專長認證、 客戶參與或財務與選項的路徑。   
