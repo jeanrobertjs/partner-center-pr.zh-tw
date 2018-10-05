@@ -5,12 +5,12 @@ ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875178"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377540"
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -24,10 +24,10 @@ ms.locfileid: "2875178"
 
 如果雲端解決方案提供者計畫中的合作夥伴已選擇每月計費，應於 60 天內，向 Microsoft 支付其客戶的訂閱費用 (包括授權型與用量型)。
 
->**注意**<br>
-您的發票是目前每個月期間所有費用 (涵蓋方案、產品以及客戶) 的摘要，將於您所選帳單日期的 4 天內提供。
+> [!NOTE]  
+> 您的發票是目前每個月期間所有費用 (涵蓋方案、產品以及客戶) 的摘要，將於您所選帳單日期的 4 天內提供。
 
-您會收到一張發票適用於授權型 (Office365) 以及用量型 (Azure) 的費用，以及適用於一次性 （Azure 保留的 VM 執行個體） 個別發票費用。
+您會收到一張發票授權型 (Office365) 和用量型 (Azure) 費用，以及適用於一次性 （Azure 保留的 VM 執行個體） 個別發票費用。
 
 如需費用的分項詳細資料，請使用隨附的對帳檔案。 對帳檔案包含客戶識別碼和您將用來建立客戶發票的訂閱識別碼。 如需詳細資訊，請參閱[如何使用對帳檔案](use-the-reconciliation-files.md)。
 
@@ -75,7 +75,7 @@ ms.locfileid: "2875178"
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>稅金，稅金專屬費用與點數前總計。</td>
+<td>稅金，稅金獨占費用與點數前總計。</td>
 </tr>
 <td>稅金</td>
 <td>在發票第 2 頁開始位置的詳細資料區段中加總的目前費用的總稅金。 此數字是以下所有費用的總和：

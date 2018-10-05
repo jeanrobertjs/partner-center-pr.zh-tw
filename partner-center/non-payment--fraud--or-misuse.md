@@ -5,12 +5,12 @@ ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876278"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377700"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未付款、詐騙或濫用
 
@@ -61,7 +61,8 @@ ms.locfileid: "2876278"
 
 #### <a name="post-purchase-customer-account-management"></a>購買後客戶帳戶管理
 - 在設定適當監控閾值時，與客戶合作來了解他們的雲端使用量商務需求。
-    >**注意**：您可以在合作夥伴中心[設定每月 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)來監視客戶當月份的使用量，並在客戶接近其預算時收到通知。
+    > [!NOTE]  
+    >  您可以[設定每月 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)在合作夥伴中心來監視客戶使用方式在月份內，並在客戶接近其預算時收到通知。
 - 定期監視[客戶活動記錄](activity-logs.md)，有助於早期偵測詐騙
 - 當偵測到可疑活動時，採取快速行動
 - 避免在沒有預先實作降低風險管控措施的情況下授與客戶對訂用帳戶的完整系統管理存取權限
@@ -74,8 +75,8 @@ ms.locfileid: "2876278"
 
 如需降低線上風險的詳細策略，請參閱[線上交易風險管理指南。](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
 
->**重要事項**<br>
-如果 Microsoft 偵測到合作夥伴或客戶活動經證實或有違反使用原則之嫌疑時，我們將會強制執行必要步驟。 可能會立即將客戶暫時停權，並根據您的要求通知您 Microsoft 所強制執行的動作或更新。
+> [!IMPORTANT]  
+> 如果 Microsoft 偵測到合作夥伴或客戶活動經證實或有違反使用原則之嫌疑時，我們將會強制執行必要步驟。 可能會立即將客戶暫時停權，並根據您的要求通知您 Microsoft 所強制執行的動作或更新。
 
  
 

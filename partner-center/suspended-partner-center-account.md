@@ -4,12 +4,12 @@ description: 了解如何還原暫時停用的合作夥伴中心帳戶、發生�
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: da54c5bdbf9b28eb54d459b0b383b067478b0b6f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877028"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377550"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>還原暫時停用的合作夥伴中心帳戶
 
@@ -21,8 +21,8 @@ ms.locfileid: "2877028"
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
->**重要事項**<br>
-當您的合作夥伴中心帳戶遭暫時停用時，您可以繼續管理現有的部署、授權與服務。 不過，您將無法授權或轉售新的授權或服務，直到至帳戶恢復良好信譽為止。
+> [!IMPORTANT]  
+> 當您的合作夥伴中心帳戶遭暫時停用時，您可以繼續管理現有的部署、授權與服務。 不過，您將無法授權或轉售新的授權或服務，直到至帳戶恢復良好信譽為止。
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>合作夥伴中心帳戶遭暫時停用的原因
 

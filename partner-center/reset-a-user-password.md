@@ -4,12 +4,12 @@ description: 如果使用者忘記密碼，您可以指派臨時密碼給他們�
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: d8b69ed976b8ee24edc9060a7d0d5fd252ea02bd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876838"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377420"
 ---
 # <a name="reset-a-user-password"></a>重設使用者密碼
 
@@ -17,7 +17,8 @@ ms.locfileid: "2876838"
 
 -  合作夥伴中心
    
->**注意** 如果您已經註冊 Microsoft Cloud 德國雲端解決方案提供者計畫，請參閱[在 Microsoft Cloud 德國合作夥伴中心內的使用者管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)，進一步瞭解如何重設使用者密碼。
+> [!NOTE]  
+>  如果您已經在 Microsoft Cloud 德國雲端解決方案提供者 (CSP) 計畫中註冊，請參閱[Microsoft Cloud 德國合作夥伴中心內的使用者管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)，瞭解如何重設使用者的密碼。
 
 如果使用者忘記密碼，請指派臨時密碼給他們。 他們下次登入合作夥伴中心時可以使用臨時密碼。
 

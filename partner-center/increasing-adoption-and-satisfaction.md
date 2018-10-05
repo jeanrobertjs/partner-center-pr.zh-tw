@@ -4,12 +4,12 @@ description: 我們的合作夥伴使用許多標準來衡量事業是否有成�
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b08e68a9c158d024a885521dbac8beaab5323d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875608"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377610"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
@@ -21,7 +21,8 @@ ms.locfileid: "2875608"
 
 透過「雲端解決方案提供者」計畫，您可以看到您所有客戶的資料。 請注意，某些客戶可能會從其他合作夥伴或直接向 Microsoft 購買，這樣您將會看到所有合作夥伴的授權總量。 若只要看到您自己的授權，請改為移至客戶的訂閱。
 
->**注意**<br> 目前，我們只會顯示 Office 365 和 Dynamics 365 的資料。 我們未來會啟用其他產品的資料。
+> [!NOTE]  
+>  目前，我們只會顯示 Office 365 和 Dynamics 365 的資料。 我們未來會啟用其他產品的資料。
 
 ## <a name="find-license-and-user-data"></a>尋找授權和使用者資料
 

@@ -3,12 +3,12 @@ title: 在 CSP 中與間接經銷商建立合作關係 | 合作夥伴中心
 description: 做為間接提供者或代理商，您可以與間接經銷商合夥，以擴展您的觸及範圍。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bdb60386eda7c9b46f7616662cec6775b111ca1d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876768"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377760"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
 
@@ -46,7 +46,8 @@ ms.locfileid: "2876768"
 
 當您完成這些步驟之後，您可以從 **\[儀表板\]** 功能表的 **\[間接經銷商\]** 頁面管理經銷商合作關係。
 
->**重要**<br> 在開始與經銷商合作前，他們必須在雲端解決方案提供者計畫中註冊為間接經銷商，並有合作夥伴儀表板帳戶。 指引您的經銷商參閱[在 CSP 中與間接提供者建立合作關係](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)，以取得註冊 CSP 的相關資訊。 
+> [!IMPORTANT]   
+> 在開始與經銷商合作前，他們必須在雲端解決方案提供者計畫中註冊為間接經銷商，並有合作夥伴儀表板帳戶。 指引您的經銷商參閱[在 CSP 中與間接提供者建立合作關係](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)，以取得註冊 CSP 的相關資訊。 
 
 ## <a name="connect-with-indirect-resellers"></a>與間接經銷商聯繫
 
@@ -59,8 +60,8 @@ ms.locfileid: "2876768"
 2. 在 **\[間接經銷商\]** 頁面上，選取 **\[要求建立經銷商關係\]**。 出現草稿電子郵件訊息。
 
 3. 選取 **\[在電子郵件中開啟\]**，在預設的郵件應用程式中開啟訊息，或選取 **\[複製到剪貼簿\]**，將該訊息複製和然後貼到電子郵件。 完成時選取 **\[完成\]**。
-
-   >**重要** 您可以在電子郵件中編輯文字，但是請務必包含連結，因為它針對您的合作夥伴儀表板帳戶已個人化。
+    > [!IMPORTANT]  
+    >  您可以編輯電子郵件訊息中，文字，但是請務必包含連結，因為它針對您的合作夥伴儀表板帳戶已個人化。
 
 4. 經銷商接受您的建立合作關係要求之後，他們會顯示在您的間接經銷商清單中，您就可以： 
 
@@ -97,8 +98,8 @@ ms.locfileid: "2876768"
 5.  如果是正確的訂單，請選取 **\[提交\]**。 如果訂單不正確，請選取 **\[取消\]** 以取消整個作業並從頭開始。
 
 6.  提交訂單之後，**\[確認\]** 頁面隨即出現。 **\[安裝資訊\]** 下方會顯示系統管理員使用者帳戶和密碼暫時。 複製使用者帳戶名稱和密碼，以便將它傳送給新的客戶。 
-
-    >**重要**  請務必記下使用者帳戶名稱和密碼，因為在您關閉此頁面之後將無法存取這項資訊。
+    > [!IMPORTANT]  
+    > 請務必記下使用者帳戶名稱和密碼，因為您將無法存取這項資訊之後您關閉此頁面。
 
 7.  選取 **\[完成\]**。 新的客戶出現在您的客戶清單中，並與間接經銷商相關聯。 現在經銷商有客戶帳戶資訊和訂閱的管理存取，並可以代表客戶管理訂閱。
 

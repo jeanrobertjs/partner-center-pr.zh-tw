@@ -4,12 +4,12 @@ description: 從合作夥伴中心下載特定市場及語言的客戶合約範�
 author: Maggie Evans
 keywords: Microsoft Cloud 合約, 客戶合約範本, 雲端解決方案提供者客戶合約, MCA, MCA, 雲端解決方案提供者, 可以透過雲端解決方案提供者在哪些地方進行銷售？, 雲端解決方案提供者國家/地區, 多種語言的雲端解決方案提供者 MCA, 北美洲雲端解決方案提供者, 中美洲雲端解決方案提供者, 南美洲雲端解決方案提供者, 加勒比海雲端解決方案提供者, CSP Microsoft Cloud for US Government, 雲端解決方案提供者 Microsoft Cloud 德國, 中東雲端解決方案提供者, 非洲雲端解決方案提供者, 歐洲雲端解決方案提供者, 亞洲雲端解決方案提供者, 太平洋雲端解決方案提供者, 雲端解決方案提供者 MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877508"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377810"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft 雲端解決方案提供者市場和客戶合約
 
@@ -17,8 +17,8 @@ ms.locfileid: "2877508"
 
 部分地點會提供多種語言版本的合約，以符合客戶的語言偏好。 請提供客戶偏好的語言版本。
 
->**注意**<br>
-下面列出的 Microsoft Cloud 合約客戶範本從 2017 年 9 月 1 日開始，對所有地區及所有語言都適用。
+> [!NOTE]  
+> 下面列出的 Microsoft Cloud 合約客戶範本從 2017 年 9 月 1 日開始，對所有地區及所有語言都適用。
 
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北美洲、中美洲、南美洲及加勒比海

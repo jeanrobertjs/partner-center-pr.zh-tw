@@ -4,12 +4,12 @@ description: 在合作夥伴中心，您可以設定每個客戶每月的預算�
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: adea2e44dcde77ae8f6c020407cd65957fdfd5cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875368"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377470"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>為客戶設定 Azure 消費預算
 
@@ -29,7 +29,8 @@ ms.locfileid: "2875368"
 
 Azure 消費資料為估計值，實際帳單金額可能會有差異，這個值不含稅、點數、帳務調整或其他需要支付的費用。 消費資料每天重新整理一次。 除非您在 Azure 入口網站變更客戶的帳戶設定，否則客戶仍將繼續使用 Azure 服務及資源，並支付相關費用。 
 
->**注意**：此功能無法在沙箱或生產測試 (TIP) 帳戶中使用。
+> [!NOTE]  
+> 無法在沙箱或測試實際執行環境 (TIP) 帳戶中使用這項功能。
 
 **開啟電子郵件通知**
 1.  從 \[儀表板\] 功能表中，選取 **\[Azure 消費\]**。

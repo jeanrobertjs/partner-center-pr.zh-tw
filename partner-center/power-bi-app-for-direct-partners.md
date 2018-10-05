@@ -4,12 +4,12 @@ description: 安裝合作夥伴中心 Power BI 應用程式。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 69250785b9ab27dc0aa41c28c0ef84667506aeaf
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cba33fde9095850af24f857e4bec84abb83607df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875168"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377640"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>適用於 Power BI 的合作夥伴中心分析應用程式 (雲端解決方案提供者中的直接合作夥伴)
 
@@ -19,8 +19,8 @@ ms.locfileid: "2875168"
 
 使用適用於 Power BI 的合作夥伴中心分析應用程式，以視覺化方式呈現業務資料。 專為雲端解決方案提供者 (CSP) 計畫中直接合作夥伴設計的這個應用程式會插入熟悉的 Power BI 架構中。 
 
->**注意**<br>
-如果您在業務上與 Microsoft 及客戶直接往來，即是直接合作夥伴。 
+> [!NOTE]  
+> 如果您在業務上與 Microsoft 及客戶直接往來，即是直接合作夥伴。 
 
 安裝此應用程式，透過圖形表示觀察： 
 

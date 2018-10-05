@@ -5,12 +5,12 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ebc5490d724b49836b0051802038c4ba4c86e20
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876078"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377490"
 ---
 # <a name="your-company-work-account-and-the-partner-dashboard"></a>您的公司工作帳戶與合作夥伴儀表板  
 
@@ -24,7 +24,8 @@ ms.locfileid: "2876078"
 
 如果您的公司已經有工作帳戶，就可以將其連結至您的合作夥伴儀表板帳戶。 
 
->**注意**：決定使用現有的工作帳戶之前，請先考慮帳戶中有多少使用者需要使用合作夥伴儀表板。 如果帳戶中有不需要使用合作夥伴儀表板的使用者，請考慮只為那些需要使用合作夥伴儀表板的使用者建立新帳戶。
+> [!NOTE]  
+>  您決定使用現有的工作帳戶之前，請先考慮帳戶中有多少使用者需要使用合作夥伴儀表板。 如果帳戶中有不需要使用合作夥伴儀表板的使用者，請考慮只為那些需要使用合作夥伴儀表板的使用者建立新帳戶。
 
 如果貴公司還沒有工作帳戶，您可以在註冊過程中建立一個帳戶。 
 

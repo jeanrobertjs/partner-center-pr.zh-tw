@@ -3,12 +3,12 @@ title: 將 Office 365 E4 訂閱移轉至新版 Office 365 | 合作夥伴中心
 description: Microsoft Office 365 企業版 E4 從 2017 年 4 月 7 日起淘汰。 了解如何將您的客戶訂閱移轉至新版 Office 365。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 545cfa5c635c9093cd0261bf35e01ba2823571ef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e6efcc3227f426a9b83c7579534e0b6ad68188da
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876928"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377710"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>將 Office 365 E4 訂閱移轉至新版 Office 365
 
@@ -20,7 +20,8 @@ Office 365 企業版 E4 方案已淘汰，自 2017 年 4 月 7 日起生效。 �
 
 當 E4 訂閱結束時，會被取消。 為了確保客戶持續的訂閱，您應該將具有即將到期 E4 訂閱的客戶轉換至支援的 SKU 選項，如下所列。 我們建議您在訂閱的每年結束日期之前將客戶移動到新的訂閱，以避免客戶的任何服務中斷。 
 
->**注意** Office 365 企業版 E4 商業和政府 SKU 也會被淘汰。
+> [!NOTE]  
+>  Office 365 企業版 E4 商業和政府 Sku 都將淘汰。
  
 在訂閱的詳細資料頁面上，E4 訂閱狀態已從「自動續約於 [日期]」變更為「到期日 [日期]」。 
 

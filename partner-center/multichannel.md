@@ -4,12 +4,12 @@ description: 有時候客戶可能會想雇用您來佈建及支援他們在其�
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875838"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377480"
 ---
 # <a name="multi-channel-support"></a>多通路支援
 
@@ -46,8 +46,8 @@ ms.locfileid: "2875838"
 </tbody>
 </table>
 
->**重要**<br>
-CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴儀表板。 
+> [!IMPORTANT]  
+> CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴儀表板。 
 
 ## <a name="see-also"></a>請參閱
 

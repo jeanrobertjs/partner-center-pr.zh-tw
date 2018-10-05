@@ -3,12 +3,12 @@ title: 加入 Microsoft 合作夥伴網路 | 合作夥伴中心
 description: 在合作夥伴中心購買 Microsoft 行動寶盒，並獲得專長認證
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0983b5f9b62e29495d98248e88a2820721d3e828
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877108"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377790"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>加入 Microsoft 合作夥伴網路 (MPN)
 
@@ -37,7 +37,8 @@ ms.locfileid: "2877108"
 
 4.  如果您透過現有組織註冊，系統會詢問您組織的名稱和地址。
 
->**注意**<br> 您需要針對每個您要銷售的地點，提供組織總部的地址。
+> [!NOTE]  
+>  您需要針對每個您要銷售的地點，提供組織總部的地址。
 
 在此免費的基本等級加入網路會員時，您會收到一組[核心內部使用權限權益](https://partner.microsoft.com/membership/core-benefits)，可協助您建立業務並採取下一個步驟。 
 

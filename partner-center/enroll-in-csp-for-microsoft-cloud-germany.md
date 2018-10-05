@@ -3,12 +3,12 @@ title: 註冊 Microsoft Cloud 德國雲端解決方案提供者計畫 | Microsof
 description: 在您註冊 Microsoft Cloud 德國雲端解決方案提供者計畫之前，請先深入了解雲端解決方案提供者計畫需求。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: db996ad4fdfda05f190abdfe2028d5c8b023e40b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877498"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377650"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>註冊 Microsoft Cloud 德國雲端解決方案提供者計畫
 
@@ -24,8 +24,8 @@ ms.locfileid: "2877498"
 
 如果您在合作夥伴中心已有帳戶，且想要註冊 Microsoft Cloud 德國雲端解決方案提供者計畫，則必須另外新建一個專屬於 Microsoft Cloud 德國合作夥伴中心的帳戶。
 
->**重要事項**<br>
-如果您已經註冊雲端解決方案提供者計畫，也想要向 Microsoft Cloud 德國國家/地區內的客戶和合作夥伴銷售，就必須新建一個專屬於這個特定市場的合作夥伴中心帳戶。  
+> [!IMPORTANT]  
+> 如果您已經註冊雲端解決方案提供者計畫，也想要向 Microsoft Cloud 德國國家/地區內的客戶和合作夥伴銷售，就必須新建一個專屬於這個特定市場的合作夥伴中心帳戶。  
 
 若要建立合作夥伴中心帳戶並註冊 Microsoft Cloud 德國雲端解決方案提供者計畫，您必須提供下列資訊 (建議您先收集這項資訊，再開始進行註冊程序)：
 
@@ -36,7 +36,7 @@ ms.locfileid: "2877498"
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>步驟 1 - 建立專屬於 Microsoft Cloud 德國合作夥伴中心的帳戶 
 
-1.  若要註冊 Microsoft Cloud 德國雲端解決方案提供者，請移至[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)然候選取**登入**。 
+1.  若要註冊 Microsoft Cloud 德國雲端解決方案提供者，請移至[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)，然後選取 [**登入**。 
 
 2.  使用您公司專屬於 Office 365、Microsoft Azure 或 Microsoft Dynamics 的 Microsoft Cloud 德國帳戶的全域管理員認證進行登入。 如果您的公司沒有專屬於這些入口網站的帳戶，請選取 **\[建立帳戶\]** 以申請一個。
 
@@ -56,8 +56,8 @@ ms.locfileid: "2877498"
 
 2.  選取 **\[接受並繼續\]**。 審查您的應用程式可能需要我們幾天的時間。 審查完成後，我們會通過電子郵件通知您。
 
-    >**重要事項**<br>
-    選取 **\[接受並繼續\]** 即表示您確定自己有權代表公司行事，且您同意允許 Microsoft 在審查您公司的雲端解決方案提供者計畫申請前，先進行背景信用查核。
+> [!IMPORTANT]  
+> 選取 **\[接受並繼續\]** 即表示您確定自己有權代表公司行事，且您同意允許 Microsoft 在審查您公司的雲端解決方案提供者計畫申請前，先進行背景信用查核。
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-germany"></a>步驟 3 - 簽署 Microsoft Cloud 德國經銷商合約 
 
@@ -69,8 +69,8 @@ ms.locfileid: "2877498"
 
 Microsoft Cloud 德國提供 Microsoft Azure 的獨立執行個體，這些執行個體使用德國專用網路從德國境內的資料中心提供。 若要允許管理員管理 Azure 德國入口網站中的使用者和授權，您需要手動指派系統管理代理人角色給他們。
 
->**注意**<br>
-將使用者指派給系統管理代理人角色之後，您的儀表板功能表中將會出現 **\[客戶\]** 功能表，您就可以存取客戶清單並[新增新客戶](add-a-new-customer.md)。   
+> [!NOTE]  
+> 將使用者指派給系統管理代理人角色之後，您的儀表板功能表中將會出現 **\[客戶\]** 功能表，您就可以存取客戶清單並[新增新客戶](add-a-new-customer.md)。   
 
 1.  登入 Azure 德國入口網站，在https://portal.microsoftazure.de/。
 

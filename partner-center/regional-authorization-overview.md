@@ -5,12 +5,12 @@ ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 keywords: Azure AD 租用戶, 整合您的租用戶, 租用戶策略, 雲端解決方案提供者中的租用戶, 雲端解決方案提供者中的合作夥伴帳戶, 雲端解決方案提供者市場和地區, 可以透過雲端解決方案提供者在哪些地方進行銷售？
 ms.localizationpriority: medium
-ms.openlocfilehash: 59c9e17d3238afd775c08513f9ef39cb3fd6d7d7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876378"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377630"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>雲端解決方案提供者中的租用戶整合策略
 
@@ -21,7 +21,8 @@ ms.locfileid: "2876378"
 
 在過去，除了歐盟/歐洲自由貿易聯盟 (EFTA) 之外，合作夥伴都必須在每個想要進行交易的國家/地區中有實際的實體。 這表示合作夥伴必須在合作夥伴中心中設定多個租用戶，以及多個帳單日期和其他設定。 例如在拉丁美洲地區，合作夥伴就無法輕鬆地與鄰近地區或國家中的客戶合作，而且在某些情況下，他們會完全地受限。
 
->**注意**<br> 如果您已註冊 [Microsoft Cloud 德國雲端解決方案提供者計畫](partner-center-for-microsoft-cloud-germany.md)，且想要向歐盟和歐洲自由貿易聯盟境內的客戶銷售，則無法將您的 Microsoft Cloud 德國合作夥伴中心租用戶與其他租用戶合併。  
+> [!NOTE]  
+>  如果您已註冊 [Microsoft Cloud 德國雲端解決方案提供者計畫](partner-center-for-microsoft-cloud-germany.md)，且想要向歐盟和歐洲自由貿易聯盟境內的客戶銷售，則無法將您的 Microsoft Cloud 德國合作夥伴中心租用戶與其他租用戶合併。  
 
 ## <a name="planning"></a>規劃
 
@@ -163,7 +164,8 @@ ms.locfileid: "2876378"
 
 -   **如果您的 Microsoft 銷售目標位置為下列清單上的國家/地區**，您的領域包括位於下列清單中所列任何國家/地區的客戶：奧蘭島、安道爾、奧地利、比利時、布威島、保加利亞、克羅埃西亞、賽普勒斯、捷克共和國、丹麥、愛沙尼亞、法羅群島、芬蘭、法國、德國、希臘、直布羅陀、格陵蘭、根息、匈牙利、冰島、愛爾蘭、曼城島、義大利、澤西島、央棉、拉脫維亞、列支敦斯登、立陶宛、盧森堡、馬爾他、摩納哥、荷蘭、挪威、波蘭、葡萄牙、羅馬尼亞、聖馬利諾、斯洛伐克、斯洛維尼亞、西班牙、冷岸、瑞典、瑞士、英國、梵蒂岡。 
 
-    >**注意**<br> 如果您已註冊 [Microsoft Cloud 德國雲端解決方案提供者計畫](partner-center-for-microsoft-cloud-germany.md)，且想要向歐盟和歐洲自由貿易聯盟境內的客戶銷售，則無法將您的 Microsoft Cloud 德國合作夥伴中心租用戶與其他租用戶合併。  
+    > [!NOTE]  
+>  如果您已註冊 [Microsoft Cloud 德國雲端解決方案提供者計畫](partner-center-for-microsoft-cloud-germany.md)，且想要向歐盟和歐洲自由貿易聯盟境內的客戶銷售，則無法將您的 Microsoft Cloud 德國合作夥伴中心租用戶與其他租用戶合併。  
 
 
 -   **如果您的 Microsoft 銷售目標位置為下列清單上的國家/地區**，您的領域包括位於下列清單中所列任何國家/地區的客戶：阿富汗、阿爾巴尼亞、阿爾及利亞、亞美尼亞、亞塞拜然、巴林、白俄羅斯、貝南、波士尼亞與赫塞哥維納、布吉納法索、蒲隆地、中非共和國、查德、葛摩、剛果民主共和國、剛果共和國、埃及、赤道幾內亞、厄利垂亞、法屬玻里尼西亞、加彭、甘比亞、喬治亞、幾內亞、幾內亞比索、伊拉克、以色列、約旦、哈薩克、科威特、吉爾吉斯、黎巴嫩、賴比瑞亞、利比亞、馬達加斯加、馬拉威、馬利、馬約特島、摩爾多瓦、蒙古、蒙特內哥羅、摩洛哥、新喀里多尼亞群島、尼日、阿曼、巴基斯坦、巴勒斯坦民族權力機構、卡達、前南斯拉夫馬其頓共和國、留尼旺、沙烏地阿拉伯、塞爾維亞、塞席爾、獅子山、索馬利亞、南非、塔吉克、多哥、突尼西亞、土耳其、土庫曼、烏克蘭、阿拉伯聯合大公國、烏茲別克、葉門、辛巴威。 

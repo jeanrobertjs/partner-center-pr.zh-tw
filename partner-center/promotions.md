@@ -3,12 +3,12 @@ title: 使用促銷吸引新客戶 | 合作夥伴中心
 description: 身為雲端解決方案提供者計畫的 Microsoft 合作夥伴，您可以用促銷定價購買訂閱，再將省下的金額回饋給您的客戶。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 36d48757940aa3659d3513133afe2c0d98bbd3bb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 17317d8d458601bc8b148f5a13ea3e317b77af47
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875378"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377680"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促銷吸引新客戶  
 
@@ -34,8 +34,8 @@ Microsoft 提供兩種促銷優惠：適用於雲端解決方案提供者 (CSP) 
 
 您可以在 **\[促銷\]** 頁面查看您有資格享用的促銷 (如果有的話)。 選取 **\[儀表板\]** 功能表中的 **\[促銷\]**，以查看現行促銷的清單，另外了解一下折扣、促銷類型以及訂閱開始和結束日期。 如果沒有可用的促銷，您會看到指出這點的訊息。 
 
->**注意**<br>
-您也可以在進行購買時查看促銷。 當您選取訂閱時，促銷定價會顯示在 **\[檢閱\]** 頁面上。
+> [!NOTE]  
+> 您也可以在進行購買時查看促銷。 當您選取訂閱時，促銷定價會顯示在 **\[檢閱\]** 頁面上。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>以促銷價格購買訂閱
 

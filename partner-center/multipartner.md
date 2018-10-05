@@ -4,12 +4,12 @@ description: 客戶可能會想要與雲端解決方案提供者計畫中專精�
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 60a925536bd377c010aeca2b8f2f8bbeb6b7f0a6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f145d4334a2b83c3e0939dc3d9d0acfe77d8edba
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874828"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377450"
 ---
 # <a name="multi-partner-support"></a>多合作夥伴支援
 
@@ -33,8 +33,8 @@ ms.locfileid: "2874828"
 
 -   變更訂閱的記錄可查夥伴
 
->**重要**<br>
-CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴儀表板。  
+> [!IMPORTANT]  
+> CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴儀表板。  
 
  
 

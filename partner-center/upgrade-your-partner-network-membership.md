@@ -4,12 +4,12 @@ description: 當您升級 Microsoft 合作夥伴網路會員資格時，有資�
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875708"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377780"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升級您的 Microsoft 合作夥伴網路會員資格
 
@@ -44,9 +44,10 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 - 取得每個月價值 $100 美元的 Microsoft Azure 點數
 
-如需 Microsoft 行動寶盒相關資訊，請移至[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
+如需有關 Microsoft 行動套件的詳細資訊，請移至[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
 
->**注意** 跟隨此連結，會將您移至其他網站。 回到此網站 (合作夥伴中心) 來訂閱行動套件。
+> [!NOTE]  
+> 跟隨此連結會帶您到另一個網站。 回到此網站 (合作夥伴中心) 來訂閱行動套件。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>訂閱 Microsoft 行動套件
@@ -75,8 +76,8 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 3. 選取 **\[關閉自動續約\]** (如果您不想要您的行動套件訂閱每年自動續約)。 
 
-    >**注意**<br>
-如果您關閉自動訂閱續約，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 我們將在您的訂閱到期之前提醒您續約。
+   > [!NOTE]  
+> 如果您關閉自動訂閱續約，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 我們將在您的訂閱到期之前提醒您續約。
 
 
 ### <a name="renew-your-action-pack-subscription"></a>為您的行動套件訂閱續約

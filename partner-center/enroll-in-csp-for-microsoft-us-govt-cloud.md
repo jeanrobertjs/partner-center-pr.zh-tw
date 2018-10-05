@@ -3,12 +3,12 @@ title: 註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者�
 description: 在您註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫之前，請先深入了解 CSP 計畫需求。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877198"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377660"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
@@ -30,8 +30,8 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 -  您組織的 Microsoft 合作夥伴網路 (MPN) 識別碼 
 -  在美國的公司地址
 
->**重要事項**<br>
-如果您在合作夥伴中心已有帳戶，且想要註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫，則必須特別針對美國政府市場另外建立新的個別帳戶。
+> [!IMPORTANT]  
+> 如果您在合作夥伴中心已有帳戶，且想要註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫，則必須特別針對美國政府市場另外建立新的個別帳戶。
 
 ## <a name="how-to-enroll"></a>如何註冊 
 
@@ -48,8 +48,8 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 2.  選取 **\[接受並繼續\]**。 審查您的應用程式可能需要我們幾天的時間。 審查完成後，我們會通過電子郵件通知您。
 
-    >**重要事項**<br>
-    選取 **\[接受並繼續\]** 即表示您確定自己有權代表組織行事，且您同意允許 Microsoft 在審查您組織的雲端解決方案提供者計畫申請前，先進行背景信用查核。
+    > [!IMPORTANT]  
+    > 選取 **\[接受並繼續\]** 即表示您確定自己有權代表組織行事，且您同意允許 Microsoft 在審查您組織的雲端解決方案提供者計畫申請前，先進行背景信用查核。
 
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>步驟 3 - 簽署美國政府適用的 Microsoft Cloud 經銷商合約
@@ -63,8 +63,8 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 美國政府適用的 Microsoft Cloud 提供符合政府規範、安全性和隱私權標準的獨立 Microsoft Azure 執行個體。 若要允許管理員管理 Microsoft Azure 入口網站中的使用者和授權，您需要手動指派系統管理代理人角色給他們。
 
->**注意**<br>
-您將使用者指派給系統管理代理人角色之後，這些使用者就可以存取您在 **\[客戶\]** 頁面上的客戶清單，並[新增客戶](add-a-new-customer.md)。   
+> [!NOTE]  
+> 您將使用者指派給系統管理代理人角色之後，這些使用者就可以存取您在 **\[客戶\]** 頁面上的客戶清單，並[新增客戶](add-a-new-customer.md)。   
 
 1.  登入 Microsoft Azure 管理入口網站： https://portal.azure.us/。
 

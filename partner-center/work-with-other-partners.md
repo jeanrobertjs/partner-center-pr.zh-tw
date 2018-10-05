@@ -3,12 +3,12 @@ title: 與其他合作夥伴合作 | 合作夥伴中心
 description: 與 CSP 中的其他合作夥伴合作，以符合共同客戶的需求。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bab729b1a9021d095566395048a4eb7fa3c8d7f8
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7bac4fd3fa01495125aa054c90b79cc777455f98
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877098"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377690"
 ---
 # <a name="work-with-other-partners"></a>與其他合作夥伴合作
 
@@ -48,6 +48,6 @@ Microsoft 雲端解決方案提供者 (CSP) 計畫提供機會，讓合作夥伴
 
 多通路支援也適用於 Microsoft 國內雲供應項目。
 
->**重要**<br>
-CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴中心。 
+> [!IMPORTANT]  
+> CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴中心。 
 

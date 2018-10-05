@@ -4,12 +4,12 @@ description: 請依照下列步驟，預覽適用於 Power BI 的合作夥伴中
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dd91d16ffe5e49271dd3c5fe50e8910299f1a1c
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874758"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377510"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安裝和預覽適用於 Microsoft Power BI 的合作夥伴中心分析應用程式
 
@@ -39,7 +39,8 @@ ms.locfileid: "2874758"
 
 4.  在 **\[連線到合作夥伴中心分析\]** 快顯視窗中，確認 **\[驗證方法\]** 已設定為 **\[oAuth2\]**，如果沒有如此設定，請從清單選取 **\[oAuth2\]**。 
 
-    >**注意**<br> 這個視窗可能需要幾分鐘才會出現。
+    > [!NOTE]  
+>  這個視窗可能需要幾分鐘才會出現。
 
 5.  在 **\[合作夥伴中心分析連接器\]** 頁面上，使用貴公司 Azure AD 租用戶的全域管理員、系統管理代理人或帳單系統管理員認證登入，然後選取 **\[登入\]**。
  

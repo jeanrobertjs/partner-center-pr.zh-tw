@@ -3,12 +3,12 @@ title: 建立合作夥伴中心帳戶 | 合作夥伴中心
 description: Microsoft 合作夥伴網路會員需要建立合作夥伴中心帳戶，才能管理他們的網路權益和專長認證，以及建立商務設定檔。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876778"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377770"
 ---
 # <a name="create-a-partner-center-account"></a>建立合作夥伴中心帳戶
 
@@ -60,7 +60,8 @@ ms.locfileid: "2876778"
 
     主要連絡人必須是我們可以連絡關於您的申請事宜的公司中人員 (這可以是您本人或是貴公司中的其他人員)。 我們還會使用這項資訊，確認此人員任職於貴公司，且已註冊合作夥伴中心帳戶。
 
-    >**重要**<br> 為了協助確保貴公司的安全性與隱私權，我們將會寄送電子郵件給您的主要連絡人，以確認 (1) 該連絡人已註冊合作夥伴中心帳戶，以及 (2) 此電子郵件地址屬於貴公司。 主要連絡人確認其電子郵件地址之後，我們會持續審查您所提供的資訊。
+    > [!IMPORTANT]  
+    > 為了協助確保貴公司的安全性與隱私權，我們將會寄送電子郵件給您的主要連絡人，以確認 (1) 該連絡人已註冊合作夥伴中心帳戶，以及 (2) 此電子郵件地址屬於貴公司。 主要連絡人確認其電子郵件地址之後，我們會持續審查您所提供的資訊。
 
 4.  閱讀並接受 Microsoft 合作夥伴網路合約的條款及條件。 
 
