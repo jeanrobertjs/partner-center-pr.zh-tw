@@ -3,52 +3,55 @@ title: 測試新的合作夥伴中心功能
 description: 在發行之前測試新的合作夥伴中心功能，並讓我們知道您的想法。 協助打造合作夥伴中心的未來！
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 2860e3c2fbcce28030a8b5441b542db9e98cf119
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876658"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377570"
 ---
-# <a name="test-drive-new-partner-center-features"></a><span data-ttu-id="cd9ca-104">測試新的合作夥伴中心功能</span><span class="sxs-lookup"><span data-stu-id="cd9ca-104">Test drive new Partner Center features</span></span>
+# <a name="test-drive-new-partner-center-features"></a><span data-ttu-id="3c2f2-104">測試新的合作夥伴中心功能</span><span class="sxs-lookup"><span data-stu-id="3c2f2-104">Test drive new Partner Center features</span></span>
 
-**<span data-ttu-id="cd9ca-105">適用於</span><span class="sxs-lookup"><span data-stu-id="cd9ca-105">Applies to</span></span>**
+**<span data-ttu-id="3c2f2-105">適用於</span><span class="sxs-lookup"><span data-stu-id="3c2f2-105">Applies to</span></span>**
 
-- <span data-ttu-id="cd9ca-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="cd9ca-106">Partner Center</span></span>
+- <span data-ttu-id="3c2f2-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="3c2f2-106">Partner Center</span></span>
 
-## <a name="help-shape-the-future-of-partner-center"></a><span data-ttu-id="cd9ca-107">協助打造合作夥伴中心的未來！</span><span class="sxs-lookup"><span data-stu-id="cd9ca-107">Help shape the future of Partner Center!</span></span>
+## <a name="help-shape-the-future-of-partner-center"></a><span data-ttu-id="3c2f2-107">協助打造合作夥伴中心的未來！</span><span class="sxs-lookup"><span data-stu-id="3c2f2-107">Help shape the future of Partner Center!</span></span>
 
-<span data-ttu-id="cd9ca-108">我們會持續發行合作夥伴中心的新功能，並希望您能提供意見反應！</span><span class="sxs-lookup"><span data-stu-id="cd9ca-108">We’re continually releasing new features and capabilities to Partner Center and we want your feedback!</span></span> 
+<span data-ttu-id="3c2f2-108">我們會持續發行合作夥伴中心的新功能，並希望您能提供意見反應！</span><span class="sxs-lookup"><span data-stu-id="3c2f2-108">We’re continually releasing new features and capabilities to Partner Center and we want your feedback!</span></span> 
 
-<span data-ttu-id="cd9ca-109">我們很高興邀請您在新功能發行至合作夥伴中心全球社群之前搶先試用，並分享您的想法。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-109">We're excited to invite you to try out new features before they're released to the worldwide Partner Center community and share your thoughts about them.</span></span> <span data-ttu-id="cd9ca-110">請查看[合作夥伴中心公告頁面](https://partnercenter.microsoft.com/pcv/announcements)，以取得即將發行之來功能的相關資訊，讓您開始計畫如何使用它們來擴展您的業務。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-110">Check out the [Partner Center Announcements page](https://partnercenter.microsoft.com/pcv/announcements) for information about upcoming features so you can start planning how to use them to grow your business.</span></span> <span data-ttu-id="cd9ca-111">請注意，同一時間可能會有多項功能可供測試。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-111">Note that there may be several features available for you to test drive at a given time.</span></span>
+<span data-ttu-id="3c2f2-109">我們很高興邀請您在新功能發行至合作夥伴中心全球社群之前搶先試用，並分享您的想法。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-109">We're excited to invite you to try out new features before they're released to the worldwide Partner Center community and share your thoughts about them.</span></span> <span data-ttu-id="3c2f2-110">請查看[合作夥伴中心公告頁面](https://partnercenter.microsoft.com/pcv/announcements)，以取得即將發行之來功能的相關資訊，讓您開始計畫如何使用它們來擴展您的業務。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-110">Check out the [Partner Center Announcements page](https://partnercenter.microsoft.com/pcv/announcements) for information about upcoming features so you can start planning how to use them to grow your business.</span></span> <span data-ttu-id="3c2f2-111">請注意，同一時間可能會有多項功能可供測試。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-111">Note that there may be several features available for you to test drive at a given time.</span></span>
 
->**<span data-ttu-id="cd9ca-112">重要</span><span class="sxs-lookup"><span data-stu-id="cd9ca-112">Important</span></span>**<br> <span data-ttu-id="cd9ca-113">我們會在任何功能版本的預覽階段期間持續修正錯誤並強化功能效能，因此最終功能的運作方式可能會有所變更。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-113">We continue to fix errors and enhance feature performance during the preview phase of any feature releases, which may result in changes to how the final feature works.</span></span> <span data-ttu-id="cd9ca-114">基於上述這些和其他原因，預覽版本可能會出現無法預期的行為，而且不代表 Microsoft 提供的實際或默示擔保。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-114">For these reasons and others, preview releases may behave unpredictably, and do not convey an actual or implied warranty from Microsoft.</span></span>
+> [!IMPORTANT]  
+> <span data-ttu-id="3c2f2-112">我們會在任何功能版本的預覽階段期間持續修正錯誤並強化功能效能，因此最終功能的運作方式可能會有所變更。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-112">We continue to fix errors and enhance feature performance during the preview phase of any feature releases, which may result in changes to how the final feature works.</span></span> <span data-ttu-id="3c2f2-113">基於上述這些和其他原因，預覽版本可能會出現無法預期的行為，而且不代表 Microsoft 提供的實際或默示擔保。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-113">For these reasons and others, preview releases may behave unpredictably, and do not convey an actual or implied warranty from Microsoft.</span></span>
 
-<span data-ttu-id="cd9ca-115">針對每個即將發行之功能，您可以：</span><span class="sxs-lookup"><span data-stu-id="cd9ca-115">For each upcoming feature, you can:</span></span>
+<span data-ttu-id="3c2f2-114">針對每個即將發行之功能，您可以：</span><span class="sxs-lookup"><span data-stu-id="3c2f2-114">For each upcoming feature, you can:</span></span>
 
--   <span data-ttu-id="cd9ca-116">選取功能描述中的 **\[深入了解\]**，了解功能，並決定是否要試用</span><span class="sxs-lookup"><span data-stu-id="cd9ca-116">Read about the feature and decide whether you want to try it out by selecting **Learn more** in the feature description</span></span> 
+-   <span data-ttu-id="3c2f2-115">選取功能描述中的 **\[深入了解\]**，了解功能，並決定是否要試用</span><span class="sxs-lookup"><span data-stu-id="3c2f2-115">Read about the feature and decide whether you want to try it out by selecting **Learn more** in the feature description</span></span> 
 
--   <span data-ttu-id="cd9ca-117">尋找指示，以了解如何測試功能</span><span class="sxs-lookup"><span data-stu-id="cd9ca-117">Find instructions for how to test drive the feature</span></span>
+-   <span data-ttu-id="3c2f2-116">尋找指示，以了解如何測試功能</span><span class="sxs-lookup"><span data-stu-id="3c2f2-116">Find instructions for how to test drive the feature</span></span>
 
--   <span data-ttu-id="cd9ca-118">查看我們提供功能預覽版本的目標日期，以及我們將功能發行至合作夥伴中心全球社群的目標上線日期</span><span class="sxs-lookup"><span data-stu-id="cd9ca-118">See our target date for making a feature available for preview and our target go-live date for when we’ll release the feature to the worldwide Partner Center community</span></span> 
+-   <span data-ttu-id="3c2f2-117">查看我們提供功能預覽版本的目標日期，以及我們將功能發行至合作夥伴中心全球社群的目標上線日期</span><span class="sxs-lookup"><span data-stu-id="3c2f2-117">See our target date for making a feature available for preview and our target go-live date for when we’ll release the feature to the worldwide Partner Center community</span></span> 
 
-    >**<span data-ttu-id="cd9ca-119">注意</span><span class="sxs-lookup"><span data-stu-id="cd9ca-119">Note</span></span>**<br> <span data-ttu-id="cd9ca-120">*「目標上線日期」* 一詞，我們表示我們打算提供功能給所有全球合作夥伴中心使用者的日期。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-120">By *target go-live date*, we mean the date we’re planning to make the feature available to all worldwide Partner Center users.</span></span> <span data-ttu-id="cd9ca-121">不過，幾件事可能會影響目標上線日期，包括納入改進功能之意見反應的決策，而且我們可能會重新安排上線日期或者不發行功能的商業版本。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-121">However, several things could impact the go-live date, including a decision to incorporate feedback that improves the feature, and we may decide to reschedule the go-live date or to not release a commercial version of the feature.</span></span>  
+    > [!NOTE]  
+>  <span data-ttu-id="3c2f2-118">*「目標上線日期」* 一詞，我們表示我們打算提供功能給所有全球合作夥伴中心使用者的日期。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-118">By *target go-live date*, we mean the date we’re planning to make the feature available to all worldwide Partner Center users.</span></span> <span data-ttu-id="3c2f2-119">不過，幾件事可能會影響目標上線日期，包括納入改進功能之意見反應的決策，而且我們可能會重新安排上線日期或者不發行功能的商業版本。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-119">However, several things could impact the go-live date, including a decision to incorporate feedback that improves the feature, and we may decide to reschedule the go-live date or to not release a commercial version of the feature.</span></span>  
 
--   <span data-ttu-id="cd9ca-122">將切換開關滑動至 **\[開啟\]**，啟用功能預覽</span><span class="sxs-lookup"><span data-stu-id="cd9ca-122">Activate the feature preview by sliding the switch to **On**</span></span>
+-   <span data-ttu-id="3c2f2-120">將切換開關滑動至 **\[開啟\]**，啟用功能預覽</span><span class="sxs-lookup"><span data-stu-id="3c2f2-120">Activate the feature preview by sliding the switch to **On**</span></span>
 
->**<span data-ttu-id="cd9ca-123">注意</span><span class="sxs-lookup"><span data-stu-id="cd9ca-123">Note</span></span>**<br> <span data-ttu-id="cd9ca-124">僅限全域管理員和系統管理代理人可以開啟功能預覽版本。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-124">Only global admins and admin agents can turn on feature preview releases.</span></span> <span data-ttu-id="cd9ca-125">不過，有適用權限的任何合作夥伴中心使用者都可以看到與使用預覽功能。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-125">However, any of your Partner Center users can see and use preview features if they have the applicable permissions.</span></span>
+> [!NOTE]  
+>  <span data-ttu-id="3c2f2-121">僅限全域管理員和系統管理代理人可以開啟功能預覽版本。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-121">Only global admins and admin agents can turn on feature preview releases.</span></span> <span data-ttu-id="3c2f2-122">不過，有適用權限的任何合作夥伴中心使用者都可以看到與使用預覽功能。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-122">However, any of your Partner Center users can see and use preview features if they have the applicable permissions.</span></span>
  
-## <a name="tell-us-what-you-think"></a><span data-ttu-id="cd9ca-126">告訴我們您的想法</span><span class="sxs-lookup"><span data-stu-id="cd9ca-126">Tell us what you think</span></span>
+## <a name="tell-us-what-you-think"></a><span data-ttu-id="3c2f2-123">告訴我們您的想法</span><span class="sxs-lookup"><span data-stu-id="3c2f2-123">Tell us what you think</span></span>
 
-<span data-ttu-id="cd9ca-127">我們在合作夥伴中心所有開發中的任務是讓您成就更多。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-127">Our mission in everything we develop for Partner Center is to empower you to achieve more.</span></span> <span data-ttu-id="cd9ca-128">我們想要將努力重心放在可協助您擴展業務的功能，因此我們邀請您在新功能發行至合作夥伴中心全球社群之前試用新功能，並分享您的意見反應。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-128">We want to focus our efforts on features and capabilities that help you grow your business, so we invite you to try new features and share your feedback about them before they’re released to the worldwide Partner Center community.</span></span> 
+<span data-ttu-id="3c2f2-124">我們在合作夥伴中心所有開發中的任務是讓您成就更多。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-124">Our mission in everything we develop for Partner Center is to empower you to achieve more.</span></span> <span data-ttu-id="3c2f2-125">我們想要將努力重心放在可協助您擴展業務的功能，因此我們邀請您在新功能發行至合作夥伴中心全球社群之前試用新功能，並分享您的意見反應。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-125">We want to focus our efforts on features and capabilities that help you grow your business, so we invite you to try new features and share your feedback about them before they’re released to the worldwide Partner Center community.</span></span> 
 
-<span data-ttu-id="cd9ca-129">我們鼓勵您分享對有關特定預覽版本或整個合作夥伴中心的想法，以及建議希望新增至該網站的新功能。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-129">We encourage you to share your ideas and thoughts about a specific preview release or about Partner Center as a whole, and to suggest new features you’d like to see added to the site.</span></span> <span data-ttu-id="cd9ca-130">若要提供意見反應給我們，您可以：</span><span class="sxs-lookup"><span data-stu-id="cd9ca-130">To give us feedback, you can:</span></span>  
+<span data-ttu-id="3c2f2-126">我們鼓勵您分享對有關特定預覽版本或整個合作夥伴中心的想法，以及建議希望新增至該網站的新功能。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-126">We encourage you to share your ideas and thoughts about a specific preview release or about Partner Center as a whole, and to suggest new features you’d like to see added to the site.</span></span> <span data-ttu-id="3c2f2-127">若要提供意見反應給我們，您可以：</span><span class="sxs-lookup"><span data-stu-id="3c2f2-127">To give us feedback, you can:</span></span>  
 
--   <span data-ttu-id="cd9ca-131">使用合作夥伴中心視窗右下角的意見反應表單，將您的意見反應直接傳送給我們。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-131">Use the feedback form in the bottom right-hand corner of the Partner Center window to send your feedback directly to us.</span></span> 
+-   <span data-ttu-id="3c2f2-128">使用合作夥伴中心視窗右下角的意見反應表單，將您的意見反應直接傳送給我們。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-128">Use the feedback form in the bottom right-hand corner of the Partner Center window to send your feedback directly to us.</span></span> 
 
--   <span data-ttu-id="cd9ca-132">如果您遇到有關功能預覽的任何問題，請要求支援。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-132">Request support if you encounter any issues with a feature preview.</span></span> <span data-ttu-id="cd9ca-133">若要建立支援要求，請從 **\[儀表板\]** 功能表選取 **\[支援要求\] > \[合作夥伴中心要求\]**，然後選取 **\[合作夥伴中心要求\]** 頁面上的 **\[新要求\]**。</span><span class="sxs-lookup"><span data-stu-id="cd9ca-133">To create a support request, select **Support requests > Partner Center requests** from the **Dashboard** menu and then select **New request** on the **Partner Center requests** page.</span></span>
+-   <span data-ttu-id="3c2f2-129">如果您遇到有關功能預覽的任何問題，請要求支援。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-129">Request support if you encounter any issues with a feature preview.</span></span> <span data-ttu-id="3c2f2-130">若要建立支援要求，請從 **\[儀表板\]** 功能表選取 **\[支援要求\] > \[合作夥伴中心要求\]**，然後選取 **\[合作夥伴中心要求\]** 頁面上的 **\[新要求\]**。</span><span class="sxs-lookup"><span data-stu-id="3c2f2-130">To create a support request, select **Support requests > Partner Center requests** from the **Dashboard** menu and then select **New request** on the **Partner Center requests** page.</span></span>
 
-<span data-ttu-id="cd9ca-134">協助我們賦予您能力！</span><span class="sxs-lookup"><span data-stu-id="cd9ca-134">Help us empower you!</span></span>
+<span data-ttu-id="3c2f2-131">協助我們賦予您能力！</span><span class="sxs-lookup"><span data-stu-id="3c2f2-131">Help us empower you!</span></span>
 
-<span data-ttu-id="cd9ca-135">-- 合作夥伴中心團隊  敬上</span><span class="sxs-lookup"><span data-stu-id="cd9ca-135">-- Your Partner Center team</span></span>
+<span data-ttu-id="3c2f2-132">-- 合作夥伴中心團隊  敬上</span><span class="sxs-lookup"><span data-stu-id="3c2f2-132">-- Your Partner Center team</span></span>
 
