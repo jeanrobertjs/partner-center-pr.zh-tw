@@ -3,12 +3,12 @@ title: 組織稅務資訊 | 合作夥伴中心
 description: 如果情況許可，請務必將加值稅識別碼加入您組織的資訊中
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 050ea8fc4cdbbddf601114714ff45b312318b196
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 20fef48dcd72de52abe6917c363e5d96f1213072
+ms.sourcegitcommit: a4ac47d85af00696d3b625ecaf448d8ecaf8275d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874638"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4381758"
 ---
 # <a name="organization-tax-information"></a>組織稅務資訊
 
@@ -20,9 +20,9 @@ ms.locfileid: "2874638"
 
 ### <a name="add-your-vat-id"></a>新增您的加值稅識別碼
 
-1.  從 **\[儀表板\]** 移至 **\[合作關係\]** -> **\[優惠\]**
-2.  按一下 **\[新增您的加值稅識別碼\]**
-3.  輸入加值稅識別碼，然後按一下 **\[下一步\]**
+1.  從**儀表板**中，移至**會員優惠**-> **可用**
+2.  選取 [**加入您的加值稅識別碼**
+3.  輸入加值稅識別碼為您的組織，選取 [**加入]** ，然後選取**下一步**。
 
 
 
