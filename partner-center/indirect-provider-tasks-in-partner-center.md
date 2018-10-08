@@ -3,12 +3,12 @@ title: 在 CSP 中與間接經銷商建立合作關係 | 合作夥伴中心
 description: 做為間接提供者或代理商，您可以與間接經銷商合夥，以擴展您的觸及範圍。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f5c5a745ba3ea8f57353529a90d09ee4fae17ccd
+ms.sourcegitcommit: 4175a0670df8c52ae5214fd0672c3fe33071210b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377760"
+ms.lasthandoff: 10/08/2018
+ms.locfileid: "4445460"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
 
@@ -33,7 +33,7 @@ ms.locfileid: "4377760"
 
 1.  檢視貴公司在 [Microsoft 官方間接提供者清單](https://partnercenter.microsoft.com/partner/find-a-provider)上的設定檔。 
 
-    -   若要變更貴公司的間接提供者設定檔，請提交合作夥伴儀表板支援要求，並附上公司名稱、標誌，以及每個位置的目標 URL。 我們將會在二至三週內更新您的設定檔。<br>
+    -   若要變更貴公司的間接提供者設定檔，請連絡您的 Microsoft 代表。<br>
 
 2.  與間接經銷商保持聯繫
 
