@@ -3,16 +3,16 @@ title: 了解您的獎勵支付 | 合作夥伴中心
 description: 檢視獎勵計畫的收益和支付。
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fb41598dfb79b8bbaee593aaffbd0cd79efbdd2c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 962d7d518d6d6842aee512bd48a50b6e4695d849
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877428"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489864"
 ---
-#<a name="understand-your-incentive-payouts"></a>了解您的獎勵支付
+#<a name="incentive-payouts-overview"></a>獎勵支出的概觀
 
-**適用於**
+**適用對象：**
 
 -  合作夥伴中心
 

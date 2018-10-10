@@ -4,12 +4,12 @@ Description: Microsoft provides special, reduced pricing for select groups of cu
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e60dd18ff9066efa72a4a290150faa6b1e7e8252
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877488"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489584"
 ---
 # <a name="sell-to-specialized-industries"></a>銷售到特色產業
 
@@ -36,7 +36,7 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 ## <a name="check-the-customer-qualifications"></a>檢查客戶資格
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。 從清單中選擇客戶。
+1.  在**合作夥伴中心**功能表中，選取**客戶**。 從清單中選擇客戶。
 2.  從客戶功能表中，選取 **\[帳戶\]**。 在 **\[公司資訊\]** 區段中，尋找 **\[特殊資格\]**。
 3.  如果 **\[特殊資格\]** 是設為 **\[無\]**，但該客戶確實符合資格，您可以 **\[更新\]** 他們的詳細資料以包含他們。
 

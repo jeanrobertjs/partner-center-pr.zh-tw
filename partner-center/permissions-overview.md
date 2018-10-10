@@ -1,23 +1,23 @@
 ---
 title: 指派使用者角色與權限 |合作夥伴中心
-description: 需要使用合作夥伴儀表板每個員工必須有指派的角色。
+description: 若要在合作夥伴中心中工作需要每個員工必須有指派的角色。
 author: labrenne
 keywords: 角色、 權限，系統管理員、 代理程式
 ms.localizationpriority: medium
-ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
-ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
+ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/26/2018
-ms.locfileid: "4227442"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489484"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色與權限
 
-**適用於：**
+**適用對象**
 
-- 合作夥伴儀表板
+- 合作夥伴中心
 
-在儀表板中的每個角色隨附的特定權限允許使用者執行特定工作。 在儀表板中的運作方式的所有人必須獲指派角色。
+在合作夥伴中心中的每個角色隨附的特定權限允許使用者執行特定工作。 在合作夥伴中心的運作方式的所有人必須獲指派角色。
 
 根據您的組織的規模某些使用者可能會工作地點或僅適用於同一個位置。 
 
@@ -27,7 +27,7 @@ ms.locfileid: "4227442"
 - 獎勵系統管理員可以管理一或多個位置，但需要指定這些位置。
 
 
-下表說明每個角色可在合作夥伴儀表板執行的動作。 思考如何指派角色時，請考慮使用者在組織中執行的工作。 例如，您可能會希望全域管理員同時也是系統管理代理人。 處理行銷的人員可以同時管理商務設定檔。
+下表說明每個角色可在合作夥伴中心採取什麼動作。 思考如何指派角色時，請考慮使用者在組織中執行的工作。 例如，您可能會希望全域管理員同時也是系統管理代理人。 處理行銷的人員可以同時管理商務設定檔。
 
 如需角色與權限的概觀，閱讀[建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)。
 
@@ -38,14 +38,14 @@ ms.locfileid: "4227442"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>合作夥伴儀表板中的角色</strong></p></td>
+<td><p><strong>在合作夥伴中心中的角色</strong></p></td>
 <td><p><strong>可執行</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>全域系統管理員</strong></p></td>
 <td><ul>
 <li><p>具有能存取所有 Microsoft 帳戶/服務的完整權限</p></li>
-<li><p>建立合作夥伴儀表板的支援票證</p></li>
+<li><p>建立合作夥伴中心的支援票證</p></li>
 <li><p>檢視合約、價格清單和優惠</p></li>
 <li><p>帳單</p></li>
 <li><p>檢視、建立和管理合作夥伴使用者</p></li>
@@ -130,7 +130,7 @@ ms.locfileid: "4227442"
 <td><p><strong>系統管理代理人</strong></p></td>
 <td><ul>
 <li><p>客戶管理</p></li>
-<li><p>將裝置清單新增至合作夥伴儀表板 <</p></li>
+<li><p>將裝置清單新增至合作夥伴中心 <</p></li>
 <p><li>建立設定檔並將其套用至裝置</p></li>
 <li><p>訂用帳戶管理</p></li>
 <li><p>客戶的服務健康狀況和服務要求</p></li>
@@ -145,7 +145,7 @@ ms.locfileid: "4227442"
 <td><p><strong>銷售代理人</strong></p></td>
 <td><ul>
 <li><p>客戶管理</p></li>
-<li><p>將裝置清單新增至合作夥伴儀表板</p></li>
+<li><p>將裝置清單新增至合作夥伴中心</p></li>
 <li><p>訂用帳戶管理</p></li>
 <li><p>檢視支援票證</p></li>
 <li><p>要求與客戶建立關係</p></li>

@@ -4,18 +4,18 @@ description: 身為經銷商合作夥伴，您的客戶可以委派您做為其�
 author: labrenne
 keywords: 委派的系統管理員權限，系統管理，代表，移除權限，DAP，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377430"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489874"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>授予合作夥伴的客戶代理人系統管理權限
 
 **適用對象：**
 
--  合作夥伴儀表板
+-  合作夥伴中心
 
 若要代表客戶管理客戶的服務或訂閱，客戶必須授與您該服務的系統管理員權限。 若要從客戶取得系統管理員權限，請透過電子郵件傳送建立經銷商關係要求給他們。 客戶核准您的要求後，您就能登入服務的系統管理員入口網站及代表客戶管理服務。 
 
@@ -89,7 +89,7 @@ ms.locfileid: "4377430"
 
 ## <a name="windows-autopilot"></a>Windows Autopilot 
 
-在合作夥伴儀表板中，從雲端解決方案提供者合作夥伴可以為其客戶沒有委派的系統管理員權限管理 Autopilot 設定檔。 了解如何[透過 Windows Autopilot 簡化裝置設定。](https://docs.microsoft.com/partner-center/autopilot)
+從合作夥伴中心，雲端解決方案提供者合作夥伴可以管理其沒有委派的系統管理員權限的客戶的 Autopilot 設定檔。 了解如何[透過 Windows Autopilot 簡化裝置設定。](https://docs.microsoft.com/partner-center/autopilot)
 
 您可以執行的動作取決於上哪個雲端解決方案提供者模型中，您已經註冊中。
 
@@ -110,7 +110,7 @@ ms.locfileid: "4377430"
 - 您無法管理您的客戶已透過商務用 Microsoft Store、 教育版的 Microsoft Store 或 Microsoft Intune 入口網站中新增的裝置。
 
 > [!IMPORTANT]  
-> 若要變更，可能會繼續在儀表板的目前 Autopilot 管理體驗。 在這篇文章發行時，將會被視為下列變更：
+> 若要變更，可能會繼續在合作夥伴中心的目前 Autopilot 管理體驗。 在這篇文章發行時，將會被視為下列變更：
 
   - 合作夥伴必須由客戶授予委派的系統管理權限，合作夥伴才能新增/更新/移除設定檔以及從客戶租用戶中的任何裝置套用/移除設定檔。
 

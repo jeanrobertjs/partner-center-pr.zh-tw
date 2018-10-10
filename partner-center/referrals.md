@@ -4,12 +4,12 @@ description: 產生業務潛在客戶，並連接到需要協助實作 Microsoft
 author: KPacquer
 keywords: 推薦, 商務設定檔, 尋找合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: ce9879cd727fd65ae3db1a7ee78b59556662ad53
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d06f2a6d435c9db5bc9b4d54ceb95cdeafc956b8
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874608"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489234"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -23,7 +23,7 @@ ms.locfileid: "2874608"
 
 我們想將您連結至需要您的解決方案和專業知識的客戶。 您可以開始從我們獲得業務潛在客戶的首要步驟，就是[建立商務設定檔](create-a-marketing-profile.md)，來展示您公司的產品、解決方案以及專業。 您的商務設定檔將會列在客戶和 Microsoft 內部銷售專員搜尋合格合作夥伴的所有位置。 
 
- 在您發佈商務設定檔之後，您將會開始透過合作夥伴儀表板的推薦功能收到業務潛在客戶。 請務必在必要時限內回應推薦，以便繼續收到潛在客戶，以及最重要的是，贏得交易。 如需有關如何在合作夥伴儀表板管理業務潛在客戶的詳細資訊，請參閱[回應推薦](responding-to-referrals.md)。  
+ 在您發佈商務設定檔之後，您將會開始在合作夥伴中心收到業務潛在客戶透過推薦功能。 請務必在必要時限內回應推薦，以便繼續收到潛在客戶，以及最重要的是，贏得交易。 請參閱 < 在合作夥伴中心<b0>回應推薦</b0>如需詳細資訊，有關如何管理業務潛在客戶。  
 
 祝您好運！
 

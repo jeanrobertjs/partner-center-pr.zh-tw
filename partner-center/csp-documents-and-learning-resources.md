@@ -5,12 +5,12 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 792eea1f482eb539aef84b2b3a2c79f7c33d508a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 06fa6178b5d0c1f655ba412c75ec8b950430b812
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876428"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489634"
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>雲端解決方案提供者合約、價目表和優惠
 
@@ -61,7 +61,7 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 ## <a name="pricing"></a>定價
 
 
-下載的定價詳細資料，從 [**定價與方案**] 頁面可從您的**儀表板**功能表的授權型、 用量型和一次性購買。 
+下載的定價詳細資料，從可從您的**合作夥伴中心**功能表的 [**定價與方案**] 頁面，授權型、 用量型和一次性購買。 
 
 授權型價目表每個月會更新一次，Microsoft 會在新價格生效前 30 天公佈新價格。 授權型服務的範例包括 Office 365、Enterprise Mobility Suite 及 Microsoft Dynamics CRM。 
 
@@ -73,7 +73,7 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 ## <a name="offers"></a>優惠
 
 
-身為 CSP 合作夥伴，您可以向客戶銷售 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 與 Microsoft Azure。 如需有關在這些產品系列中有哪些優惠方案和產品搭售方案可銷售的詳細資訊，請參閱 **\[定價與方案\]** 頁面 (從 **\[儀表板\]** 功能表存取) 的 CSP 方案組合。 本文件每個月會更新一次。
+身為 CSP 合作夥伴，您可以向客戶銷售 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 與 Microsoft Azure。 如哪些優惠方案和產品套件組合是可在這些產品系列銷售的詳細資訊，請參閱 [**定價與方案**] 頁面可從您的**合作夥伴中心**功能表上的雲端解決方案提供者方案組合。 本文件每個月會更新一次。
 
 針對使用 CREST 使用量記錄 API 的 CSP 合作夥伴，Microsoft 也會在 **\[定價與方案\]** 頁面發佈一份 CSP 中的 Azure 服務清單。
 

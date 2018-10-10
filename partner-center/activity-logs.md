@@ -5,12 +5,12 @@ ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875898"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488644"
 ---
 # <a name="view-customer-activity-logs"></a>檢視客戶活動記錄
 
@@ -27,7 +27,7 @@ ms.locfileid: "2875898"
 
 **檢視及匯出活動記錄**
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[活動記錄\]**。
+1.  在**合作夥伴中心**功能表中，選取 [**活動記錄**。
 2.  在 **\[從\]** 和 **\[到\]** 欄位中選取活動記錄期間。 活動記錄預設會匯出最近月份的記錄。
 
     每個活動記錄都會提供對所列出客戶的**訂閱**頁面連結。

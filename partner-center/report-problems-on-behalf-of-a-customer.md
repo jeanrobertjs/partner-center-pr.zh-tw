@@ -5,12 +5,12 @@ ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: dadd034214edabcea3d96c7e86f9c1de609dd3d3
-ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
+ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "4197686"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490044"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 
@@ -24,7 +24,7 @@ ms.locfileid: "4197686"
 
 **為客戶提交服務要求**
 
-1.  從 **\[儀表板\]** 功能表，選取 **\[服務要求\]** 然後選取 **\[客戶要求\]**。 
+1.  在**合作夥伴中心**功能表中，選取 [**服務要求**，然後**客戶要求**。 
 
 2.  在 \[客戶要求\] 頁面上，搜尋您想要的客戶。
 
@@ -34,9 +34,9 @@ ms.locfileid: "4197686"
 
 **注意：** 當您需要為您在 Azure 中的客戶建立服務要求時，請注意下列內容：
 
-- 為了讓您在 Azure 中的客戶建立服務要求，您的間接提供者必須授與您存取客戶的 Azure 帳戶。 這與代表 Office 365 的客戶進行管理有所不同。 
+- 為了讓您為您在 Azure 中的客戶建立服務要求，您的間接提供者必須授與您存取客戶的 Azure 帳戶。 這與代表 Office 365 的客戶進行管理有所不同。 
 
-- 雖然在合作夥伴中心的技術服務系統管理員無法在 Azure 服務入口網站中建立服務要求，可以做什麼是 Azure 服務入口網站中建立支援群組，並提供給該群組的權限來記錄支援要求。
+- 雖然在合作夥伴中心的技術服務系統管理員無法在 Azure 服務入口網站中建立服務要求，可以做什麼是 Azure 服務入口網站中建立支援群組，並提供給該群組的權限來記錄的支援要求。
 
 1.  選取 **\[新增支援要求\]**。
 2.  以適當的資訊填寫支援要求，並選取 **\[建立\]**：

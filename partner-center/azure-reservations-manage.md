@@ -4,26 +4,26 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: azure，保留區，管理，帳單，購買
 ms.localizationpriority: medium
-ms.openlocfilehash: 5025c32da86944f65c548a7e3ef6e61f7275522e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877398"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489774"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表您的客戶管理 Microsoft Azure Reservations
 
 **適用對象：**
 
--  合作夥伴儀表板
+-  合作夥伴中心
 -  Microsoft Azure 入口網站
 -  雲端解決方案提供者中的合作夥伴
 
-若要管理您客戶的 Azure reservations 購買後，您選取的客戶和保留區，您想要管理您的合作夥伴儀表板，並加以然後在 Azure 入口網站中對保留區進行變更。 
+若要管理您客戶的 Azure reservations 購買後，您選取的客戶和保留區，您想要在合作夥伴中心管理，然後在 Azure 入口網站中對保留區進行變更。 
 
-1. 若要開始，請從儀表板功能表選取 **\[客戶\]** 然後選取您要管理其保留區的客戶。 
+1. 若要開始，從您的合作夥伴中心功能表中選取**客戶**，然後選取您想要管理其保留區的客戶。 
 
-2. 在客戶的詳細資料頁面 \] 功能表，選取**Azure reservations** ，然後選取您想要管理的特定保留區。  
+2. 在客戶的詳細資料頁面] 功能表，選取**Azure reservations** ，然後選取您想要管理的特定保留區。  
 
 3. 在 **\[動作\]** 下方，選取 **\[管理\]** 以移至 Azure 入口網站中客戶的保留區記錄。 在保留區詳細資料頁面上，依照下列步驟以完成任務。  
 
@@ -48,16 +48,16 @@ ms.locfileid: "2877398"
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>代表客戶要求退款或交換 
 
-若要代表客戶提出退款或交換的支援要求，您需在合作夥伴儀表板中選取客戶和保留區，然後在 Azure 入口網站中建立支援要求。 
+若要代表客戶提出退款或交換的支援要求，您將在合作夥伴中心，選取客戶和保留區，並接著在 Azure 入口網站建立支援要求。 
 
 >[!NOTE]
 >Microsoft 支援服務專員可能會請您提供保留區識別碼和保留區訂單識別碼。 您可以在 Azure 入口網站中保留區的 **\[內容\]** 頁面上找到此資訊。 
 
-1. 若要開始，請從儀表板功能表選取 **\[客戶\]** 然後選取想要退款的客戶。 
+1. 若要開始，選取**客戶**透過合作夥伴中心 \] 功能表，然後選取想要退款的客戶。 
 
 2. 在客戶的詳細資料頁面上，選取 **\[Azure Reservations\]**，然後選取客戶想要退款的特定保留區。  
 
-3. **動作**，在 [選取**申請退款的相關**以移至 Azure 入口網站中客戶的保留區記錄，並初始化支援要求。  
+3. 在 [**動作**] 選取以移至 Azure 入口網站中客戶的保留區記錄並初始化支援要求的**退款**。  
 
 4. 在 **\[新的支援要求\]** 頁面上，依照下列步驟來要求退款。 每個步驟之後選取 **\[下一步\]**。 
 
@@ -71,7 +71,7 @@ ms.locfileid: "2877398"
 |**如需以下相關資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的執行個體](azure-reservations.md) |
-|在合作夥伴儀表板中為您的客戶購買 Azure Reservations   |[購買 Azure Reservations](azure-reservations-buying.md) |
+|為您在合作夥伴中心的客戶購買 Azure reservations   |[購買 Azure Reservations](azure-reservations-buying.md) |
 |判斷正確的 VM 大小，並確認客戶 VM 使用率   |[調整 VM 大小以提供最大 Azure Reservations 使用率](azure-usage.md)   |
 |使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
 

@@ -5,12 +5,12 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e66f9c4060a155f4099f28ef29559d5a6f628ba
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0407d176dcf7b7cc7f33403c4575a8a59b15b02d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377740"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489294"
 ---
 # <a name="billing"></a>帳單
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377740"
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-若為您的帳單，請移至 **\[儀表板\]** 功能表並選取 **\[帳單\]** 以查看您的帳單記錄和趨勢、目前月份的應付餘額、發票與對帳檔案的連結，以及最近的付款。
+為您的帳單，請移至**合作夥伴中心**\] 功能表，然後選取**帳單**以查看您的帳單記錄和趨勢，您的發票和對帳檔案中和最近的付款的連結。
 
 如果雲端解決方案提供者計畫中的合作夥伴選擇每月計費，應於 60 天內，向 Microsoft 支付其客戶的訂閱費用 (包括授權型與用量型)。
 

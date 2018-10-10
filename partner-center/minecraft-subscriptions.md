@@ -4,12 +4,12 @@ description: '向符合資格的教育機構客戶銷售 Minecraft: Education Ed
 author: KPacquer
 keywords: 授權的教育合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d7c108471290194a4f96d9e0608d4951c4785f3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cb968300a2254aac6c56b3ecdfc8ac32eb7345a8
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875808"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489684"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育機構客戶銷售 Minecraft: Education Edition
 
@@ -17,7 +17,7 @@ ms.locfileid: "2875808"
 
 -  合作夥伴中心
 
-與教育機構合作的合作夥伴可以提供 **Minecraft: Education Edition** 訂閱給其客戶。 您在合作夥伴儀表板中代表客戶購買訂閱，接著客戶從[教育用 Microsoft Store](https://educationstore.microsoft.com) 下載軟體。 
+與教育機構合作的合作夥伴可以提供 **Minecraft: Education Edition** 訂閱給其客戶。 您在購買訂閱代表客戶在合作夥伴中心，並接著客戶從[教育用 Microsoft Store](https://educationstore.microsoft.com)下載軟體。 
 
 >[!IMPORTANT]
 >若要銷售教育版優惠給教育機構客戶，您必須註冊雲端解決方案提供者 (CSP) 計畫，並成為[授權教育版賣家 (AEP)](https://www.mepn.com)。 此外，您的客戶必須是[合格教育版使用者](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。  
@@ -25,10 +25,10 @@ ms.locfileid: "2875808"
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>代表您的客戶購買 **Minecraft: Education Edition**
 
-請依照下列步驟，在[合作夥伴儀表板](https://partnercenter.microsoft.com/pcv/dashboard/overview
-)中購買 **Minecraft: Education Edition** 訂閱 (需要登入)：
+請依照下列步驟來購買**Minecraft: Education Edition** [合作夥伴中心](https://partnercenter.microsoft.com/pcv/dashboard/overview
+)的訂閱 （需要登入）：
 
-  1.  從您的合作夥伴儀表板功能表，選取 **\[客戶\]**。
+  1.  選取**客戶**透過合作夥伴中心功能表。
   
   2.  從客戶清單選取您的教育客戶，然後選取 **\[新增訂閱\]**。
   
@@ -37,7 +37,7 @@ ms.locfileid: "2875808"
   4.  選取您想代表客戶購買的 Minecraft 訂閱，並輸入授權數量。 選取 **\[下一步: 評論\]**。
 
       >[!NOTE]
-      >您可以在合作夥伴儀表板中查看及管理這些授權。 您的客戶可以在 [Minecraft: Education Edition 詳細資料頁面](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)下方的詳細目錄中查看並管理這些授權 (您必須登入教育用 Microsoft Store 才能看到詳細資料頁面)。 
+      >您將能夠檢視及管理這些授權，在合作夥伴中心。 您的客戶可以在 [Minecraft: Education Edition 詳細資料頁面](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)下方的詳細目錄中查看並管理這些授權 (您必須登入教育用 Microsoft Store 才能看到詳細資料頁面)。 
 
   5.  如果是正確的訂單，請選取 **\[提交\]**。 如果您需要對訂單進行變更，請選取 **\[取消\]** 並進行所需的變更。   
 

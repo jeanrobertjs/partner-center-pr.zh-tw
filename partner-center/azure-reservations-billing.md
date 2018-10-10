@@ -5,18 +5,18 @@ author: v-petand
 keywords: Azure RI, azure 保留的執行個體, 保留區, vm, 管理, 帳單, 購買
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f29c884d155a64ba4d592466a87682313ce9610
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 846f2863e9c4dc9967b8c337bcab40f153b99eb6
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877408"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489434"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure 保留的 VM 執行個體帳單
 
 **適用對象：**
 
--  合作夥伴儀表板
+-  合作夥伴中心
 -  Microsoft Azure 入口網站
 -  雲端解決方案提供者中的合作夥伴
 
@@ -27,7 +27,7 @@ ms.locfileid: "2877408"
 >[!IMPORTANT]
 >如果您在所用貨幣與您不同的市場中為客戶購買 Azure 保留的 VM 執行個體，預設帳單貨幣會以客戶的市場為準，而不是您的所在位置。 如果您在多個市場擁有客戶，您會針對需要付費客戶的每種貨幣收到不同的發票和對帳檔案，讓您可用適當的貨幣向客戶開立發票。 
 
-若要存取一次收費發票以及對帳檔案，請從您的合作夥伴儀表板選取 **\[帳單\]**，然後選取 **\[一次\]**。 
+若要存取一次收費發票和對帳檔案中，選取**帳單**從合作夥伴中心，然後選取**一次**。 
 
 如需雲端解決方案提供者計畫中的帳單一般資訊，請參閱[帳單基本知識](billing-basics.md)。
 
@@ -98,12 +98,12 @@ ms.locfileid: "2877408"
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>檢視您目前的帳單狀態、發票，以及對帳檔案
 
-1.  在合作夥伴儀表板中，選取 **\[帳單\]**、**\[一次\]** 檢視您的帳單狀態。 
+1.  在合作夥伴中心，選取**帳單**，然後**一次**，檢視您的帳單狀態。 
 2.  選取發票或對帳檔案來檢視更多詳細資訊。 
 
 ### <a name="view-a-customers-order-history"></a>檢視客戶的訂購記錄
 
-1.  從您的儀表板功能表，選取 **\[客戶\]**。
+1.  從合作夥伴中心功能表中選取**客戶**。
 2.  在 **\[客戶\]** 頁面上，尋找您要檢視其訂購記錄的客戶，然後選取向下箭號來展開客戶的記錄。 
 3.  選取 **\[檢視訂單\]** 來顯示訂購記錄。
 
@@ -117,8 +117,8 @@ ms.locfileid: "2877408"
 |**如需以下相關資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的 VM 執行個體](azure-reservations.md)
-|在合作夥伴儀表板中為您的客戶購買 Azure Reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
-| 在合作夥伴儀表板中管理 Azure Reservations | [在合作夥伴儀表板中管理 Azure Reservations](azure-reservations-manage.md)
+|為您在合作夥伴中心的客戶購買 Azure reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
+| 在合作夥伴中心管理 Azure reservations | [在合作夥伴中心管理 Azure reservations](azure-reservations-manage.md)
 |在 Azure 入口網站中購買 Azure Reservations | Azure 說明中的[預付具有 Azure 保留的 VM 執行個體的虛擬機器](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
 |在 Azure 入口網站中管理 Azure Reservations   |Azure 說明中的[管理保留的 VM 執行個體](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
 |使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)

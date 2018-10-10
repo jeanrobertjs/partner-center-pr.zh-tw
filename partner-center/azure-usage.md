@@ -1,21 +1,21 @@
 ---
-title: 調整 Microsoft Azure VM 大小以提供最大保留區使用率 |合作夥伴儀表板
+title: 調整 Microsoft Azure VM 大小以提供最大保留區使用率 |合作夥伴中心
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, 保留區, vm, 管理, 使用率, 調整大小
 ms.localizationpriority: medium
-ms.openlocfilehash: bb7d022ba45462db313a9f4e16cc47e4550dbef6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6279ff9e6ecd66af9eb320b2d72a1cdfaad4ccb4
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875778"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489614"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率 
 
 **適用對象：**
 
--  合作夥伴儀表板
+-  合作夥伴中心
 -  Azure 入口網站
 -  雲端解決方案提供者中的合作夥伴
 
@@ -41,11 +41,11 @@ ms.locfileid: "2875778"
 
 1.  使用 API 回應中 additionalInfo 的 ServiceType 屬性值，找出要購買的 VM 大小。 
 
-2.  如需詳細資訊，請參閱[合作夥伴儀表板 API](https://docs.microsoft.com/partner-center/develop/)，[取得客戶的 Azure 使用率記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。 
+2.  如需詳細資訊，請參閱[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/) 中的[取得客戶的 Azure 使用率記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) (英文)。 
 
 **使用 Microsoft Azure 入口網站，取得 VM 大小調整資訊**
 
-1.  在合作夥伴儀表板，移至您的**客戶**\] 頁面。
+1.  在合作夥伴中心，移至 [**客戶**\] 頁面。
 
 2.  尋找想要購買 Azure VM 保留區的客戶，然後選取向下箭號來展開客戶資訊。 選取 **\[Microsoft Azure 管理入口網站\]** 以在 Azure 入口網站中開啟客戶記錄。 
 
@@ -89,7 +89,7 @@ ms.locfileid: "2875778"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>在 Microsoft Azure 入口網站中確認客戶的保留區使用率
 
-1.  在合作夥伴儀表板，移至您的**客戶**\] 頁面。
+1.  在合作夥伴中心，移至 [**客戶**\] 頁面。
 
 2.  尋找您要確認其保留區折扣和使用率的客戶，然後選取向下箭號來展開客戶資訊。 選取 **\[Microsoft Azure 管理入口網站\]** 以在 Azure 入口網站中開啟客戶記錄。 
 
@@ -130,8 +130,8 @@ ms.locfileid: "2875778"
 |**如需以下相關資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的 VM 執行個體](azure-reservations.md)
-|為您在合作夥伴儀表板中的客戶購買 Azure reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
-| 在合作夥伴儀表板中管理 Azure reservations | [在合作夥伴儀表板中管理 Azure reservations](azure-reservations-manage.md)
+|為您在合作夥伴中心的客戶購買 Azure reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
+| 在合作夥伴中心管理 Azure reservations | [在合作夥伴中心管理 Azure reservations](azure-reservations-manage.md)
 |在 Azure 入口網站中購買 Azure Reservations | Azure 說明中的[預付具有 Azure 保留的 VM 執行個體的虛擬機器](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
 |在 Azure 入口網站中管理 Azure Reservations   |Azure 說明中的[管理保留的 VM 執行個體](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
 |使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)

@@ -4,12 +4,12 @@ description: 我們的合作夥伴使用許多標準來衡量事業是否有成�
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377610"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489594"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
@@ -29,11 +29,11 @@ ms.locfileid: "4377610"
 
 **單一客戶**
 
--   從 **\[儀表板\]** 選取 **\[客戶\]**，然後選取 **\[客戶的深入資訊\]**。
+-   從**合作夥伴中心**中選取**客戶**、 客戶，然後選取**客戶的深入資訊**。
 
 **涵蓋您的客戶組合**
 
-1.  在 **\[儀表板\]** 上，選取 **\[分析\]**。
+1.  在**合作夥伴中心**中，選取 [**分析]**。
 2.  選取 **\[匯出\]** 來下載整個客戶集的部署與使用量資料
 
 詞彙︰

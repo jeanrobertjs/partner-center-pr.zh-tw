@@ -5,12 +5,12 @@ ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 Keywords: health, service health,service problems
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b9d3d1009f647098a025a76ab11c314193ec4d3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4ae671016e6d8d8b77c85b56e268b413cee5c28f
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874628"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489304"
 ---
 # <a name="check-service-health"></a>檢查服務健康狀況
 
@@ -22,11 +22,11 @@ ms.locfileid: "2874628"
 
 **檢查服務健康狀況**
 
-1.  從 **\[儀表板\]** 功能表，選取 **\[服務健康情況\]**。 
+1.  在**合作夥伴中心**功能表中，選取 [**服務健全狀況**。 
 
 2.  您會看到您所有的服務，並指出是否有任何項目不是處於良好健康情況。 
 
-在服務中斷期間，Microsoft 會在解決問題期間提供定期更新。 位於 \[合作夥伴儀板表\] 上的 **\[通知中心\]** 是檢視這些更新的最佳方式。 這些通知也會在 Microsoft Azure 入口網站或 Office 395 系統管理中心上顯示。
+在服務中斷期間，Microsoft 會在解決問題期間提供定期更新。 若要檢視這些更新的最佳方式是從**通知中心**上的合作夥伴中心。 這些通知也會在 Microsoft Azure 入口網站或 Office 395 系統管理中心上顯示。
 
 如果問題在服務中斷結束後仍然持續，請提交服務要求。 請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。
 

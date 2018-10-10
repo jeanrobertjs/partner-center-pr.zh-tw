@@ -4,18 +4,18 @@ Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
 keywords: azure，保留區，管理，帳單，購買，Azure RI，Azure 保留的執行個體
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f5073bfd82d16485e3f0d5f4c9f79b1d5b5e7c7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c580553aa484611790b2c83bab968025c0bb1379
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876958"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489754"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>銷售 Microsoft Azure 保留的執行個體 
 
 **適用對象：**
 
--  合作夥伴儀表板
+-  合作夥伴中心
 -  Microsoft Azure 入口網站
 -  雲端解決方案提供者中的合作夥伴
 
@@ -66,13 +66,13 @@ Azure 保留的執行個體的可用性將會以下列方式吸引您的客戶�
 -   如果客戶想將 Azure 訂閱從直接或 EA 轉移至雲端解決方案提供者，保留區無法轉移。 
 
 >[!NOTE]
-> 您可以購買、 販售，和管理 Azure reservations，同時在合作夥伴儀表板和 Azure 入口網站，以及使用合作夥伴中心 API。 請依照下列連結以深入了解。 
+> 您可以購買、 銷售，和管理 Azure reservations，在合作夥伴中心和 Azure 入口網站中，與使用合作夥伴中心 API。 請依照下列連結以深入了解。 
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
 |**如需以下相關資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
-|在合作夥伴儀表板中為您的客戶購買 Azure Reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
-|在合作夥伴儀表板中管理 Azure Reservations | [在合作夥伴儀表板中管理 Azure Reservations](azure-reservations-manage.md)
+|為您在合作夥伴中心的客戶購買 Azure reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
+|在合作夥伴中心管理 Azure reservations | [在合作夥伴中心管理 Azure reservations](azure-reservations-manage.md)
 |判斷正確的 VM 大小，並確認客戶 VM 使用率   |[調整 VM 大小以提供最大 Azure Reservations 使用率](azure-usage.md)   |
 |使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
 

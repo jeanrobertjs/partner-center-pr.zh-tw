@@ -4,12 +4,12 @@ description: 拓展 Microsoft 合作夥伴業務的相關資源。 包含如何�
 keywords: 推薦, 回應推薦, 潛在客戶, 業務潛在客戶, 行銷設定檔, 商務設定檔, 拓展您的業務, 業務機會, 專長認證, 銀級會員, 金級會員, 試用供應項目, 市場擴張, 國内雲
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e84d24f398fb63e6fe8749ff4112866c4cf75b26
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 19a518e32ed352adf4363fc6a7ae84fb5a00e5ca
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377440"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489654"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>拓展您的 Microsoft 合作夥伴業務 
 
@@ -36,7 +36,7 @@ Microsoft 提供許多資源，協助您拓展合作夥伴業務。 了解此網
 | 提供 Microsoft 訂閱的促銷價格給您的客戶 | Microsoft 有時會在授權型訂閱上提供促銷，可讓您將結餘部分退還給客戶，並拓展業務。 請閱讀[提供 Microsoft 訂閱的促銷價格給您的客戶](promotions.md)以深入了解。 | 雲端解決方案提供者合作夥伴 |
 | 在其他市場銷售 | 雲端解決方案提供者銷售通路可以在許多國家/地區進行銷售。 請參閱[雲端解決方案提供者市場](agreements.md)以查看清單。 如需雲端解決方案提供者通路的簡介，請參閱[雲端解決方案提供者概觀](csp-overview.md)。  | 雲端解決方案提供者合作夥伴 |
 銷售到特色產業像非營利組織符合法定和教育版|[銷售到特色產業](get-special-pricing-for-offers.md)|雲端解決方案提供者合作夥伴|
-|拓展您的業務，透過獎勵合作程式中的許多活動。 透過儀表板活動的檔案宣告。| [建立和管理獎勵宣告](create-incentives-claims.md)|雲端解決方案提供者合作夥伴|
+|拓展您的業務，透過獎勵合作程式中的許多活動。 透過合作夥伴中心的活動檔案宣告。| [建立和管理獎勵宣告](create-incentives-claims.md)|雲端解決方案提供者合作夥伴|
 |藉由協力廠商供應項目適用於您要銷售的 Microsoft 軟體建置新的軟體套件組合|[探索協力廠商供應項目](third-party-offers.md)|雲端解決方案提供者合作夥伴|
 
 ## <a name="see-also"></a>請參閱

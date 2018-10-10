@@ -3,12 +3,12 @@ title: 定價與方案 | 合作夥伴中心
 description: ''
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f64114cfcce49bac9958cddb8e0f3663a1e49203
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2a971f5d4ac812ff6067be2dcab9f533282d4ebf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875078"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490194"
 ---
 # <a name="pricing-and-offers"></a>定價與方案
 
@@ -18,7 +18,7 @@ ms.locfileid: "2875078"
 
 若要查看最新的雲端解決方案提供者計畫價目表與方案，請移至 **\[銷售\] > \[定價與方案\]**。 您會看到兩種不同的價目表：一個適用於授權型服務，例如 Office 365、Microsoft Dynamics CRM 和 Enterprise Mobility Suite，另一個則適用於用量型服務，包括 Azure。 
 
-方案清單包含可透過合作夥伴儀表板購買的不同產品系列。 目前包括 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 與 Microsoft Azure。 此清單會增加。
+方案清單包含可透過合作夥伴中心購買的不同產品系列。 目前包括 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 與 Microsoft Azure。 此清單會增加。
 
 在每個產品系列中，有不同的 SKU 和產品套件，可供您根據您的業務來銷售。 您隨時可以透過 \[定價與方案\] 頁面上的 \[雲端轉售商方案組合\] 存取每個方案的最新詳細資料。
 
@@ -47,8 +47,8 @@ ms.locfileid: "2875078"
 
 閱讀 \[定價與方案\] 頁面上 \[雲端轉售商方案組合\] 中您可銷售的其他 SKU 和產品套件組合。 方案組合包含每個地區提供哪些方案。 如果價目表上的項目尚未列在方案組合中，表示該產品尚無法訂購。 一旦可供訂購，方案組合就會更新。
 
-適用於使用合作夥伴儀表板軟體開發套件 (SDK) 的雲端解決方案提供者合作夥伴。 Microsoft 也會在 \[定價與方案\] 頁面發佈一份雲端解決方案提供者中的 Azure 服務清單。
+適用於雲端解決方案提供者合作夥伴使用合作夥伴中心軟體開發套件 (Sdk)。 Microsoft 也會在 \[定價與方案\] 頁面發佈一份雲端解決方案提供者中的 Azure 服務清單。
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>方案組合和價目表問題
 
-如果您有價目表或方案組合的相關疑問，請透過合作夥伴儀表板提交服務要求。
+如果您有價目表或方案組合的相關的問題，請提交服務要求透過合作夥伴中心。

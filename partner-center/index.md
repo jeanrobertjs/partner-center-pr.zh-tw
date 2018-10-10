@@ -1,24 +1,24 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: 從這裡獲得合作夥伴儀表板的相關協助
-description: 需要設定帳戶、與客戶保持聯繫，或購買行動套件訂閱的相關協助嗎？ 建立專為在雲端解決方案提供者與 MPN 計畫的合作夥伴此儀表板說明庫中尋找解答。
+title: 從這裡獲得合作夥伴中心的相關協助
+description: 需要設定帳戶、與客戶保持聯繫，或購買行動套件訂閱的相關協助嗎？ 尋找解答這個合作夥伴中心中的協助建立專為在雲端解決方案提供者與 MPN 計畫的協力廠商程式庫。
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876368"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489674"
 ---
-# <a name="start-here-for-help-with-partner-dashboard"></a>從這裡獲得合作夥伴儀表板的相關協助
+# <a name="start-here-for-help-with-partner-center"></a>從這裡獲得合作夥伴中心的相關協助
 
-需要設定帳戶、與客戶保持聯繫，或購買行動套件訂閱的相關協助嗎？ 建立專為在雲端解決方案提供者與 MPN 計畫的合作夥伴此儀表板說明庫中尋找解答。
+需要設定帳戶、與客戶保持聯繫，或購買行動套件訂閱的相關協助嗎？ 尋找解答這個合作夥伴中心中的協助建立專為在雲端解決方案提供者與 MPN 計畫的協力廠商程式庫。
 
-如果您已經熟悉儀表板，請參閱[新功能](/partner-center/whats-new-in-pc)。
+如果您已經熟悉在合作夥伴中心，請參閱[的新功能](/partner-center/whats-new-in-pc)。
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -85,7 +85,7 @@ ms.locfileid: "2876368"
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">合作夥伴儀表板導覽</a> (需要登入)</h3>
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">合作夥伴中心概觀</a>（需要登入）</h3>
                     </div>
                 </div>
             </div>

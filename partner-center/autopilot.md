@@ -4,12 +4,12 @@ description: 在合作夥伴中心新增 Windows AutoPilot 部署設定檔，以
 author: KPacquer
 keywords: autopilot, windows autopilot, microsoft autopilot, 全自動部署, oobe, 登入畫面
 ms.localizationpriority: medium
-ms.openlocfilehash: b9fc13accd5d229f66ed425ace68e0df00e14016
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877578"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489394"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>透過 Windows Autopilot 簡化裝置設定 
 
@@ -25,7 +25,7 @@ ms.locfileid: "2877578"
 ## <a name="requirements"></a>需求
 
 *  已預先安裝 Windows 10 專業版 Creators Update (1703 版或更新版本) 或 Windows 10 Pro for Advanced PCs 的裝置。
-*  稱為硬體雜湊 (128 HWH 或 4k HWH) 的裝置識別碼，通常由 OEM 提供。 您可以使用識別碼，在合作夥伴儀表板指派組織設定檔。 
+*  稱為硬體雜湊 (128 HWH 或 4k HWH) 的裝置識別碼，通常由 OEM 提供。 您可以使用識別碼指派組織設定檔，在合作夥伴中心。 
 *  裝置必須能夠存取網際網路。 當裝置無法連線時，會顯示預設 Windows 全新體驗 (OOBE) 畫面。
 *  在 MDM 中註冊裝置必須有 Azure Active Directory Premium。
 
@@ -45,19 +45,19 @@ ms.locfileid: "2877578"
 
 ### <a name="add-devices-and-apply-a-profile"></a>新增裝置並套用設定檔
 
-您可以在合作夥伴儀表板建立 Windows AutoPilot 部署設定檔，並將其套用至裝置清單。
+從合作夥伴中心，您可以建立 Windows AutoPilot 部署設定檔，並將它套用到裝置的清單。
 
 若要進行裝置設定，請上傳裝置清單、建立適用於這些裝置的設定檔，然後加以套用。
 
 1.  新增裝置清單。
 
-    銷售專員和系統管理代理人擁有將裝置清單新增至合作夥伴儀表板的存取權限。
+    銷售代理人和系統管理代理人擁有將裝置清單新增至合作夥伴中心的存取權限。
     
     間接經銷商可以和他們的間接提供者合作來新增這份清單。
 
     a.  使用下列主題中的 PowerShell 指令碼建立 .csv 檔案：[Windows AutoPilot 概觀](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)。 這個 .csv 檔案內含裝置資訊，包括序號、OEM 名稱、型號名稱、產品識別碼和裝置識別碼。 
 
-    b。  從儀表板，移至 **\[客戶\]**> 選取收到裝置的客戶 >**\[裝置\] > \[新增裝置\]**。
+    b。  從合作夥伴中心，移至**客戶**> 選取收到裝置的客戶 >**裝置 > 將裝置新增**。
 
     c.  命名裝置批次，例如「Contoso 銷售部門電腦 – 2017 年 4 月訂單」。 
 
@@ -65,7 +65,7 @@ ms.locfileid: "2877578"
 
     **注意：** 如果您在嘗試上傳 .csv 檔案後收到錯誤訊息，請檢查檔案的格式。 8 月之後，您可以只使用 [硬體雜湊]，或使用 OEM 名稱、序號和型號等欄位 (依此順序)，或是 Windows 產品識別碼。 您也可以使用 **\[新增裝置\]** 旁邊連結所提供的範例 .csv 檔案。
 
-2.  建立可套用至裝置的設定檔 (只有系統管理代理人擁有可在合作夥伴儀表板建立和套用設定檔的存取權)。
+2.  建立可套用至裝置的設定檔 （只有系統管理代理人擁有可建立和套用設定檔，在合作夥伴中心的存取權）。
 
     a.  在 **\[裝置\]** 中按一下 **\[新增設定檔\]**。
 

@@ -4,12 +4,12 @@ description: 購買適用於 Microsoft 產品的協力廠商軟體
 author: labrenne
 keywords: 協力廠商供應項目, 要購買的軟體
 ms.localizationpriority: medium
-ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
-ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
+ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "4062160"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489844"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>將協力廠商軟體加入至您的產品組合
 
@@ -53,7 +53,7 @@ ISV 合作夥伴可以隨時決定產品需要授權。 如果 ISV 將產品變�
 
 購買協力廠商軟體的方式與您購買第一方軟體的方式相同。 
 
-1. 從 **\[儀表板\]** 選取 **\[客戶\]**
+1. 從**合作夥伴中心**中，選取**客戶**
 2. 選取 **\[新訂閱\]**
 3. 針對協力廠商軟體選取每月計費。 年度計費和試用計費目前不適用於協力廠商。
 4. 從 \[協力廠商\] 索引標籤選取您要購買的產品

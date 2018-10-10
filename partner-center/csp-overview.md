@@ -4,12 +4,12 @@ description: 雲端解決方案提供者計畫可協助透過新客戶與新專�
 author: labrenne
 keywords: 雲端解決方案提供者, CSP, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 過雲端解決方案提供者銷售, 直接合作夥伴, 間接雲端解決方案提供者合作夥伴, 間接雲端解決方案提供者經銷商, 直接雲端解決方案提供者, 間接雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 散發者, 雲端解決方案提供者計畫
 ms.localizationpriority: medium
-ms.openlocfilehash: 7075949392621c73d8c5d45f2971c759b1114f9e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 62cfa7e131f22ed5d7c3ac0e26ff14f71ac047f3
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875748"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488744"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>雲端解決方案提供者計畫 - 銷售炙手可熱的雲端解決方案 
 
@@ -28,20 +28,20 @@ ms.locfileid: "2875748"
 
 ### <a name="direct-bill-model"></a>直接帳單模型
 
- 在直接帳單模型中，合作夥伴直接向 Microsoft 購買 Microsoft 產品和訂閱，並透過他們的內部銷售人員直接銷售給客戶。 已經運作或願意開發適當的銷售、計費和支援基礎結構的合作夥伴，可以選擇雲端解決方案提供者直接模型。 以使它成為是直接合作夥伴的需求最近已變更，就會生效截至 2018 年 8 月 31 日。 直接合作夥伴必須符合自其下一個的註冊期間在 2018 年 8 月 31 日之後開始新的需求。
+ 在直接帳單模型中，合作夥伴直接向 Microsoft 購買 Microsoft 產品和訂閱，並透過他們的內部銷售人員直接銷售給客戶。 已經運作或願意開發適當的銷售、計費和支援基礎結構的合作夥伴，可以選擇雲端解決方案提供者直接模型。 以使它成為直接合作夥伴的需求最近已變更，就會生效截至 2018 年 8 月 31 日。 直接合作夥伴必須符合自其下一個的註冊期間在 2018 年 8 月 31 日之後開始新的需求。
 
 
 #### <a name="new-expanded-requirements"></a>新的展開的需求：
 
 支援
-- 購買與 Microsoft 進階支援合作夥伴套件的一對一的優先雲端支援展開您支援的功能。 或者，選擇 Microsoft 頂級支援合作夥伴套件來存取完整的類別目錄的主動式服務、 24/7 提升權限中斷/修正支援，以及技術帳戶管理跨雲端、 混合式部署和內部部署。 
+- 購買與 Microsoft 進階支援合作夥伴套件的 1 對 1 的優先順序雲端支援展開您支援的功能。 或者，選擇 Microsoft 頂級支援合作夥伴套件來存取完整的類別目錄的主動式服務、 24/7 提升權限/修正支援和技術的帳戶管理跨雲端、 混合式部署和內部部署。 
 
 服務
 
 - 示範您提供至少一個受管理的服務、 IP 的服務或客戶解決方案的應用程式。 深入了解新增受管理的服務
 
 - 符合最低基礎結構的功能，例如計費以及佈建。
-我們會監視年度效能，以確認符合這些需求的直接帳單合作夥伴已示範穩定的業務成長。 不有任何特定的效能目標就地在這個時候，但 Microsoft 可能會實作列在未來的效能。 
+我們會監視年度的效能，以確認符合這些需求的直接帳單合作夥伴已示範穩定的業務成長。 不有任何特定的效能目標備妥在這個時候，但 Microsoft 可能會實作列在未來的效能。 
 
 - 針對您想要銷售的地點擁有使用中 Microsoft 合作夥伴網路 (MPN) 識別碼
 
@@ -61,7 +61,7 @@ ms.locfileid: "2875748"
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>可以透過雲端解決方案提供者計畫銷售哪些項目？
 
-您可以銷售一系列完整的 [Microsoft 雲端服務](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及經常變動的多種其他優惠。 若要查看當月的雲端解決方案提供者優惠，請登入合作夥伴儀表板，然後移至[**定價與方案**](https://partnercenter.microsoft.com/pcv/sales)頁面。
+您可以銷售一系列完整的 [Microsoft 雲端服務](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及經常變動的多種其他優惠。 若要查看當月的雲端解決方案提供者優惠，請登入合作夥伴中心，然後移至 [[**定價與方案**](https://partnercenter.microsoft.com/pcv/sales)] 頁面。
 
 ## <a name="see-also"></a>請參閱 
 
@@ -72,5 +72,5 @@ ms.locfileid: "2875748"
 |在 Microsoft 國内雲銷售   | [適用於在 Microsoft 國内雲銷售](csp-national-clouds-overview.md)|
 |可以銷售的地點和項目   |[Microsoft 雲端解決方案提供者市場和客戶合約](agreements.md)|
 |  | [雲端解決方案提供者中的租用戶策略](regional-authorization-overview.md)
-|合作夥伴儀表板上的間接提供者工作  |[在雲端解決方案提供者計畫中與間接經銷商建立合作關係](indirect-provider-tasks-in-partner-center.md)|
-|合作夥伴儀表板上的間接經銷商工作   |[在雲端解決方案提供者計畫中與間接提供者建立合作關係](indirect-reseller-tasks-in-partner-center.md)|
+|在合作夥伴中心的間接提供者工作  |[在雲端解決方案提供者計畫中與間接經銷商建立合作關係](indirect-provider-tasks-in-partner-center.md)|
+|在合作夥伴中心的間接經銷商工作   |[在雲端解決方案提供者計畫中與間接提供者建立合作關係](indirect-reseller-tasks-in-partner-center.md)|

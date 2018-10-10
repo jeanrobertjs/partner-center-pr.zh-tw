@@ -3,12 +3,12 @@ title: 建立合作夥伴中心帳戶 | 合作夥伴中心
 description: Microsoft 合作夥伴網路會員需要建立合作夥伴中心帳戶，才能管理他們的網路權益和專長認證，以及建立商務設定檔。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a12b65369d1d82fdf94a4312feb8acd8892f29bb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377770"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488944"
 ---
 # <a name="create-a-partner-center-account"></a>建立合作夥伴中心帳戶
 
@@ -67,7 +67,7 @@ ms.locfileid: "4377770"
 
 5.  確認您已被新增到系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
 
-    a. 在您的 **\[儀表板\]** 中，選取 **\[設定\]** 圖示，然後選取 **\[使用者管理\]**。  
+    a. 在您的**合作夥伴中心**，選取 [**設定**] 圖示，然後選取 [**管理使用者**。  
 
     b. 從使用者清單中選取您的名稱，然後選取 **\[系統管理代理人\]** (如果尚未選取)。 選取 **\[更新\]**。  
 

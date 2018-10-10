@@ -5,12 +5,12 @@ ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: 483d0d13415c204106c2269d9cdcd80298e59bc2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877088"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490004"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>指派或撤銷多個使用者的授權
 
@@ -20,7 +20,7 @@ ms.locfileid: "2877088"
 
 您可以指派授權與服務給一個使用者，或一次指派給客戶帳戶中的多個使用者，以及撤銷對使用者的授權指派。
 
-合作夥伴儀表板會追蹤及顯示客戶擁有的所有授權權益。
+在合作夥伴中心會追蹤及顯示的所有客戶擁有的授權權益。
 
 ## <a name="in-this-section"></a>本節內容
 
@@ -31,7 +31,7 @@ ms.locfileid: "2877088"
 <a href="" id="assign-licenses-to-groups"></a>
 **指派授權給多個使用者**
 
-1.  從 **\[儀表板\]** 功能表上，選取 **\[客戶\]**，然後從清單中選擇客戶。
+1.  在**合作夥伴中心**功能表中，選取**客戶**，並從清單中選擇客戶。
 2.  選取 **\[使用者和授權\]**。
 3.  從清單中選取兩個或更多使用者的核取方塊。 (若要選取目前頁面上的所有使用者，請選取 **\[使用者\]** 欄最上面的核取方塊。)
 
@@ -57,7 +57,7 @@ ms.locfileid: "2877088"
 7.  請透過選取每項產品的核取方塊來為使用者選取超過一項產品。
     -   針對任何產品選取 **\[檢視服務方案\]**，以檢視及選取使用者需要的服務方案。
 
-8.  選取 **\[儲存\]**。 合作夥伴儀表板就會開啟 **\[已更新授權\]** 確認頁面，列出使用者和他們新的授權。
+8.  選取 **\[儲存\]**。 在合作夥伴中心會開啟**授權更新**確認頁面，列出使用者和他們新的授權。
 
 **注意**：部分 Microsoft 產品可能在特定地區沒有提供授權。 其他產品則取決於其他產品或服務，或者可以一起指派給同一個使用者。 在您儲存之後，確認頁面就會列出所有使用者授權指派成功的結果，以及任何授權指派錯誤。
 
@@ -66,7 +66,7 @@ ms.locfileid: "2877088"
 <a href="" id="revoking-licenses"></a>
 **撤銷使用者的授權指派**
 
-1.  從 **\[儀表板\]** 功能表上，選取 **\[客戶\]**，然後從清單中選擇客戶。
+1.  在**合作夥伴中心**功能表中，選取**客戶**，並從清單中選擇客戶。
 2.  選取 **\[使用者和授權\]**。
 3.  從清單中選取兩個或更多使用者的核取方塊。 (若要選取目前頁面上的所有使用者，請選取 **\[使用者\]** 欄最上面的核取方塊。)
 

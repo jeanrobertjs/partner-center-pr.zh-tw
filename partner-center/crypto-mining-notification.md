@@ -1,25 +1,25 @@
 ---
-title: 加密貨幣採礦活動的合作夥伴儀表板通知 | 合作夥伴儀表板
+title: 加密貨幣採礦活動的合作夥伴中心通知 |合作夥伴中心
 description: 可能發生加密貨幣採礦活動的通知。
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8dec91ae62b27c031739e59848118395ab52f7f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 93f4031d8e084c206ee21ff96b6c16a4c0d2ea0e
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876228"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488924"
 ---
-# <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>加密貨幣採礦活動的合作夥伴儀表板通知
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密貨幣採礦活動的合作夥伴中心通知
 
 **適用對象：**
 
--  合作夥伴儀表板
+-  合作夥伴中心
 -  雲端解決方案提供者合作夥伴
 
-您可能會收到下列有關加密貨幣採礦活動的合作夥伴儀表板通知：
+您可能會收到下列有關加密貨幣採礦活動的合作夥伴中心通知：
  
 ![](images/crypto1.png)
 
@@ -42,13 +42,13 @@ ms.locfileid: "2876228"
 
 2.  了解資源一開始的建立方式。 這可能需要您檢視 Azure 資源管理記錄中的資源佈建活動。
 
-3.  如果您需要了解訂閱的建立者，請檢視合作夥伴儀表板活動記錄。
+3.  如果您需要了解訂閱的建立者，請檢視合作夥伴中心活動記錄。
 
 對於加密貨幣採礦的偵測是啟發學習法，可能無法達到 100% 準確。 請務必就地控管和監控系統，以避免詐騙或其他未經許可的活動。 如需詳細資訊，請參閱[未付款、詐騙或濫用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)。
 
 如果您有任何關於此通知的問題或疑慮，您可以使用下列程序開啟支援要求。
 
-1.  在 \[儀表板\] 中，選取 **\[支援\]**，然後選取 **\[合作夥伴中心要求\]**。
+1.  在合作夥伴中心中，選取 [**支援**]，然後選取**合作夥伴中心要求**。
 3.  選取 **\[新要求\]**。 
 4.  在 **\[問題類型\]** 下拉式功能表中，選取 **\[新增或管理客戶\]**。
 5.  在 **\[影響\]** 下拉式功能表中，選取 **\[中\]**。

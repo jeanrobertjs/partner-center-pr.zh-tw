@@ -1,15 +1,15 @@
 ---
 title: 續訂您的 MPN 優惠方案 | 合作夥伴中心
-description: 從合作夥伴儀表板續訂您的 MPN 優惠方案
+description: 續訂您的 MPN 優惠方案，從合作夥伴中心
 author: labrenne
 keywords: MPN, Microsoft 行動套件, MAPS, 專長認證更新, 續約日期
 ms.localizationpriority: medium
-ms.openlocfilehash: 6347536a0b2dfd4af682ef98d1c130f65a68410e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b31a73706c6f88d67aabc8ec4bf0e79297de2978
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875478"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489344"
 ---
 # <a name="renew-your-mpn-offers"></a>續訂您的 MPN 優惠方案
 
@@ -17,9 +17,9 @@ ms.locfileid: "2875478"
 
 - 合作夥伴中心
 
-您的 MPN 優惠訂閱續約時間範圍會從您購買日期的週年日加 1 天開始算起。 例如，如果您於 2018 年 9 月 1 購買 Microsoft 動作套件，則續約時間範圍會在 2019 年 9 月 2 日開始。 您可以在合作夥伴儀表板上續訂您的訂閱。
+您的 MPN 優惠訂閱續約時間範圍會從您購買日期的週年日加 1 天開始算起。 例如，如果您於 2018 年 9 月 1 購買 Microsoft 動作套件，則續約時間範圍會在 2019 年 9 月 2 日開始。 您可以將您在合作夥伴中心的訂閱續約。
 
-從 **\[儀表板\]** 選取 **\[會員優惠\]**。
+從**合作夥伴中心**中，選取 [**會員優惠**。
 在 **\[購買\]** 索引標籤上，每個您所購買的優惠方案都會顯示：
 
 - 您的到期日

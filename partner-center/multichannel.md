@@ -4,12 +4,12 @@ description: 有時候客戶可能會想雇用您來佈建及支援他們在其�
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377480"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489414"
 ---
 # <a name="multi-channel-support"></a>多通路支援
 
@@ -19,7 +19,7 @@ ms.locfileid: "4377480"
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-合作夥伴儀表板的多通路功能支援客戶想要雇用合作夥伴來管理並支援在其他地方購買之訂閱的案例。 多通路支援適用於當客戶：
+合作夥伴中心的多通路功能支援客戶想要雇用合作夥伴來管理並支援在其他地方購買之訂閱的案例。 多通路支援適用於當客戶：
 
 -   已經直接從 Microsoft，或透過顧問、Open 或 EA 方案購買訂閱。
 
@@ -47,7 +47,7 @@ ms.locfileid: "4377480"
 </table>
 
 > [!IMPORTANT]  
-> CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道宣佈，包括合作夥伴儀表板。 
+> CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何公告將會透過一般通訊管道，包括合作夥伴中心宣佈。 
 
 ## <a name="see-also"></a>請參閱
 

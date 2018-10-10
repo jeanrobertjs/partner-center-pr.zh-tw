@@ -5,12 +5,12 @@ ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 keywords: 協助代理人, 支援, 指派支援連絡人, 指定的支援連絡人
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a1ae3f22193f2d59266c289c4c2a924c323b86a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 323906a5554fa081496fc94e4396dee8681d59eb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877538"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489444"
 ---
 # <a name="assign-support-contacts"></a>指派支援連絡人
 
@@ -29,7 +29,7 @@ ms.locfileid: "2877538"
 
 1.  從與您指派的產品經銷商[要求建立關係](request-a-relationship-with-a-customer.md)開始。 與他們協議出處理技術支援的支援合約。
 
-2.  在合作夥伴儀表板中，選取 **\[客戶\]**、選取客戶，然後選取訂閱，例如 Office 365 商務進階版。
+2.  在**合作夥伴中心**功能表中，選取**客戶**，然後選取客戶，然後選取訂閱，例如，Office 365 商務進階版。
 
 3.  在 **\[指派的支援連絡人\]**，選取指派的產品經銷商，然後按一下 **\[提交\]**。 
 

@@ -4,12 +4,12 @@ description: 客戶記錄是您在合作夥伴中心最重要的資訊資產之�
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f0ab5159f36212ea73effea59bfba98e68023372
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377460"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490164"
 ---
 # <a name="manage-your-customer-list"></a>管理您的客戶清單
 
@@ -26,20 +26,20 @@ ms.locfileid: "4377460"
 
 ## <a name="search-for-a-customer"></a>搜尋客戶
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。
+1.  在**合作夥伴中心**功能表中，選取**客戶**。
 2.  若要搜尋客戶，請在搜尋方塊中輸入客戶名稱或網域名稱。
 3.  選取客戶列末端的 **「向下箭號」** 來查看其 Microsoft ID，以及與他們相關聯的訂閱和服務的快速連結。
 
 ## <a name="update-a-customers-company-name"></a>更新客戶的公司名稱
 
-從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。
+在**合作夥伴中心**功能表中，選取**客戶**。
 2.  若要搜尋客戶，請在搜尋方塊中輸入客戶名稱或網域名稱。
 3.  選取客戶列末端的 **「向下箭號」** 來查看其 Microsoft ID，以及與他們相關聯的訂閱和服務的快速連結。
 4.  在客戶的**帳單**資訊，請更新的公司名稱。 當您儲存新的值時，它將會反映在客戶清單。 這只會變更的帳單到公司名稱和客戶清單值。 它將不會反映任何一處其他。
 
 ## <a name="export-your-customer-list"></a>匯出客戶清單
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。
+1.  在**合作夥伴中心**功能表中，選取**客戶**。
 2.  選取 **\[匯出客戶\]**。
 
     合作夥伴中心會將完整的客戶清單轉換成 .csv 檔案，然後將它上傳到您電腦中的預設下載資料夾。 您也可以匯出客戶資料的子集。 資料欄包含：
@@ -56,7 +56,7 @@ ms.locfileid: "4377460"
 
 ## <a name="export-customer-subscription-information"></a>匯出客戶訂閱資訊
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。
+1.  在**合作夥伴中心**功能表中，選取**客戶**。
 2.  針對任何客戶選取 **\[公司名稱\]**。 隨即開啟該客戶的 **\[訂閱\]** 頁面，顯示其完整的產品訂閱清單。
 3.  選取 **\[匯出訂閱\]**。 合作夥伴中心會將客戶的訂閱資料轉換成 .csv 檔案，然後將檔案上傳到您電腦中的預設下載資料夾。 資料欄包含：
     -   **訂閱識別碼**；

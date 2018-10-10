@@ -4,18 +4,18 @@ Description: Fulfill the new requirements to be a direct partner in CSP
 author: labrenne
 keywords: 雲端解決方案提供者，直接合作夥伴，直接帳單，需求
 ms.localizationpriority: medium
-ms.openlocfilehash: 6df493e50bf225b3a37e0fbdad61baaf944ebe46
-ms.sourcegitcommit: d7fffbb88740a25b3c2e5c9e21e0d36a4493df50
+ms.openlocfilehash: cd2a5e582e982e105bfcf757ca5f02944b316e9d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/04/2018
-ms.locfileid: "4349747"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488694"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>雲端解決方案提供者直接合作夥伴新的需求
 
 **適用對象：**
 
-- 合作夥伴儀表板
+- 合作夥伴中心
 
 數位轉換已發展我們的客戶執行業務的方式。 若要瞬息萬變，並繼續提供異常服務，我們必須不斷演進，太。 為了協助參與雲端解決方案提供者計畫的所有合作夥伴的一部分成功，拓展，我們已更新適用於直接合作夥伴註冊需求。 這些新的需求增強我們的商業和技術的關係，與合作夥伴合作有基礎結構，支援的功能，以及作業調整，並增加他們的客戶基底以更高版本高於平均速率。
 

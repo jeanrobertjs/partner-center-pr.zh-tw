@@ -4,12 +4,12 @@ description: 透過合作夥伴中心評估、交涉和回應推薦。
 author: KPacquer
 keywords: 推薦, RFI, 尋找合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4467a6404718a21d206980e77a9a84d7f77432dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875418"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489454"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>在合作夥伴中心回應推薦
 
@@ -29,7 +29,7 @@ ms.locfileid: "2875418"
 
 客戶有興趣與您連絡時，他們會提交資訊要求 (RFI)。 
 
-發生這種情形時，我們將傳送電子郵件給您的所選地區和位置專屬[商務設定檔](create-a-marketing-profile.md)中所列的連絡人。 您也可以在合作夥伴中心查看傳入 RFI：移至 **\[儀表板\] > \[推薦\] > \[客戶推薦\]**。
+發生這種情形時，我們將傳送電子郵件給您的所選地區和位置專屬[商務設定檔](create-a-marketing-profile.md)中所列的連絡人。 您也可以查看在合作夥伴中心的傳入 Rfi： 移至**合作夥伴中心 > 推薦 > 客戶推薦**。
 
 客戶通常選擇同時傳送相同的 RFI 給多家公司。 若要提升您的成功機會，我們建議在 24 小時内回應並接受或拒絕新推薦。
 

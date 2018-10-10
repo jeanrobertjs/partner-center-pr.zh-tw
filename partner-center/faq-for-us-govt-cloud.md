@@ -3,14 +3,14 @@ title: Microsoft Cloud for US Government 適用的合作夥伴中心常見問題
 description: 運用常見問題集可深入了解 Microsoft Cloud for US Government 適用的雲端解決方案提供者 (CSP) 計畫。 您也可以連絡客戶經理以取得其他資訊。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e2a90125a294959f927b39aa694e8a148deec3f7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 917731fa0cc8148e3c542d612776b18507e6b11d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876348"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490214"
 ---
-# <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>常見問題集的合作夥伴中心的 Microsoft cloud for US government 適用
+# <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>適用於常見問題集合作夥伴中心的 Microsoft cloud for US government 適用
 
 **適用對象：**
 
@@ -45,7 +45,7 @@ Microsoft 政府雲端的雲端解決方案提供者計畫與 CSP Commercial 不
 
 -   上線：合作夥伴必須在 CSP Commercial 之外，另外上線到美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫。
 
--   產品的可用性： 同時 Azure Government 和基座授權的服務像 Office 365、 Enterprise Mobility + Security，而 Dynamics 365 在使用 Microsoft 政府雲端的雲端解決方案提供者計畫。 
+-   產品的可用性： 同時 Azure Government 和基座為基礎的服務像 Office 365、 Enterprise Mobility + Security，和 Dynamics 365 可供 Microsoft 政府雲端的雲端解決方案提供者計畫中。 
 
 -   締約：Microsoft 雲端轉銷商合約 (MCRA) 已經過更新，可反映獨特的政府條款。
 
@@ -75,7 +75,7 @@ MCRA 授與合作夥伴使用雲端解決方案提供者進行轉售的權限。
 
 -   必須併入雲端解決方案提供者與其客戶簽訂的合約。
 
--   它有經過量身訂做為遵守聯邦、 州及本機出口法規之限制。
+-   它有經過量身訂做遵守聯邦、 州及地方法律與規定。
 
 *Microsoft Cloud 代理商合約 (MCDA)*
 
@@ -105,7 +105,7 @@ Microsoft Cloud 代理商合約 (MCDA) 授與代理商透過雲端解決方案�
 
 **如果資料是在商業資料中心託管，是否能改換到美國政府適用的 Microsoft Cloud 中託管？**
 
-為了促進並維持美國政府適用的 Microsoft Cloud 的隔離完整性，還是沒有任何機制可將客戶現有的服務移入 Microsoft Cloud，美國政府適用。 如果客戶或合作夥伴擁有 Azure，他們要自行負責將任何資料移轉至美國政府適用的 Microsoft Cloud 的新環境中。
+為了促進並維持美國政府適用的 Microsoft Cloud 的隔離完整性，沒有任何機制可將客戶現有的服務移至 Microsoft Cloud，美國政府適用。 如果客戶或合作夥伴擁有 Azure，他們要自行負責將任何資料移轉至美國政府適用的 Microsoft Cloud 的新環境中。
 
 
 ### <a name="microsoft-cloud-for-us-government-for-azure"></a>Microsoft Cloud for US government 適用的 Azure
@@ -116,7 +116,7 @@ Azure Government 雲端提供根據安全性、隱私權與控制、合規性及
 
 **美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫是否會提供所有 Azure 服務？**
 
-現已推出基礎結構即服務 (IaaS) 以及基本的平台與資料方案。 藍圖將持續更新，我們也會提供類似 CSP Commercial 在合作夥伴中心儀表板內所示文件的說明文件 (需要驗證)。 您可以在這裡檢閱目前提供的 Azure Government 服務，但請注意，有些服務 (例如傳統運算、網路、儲存體及雲端服務) 並非針對雲端解決方案提供者所設計，而且也不適用該提供者。
+現已推出基礎結構即服務 (IaaS) 以及基本的平台與資料方案。 藍圖將持續更新，而且我們提供類似於文件，與 CSP Commercial 的合作夥伴中心 （需要驗證） 內的文件。 您可以在這裡檢閱目前提供的 Azure Government 服務，但請注意，有些服務 (例如傳統運算、網路、儲存體及雲端服務) 並非針對雲端解決方案提供者所設計，而且也不適用該提供者。
 
 **我該怎麼做才能使用美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫進行開發？**
 
@@ -127,7 +127,7 @@ Azure Government 雲端提供根據安全性、隱私權與控制、合規性及
 美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫的 API 和整合需求與 CSP Commercial 的 API 和整合需求完全相同。 如需美國政府適用的 Microsoft Cloud 之端點的詳細資訊，請參閱[合作夥伴中心 REST URL](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx)。
 
 >[!NOTE]
->CREST Api 將無法適用於 Microsoft cloud for US government 適用的雲端解決方案提供者計畫。 這些 API 即將在雲端解決方案提供者計畫中過時，因此無法供美國政府適用的 Microsoft Cloud 使用。 為了符合法規及合規性需求，美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫不會提供下列 API。
+>CREST Api 將無法供美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫。 這些 API 即將在雲端解決方案提供者計畫中過時，因此無法供美國政府適用的 Microsoft Cloud 使用。 為了符合法規及合規性需求，美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫不會提供下列 API。
 
 **使用者帳戶管理** 
 

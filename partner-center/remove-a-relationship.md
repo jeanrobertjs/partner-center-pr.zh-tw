@@ -3,12 +3,12 @@ title: 移除與客戶的經銷商關係 | 合作夥伴中心
 description: 移除關係會從合作夥伴中心的檢視中移除任何已關閉的企業關係。
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: 37b4866a4bdb0d2785581c71a329c236ab9a4d81
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: a647178ae75b52930cc8eab5258179ed27696912
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875508"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489734"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>移除與客戶的經銷商關係
 
@@ -26,11 +26,11 @@ ms.locfileid: "2875508"
 
 若要移除關係，您需先取消 Azure RI 保留區、取消軟體購買項目，以及暫停任何剩餘的使用中訂閱：
 
-1.  暫停任何使用中訂閱。 在儀表板中，移至 **\[客戶\]** > 選取客戶 > **\[訂閱\]** > 選取訂閱 > ***\[已暫停\]**。 
+1.  暫停任何使用中訂閱。 從合作夥伴中心，移至**客戶**> 選取客戶 >**訂閱**> 選取訂閱 >**已暫停**。 
 
    針對每個使用中訂閱重複此步驟。
 
-2.  移除合作夥伴中心內的關係：從儀表板中，移至 **\[客戶\]** > 選取客戶 > **\[帳戶\]** > **\[移除經銷商關係\]**。
+2.  在合作夥伴中心移除關係： 從合作夥伴中心，移至**客戶**> 選取客戶 >**帳戶** > **移除經銷商關係**。
 
     注意，如果有任何訂閱仍然在使用中，**\[移除經銷商關係\]** 連結將會是非使用中狀態。 
 

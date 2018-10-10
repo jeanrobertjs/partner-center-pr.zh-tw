@@ -4,12 +4,12 @@ description: 當您升級 Microsoft 合作夥伴網路會員資格時，有資�
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377780"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489704"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升級您的 Microsoft 合作夥伴網路會員資格
 
@@ -47,12 +47,12 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 如需有關 Microsoft 行動套件的詳細資訊，請移至[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
 
 > [!NOTE]  
-> 跟隨此連結會帶您到另一個網站。 回到此網站 (合作夥伴中心) 來訂閱行動套件。
+> 跟隨此連結會帶您到另一個網站。 回到此網站，合作夥伴中心網站，行動寶盒訂閱。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>訂閱 Microsoft 行動套件
 
-1. 在 **\[儀表板\]** 功能表中，選取 **\[合作關係\] > \[優惠\]**。 Microsoft 行動套件列在 **\[可用的優惠\]** 中。 選取 **\[立即訂閱\]**。 
+1. 在**合作夥伴中心**功能表中，選取**合作關係 > 提供**。 Microsoft 行動套件列在 **\[可用的優惠\]** 中。 選取 **\[立即訂閱\]**。 
 
 2. 選取 **\[下一步\]**，同意 Microsoft 合作夥伴網路授與的內部使用權的[條款及條件](https://go.microsoft.com/fwlink/?linkid=842232)。  
 
@@ -70,7 +70,7 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>關閉自動行動套件訂閱續約
 
-1. 在 **\[儀表板\]** 功能表中，選取 **\[合作關係\] > \[優惠\]**。 Microsoft 行動套件列在 **\[已購買的優惠\]** 中。
+1. 在**合作夥伴中心**功能表中，選取**合作關係 > 提供**。 Microsoft 行動套件列在 **\[已購買的優惠\]** 中。
 
 2. 選取 **\[Microsoft 行動套件訂閱\]** 檢視訂閱詳細資料。 
 
@@ -82,7 +82,7 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 ### <a name="renew-your-action-pack-subscription"></a>為您的行動套件訂閱續約
 
-1. 在 **\[儀表板\]** 功能表中，選取 **\[合作關係\] > \[優惠\]**。 Microsoft 行動套件列在 **\[已購買的優惠\]** 中。
+1. 在**合作夥伴中心**功能表中，選取**合作關係 > 提供**。 Microsoft 行動套件列在 **\[已購買的優惠\]** 中。
 
 2. 選取 **\[Microsoft 行動套件訂閱\]** 檢視訂閱詳細資料，然後選取 **\[動作\]** 下的 **\[續約訂閱\]**。  
 

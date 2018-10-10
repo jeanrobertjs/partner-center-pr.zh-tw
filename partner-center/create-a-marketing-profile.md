@@ -5,12 +5,12 @@ ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, 推薦, 業務潛在客戶, C2PC, 公司設定檔, 行銷您的公司, 尋找合作夥伴, 尋找解決方案提供者, 商務設定檔, 行銷設定檔
 ms.localizationpriority: medium
-ms.openlocfilehash: 61a38d6d0f4f56a980bf6bb8ef44be5f6ee6cd46
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 516e898ba6c18458bd85db9517031ca58fcfef8a
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377620"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489764"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -40,20 +40,20 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 *  **Microsoft 銷售和服務員工的推薦**。 有興趣部署雲端技術解決方案的潛在客戶會向 Microsoft 尋求協助，尋找可以滿足其業務需求的專業人員。 這些 Microsoft 專業人員然後向潛在客戶推薦您的公司。
 
 > [!IMPORTANT]  
-> 為了協助我們的合作夥伴簡化業務營運，我們正在將以往分散在數個工具和網站間的特色和功能整合至合作夥伴儀表板，也就是這個網站。 在此項工作中，我們已將所有推薦相關功能移到合作夥伴儀表板，並淘汰 Pinpoint 和 C2PC 網站。 如果您過去使用 Pinpoint 或 C2PC 來透過 Microsoft 獲得推薦和進行管理，您將需要在合作夥伴儀表板建立新的商務設定檔以便繼續取得推薦。 我們已不再支援從這些網站匯入設定檔。 
+> 為了協助我們的合作夥伴簡化業務營運，我們正在整併用來分散在數個工具和網站至合作夥伴中心，而此網站的特性和功能。 工作的一部分，我們將所有推薦相關功能都移到合作夥伴中心，並淘汰 Pinpoint 和 C2PC 網站。 如果您使用 Pinpoint 或 C2PC 過去來取得及管理透過 Microsoft 推薦，您將需要在合作夥伴中心，以便繼續取得推薦中建立新的商務設定檔。 我們已不再支援從這些網站匯入設定檔。 
 
 ## <a name="create-a-profile"></a>建立設定檔
 
 > [!NOTE]  
->  您可以建立商務設定檔之前，您必須有合作夥伴儀表板帳戶。 如果還沒有合作夥伴儀表板帳戶，請參閱[建立合作夥伴儀表板帳戶](mpn-create-a-partner-center-account.md)以取得建立帳戶的說明。 
+>  您可以建立商務設定檔之前，您必須在合作夥伴中心帳戶。 如果還沒有合作夥伴中心帳戶，請參閱[建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)以取得建立帳戶的說明。 
 
 為您獲得授權執行業務的每個地區，建立設定檔。 
 
-1.  從 **\[儀表板\]** 功能表，選取 **\[轉介\]** &gt; **\[商務設定檔\]** &gt; 選取國家/地區 > **[建立商務設定檔](https://partnercenter.microsoft.com/pcv/publishing)**。
+1.  在**合作夥伴中心**功能表中，選取 [**推薦** &gt; **商務設定檔**&gt;選取國家/地區 >**[建立商務設定檔](https://partnercenter.microsoft.com/pcv/publishing)**。
 
 2.  在 **\[建立商務設定檔\]** 頁面中，選取地區，然後輸入您的設定檔資訊。
     > [!NOTE]  
-    >  雖然合作夥伴儀表板支援多種語言，不過某些元素，例如描述及自由格式標籤，可能需要包含不同語言，如本主題中所述的文字。
+    >  雖然合作夥伴中心支援多種語言，不過某些元素，例如描述及自由格式標籤，可能需要包含不同語言，如本主題中所述的文字。
 
 ### <a href="" id="partner_info"></a>合作夥伴資訊
 
@@ -99,7 +99,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 建議您讓這個設定保持已核取狀態。 
 
-當您透過合作夥伴儀表板證明您在拓展客戶方面取得成效，或是參與其他 Microsoft 認證或計畫時，我們將會自動加入背書，認可您的特定產品、服務與產業促使獲得該項成功。 背書是搜尋結果的重要因素。
+當您透過合作夥伴中心中，向客戶證明成功，或是參與其他 Microsoft 認證或計畫，我們將會自動加入背書，認可您的特定產品、 服務與產業促使獲得該項成功。 背書是搜尋結果的重要因素。
 
 如果您所提供服務的產品是您不希望在設定檔中顯露的產品，則可以取消核取此方塊，並手動管理您的設定檔。 這些背書會從客戶檢視中隱藏起來，但是您隨時可以將它們新增到您的設定檔。
 

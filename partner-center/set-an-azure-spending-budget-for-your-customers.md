@@ -4,12 +4,12 @@ description: 在合作夥伴中心，您可以設定每個客戶每月的預算�
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377470"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488954"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>為客戶設定 Azure 消費預算
 
@@ -33,23 +33,23 @@ Azure 消費資料為估計值，實際帳單金額可能會有差異，這個�
 > 無法在沙箱或測試實際執行環境 (TIP) 帳戶中使用這項功能。
 
 **開啟電子郵件通知**
-1.  從 \[儀表板\] 功能表中，選取 **\[Azure 消費\]**。
+1.  在合作夥伴中心功能表中，選取 [ **Azure 消費**。
 2.  將 **\[取得電子郵件\]** 選項切換為要在客戶的使用達預算的 80% 以上時收到通知。 這樣能協助您留意 Azure 帳單。 您可以將預設的電子郵件地址變更為個人或其他電子郵件以接收通知。
 
 **設定預算**
-1.  從 \[儀表板\] 功能表中，選取 **\[Azure 消費\]**。
+1.  在合作夥伴中心功能表中，選取 [ **Azure 消費**。
 2.  選取您想要為其設定預算的客戶。 
 3. 在 **\[每月預算\]** 方塊中輸入一個值並選取 **\[套用\]**。
 4.  若要檢查目前的消費，請返回此頁面。
 5.  也可以從客戶管理頁面的 **\[用量型訂閱\]** 設定個別的預算。
 
 **移除預算**
-1.  從 \[儀表板\] 功能表中，選取 **\[Azure 消費\]**。
+1.  在合作夥伴中心功能表中，選取 [ **Azure 消費**。
 2.  從清單中選取客戶。
 3.  選取 **\[移除預算\]**。
 
 **查看分項成本**
-1.  從 \[儀表板\] 功能表中，選取 **\[客戶\]**。
+1.  在合作夥伴中心功能表中，選取**客戶**。
 2.  從客戶清單中選取客戶。
 3.  在其客戶管理頁面中，於 **\[用量型訂閱\]** 下選擇一項訂閱。 檢視其目前的預估用量及依服務分項的支出清單。
 

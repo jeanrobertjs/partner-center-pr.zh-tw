@@ -3,12 +3,12 @@ title: 測試新的合作夥伴中心功能
 description: 在發行之前測試新的合作夥伴中心功能，並讓我們知道您的想法。 協助打造合作夥伴中心的未來！
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377570"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489464"
 ---
 # <a name="test-drive-new-partner-center-features"></a>測試新的合作夥伴中心功能
 
@@ -49,7 +49,7 @@ ms.locfileid: "4377570"
 
 -   使用合作夥伴中心視窗右下角的意見反應表單，將您的意見反應直接傳送給我們。 
 
--   如果您遇到有關功能預覽的任何問題，請要求支援。 若要建立支援要求，請從 **\[儀表板\]** 功能表選取 **\[支援要求\] > \[合作夥伴中心要求\]**，然後選取 **\[合作夥伴中心要求\]** 頁面上的 **\[新要求\]**。
+-   如果您遇到有關功能預覽的任何問題，請要求支援。 若要建立支援要求，請選取**支援要求 > 合作夥伴中心要求**從**合作夥伴中心**\] 功能表，然後選取**新要求**在**合作夥伴中心要求**的頁面上。
 
 協助我們賦予您能力！
 

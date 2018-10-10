@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
-ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
+ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "3966155"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488964"
 ---
 # <a name="transfer-azure-subscriptions"></a>轉移 Azure 訂閱 
 
@@ -39,7 +39,7 @@ ms.locfileid: "3966155"
 
     從合作夥伴中心建立 Azure 服務票證以要求訂用帳戶移轉：
 
-    -   在儀表板功能表中，選取 **\[客戶\]**，從清單中選取客戶，然後選取 **\[服務管理\]**。 在 **\[支援票證\]** 區段底下，選取 **\[新增票證\]** 下拉式清單並選擇 **\[Microsoft Azure\]**。
+    -   在合作夥伴中心功能表中，選取**客戶**，從清單中，選取您的客戶，然後選取**服務管理**。 在 **\[支援票證\]** 區段底下，選取 **\[新增票證\]** 下拉式清單並選擇 **\[Microsoft Azure\]**。
 
     -   在 Azure 入口網站中，選取 **\[新增支援要求\]**。
 

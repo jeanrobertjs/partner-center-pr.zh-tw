@@ -5,27 +5,27 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377490"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489744"
 ---
-# <a name="your-company-work-account-and-the-partner-dashboard"></a>您的公司工作帳戶與合作夥伴儀表板  
+# <a name="your-company-work-account-and-the-partner-center"></a>您的公司工作帳戶與合作夥伴中心  
 
-**適用對象**
+**適用對象：**
 
 -  合作夥伴中心
 
 ## <a name="why-you-need-a-work-account"></a>您必須有工作帳戶的原因
 
-我們需要將您公司的工作帳戶連結至新的合作夥伴儀表板帳戶，讓您的帳戶使用者可以使用他們的工作帳戶使用者名稱和密碼來登入合作夥伴儀表板。
+我們需要您的公司工作帳戶連結至新的合作夥伴中心帳戶，讓您的帳戶使用者可以登入合作夥伴中心，使用他們的工作帳戶使用者名稱和密碼。
 
-如果您的公司已經有工作帳戶，就可以將其連結至您的合作夥伴儀表板帳戶。 
+如果您的公司已經有工作帳戶，就可以將其連結至您的合作夥伴中心帳戶。 
 
 > [!NOTE]  
->  您決定使用現有的工作帳戶之前，請先考慮帳戶中有多少使用者需要使用合作夥伴儀表板。 如果帳戶中有不需要使用合作夥伴儀表板的使用者，請考慮只為那些需要使用合作夥伴儀表板的使用者建立新帳戶。
+>  您決定使用現有的工作帳戶之前，請先考慮帳戶中有多少使用者需要使用合作夥伴中心。 如果您不需要使用合作夥伴中心帳戶中有使用者，請考慮建立新的帳戶，只需要使用合作夥伴中心中的使用者。
 
 如果貴公司還沒有工作帳戶，您可以在註冊過程中建立一個帳戶。 
 

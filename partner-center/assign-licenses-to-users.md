@@ -5,12 +5,12 @@ ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ae156f50adf64ebb18b7cddb79ff6415e9c2714
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 153ed656ff217241079439e8b48c46c8d18ba144
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876998"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489814"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>客戶帳戶的使用者管理工作
 
@@ -29,7 +29,7 @@ ms.locfileid: "2876998"
 <a href="" id="createuseraccounts"></a>
 **為客戶建立使用者帳戶**
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。 從清單中選擇客戶。
+1.  在**合作夥伴中心**功能表中，選取**客戶**。 從清單中選擇客戶。
 
 2.  在 \[客戶\] 功能表中選取 **\[使用者和授權\]**。
 
@@ -44,7 +44,7 @@ ms.locfileid: "2876998"
 <a href="" id="userlicensing"></a>
 **新增或移除客戶的使用者授權**
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。 從清單中選擇客戶。
+1.  在**合作夥伴中心**功能表中，選取**客戶**。 從清單中選擇客戶。
 
 2.  在 \[客戶\] 功能表中選取 **\[使用者和授權\]**。
 
@@ -55,7 +55,7 @@ ms.locfileid: "2876998"
 <a href="" id="resetpassword"></a>
 **為客戶重設使用者的密碼**
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。 從清單中選擇客戶。
+1.  在**合作夥伴中心**功能表中，選取**客戶**。 從清單中選擇客戶。
 
 2.  在 \[客戶\] 功能表中選取 **\[使用者和授權\]**。 從清單中選擇使用者。
 
@@ -66,7 +66,7 @@ ms.locfileid: "2876998"
 <a href="" id="deleteuseraccounts"></a>
 **為客戶刪除使用者帳戶**
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。 從清單中選擇客戶。
+1.  在**合作夥伴中心**功能表中，選取**客戶**。 從清單中選擇客戶。
 
 2.  在 \[客戶\] 功能表中選取 **\[使用者和授權\]**。 從清單中選擇使用者。
 
@@ -77,7 +77,7 @@ ms.locfileid: "2876998"
 <a href="" id="restoreuseraccounts"></a>
 **還原刪除的使用者帳戶**
 
-1.  從 **\[儀表板\]** 功能表上，選取 **\[客戶\]**，然後從清單中選擇客戶。
+1.  在**合作夥伴中心**功能表中，選取**客戶**，然後從清單中選擇客戶。
 
 2.  選取 **\[使用者和授權\]**。
 

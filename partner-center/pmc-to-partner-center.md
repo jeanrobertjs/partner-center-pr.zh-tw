@@ -7,12 +7,12 @@ robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875858"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490074"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>將您的 MPN 會員資格從 Partner Membership Center 轉換到合作夥伴中心
 
@@ -31,7 +31,7 @@ Partner Membership Center 使用者：我們目前透過合作夥伴中心來管
 
 組織的系統管理員將員工新增至合作夥伴中心帳戶，其方式是將他們個別加入，或是使用 PMC 資料一次建立多個使用者：
 
-1.  從合作夥伴中心儀表板，選取 **\[新增使用者\]** 以新增個別使用者，或選取 **\[設定您的小組\]** (或 \[使用 PMC 資料新增使用者\]）一次新增多個使用者。
+1.  從合作夥伴中心，選取 [**新增使用者**至新增個人或**設定您的團隊**（或使用 PMC 資料新增使用者） 來一次新增多個使用者。
     
     依照畫面上的指示完成設定。
 
@@ -47,14 +47,14 @@ Partner Membership Center 使用者：我們目前透過合作夥伴中心來管
 
 1.  取得您登入的資訊是從 Microsoft 合作夥伴中心，或從您的系統管理員。如果您沒有收到登入資訊，請連絡您組織的系統管理員，要求他們直接將您重新傳送。 
 
-2.  連接您的 Microsoft 合作夥伴大學帳戶。 從合作夥伴中心儀表板，選取 **\[更新設定檔\]** > **\[取得合作夥伴大學存取權\]**。  連接這個帳戶之後，您就可以再次存取合作夥伴大學。
+2.  連接您的 Microsoft 合作夥伴大學帳戶。 從合作夥伴中心，選取 [**更新您的設定檔** > **取得合作夥伴大學存取權**。  連接這個帳戶之後，您就可以再次存取合作夥伴大學。
 
-3.  建立 Microsoft 技術測驗及認證的關聯。 從合作夥伴中心儀表板，選取 **\[更新設定檔\]** > **\[建立測驗及認證關聯\]**。 
+3.  建立 Microsoft 技術測驗及認證的關聯。 從合作夥伴中心，選取 [**更新您的設定檔** > **建立測驗及認證關聯**。 
 
 4.  選用：[設定密碼重設自助](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password)。
 
 ## <a name="checking-team-status-and-receiving-competency-achievements"></a>檢查小組狀態並獲得專長認證成就
 
-1.  查看您組織哪些員工已連接他們的 Microsoft 合作夥伴大學帳號，並建立其測驗及認證的關聯：從合作夥伴中心儀表板，選取 **\[檢查您的小組狀態\]**。
+1.  請參閱您的組織哪些員工已連接他們的 Microsoft 合作夥伴大學帳號，並建立其測驗及認證的關聯： 從合作夥伴中心，選取 [**檢查您的小組狀態**。
 
 2.  員工建立其帳戶關聯或完成技能目標之後，**請等候 24 小時**。 在此之後，進度就會顯示在 **\[合作關係\] > \[專長認證\]** 區段中。

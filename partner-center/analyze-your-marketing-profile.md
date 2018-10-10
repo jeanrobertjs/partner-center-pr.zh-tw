@@ -4,12 +4,12 @@ description: 透過合作夥伴中心評估、交涉和回應轉介。
 author: KPacquer
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: def007588180904b929cd568b43a04548e574cd6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2eae340cdd0b2418b8498f69ea4fd17d76a30b58
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875358"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489334"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>分析您的商務設定檔有效性
 <!-- 
@@ -26,7 +26,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 當您開始[回應這些轉介](responding-to-referrals.md)時，將會開始取得關於這些 RFI 中有多少會轉變成贏利的商務交易的資料。
 
-改進您的商務設定檔以產生更多潛在客戶和更具關聯性的潛在客戶時，請使用這些報告。 您的資料會顯示設定檔績效、分析趨勢，以及辨識需要有所動作的區域。 請從合作夥伴儀表板，移至 **\[轉介\] > \[行銷頁面\]**。
+改進您的商務設定檔以產生更多潛在客戶和更具關聯性的潛在客戶時，請使用這些報告。 您的資料會顯示設定檔績效、分析趨勢，以及辨識需要有所動作的區域。 從合作夥伴中心功能表中，移至**推薦 > 行銷頁面**。
 
 這些報告顯示所有地區的商務設定檔績效。 報告顯示過去 90 天以週為單位分組的資料。
 

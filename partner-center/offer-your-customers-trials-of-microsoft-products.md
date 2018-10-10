@@ -3,12 +3,12 @@ title: 為客戶提供 Microsoft 產品試用 | 合作夥伴中心
 description: 您的客戶可以試用 Microsoft 訂閱產品 30 天。
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0babc2c529008d7b76250323b5c4ab5f2f18ada1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4fb7c8752ee6c7ce322ec735a1b3c41a00f92c75
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875308"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488574"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>為客戶提供 Microsoft 產品試用
 
@@ -20,7 +20,7 @@ ms.locfileid: "2875308"
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>註冊您客戶以取得試用版
 
-1.  從 \[儀表板\] 上的 **\[銷售\]** 移至 **\[類別目錄\]**。 
+1.  從合作夥伴中心上，**銷售**，請移至**類別目錄**。 
 2.  在類別目錄的 **\[帳單週期\]** 中，按一下 **\[試用優惠\]**。 這樣就只允許免費試用出現，並停用其他非免費的優惠。 試用項目將會顯示在類別目錄的 **\[試用\]** 索引標籤中。
 3.  選取您想要提供的免費試用，然後選取 **\[提交\]**。 所有試用都是 30 天，此期間不會向您收費。 您也可以隨時在試用期間將其轉換為付費訂閱。
 

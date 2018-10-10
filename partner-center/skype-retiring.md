@@ -4,12 +4,12 @@ Description: Skype for Business Online Plan 1 subscriptions is retiring.
 Author: labrenne
 keywords: 商務用 Skype 方案, 淘汰 Skype, Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 82bafe918ba56fd834b1b468d6b787d52d2b90cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875458"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489804"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>將商務用 Skype Online 方案 1 訂閱移轉至較新的 Office 365 版本
 
@@ -51,13 +51,13 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 ### <a name="migrate-your-customers-to-new-plans"></a>將您的客戶移轉至新方案
 
-1. 若要購買新訂閱，請從 **\[儀表板\] 功能表**，選取 **\[客戶\]**，選取您要移動的客戶，然後選取 **\[新增訂閱\]**。
+1. 若要購買新訂閱，從**合作夥伴中心 \] 功能表**，選取**客戶**、 選取您想要移動的客戶，然後選取 [**新增訂閱**。
 
 2. 選取您要從型錄購買的訂閱 (在此案例中為以上其中一個選項)，輸入授權數量，然後選取 **\[提交\]**。 
 
 您的客戶現在應該有舊和新訂閱、舊的 商務用 Skype Online 方案 1 訂閱和新的「目標」訂閱，例如「選項 1 - Office 365 企業版 F1」。
 
-3. 若要重新指派客戶的使用者授權，請從 **\[儀表板\]** 功能表，選取 **\[客戶\]**、選取您正在移動的客戶，然後選取 **\[使用者及授權\]**。 客戶的 \[使用者與授權\] 頁面隨即開啟。
+3. 若要重新指派客戶的使用者授權，在**合作夥伴中心**功能表中，選取**客戶**，選取您要移動，然後選取 [**使用者和授權**的客戶。 客戶的 \[使用者與授權\] 頁面隨即開啟。
 
 4. 若要重新指派使用者授權，請選取要重新指派的使用者，然後選取 **\[管理授權\]**。
 
@@ -67,7 +67,7 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 將使用者授權移至新服務後，您就可以放心地取消客戶層級的已淘汰訂閱。
 
-7. 從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。 選取您要取消其訂閱的客戶。
+7. 在**合作夥伴中心**功能表中，選取**客戶**。 選取您要取消其訂閱的客戶。
 
 8. 在訂閱詳細資料頁面中，將訂閱設定為 **\[已暫停\]**。
 

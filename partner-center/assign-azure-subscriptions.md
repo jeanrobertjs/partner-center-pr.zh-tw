@@ -4,22 +4,22 @@ description: 現在您可以在合作夥伴中心指派 Azure 訂閱給您的客
 author: Labrenne
 keywords: Azure, Azure 訂閱, 訂閱, 指派訂閱, 管理 azure 訂閱
 ms.localizationpriority: medium
-ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377560"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489024"
 ---
-# <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>在合作夥伴儀表板指派 Azure 訂閱
+# <a name="assign-azure-subscriptions-in-partner-center"></a>在合作夥伴中心指派 Azure 訂閱
 
 **適用對象：**
 
 -  合作夥伴中心
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-the-partner-dashboard"></a>在合作夥伴儀表板指派 Azure 訂閱給您的客戶
+## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>在合作夥伴中心指派 Azure 訂閱給您的客戶
 
-1. 從 **\[儀表板\]** 功能表選取 **\[客戶\]**，並找出您想要管理的客戶。
+1. 從您的**合作夥伴中心**功能表中選取**客戶**，並找出您想要管理的客戶。
 
 2.  選取該列結尾的向下鍵以展開客戶記錄，然後選取 **\[Microsoft Azure 管理入口網站\]**。 系統會將您引導到 Azure 入口網站，讓您管理客戶的訂閱。 
 

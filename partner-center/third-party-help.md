@@ -4,12 +4,12 @@ description: 您現在可以探索和購買要加入至產品組合提供給客�
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b98707f1d14ea689f718f386c09e0f3ebbc558c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877438"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489994"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>將協力廠商軟體加入至您的產品組合
 
@@ -48,7 +48,7 @@ ms.locfileid: "2877438"
 
 購買協力廠商軟體的方式與您購買第一方軟體的方式相同。 
 
-1.  從 **\[儀表板\]** 選取 **\[客戶\]**。
+1.  從**合作夥伴中心**中，選取**客戶**。
 2.  選取 **\[新訂閱\]**。
 3.  針對協力廠商軟體針對每月計費。 年度計費和試用計費目前不適用於協力廠商。
 4.  從 **\[協力廠商\]** 索引標籤選取您要購買的產品。

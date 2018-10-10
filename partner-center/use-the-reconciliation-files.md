@@ -1,15 +1,15 @@
 ---
 title: 使用對帳檔案 | 合作夥伴中心
-description: 如需計費週期中每項費用的詳細明細項目檢視，請從合作夥伴中心儀表板下載對帳檔案。
+description: 如計費週期中每項費用的詳細的明細項目檢視，請從合作夥伴中心下載對帳檔案。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: de2050db9ec6202e43713d62269146291b5ded99
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877548"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489954"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -19,7 +19,7 @@ ms.locfileid: "2877548"
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-如需計費週期中每項費用的詳細明細項目檢視，請從合作夥伴中心儀表板下載對帳檔案。 詳細資料包括每個客戶的訂閱費用，以及詳細事件 (例如，期中增加訂閱基座)。
+如計費週期中每項費用的詳細的明細項目檢視，請從合作夥伴中心下載對帳檔案。 詳細資料包括每個客戶的訂閱費用，以及詳細事件 (例如，期中增加訂閱基座)。
 
 ## <a href="" id="itemizebypartner"></a>依合作夥伴詳細列舉
 
@@ -46,7 +46,7 @@ ms.locfileid: "2877548"
 <td>經銷商 MPN 識別碼</td>
 <td><p>只會出現在間接模型合作夥伴的對帳檔案上。</p>
 <p>訂閱記錄中的經銷商 MPN 識別碼。 這會對應到合作夥伴中心中針對特定訂閱列出的經銷商識別碼。</p>
-<p>若要檢視或更新經銷商，請在合作夥伴中心功能表中選取 \[客戶\]<strong></strong>，然後從清單中選擇客戶。 在客戶功能表中，選取 \[訂閱\]<strong></strong>，從清單中選擇訂閱。 選取 \[更新\]<strong></strong> 以變更 \[經銷商 (MPN 識別碼)\]<strong></strong>。</p>
+<p>若要檢視或更新經銷商，請在合作夥伴中心功能表中，選取<strong>客戶</strong>，然後從清單中選擇客戶。 在客戶功能表中，選取 \[訂閱\]<strong></strong>，從清單中選擇訂閱。 選取 \[更新\]<strong></strong> 以變更 \[經銷商 (MPN 識別碼)\]<strong></strong>。</p>
 <p>如果雲端解決方案提供者合作夥伴直接向客戶銷售訂閱，他們的 MPN 識別碼將會以 MPN 識別碼和經銷商 MPN 識別碼的形式列出兩次。</p>
 <p>如果雲端解決方案提供者合作夥伴具有沒有 MPN 識別碼的經銷商，這個值將會改成設為合作夥伴的 MPN 識別碼。</p>
 <p>如果雲端解決方案提供者合作夥伴移除經銷商識別碼，這個值將會設為 -1。</p></td>
@@ -643,7 +643,7 @@ ms.locfileid: "2877548"
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>用量型的折扣</strong></p>
+<p><strong>用量型折扣</strong></p>
 </td>
 <td>
 <p>啟用折扣</p>
@@ -684,7 +684,7 @@ ms.locfileid: "2877548"
 
 <tr>
 <td>
-<p><strong>授權型的折扣</strong></p>
+<p><strong>授權型折扣</strong></p>
 </td>
 <td>
 <p><em>可套用至多個費用類型</em></p>

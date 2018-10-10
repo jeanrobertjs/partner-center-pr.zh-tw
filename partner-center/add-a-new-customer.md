@@ -5,12 +5,12 @@ ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c157074bc2d64a1f25f27455e0d362c8050d5fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: abe2e5f39718ddebb69d875febe3d06637b7ebc2
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876858"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490204"
 ---
 # <a name="add-a-new-customer"></a>加入新的客戶
 
@@ -21,13 +21,13 @@ ms.locfileid: "2876858"
 -  Microsoft Cloud 德國合作夥伴中心
 
 
-在您可以銷售訂閱、管理帳單，或是提供支援之前，您必須先在合作夥伴儀表板中為您的客戶建立帳戶。 這包含他們的連絡資訊，以及 Azure AD 網域。
+您可以銷售訂閱、 管理帳單，或提供支援之前，您需要為您的客戶在您的合作夥伴中心建立帳戶。 這包含他們的連絡資訊，以及 Azure AD 網域。
 
 針對已經透過[多通路](multichannel.md)或[多合作夥伴](multipartner.md) 案例擁有客戶帳戶和訂閱的客戶，您可以[要求與客戶建立關係](request-a-relationship-with-a-customer.md)，而不用遵循這裡的步驟。
 
 **新增新的客戶**
 
-1.  從 **\[儀表板\]** 功能表中，選取 **\[客戶\]**。 然後選取 **\[新增客戶\]**。
+1.  在**合作夥伴中心**功能表中，選取**客戶**。 然後選取 **\[新增客戶\]**。
 
 2.  在 **\[帳戶資訊\]** 頁面上，完成公司詳細資料和主要連絡人資訊，然後選取 **\[下一步: 訂閱\]**。
 

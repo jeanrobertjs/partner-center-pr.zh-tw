@@ -4,12 +4,12 @@ description: Microsoft 引進新一代智慧型商業應用程式 Dynamics 365�
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876298"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489784"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>將 Dynamics AX 訂閱遷移至 Dynamics 365
 
@@ -78,7 +78,7 @@ Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這
 
 **購買新訂閱**
 
-1.  從 **\[儀表板\]** 功能表，選取 **\[客戶\]**，選取您要移動的客戶，然後選擇 **\[新增訂閱\]**。
+1.  在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶，選擇 [**新增訂閱**。
 2.  選取您要從型錄購買的訂閱 (在此案例中為 Dynamics 365 for Operations Enterprise Edition)，輸入授權數量，然後選擇 **\[送出\]**。
 
     您的客戶現在應該會同時有舊的和新的訂閱：在本範例中，舊的訂閱為 Dynamics AX Enterprise，新的「目標」訂閱為 Dynamics 365 for Operations Enterprise Edition。
@@ -87,7 +87,7 @@ Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這
 
 **重新指派使用者授權**
 
-1.  從 **\[儀表板\]** 功能表，選取 **\[客戶\]**，選取您要移動的客戶，然後選擇 **\[使用者與授權\]**。 客戶的 \[使用者與授權\] 頁面隨即開啟。
+1.  在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶，選擇**使用者和授權**。 客戶的 \[使用者與授權\] 頁面隨即開啟。
 2.  若要重新指派使用者授權，請選取要重新指派的使用者，然後選取 **\[管理授權\]**。
 3.  在 **\[管理授權\]** 頁面上，清除 **\[Dynamics AX Enterprise\]** 授權核取方塊，並選取 **\[Dynamics 365 for Operations\]** 授權。
 4.  選取 **\[送出\]**。 確認頁面會列出新的授權指派。
@@ -97,7 +97,7 @@ Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這
 
 **取消舊訂閱**
 
-1.  從 **\[儀表板\]** 功能表，選取 **\[客戶\]**，選取您要移動的客戶，然後選取要取消的訂閱。
+1.  在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶，並選取您想要取消的訂閱。
 2.  在訂閱詳細資料頁面中，將訂閱的 **\[狀態\]** 設定為 **\[暫停\]**。
 3.  選取 **\[送出\]**。
 

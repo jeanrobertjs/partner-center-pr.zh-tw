@@ -4,12 +4,12 @@ description: 搜尋並找到適合納入您的產品組合的協力廠商供應�
 author: labrenne
 keywords: 協力廠商供應項目, 要購買的軟體, 搜尋協力廠商
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: e156f6d473517b36db3d48072a112f11e83817d9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377500"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488584"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>探索您想要銷售的協力廠商供應項目
 
@@ -42,7 +42,7 @@ ms.locfileid: "4377500"
 
 購買協力廠商軟體的方式與您購買第一方軟體的方式相同。 
 
-1. 從 **\[儀表板\]** 選取 **\[客戶\]**
+1. 從**合作夥伴中心**中，選取**客戶**
 2. 選取 **\[新訂閱\]**
 3. 如需詳細指示，請參閱[建立、暫停或取消客戶訂閱](create-a-new-subscription.md)。
 4.  針對協力廠商軟體選取每月計費。 年度計費和試用計費目前不適用於協力廠商。

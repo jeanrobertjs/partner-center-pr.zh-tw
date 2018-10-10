@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 9f5439f47dbc99421e493c9f84f8ea2469ba6525
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377800"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489384"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 合作夥伴適用的 Azure 成本管理應用程式  
 
@@ -33,7 +33,7 @@ Cloudyn 支援的 Azure 成本管理是 Web 應用程式，可讓您追蹤並管
 ## <a name="register-your-web-app-in-the-partner-center"></a>在合作夥伴中心註冊您的 Web 應用程式
 當您在合作夥伴中心註冊 Azure Active Directory Web 應用程式，您就啟用對合作夥伴中心 API 的存取權。 
 1.  使用[全域系統管理員或系統管理代理人帳戶](create-user-accounts-and-set-permissions.md)登入[合作夥伴中心](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)。
-2.  在 **\[儀表板\]** 中，選取 **\[帳戶設定\]** &gt; **[\[應用程式管理\]](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**。
+2.  從**合作夥伴中心**中，選取 [**帳戶設定** &gt; **[應用程式管理](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**。
 3.  在 **\[Web 應用程式\]** 區段中，按一下 **\[新增 Web 應用程式\]**。
 <br> **注意**：如果您先前已建立 Web 應用程式，可以略過步驟 3。
 4.  複製並儲存您 Web 應用程式的**商務識別碼** GUID 和**應用程式識別碼** GUID。 您將需要這兩個識別碼，才能使用 30 天免費試用版的 Azure 成本管理應用程式。

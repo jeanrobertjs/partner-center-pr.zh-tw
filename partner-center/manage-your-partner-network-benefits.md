@@ -1,15 +1,15 @@
 ---
 title: 管理您的 Microsoft 合作夥伴網路權益 | 合作夥伴中心
-description: 身為 Microsoft 合作夥伴網路會員，您有資格購買特定會員資格權益。 說明如何在合作夥伴儀表板中啟用及管理您的會員資格權益。
+description: 身為 Microsoft 合作夥伴網路會員，您有資格購買特定會員資格權益。 說明如何啟用及管理您的會員資格權益，在合作夥伴中心。
 author: MaggiePucciEvans
 keywords: MPN, 會員資格權益, 成員資格
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377720"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489794"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
@@ -18,12 +18,12 @@ ms.locfileid: "4377720"
 -  合作夥伴中心
 
 >[!IMPORTANT]
->本文說明如何在合作夥伴儀表板 (先前稱為合作夥伴中心) - 也就是本網站 - 中開始使用 Microsoft 合作夥伴網路 (MPN) 會員資格權益。 如果您尚未收到將您的公司資訊從 Partner Membership Center (PMC) 移至合作夥伴儀表板的邀請，請繼續在 PMC 中管理您的 MPN 會員資格權益。 立即[登入](https://partner.microsoft.com/_login?authType=OpenIdConnect) PMC。   
+>這篇文章說明如何開始使用 Microsoft 合作夥伴網路 (MPN) 會員資格權益在合作夥伴中心 （先前稱為合作夥伴中心）-此網站。 如果您尚未收到將您的公司資訊從 Partner Membership Center (PMC) 移到合作夥伴中心的邀請，您應該繼續管理您的 MPN 會員資格權益，在 PMC 中。 立即[登入](https://partner.microsoft.com/_login?authType=OpenIdConnect) PMC。   
 
 當您加入 Microsoft 合作夥伴網路 (MPN) 時，可以存取能協助您建立並拓展業務的會員資格權益。 如果您還不是 MPN 的會員，您可以在 [MPN 網站](https://partner.microsoft.com/membership)上加入。
 
 
-## <a name="manage-your-membership-benefits-in-the-dashboard"></a>在儀表板中管理您的會員資格權益
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>管理您的會員資格權益，在合作夥伴中心
 
 購買會員資格權益套件之後，您需取得軟體金鑰並指派授權、訂閱及其他權益給員工以開始使用這些項目。 
 
@@ -89,9 +89,9 @@ ms.locfileid: "4377720"
    
     a.  從清單選取使用者。 若想要指派的使用者不在清單中，您可以在 **\[帳戶設定\]** 中[新增使用者](create-user-accounts-and-set-permissions.md)。
 
-    b.  提供使用者的電子郵件地址，但此地址不同於和貴公司儀表板帳戶相關聯的電子郵件地址。 
+    b.  提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。 
     
-    做為保護措施，我們將會透過電子郵件將存取 Microsoft 產品支援的指示傳送到此電子郵件地址，除了使用者的儀表板帳戶電子郵件。 請注意，可能需要數天來啟用這個權益及透過電子郵件傳送指示給受指派的使用者。    
+    做為保護措施，我們將會透過電子郵件將存取 Microsoft 產品支援的指示傳送到此電子郵件地址，除了使用者的合作夥伴中心帳戶電子郵件。 請注意，可能需要數天來啟用這個權益及透過電子郵件傳送指示給受指派的使用者。    
     
     c.  完成輸入其他電子郵件地址後，選取 **\[指派使用者\]**。 
 
