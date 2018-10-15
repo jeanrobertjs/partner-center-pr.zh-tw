@@ -5,16 +5,16 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 06fa6178b5d0c1f655ba412c75ec8b950430b812
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e4a60b05a1f7c3341e51e83c6f34bf2081c72de5
+ms.sourcegitcommit: 011fb13f8b595f16d8be4a2948da60a8f3971e0a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489634"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4657308"
 ---
-# <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>雲端解決方案提供者合約、價目表和優惠
+# <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、 合約、 價目表和優惠
 
-**適用於**
+**適用對象：**
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
@@ -23,15 +23,14 @@ ms.locfileid: "4489634"
 
 檢閱本文中的資訊，了解參與 Microsoft 雲端解決方案提供者 (CSP) 計畫的需求。 
 
-## <a href="" id="programguide"></a>雲端解決方案提供者計畫指南
+## <a name="cloud-solution-provider-program-guide"></a>雲端解決方案提供者計畫指南
 
 
 檢閱成為雲端解決方案提供者計畫中的合作夥伴的需求。
 
 [雲端解決方案提供者合作夥伴的計畫指南](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
-## <a href="" id="partneragreement"></a>雲端解決方案提供者合作夥伴合約
-
+## <a name="cloud-solution-provider-partner-agreement"></a>雲端解決方案提供者合作夥伴合約
 
 Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決方案提供者」計畫。 針對您計劃銷售的市場或國內雲，檢閱指南。
 
@@ -51,29 +50,40 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 [Microsoft 雲端轉銷商合約 - 美國政府適用的 Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
-## <a href="" id="customeragreementtemplate"></a>客戶合約範本
 
+## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud 合約範本
 
-身為 CSP 合作夥伴，您負責與客戶檢閱 Microsoft 的條款及條件，包括 Microsoft 產品與服務可接受的使用。 跟隨下面的連結，尋找需要與新客戶一起檢閱的客戶合約。 
+身為 CSP 合作夥伴，您負責與客戶檢閱 Microsoft 的條款及條件，包括 Microsoft 產品與服務可接受的使用。 請依照下面的連結，尋找您需要與新客戶檢閱 Microsoft Cloud 合約。 
 
-[客戶合約範本](agreements.md)
+Microsoft Cloud 合約[客戶範本](agreements.md)
+
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 合約 （德國） 的專業加密增修條款
+
+德國刑事程式碼 (區段 203) 和管理辦法專業代碼需要特定的用戶端關係會保持機密，範例、 病患和其醫療醫生之間的關係及之間的關係律師和他們的用戶端。 這些職業群組都有以確保專業加密。 對於這些和其他專業人員若要從雲端解決方案提供者購買雲端式服務，雲端服務提供者必須得出專業加密，可確保客戶合約。 
+
+如果您這麼做德國境內的商業，您可能需要提供給您客戶那里 Microsoft Cloud 合約除了這個專業加密增修條款。
+
+[Microsoft Cloud 合約專業加密增修條款德國 (EN-US)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+
+[Microsoft Cloud 合約專業加密增修條款德國 (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+
 
 ## <a name="pricing"></a>定價
 
 
-下載的定價詳細資料，從可從您的**合作夥伴中心**功能表的 [**定價與方案**] 頁面，授權型、 用量型和一次性購買。 
+下載的定價詳細資料，從**定價與方案**\] 頁面，可從您的**合作夥伴中心**功能表的授權型、 用量型和一次性購買。 
 
 授權型價目表每個月會更新一次，Microsoft 會在新價格生效前 30 天公佈新價格。 授權型服務的範例包括 Office 365、Enterprise Mobility Suite 及 Microsoft Dynamics CRM。 
 
 用量型價格是動態的且會經常變更。 用量型服務的範例包括 Microsoft Azure。
 
-一次性購買價格也是動態的。 一次性購買的範例包括 Microsoft Azure 保留的 VM 執行個體。 
+一次性購買價格也是動態的。 一次性購買的範例包括 Microsoft Azure reservations 和對應到 Windows Server 和 SQL 軟體訂閱。 
 
 
 ## <a name="offers"></a>優惠
 
 
-身為 CSP 合作夥伴，您可以向客戶銷售 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 與 Microsoft Azure。 如哪些優惠方案和產品套件組合是可在這些產品系列銷售的詳細資訊，請參閱 [**定價與方案**] 頁面可從您的**合作夥伴中心**功能表上的雲端解決方案提供者方案組合。 本文件每個月會更新一次。
+身為雲端解決方案提供者合作夥伴，您可以銷售各種 Microsoft 產品、 服務及解決方案，包括 Office 365、 Enterprise Mobility Suite、 Microsoft Dynamics 及 Microsoft Azure。 哪些供應項目可供您在這些產品系列銷售的詳細資訊，請參閱 [**定價與方案**] 頁面可從您的**合作夥伴中心**功能表上的雲端解決方案提供者方案組合。 本文件每個月會更新一次。
 
 針對使用 CREST 使用量記錄 API 的 CSP 合作夥伴，Microsoft 也會在 **\[定價與方案\]** 頁面發佈一份 CSP 中的 Azure 服務清單。
 
