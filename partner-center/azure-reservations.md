@@ -4,12 +4,12 @@ Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
 keywords: azure，保留區，管理，帳單，購買，Azure RI，Azure 保留的執行個體
 ms.localizationpriority: medium
-ms.openlocfilehash: c580553aa484611790b2c83bab968025c0bb1379
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489754"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658114"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>銷售 Microsoft Azure 保留的執行個體 
 
@@ -19,7 +19,7 @@ ms.locfileid: "4489754"
 -  Microsoft Azure 入口網站
 -  雲端解決方案提供者中的合作夥伴
 
-雲端解決方案提供者計畫 (CSP) 中的合作夥伴可提供給其客戶的保留執行個體的 Microsoft Azure。 客戶事先保留即可獲得大幅節省。 Azure 保留的執行個體提供給客戶簡易和彈性以下列方式：
+雲端解決方案提供者計畫 (CSP) 中的合作夥伴可以提供其客戶的保留執行個體的 Microsoft Azure。 客戶事先保留即可獲得大幅節省。 Azure 保留的執行個體提供給客戶簡易和彈性以下列方式：
 
 -   一年或三年保留期限 
 -   容易入門;在數秒內完成安裝 
@@ -27,7 +27,8 @@ ms.locfileid: "4489754"
 -   可在組織或個別部門層級管理保留的執行個體使用率 
 
 > [!NOTE]  
-> 下列市場未提供 azure 保留的執行個體：  
+> Azure reservations 不是目前可供下列市場中：
+  
 > * 阿根廷
 > * 亞塞拜然
 > * 白俄羅斯
