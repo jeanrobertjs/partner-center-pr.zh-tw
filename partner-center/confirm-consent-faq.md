@@ -2,14 +2,14 @@
 title: Microsoft Cloud 合約客戶接受確認常見問題集 |合作夥伴中心
 Description: FAQ for customer acceptance confirmation
 author: v-petand
-keywords: 客戶，客戶，同意，常見問題集
+keywords: 客戶、 客戶、 同意，常見問題集
 ms.localizationpriority: medium
-ms.openlocfilehash: 6beb7b2cb7a3bb6579ec006217d12d1c8d394079
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: af521520b8650a8c585a3644eaf7a5263e17ba78
+ms.sourcegitcommit: bbb8bf661c73b260abc6565e287cfef3eb4cfa01
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489364"
+ms.lasthandoff: 10/22/2018
+ms.locfileid: "5425215"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Microsoft Cloud 合約客戶接受確認常見問題集 
 
@@ -17,60 +17,183 @@ ms.locfileid: "4489364"
 -  合作夥伴中心
 
 若要深入了解，請參閱[Microsoft Cloud 合約確認客戶接受](https://docs.microsoft.com/en-us/partner-center/confirm-consent)。
- 
-## <a name="what-is-the-new-functionality-for-confirming-customer-acceptance-of-the-microsoft-cloud-agreement-mca"></a>確認客戶接受的 Microsoft Cloud 合約 (MCA) 的新功能是什麼？ 
-Microsoft 會致力於我們的客戶和合作夥伴持續符合規範。 身為 Microsoft 的[雲端解決方案提供者 (CSP) 計畫](https://partner.microsoft.com/en-us/cloud-solution-provider)的合作夥伴，您必須負責檢閱 Microsoft 的條款及條件，包括 Microsoft 產品及服務與客戶可接受的使用項目。 若要支援此現有的需求，我們會啟用新的功能，可讓雲端解決方案提供者合作夥伴，以確認其客戶已接受 MCA 之條款。 截至 2018 為年 8 月 7 日，我們已導入合作夥伴中心，以及用來提供這項資訊的合作夥伴的合作夥伴中心 API 中的新欄位。 
- 
-## <a name="when-is-the-new-functionality-available"></a>何時新的功能是可用？ 
-合作夥伴確認接受功能都可在 2018 年 8 月 7 日之後儘速開始。 確認客戶接受 MCA 都將需要從 2018 年 11 月 7 日開始，所有新的交易。 
- 
-## <a name="how-does-the-functionality-work"></a>功能如何運作？
-有兩種方法是從 2018 年 8 月 7 日開始提供，來協助合作夥伴確認客戶接受：  
 
--   合作夥伴可以使用**合作夥伴中心**，以確認客戶接受。 
+-   [Process](##processfaq)
 
--   合作夥伴可以使用**合作夥伴中心 API**以程式設計方式確認客戶接受。 如需有關如何執行這項操作的詳細資訊，請參閱下列文件：
-    -   [確認 Microsoft Cloud 合約客戶接受](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
-    -   [取得 Microsoft Cloud 合約客戶接受的確認](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
-    -   [取得 Microsoft Cloud 合約的合約中繼資料](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
-    -   [合約](https://docs.microsoft.com/en-us/partner-center/develop/agreement)
-    -   [合約中繼資料](https://docs.microsoft.com/en-us/partner-center/develop/agreement-metadata)
+-   [原則](#policyfaq)
 
-##  <a name="what-customer-information-is-required-to-complete-the-confirmation-process"></a>哪些客戶資訊，才能完成確認程序？ 
-關於接受授權合約的人，則需要下列資訊： 
--    合約接受的日期 
--    第一個和最後一個名稱 
--    電子郵件地址 
--    電話號碼 （選擇性）  
- 
-## <a name="what-will-happen-if-i-do-not-take-action"></a>如果我不會採取動作，會發生什麼事？ 
-從 2018 年 11 月 7，合作夥伴必須使用新的功能，來確認客戶接受 MCA。 現有的客戶，新購買項目和編輯現有的訂閱，將未獲允許可直到已確認客戶接受。 針對新的客戶，直到已確認接受不會允許交易。 
- 
-## <a name="which-regions-does-this-requirement-apply-to"></a>哪些地區沒有這項需求適用於？ 
-需要 Microsoft 公用雲端底下的所有地區的客戶接受 MCA 的確認。 確認客戶接受不支援國內雲 （包括適用於美國政府和 Microsoft Cloud 德國的 Microsoft Cloud）。 
- 
-## <a name="which-partners-are-responsible-for-confirming-customer-acceptance-to-the-mca"></a>合作夥伴必須負責確認客戶接受 MCA？ 
-有效 7，2018 年 11 月，雲端解決方案提供者間接提供者和雲端解決方案提供者直接帳單合作夥伴都負責確認客戶接受，而且必須使用合作夥伴中心 API 」 或 「 合作夥伴中心這麼做的話。 間接提供者可能需要先收集所需的資訊從他們的間接經銷商，如果這不是已經他們現有的程序的一部分，然後將它提供給 Microsoft 透過合作夥伴中心 API 或合作夥伴中心。 Contractually，它是間接提供者提供者合約與 Microsoft 以確保其雲端解決方案提供者經銷商結束客戶已經接受 MCA 的繫結。  
- 
-## <a name="what-customer-scenarios-require-confirmation-of-customer-acceptance-of-the-mca"></a>哪些客戶案例需要確認客戶接受 MCA 的？ 
-初始的 Microsoft Cloud 合約*必須*接受經過確認當雲端解決方案提供者合作夥伴想要進行下列稅金的交易： 1 新客戶完成新購買項目 2 現有的客戶完成新購買的 3 更新現有的客戶至現有訂閱的基座計數 
- 
-## <a name="what-happens-when-microsoft-updates-the-mca-do-i-need-obtain-re-confirmation-of-the-new-mca"></a>Microsoft 更新 MCA 時，會發生什麼事？ 需要取得新 MCA 的重新確認？
-否，除非已更新的合約與相合新購買時，新的客戶，或更新的訂閱。 一次您已經確認客戶已接受 MCA、 這項資訊會維持在合作夥伴中心客戶帳戶] 區段中並不需要 reconfirm 接受 Microsoft 更新 MCA 時。 不過，您也可以在您要確認經常接受。 
- 
-## <a name="can-i-confirm-the-acceptance-for-existing-customers-separate-from-their-new-purchases-or-seat-additions"></a>我是否可以確認不同於其新購買項目現有客戶接受或座位新增項目？ 
-是。 客戶接受可以確認 MCA 所涵蓋的所有客戶。 
- 
-## <a name="what-if-im-having-difficulty-implementing-the-partner-center-api"></a>如果我有實作 Partner Center API 的難度嗎？ 
-接受可以透過合作夥伴中心手動確認。 
- 
-## <a name="what-are-the-requirements-for-customers-that-have-multiple-csp-partners"></a>有多個雲端解決方案提供者合作夥伴的客戶需求為何？ 
-確認已被接受已由合作夥伴確認。 如果客戶 transacts 與多個雲端解決方案提供者合作夥伴，將需要每個合作夥伴確認接受。 
- 
-## <a name="i-am-a-csp-indirect-reseller-working-with-csp-indirect-providers-what-is-my-responsibility"></a>我是使用雲端解決方案提供者間接提供者為雲端解決方案提供者間接經銷商。 為何我責任？ 
-Contractually，它是間接提供者提供者合約與 Microsoft 以確保給客戶已接受 MCA 的繫結。 不過，間接提供者可能會有不同的排列方式與間接經銷商收集客戶接受。 在此情況下，間接提供者將需要先收集所需的客戶接受資訊從他們的間接經銷商，然後將它提供給 Microsoft 透過合作夥伴中心 API 或合作夥伴中心。 您可以立即提供您的間接提供者在他們的要求時所需的資訊，以支援此程序。 
- 
-## <a name="i-am-a-csp-indirect-provider-do-i-need-to-coordinate-with-my-csp-indirect-reseller-to-be-prepared"></a>我是雲端解決方案提供者間接提供者。 需要與我的雲端解決方案提供者間接經銷商，準備協調嗎？ 
-需要收集所需的客戶接受資訊從他們的間接經銷商，間接提供者建議通訊立即來協調傳遞與接收的這項資訊到他們的間接經銷商這項需求。 
- 
+-   [技術](#technicalfaq)
+
+## <a href="" id="processfaq"></a>Process
+
+**什麼是確認客戶接受的 Microsoft Cloud 合約 (MCA) 的新處理程序？**
+
+Microsoft 會致力於我們的客戶和合作夥伴持續符合規範。 身為 Microsoft 的雲端解決方案提供者 (CSP) 計畫的合作夥伴，您有責任檢閱 Microsoft 的條款及條件，包括 Microsoft 產品及服務與客戶可接受的使用。 更清楚地協助合作夥伴，在符合合規需求，並確保透明度，我們會啟用新的程序需要雲端解決方案提供者合作夥伴，以確認其客戶已接受 MCA 條款。 截至 2018 年 8 月 7，我們已導入了新的欄位，在合作夥伴中心儀表板使用者介面也適用於的合作夥伴中心 API 合作夥伴提供這項資訊。 一開始就會選擇性的以提供此確認，但是它將會需要從 2018 年 11 月 7 日開始。 
+
+**這項需求時開始生效？**
+
+合作夥伴確認接受功能都可在 2018 年 8 月 7 日之後儘速開始。 從 2018 為年 11 月 7 日，合作夥伴中心儀表板使用者需要確認客戶的所有新的交易 MCA 接受。 在 2019 年 3 月 22 日合作夥伴中心 API 的使用者將會需要執行相同動作。 API 使用者的期限已擴充為允許它們在其他時間技術的實作。
+
+**新 |Microsoft 是否可以驗證合作夥伴所提供的客戶資訊的正確性？**
+
+Microsoft 會驗證提供的客戶的電子郵件地址是正確的格式。 它是，合作夥伴必須負責提供正確的資訊，並修正找到不正確的任何資訊。 
+
+**新 |如何可以合作夥伴證明 MCA 的客戶的接受是否已簽署，記載，數位化，或在紙上？**
+
+合作夥伴負責確保客戶已接受 MCA 的條款，以及管理他們自己的處理程序和記錄。 藉由使用合作夥伴中心儀表板或合作夥伴中心 API 的程序，合作夥伴就確認客戶已接受 MCA 的條款。
+
+**新的 |如何將 Microsoft 檢查確認程序是為客戶完成？**
+
+年 11 月 7，從 2018 年開始，當雲端解決方案提供者合作夥伴起始交易，為新的或現有客戶使用合作夥伴中心儀表板時，Microsoft 的系統將會自動檢查客戶確認資訊是否出現在合作夥伴中心儀表板。 如果不存在，將無法完成交易。 
+
+開始年 3 月 22 2019 年日，當雲端解決方案提供者合作夥伴初始交易新的或現有客戶使用合作夥伴中心 API，Microsoft 的系統將會自動檢查客戶確認資訊是否存在。 如果不存在，將無法完成交易。 
+
+**新的 |確認程序中提供其電子郵件地址的客戶傳送的通知？**
+
+沒有任何通知處理程序。
+
+## <a href="" id="policyfaq"></a>原則
+
+**Microsoft 要求合作夥伴，以確認客戶已接受 MCA 的為何？** 
+
+Microsoft Cloud 合約 (MCA) 保護合作夥伴、 客戶和 Microsoft 藉由提供客戶的使用權限、 條款和條件授與的 Microsoft Cloud 產品和服務的訂單。 
+
+MCA 的適當執行保護我們的合作夥伴，客戶和 Microsoft 藉由確保許多重要的主題包括相互對齊方式，但不是限於安全性、 隱私權及資料保護。 確認程序可確保透明度，並且對齊方式，並可讓 Microsoft 可以更清楚地協助客戶需要立即回應法規詢問。
+
+**哪些客戶資訊，才能完成確認程序？**
+關於接受授權合約的人，則需要下列資訊：
+-   合約接受的日期
+-   第一個和最後一個名稱
+-   電子郵件地址
+-   電話號碼 （選用） 
+
+**新的 |如果我們不符合到期日，會發生什麼事？**
+
+合作夥伴確認接受功能都可在 2018 年 8 月 7 日之後儘速開始。 從 2018 為年 11 月 7 日，合作夥伴中心儀表板使用者需要確認客戶的所有新的交易 MCA 接受。 在 2019 年 3 月 22 日 Partner Center API 的使用者必須執行相同動作。
+
+在強制執行的時間，直到已確認客戶接受不會允許針對現有的客戶或變更至座位計數現有訂閱的新購買項目。 針對新的客戶，直到已確認接受不會允許交易。 自動續約不會受到這項需求。
+
+**哪些地區沒有這項需求適用於？**
+
+需要 Microsoft 公用雲端底下的所有地區的客戶接受到 MCA 的確認。 確認客戶接受的不是支援國內雲 （包括適用於美國政府和 Microsoft Cloud 德國的 Microsoft Cloud）。
+
+**哪些合作夥伴負責確認客戶接受到 MCA？**
+
+有效 7th，2018 年 11 月，雲端服務提供者 (CSP) 的間接提供者和雲端解決方案提供者直接帳單合作夥伴負責確認客戶接受而且可能會使用合作夥伴中心 API 或合作夥伴中心儀表板執行此動作。 間接提供者可能需要先從他們的間接經銷商收集所需的資訊，然後將它提供給 Microsoft 透過合作夥伴中心 API 或合作夥伴中心儀表板。 Contractually，它是間接提供者提供者合約與 Microsoft 以確保其雲端解決方案提供者經銷商結束客戶已經接受要 MCA 的繫結。 
+
+**哪些客戶案例需要確認客戶接受 MCA 的？**
+
+當雲端解決方案提供者合作夥伴想要進行下列交易時，必須確認的 Microsoft Cloud 合約接受：
+1.  新的客戶完成新購買項目
+2.  現有的客戶完成新購買項目
+3.  現有的客戶更新至現有訂閱的基座計數
+
+**我是否可以確認不同於其新購買項目現有客戶接受或座位新增項目？**
+
+是。 客戶接受可以確認 MCA 所涵蓋的所有客戶。
+
+**有多個雲端解決方案提供者合作夥伴的客戶需求為何？**
+
+確認已被接受已由合作夥伴確認。 如果客戶 transacts 與多個雲端解決方案提供者合作夥伴，將需要每個合作夥伴確認接受。
+
+**我是雲端解決方案提供者間接經銷商與雲端解決方案提供者間接提供者運作。 為何我責任？**
+
+Contractually，它是間接提供者提供者合約與 Microsoft 以確保給客戶已接受 MCA 的繫結。 不過，間接提供者可能會有不同的排列方式與間接經銷商收集客戶接受。 在此情況下，間接提供者將需要先收集所需的客戶接受資訊從他們的間接經銷商，並再提供給 Microsoft 透過合作夥伴中心 API 或合作夥伴中心儀表板。 您可以藉由立即提供所需的資訊來依據其要求您間接提供者支援這個程序。
+
+**我是雲端解決方案提供者間接提供者。 需要與我的雲端解決方案提供者間接經銷商準備協調嗎？**
+
+需要收集所需的客戶接受資訊從他們的間接經銷商，間接提供者建議通訊立即來協調傳遞與接收的這項資訊到他們的間接經銷商這項需求。
+
+**我如何可以解釋我的客戶，它們應該確認其接受 MCA 的？**
+
+藉由確保許多重要的主題包括相互對齊方式保護 Microsoft、 合作夥伴及客戶 MCA 的適當執行，但不是限於安全性、 隱私權和資料保護。 確認程序可確保透明度，並且對齊方式，並可讓 Microsoft 可以更清楚地協助客戶需要立即回應法規詢問。
+
+**新 |如果客戶使用單一雲端解決方案提供者間接提供者的運作方式，但與多個雲端解決方案提供者間接經銷商完成下列稅金的交易，確實每個雲端解決方案提供者間接經銷商需要提供雲端解決方案提供者間接提供者確認資訊嗎？**
+
+雲端解決方案提供者間接提供者負責提供給 Microsoft 的 MCA 客戶接受的確認。 每個客戶帳戶，只有一個確認可以錄製合作夥伴中心儀表板中一次。 
+
+雲端解決方案提供者間接提供者負責確認客戶連絡人負責 MCA 一併同意已完成的話，無論他們與之交易的雲端解決方案提供者間接經銷商的數目。
+
+**新 |誰應以確認客戶組織內 MCA 的接受已獲授權的人員？**
+
+它是向客戶組織內部人員取得客戶接受 MCA 的合作夥伴的責任。 它是以判斷提供接受獲得客戶的責任。 
+
+**新 |MCA 的版本是合作夥伴負責確認客戶接受？ 合作夥伴需要指出客戶已接受 MCA 的版本嗎？**
+
+合作夥伴負責進行 CSP 交易與新客戶時，使用最新 MCA。 合作夥伴必須確認接受的最新的 MCA 時當天、 變更或完成新與現有客戶的交易。 
+
+在續約之前，會更新 MCA 的情況，合作夥伴不需要有重複，立即取得客戶接受 MCA 的客戶，但必須 reconfirm 在續約之前 MCA 的同意。 不過，您可能想要讓客戶接受新的詞彙，在利用新的和改進條款中 MCA 的續約之前。
+
+**新 |我是雲端解決方案提供者間接經銷商。 我可以錄製 MCA 客戶接受我的公司記錄中，如果我需要也提供這項資訊透過合作夥伴中心儀表板或合作夥伴中心 API？**
+
+Contractually，它是間接提供者提供者合約與 Microsoft 以確保給客戶已接受 MCA 的繫結。 不過，間接提供者可能會有不同的排列方式與間接經銷商收集客戶接受。 在此情況下，間接提供者將需要先收集所需的客戶接受資訊從他們的間接經銷商，並再提供給 Microsoft 透過合作夥伴中心 API 或合作夥伴中心儀表板。
+
+**新 |如果我的客戶不 MCA 的條款同意嗎？**
+
+身為 Microsoft 的雲端解決方案提供者計畫的合作夥伴，您必須負責客戶接受之前下訂單 MCA 的項目。 這不是新的需求。 基於任何原因，如果客戶不會再同意使用 MCA，然後合作夥伴必須取消此客戶相關聯的訂閱。
+
+**新 |可以轉銷商提供代表客戶同意嗎？**
+
+否。
+
+**一旦我確認客戶所提供給接受度，我需要重新確認客戶的未來嗎？**
+
+一次您確認客戶已接受 MCA、 這項資訊會維持在合作夥伴中心客戶帳戶] 區段中並不需要 reconfirm 接受的持續時間的客戶合約條款所涵蓋的時間。 您必須只 reconfirm 接受之前放置新訂單。
+
+在續約之前，會更新 MCA 的情況，合作夥伴不需要重新取得客戶接受 MCA 立即，客戶，但必須 reconfirm 在續約之前 MCA 的同意。 不過，您可能想要讓客戶接受新的詞彙，在利用新的和改進條款中 MCA 的續約之前。
+
+**新 |我不舒服我結束客戶的直接連絡資訊給 Microsoft。 Microsoft 如何使用這項資訊？**
+
+合作夥伴將會建立客戶租用戶，就需要提供客戶的主要連絡人資訊。 線上服務條款，每 「 Microsoft 將會處理個人資料僅限記載於文件從客戶的指示。 」
+
+## <a href="" id="technicalfaq"></a>技術
+
+**合作夥伴如何確認客戶接受及它提供給 Microsoft？ 哪些工具可用來支援這個程序？**
+
+有兩種方法是從 2018 年 8 月 7 日開始提供，來協助合作夥伴： 
+1.  合作夥伴可以使用合作夥伴中心 API 以程式設計方式確認客戶接受。 
+2.  合作夥伴可以使用合作夥伴中心儀表板來確認客戶接受。
+
+**新 |我是使用合作夥伴中心 API 的雲端解決方案提供者合作夥伴。 哪些 API 變更我需要考慮？** 
+
+在此情況下，會針對 API 變更：
+
+-   [https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent) 
+
+-   [https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
+
+-   [https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
+
+**如果我有實作 Partner Center API 的難度嗎？**
+
+接受可以透過合作夥伴中心儀表板手動確認。
+
+**新 |為使用合作夥伴中心儀表板或合作夥伴中心 API 的替代方法，可以我大量上傳檔案與客戶確認資訊改為？**
+
+在這個時候，在合作夥伴中心儀表板和合作夥伴中心 API 會接受的只用這種提供客戶接受 MCA 的確認。
+
+**新 |我是使用第三方平台或 「 中介軟體，「 執行功能來連接我的公司的系統與合作夥伴中心的合作夥伴。 我該怎麼做？**
+
+直接與有關其的方案與時間軸的提供者說的整合的合作夥伴中心 API 功能，可在客戶確認程序，建議使用整合 Partner Center API 的平台的合作夥伴。
+
+**新 |您可以匯入的客戶的完整名稱、 電子郵件地址和 MCA 接受日期提供 API 流程範例嗎？**
+
+合作夥伴建議檢閱詳細資訊和範例的合作夥伴中心 API 文件。
+
+**新 |如何取得最新的 MCA 向客戶顯示，並確認記錄中使用我的 API 程序？**
+
+目前的合作夥伴中心 API 是非常基本並不會提供合作夥伴能夠以程式設計方式擷取一份 MCA，也不會擷取一部分確認客戶接受 MCA 的版本。 
+
+**新 |針對此程序使用合作夥伴中心 API 需要 userID 參數。 訂單透過第三方平台不整合於 Azure AD 時如何管理這項需求？**
+
+UserID 在此情況下會識別下合作夥伴租用戶提供客戶同意確認員工。 如果員工沒有對應的 Azure AD 使用者帳戶底下，合作夥伴租用戶，則建議您針對該用途指定特定的使用者帳戶，並建立處理程序分別擷取的員工提供身分識別確認。 
+
+**新 |Microsoft 要求合作夥伴，以確認客戶同意而不是直接向客戶取得它 MCA 的為何？**
+
+從雲端解決方案提供者合作夥伴，不直接向 Microsoft 購買客戶。 適用於使用服務，Microsoft 會提供，Microsoft 會提供字詞 MCA 中所述。 MCRA 需要有客戶檢視並接受之前下訂單 MCA 的雲端解決方案提供者合作夥伴。 
+
+**新 |我使用 API 和合作夥伴中心儀表板 web 使用者介面以確認 MCA 客戶接受。 在 2018 年 11 月 7 年，以確認客戶接受我的選項是什麼？**
+
+這兩個選項可供使用並確認 MCA 客戶接受可接受。 交易使用合作夥伴中心儀表板將會需要確認會存從 2018 年 11 月 7 日開始。 交易使用合作夥伴中心 API 將會需要確認要有開始 2019 年 3 月 22 日。
+
 
