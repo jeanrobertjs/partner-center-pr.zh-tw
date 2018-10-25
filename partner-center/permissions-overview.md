@@ -1,35 +1,35 @@
 ---
 title: 指派使用者角色與權限 |合作夥伴中心
-description: 若要在合作夥伴中心中工作需要每個員工必須有指派的角色。
+description: 若要在合作夥伴中心中工作需要每個員工必須指派角色。
 author: labrenne
-keywords: 角色、 權限，系統管理員、 代理程式
+keywords: 角色、 權限、 系統管理員、 代理程式
 ms.localizationpriority: medium
-ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
-ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
+ms.openlocfilehash: 71dfdb260fe6baac83c01fbf79e260470f875539
+ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/11/2018
-ms.locfileid: "4528365"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5541468"
 ---
-# <a name="assign-users-roles-and-permissions"></a>指派使用者角色與權限
+# <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
 
 **適用對象**
 
 - 合作夥伴中心
 
-在合作夥伴中心中的每個角色隨附的特定權限讓使用者執行特定工作。 在合作夥伴中心的運作方式的所有人必須獲指派一個角色。
+在合作夥伴中心中的每個角色隨附的特定權限允許使用者執行特定工作。 在合作夥伴中心的運作方式的所有人必須獲指派角色。
 
 根據您的組織的規模某些使用者可能會工作地點或僅適用於一個位置。 
 
 例如：
 
-- 全域系統管理員可以是系統管理員的法定登記營業和特定位置。或者，全域系統管理員可以是只在其中一個位置的企業系統管理員。 
-- 獎勵系統管理員可以管理一或多個位置，但需要指定這些位置。
+- 全域系統管理員可以是系統管理員的法定登記營業和特定位置;或者，全域系統管理員可以是只在其中一個位置的企業系統管理員。 
+- 獎勵系統管理員可以管理的一或多個位置，但必須指定那些位置。
 
 
 下表說明每個角色可在合作夥伴中心採取什麼動作。 思考如何指派角色時，請考慮使用者在組織中執行的工作。 例如，您可能會希望全域管理員同時也是系統管理代理人。 處理行銷的人員可以同時管理商務設定檔。
 
-如需的角色與權限的概觀，請閱讀[建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)。
+如需角色與權限的概觀，閱讀[建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)。
 
 <table>
 <colgroup>
@@ -99,13 +99,12 @@ ms.locfileid: "4528365"
 <li><p>建立新的位置</p></li>
 <li><p>註冊到計畫 （例外狀況是雲端解決方案提供者和間接經銷商程式） 的位置</p></li>
 <li><p>管理與所管理的位置帳戶相關的設定檔</p></li>
-<li><p>會 MPN 系統管理員、 商務設定檔系統管理員、 推薦系統管理員、 獎勵系統管理員、 獎勵使用者角色指派給使用者</p></li>
+<li><p>將其他帳戶系統管理員、 MPN 系統管理員、 商務設定檔系統管理員、 推薦系統管理員、 獎勵系統管理員，以及獎勵使用者角色指派給使用者</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>獎勵系統管理員</strong></p></td>
 <td><ul>
-<li><p>可以指派獎勵角色</p></li>
 <li><p>起始及管理獎勵宣告</p></li>
 <li><p>可檢視和編輯獎勵計畫的各個層面</p></li>
 <li><p>可檢視和編輯銀行和稅務詳細資料</p></li>
@@ -119,7 +118,7 @@ ms.locfileid: "4528365"
 <td><ul>
 <li><p>可檢視獎勵計畫</p></li>
 <li><p>可檢視和起始獎勵宣告</p></li>
-<li><p>可以檢視銀行及稅務詳細資料</p></li>
+<li><p>可檢視銀行及稅務詳細資料</p></li>
 <li><p>檢視回贈和合作收益</p></li>
 <LI><p>檢視回贈和合作收益</p></li>
 <LI><p>存取支援</p></li>
