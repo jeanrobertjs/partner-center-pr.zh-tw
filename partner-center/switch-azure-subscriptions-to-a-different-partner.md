@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
+ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488964"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5511389"
 ---
 # <a name="transfer-azure-subscriptions"></a>轉移 Azure 訂閱 
 
@@ -21,10 +21,9 @@ ms.locfileid: "4488964"
 客戶可以決定切換至雲端解決方案提供者或其 Microsoft Azure 服務中的其他合作夥伴。 不過，這是需要合作夥伴和客戶雙方手動操作的程序。
 
 >[!Note]  
->這一次僅限直接或間接提供者都能轉移訂閱。
+>這次僅限直接或間接提供者都能轉移訂閱。
 
->[!Note] 
->它不是目前無法變更 Office 365、 Enterprise Mobility Suite 或 Microsoft Dynamics CRM 的訂閱之雲端解決方案提供者訂閱的合作夥伴。
+>[!Note]它不是目前無法變更 Office 365、 Enterprise Mobility Suite 或 Microsoft Dynamics CRM 的訂閱之雲端解決方案提供者訂閱的合作夥伴。
 
 
 
@@ -68,7 +67,7 @@ ms.locfileid: "4488964"
     *重要*：如果新的雲端解決方案提供者與客戶之間沒有經銷商關係，則他們必須在移轉之前建立關係。 [您可以在這裡找到相關做法的資訊](request-a-relationship-with-a-customer.md)。
 
     >[!Note]
-    >新的雲端解決方案提供者合作夥伴和客戶租用戶必須是相同的區域。 
+    >新的雲端解決方案提供者合作夥伴和客戶租用戶必須是相同的國家/地區。 
 
 5.  目前的合作夥伴︰
 
@@ -95,9 +94,9 @@ ms.locfileid: "4488964"
     -  在 \[客戶\] 功能表中選取 **\[服務管理\]**。 
     -  在 **\[Microsoft Azure\]** 下方，按一下連結以移至 **\[Microsoft Azure 管理入口網站\]**。
 
- 
+ 
 
- 
+ 
 
 
 
