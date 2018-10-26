@@ -4,12 +4,12 @@ description: 透過將 Azure RI 與伺服器訂閱引進雲端解決方案提供
 author: v-petand
 keywords: Azure，訂閱，VM，保留區，保留的執行個體
 ms.localizationpriority: medium
-ms.openlocfilehash: a29e9b5b6de186f44a9e4c79baf8bfab4e47018a
-ms.sourcegitcommit: 8a189ccdbdaf5a75bab67c77c6a5a5338e63ca89
+ms.openlocfilehash: 4880e74519be2d334b3782c089790bcc89f18462
+ms.sourcegitcommit: c702328f342401e7baed501a14cd7c85077da7d1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "5460083"
+ms.lasthandoff: 10/26/2018
+ms.locfileid: "5591914"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -65,12 +65,10 @@ Azure Reservations 可協助您節省金錢預先支付一年或三年的虛擬�
 
 **銷售整備**
 
-- [伺服器訂閱搭配 Azure Hybrid Benefit 概觀](https://www.yammer.com/cloudpartnercommunity/#/files/141644181)更新
-- [銷售資料表](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Azure VM RI + 伺服器訂閱常見問題集 （更新）](https://www.yammer.com/cloudpartnercommunity/)
-- [Azure Reservations 和 SQL DB 合作夥伴常見問題集](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Azure Reservations 與伺服器訂閱搭配 Azure Hybrid Benefit 概觀 （更新）](http://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [銷售資料表](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 - [合作夥伴常見問題集 （更新） 的 Azure reservations](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Azure Reservations 和 SQL DB 合作夥伴常見問題集](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Azure 概觀 （新） 中的 SQL 資料庫](http://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Azure 定價概觀](https://azure.microsoft.com/pricing/#explore-cost)
 - [Azure 定價計算機](https://azure.microsoft.com/pricing/calculator/)
