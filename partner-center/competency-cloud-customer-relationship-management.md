@@ -1,19 +1,22 @@
 ---
 title: 雲端客戶關係管理專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 取得雲端客戶關係管理專長認證，以 Microsoft Dynamics CRM Online 或 Dynamics 365 優質供應商之名著稱於業界。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 雲端客戶關係管理
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1621089b2baecbe8b850bf48c1940e7566078f6f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8eec85b1be8b16ec161733d956b90d6c11e9531e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874818"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796281"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="7cb38-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="7cb38-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="22883-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="22883-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Cloud Customer Relationship Management

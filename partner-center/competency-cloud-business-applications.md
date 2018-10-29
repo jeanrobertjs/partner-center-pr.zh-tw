@@ -1,19 +1,22 @@
 ---
 title: 雲端商務應用程式專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 雲端業務應用程式專長認證適合專精於為客戶部署和管理 Microsoft Dynamics 365 的合作夥伴。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 雲端業務應用程式
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 217f988b6a7003cc1cdabeb3f8663eeaa619b362
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876698"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794571"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="2a7dd-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="2a7dd-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="34fee-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="34fee-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

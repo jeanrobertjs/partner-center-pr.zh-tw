@@ -1,19 +1,22 @@
 ---
 title: 應用程式整合專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 應用程式整合專長認證對將單一應用程式及解決方案整合到整個 Microsoft 生態系統中各種產的品合作夥伴和開發人員給予認可。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 應用程式整合
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a5c69706898ff791f56a86a4c0f2f32dfb2199d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876688"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797311"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="77ec4-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="77ec4-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="ddf61-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="ddf61-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

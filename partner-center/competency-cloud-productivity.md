@@ -1,19 +1,22 @@
 ---
 title: 雲端生產力專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 雲端生產力專長認證是為專精於 Office 365 企業部署的合作夥伴而設計。 透過此專長認證，以備受肯定的雲端解決方案提供者姿態，向尋求合格雲端解決方案合作夥伴的客戶展示貴公司與眾不同的優勢。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 雲端生產力
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6915bc270500c926d17f10b6d6c0734a360c05
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874938"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794641"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="65333-105">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="65333-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="77163-105">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="77163-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 # Cloud Productivity competency
@@ -38,12 +41,12 @@ The Managed Service Partner option is ideal for partners who manage Office 365 e
 
     - **1** individual must pass all the following exams:
 
-        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
     
     **OR**
 
-    - **1** individual must obtain the following certification:  
+    - **1** individual must obtain the following certification:  
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
 ### Gold
@@ -60,7 +63,7 @@ The Managed Service Partner option is ideal for partners who manage Office 365 e
 
     - **2** individuals must pass all the following exams:
 
-        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
         
     **OR**

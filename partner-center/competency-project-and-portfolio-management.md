@@ -1,19 +1,22 @@
 ---
 title: 專案與產品組合管理專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 專案與產品組合管理專長認證對證明有能力為客戶提供企業專案管理解決方案的合作夥伴給予認可。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各項專長認證
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8006e86ce2c5b0e4b9c9c4383d14976efc2b46cc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 570f1eef7840f5a4944a21c95b2302615ba68edb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876028"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795471"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="887be-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="887be-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="b5140-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="b5140-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

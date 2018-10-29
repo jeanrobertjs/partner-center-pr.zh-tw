@@ -1,19 +1,22 @@
 ---
 title: 資料中心專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各專長認證, 資料中心
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 28dc7d87b4ce203c423b9f23a006d75d3de638c0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 803b3c384985564c1504d377bdcee065eff5bfd1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876238"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795561"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="0ccd5-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="0ccd5-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="4c3e4-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="4c3e4-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Datacenter

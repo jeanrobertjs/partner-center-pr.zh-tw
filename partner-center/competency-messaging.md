@@ -1,19 +1,22 @@
 ---
 title: 訊息中心專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 訊息中心專長認證對展示其身為合格 Microsoft Exchange 解決方案提供者之能力，以取得競爭優勢、縮短銷售週期和拓展業務的合作夥伴給予認可。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 訊息中心
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0675b73fa5fa6fb6967734645ad298d500bb1f87
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 04aa26af89dc183ce9e07b9020a50d6d4dfa87d1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875678"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796931"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="5045a-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="5045a-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="9a560-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="9a560-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Messaging

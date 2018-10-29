@@ -1,19 +1,22 @@
 ---
 title: DevOps 專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 如果您有過與企業合作，運用 Microsoft 開發平台之 DevOps 功能協助其管理軟體生命週期的深厚經驗，那麼 DevOps 專長認證就是用來確立貴組織 Microsoft 合作夥伴地位的正確選擇。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各項專長認證, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 575027d70b033085db21a30b7e703df53790f996
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 893022074c375c51e7fa21c17cc2e4fab888b132
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875718"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794801"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="ee128-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="ee128-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="8fff2-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="8fff2-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

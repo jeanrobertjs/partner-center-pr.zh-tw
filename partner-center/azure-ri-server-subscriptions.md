@@ -1,15 +1,18 @@
 ---
 title: Azure 保留的 VM 執行個體 (RI) + Azure 伺服器訂閱 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 透過將 Azure RI 與伺服器訂閱引進雲端解決方案提供者計畫，我們得以用更理想的方式協助合作夥伴，以更具成本效益的解決方案支援高度可預測的持續性雲端工作負載，解決快速成長的客戶需求。 雲端解決方案提供者計畫可讓合作夥伴透過 Microsoft 合作夥伴中心和 Azure 入口網站，代表商業客戶取得、佈建和管理 Azure RI 與伺服器訂閱。
 author: v-petand
+ms.author: v-petand
 keywords: Azure，訂閱，VM，保留區，保留的執行個體
 ms.localizationpriority: medium
-ms.openlocfilehash: 4880e74519be2d334b3782c089790bcc89f18462
-ms.sourcegitcommit: c702328f342401e7baed501a14cd7c85077da7d1
+ms.openlocfilehash: cc33e605af7930484b196051565781f4d4c3f17e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/26/2018
-ms.locfileid: "5591914"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797031"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
