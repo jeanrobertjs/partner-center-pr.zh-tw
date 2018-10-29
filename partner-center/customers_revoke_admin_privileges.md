@@ -1,15 +1,18 @@
 ---
 title: 授予合作夥伴的客戶代理人系統管理權限 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 身為經銷商合作夥伴，您的客戶可以委派您做為其系統管理員。他們也可以移除權限。
 author: labrenne
+ms.author: labrenne
 keywords: 委派的系統管理員權限，系統管理，代表，移除權限，DAP，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: cb53cf35eafd40e929c30ee74b2f7e98b3e4332a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489874"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795731"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>授予合作夥伴的客戶代理人系統管理權限
 
@@ -38,7 +41,7 @@ ms.locfileid: "4489874"
 
 
 > [!IMPORTANT]  
-> 客戶可以在服務管理入口網站中重新指派或移除系統管理員權限。 不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。 在此情況下，如果客戶需要協助，請連絡 Microsoft 支援服務以開啟代表客戶服務要求。
+> 客戶可以在服務管理入口網站中重新指派或移除系統管理員權限。 不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。 在此情況下，如果客戶需要協助，請連絡 Microsoft 支援服務要求代表客戶開啟。
 
 您的客戶可以了解哪些合作夥伴擁有 Office 365 系統管理員入口網站從其租用戶系統管理員權限。 做法如下：
 
@@ -46,11 +49,11 @@ ms.locfileid: "4489874"
 
 2. 選取 **\[設定\]** → **\[合作夥伴關係\]**。
 
-3. 在**合作夥伴關係**頁面上，客戶將會看到一份與之合作它們的運作，以及那些已獲得其租用戶的委派系統管理權限的合作夥伴。
+3. 在**合作夥伴關係**頁面上，客戶將會看到一份合作夥伴合作它們的運作，以及那些已獲得其租用戶的委派系統管理權限。
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>客戶可以管理合作夥伴的委派系統管理員權限 
 
-您的客戶可以決定從其租用戶移除您的委派的系統管理員權限，但保留與您的關係以進行訂閱和授權續約時間範圍。 客戶在 Office 365 系統管理中心的 **\[合作夥伴關係\]** 頁面上管理其 Office 365 帳戶的權利和權限。 在這個頁面上，客戶可以：
+您的客戶可能會決定要從其租用戶移除您委派的管理員權限，但保留與您的關係以進行訂閱和授權續約。 客戶在 Office 365 系統管理中心的 **\[合作夥伴關係\]** 頁面上管理其 Office 365 帳戶的權利和權限。 在這個頁面上，客戶可以：
 
 - 查看他們與哪些合作夥伴擁有合作關係，以及哪些合作夥伴具有委派的系統管理員權限
 
@@ -89,7 +92,7 @@ ms.locfileid: "4489874"
 
 ## <a name="windows-autopilot"></a>Windows Autopilot 
 
-從合作夥伴中心，雲端解決方案提供者合作夥伴可以管理其沒有委派的系統管理員權限的客戶的 Autopilot 設定檔。 了解如何[透過 Windows Autopilot 簡化裝置設定。](https://docs.microsoft.com/partner-center/autopilot)
+從合作夥伴中心，雲端解決方案提供者合作夥伴可以為其客戶沒有委派的系統管理員權限管理 Autopilot 設定檔。 了解如何[透過 Windows Autopilot 簡化裝置設定。](https://docs.microsoft.com/partner-center/autopilot)
 
 您可以執行的動作取決於上哪個雲端解決方案提供者模型中，您已經註冊中。
 
@@ -103,14 +106,14 @@ ms.locfileid: "4489874"
 |套用設定檔到裝置   |是   |是   |
 |從裝置移除設定檔   |是   |是   | 
 
-- 如果客戶移除委派的 aministration 限，但會保留您的經銷商關係，您可以繼續為他們管理 Autopilot 設定檔。
+- 如果客戶移除委派的 aministration 管理權，但會保留您的經銷商關係，您可以繼續為他們管理 Autopilot 設定檔。
 
-- 您可以管理客戶的裝置加入您或其他合作夥伴。 
+- 您可以管理已加入您或其他合作夥伴的客戶裝置。 
 
-- 您無法管理您的客戶已透過商務用 Microsoft Store、 教育版的 Microsoft Store 或 Microsoft Intune 入口網站中新增的裝置。
+- 您無法管理您的客戶已透過商務用 Microsoft Store，教育，Microsoft Store 或 Microsoft Intune 入口網站新增的裝置。
 
 > [!IMPORTANT]  
-> 若要變更，可能會繼續在合作夥伴中心的目前 Autopilot 管理體驗。 在這篇文章發行時，將會被視為下列變更：
+> 變更可能會繼續在合作夥伴中心的目前 Autopilot 管理體驗。 在這篇文章發行時，將會被視為下列變更：
 
   - 合作夥伴必須由客戶授予委派的系統管理權限，合作夥伴才能新增/更新/移除設定檔以及從客戶租用戶中的任何裝置套用/移除設定檔。
 

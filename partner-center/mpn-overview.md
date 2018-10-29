@@ -1,15 +1,18 @@
 ---
 title: Microsoft 合作夥伴網路會員資格 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 了解成為 Microsoft 合作夥伴可獲得的權益。
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格, 銀級, 金級, 專長認證
 ms.localizationpriority: medium
-ms.openlocfilehash: 43302afc456f810a310ed0751eccb44fcb9a64b5
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9726297ff1a6b921ec848778f41df701afb8c49a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489644"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797081"
 ---
 # <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
 
@@ -22,7 +25,7 @@ ms.locfileid: "4489644"
 在[合作夥伴網路網站](https://partner.microsoft.com)上閱讀有關會員資格層級以及[內部使用權軟體權益](https://partner.microsoft.com/membership/internal-use-software)。 
 
 >[!IMPORTANT]
->我們會將行動套件訂閱管理從 Partner Membership Center (PMC) 移到合作夥伴中心。 在此動作將會接手接下來的幾個月的地方。 請仔細閱讀資訊中[取得行動套件](mpn-get-action-pack.md)，讓您知道如何與何處續約。  
+>我們會將行動套件訂閱管理從 Partner Membership Center (PMC) 移到合作夥伴中心。 此移動將會接手接下來的幾個月的地方。 請仔細閱讀資訊中[取得行動套件](mpn-get-action-pack.md)，讓您知道如何與何處續約。  
 
 |**若要這樣做**   |**請閱讀本文**   |
 |-----------------|:---------------------------|

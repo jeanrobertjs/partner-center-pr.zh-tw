@@ -1,21 +1,21 @@
 ---
-title: 分析的訂閱和授權 |合作夥伴中心
+title: 分析訂閱和授權 |合作夥伴中心
+ms.date: 07/12/2018
 Description: Get data about your subscriptions and licenses.
 Author: Xansky
 ms.author: mhopkins
-ms.date: 07/12/2018
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
-ms.openlocfilehash: 86493059c6894fad96163178df3bd095e9a88420
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 048cbe3384d1721136afe6d6f165e8e408b6d25a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489354"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795181"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>訂閱和授權分析 
+# <a name="analyze-subscriptions-and-licenses"></a>分析訂閱與授權 
 
 **適用對象：**
 
@@ -27,7 +27,7 @@ ms.locfileid: "4489354"
 > 訂閱授權分析是僅適用於雲端解決方案提供者計畫中的合作夥伴。
 
 
-樞紐這份報告，可根據下列產品：
+樞紐此報告可以根據下列產品：
 
  - **Dynamics 365**: Dynamics 365 資料  
  - **EMS**： 企業管理服務資料  
@@ -39,20 +39,20 @@ ms.locfileid: "4489354"
 
 **摘要**  
  - **訂閱售出**： 訂閱的指定的時間期間建立的計數  
- - **售出的授權**： 指定的時間期間的售出的授權計數   
- - **30 天內當天訂閱**： 其中狀態為使用中指定的時間週期及**Autorenew**所在，則為 true 的訂閱的計數
+ - **售出的授權**： 的指定的時間期間售出的授權計數   
+ - **30 天內當天訂閱**： 訂閱其中狀態為作用中指定的時間週期及**Autorenew**所在，則為 true 的計數
  - **使用中訂閱**： 所在**作用中**狀態的訂閱  
  - **已暫停的訂閱**： 計數的暫停訂閱，沒有任何日期篩選  
 
 **產品明細**  
- - **訂閱計數**： 排序的訂閱售出的頂端 5 產品  
- - **授權計數**： Top 5 產品由排序售出的授權
+ - **訂閱計數**： Top 5 產品排序的已銷售訂閱  
+ - **授權計數**： Top 5 產品的已排序的已銷售的授權
 
 **訂閱留存率**
  - **Renewed 訂閱**： 在過去 30 天內續約的訂閱  
 
 **訂閱變換**  
- - **新的訂閱**： 的新訂閱的時間長度不包括試用供應項目計數  
+ - **新的訂閱**： 的新訂閱的期間，不包括試用供應項目計數  
  - **Deprovisioned 訂閱**： 訂閱的計數辭去或暫停的日期  
 
 **暫停的訂閱**  
@@ -61,7 +61,7 @@ ms.locfileid: "4489354"
 **使用中訂閱**
  - 所有使用中訂閱的清單  
 
-**試用訂用帳戶轉換**  
+**試用訂閱轉換**  
  - **試用版本轉換**： 指定的時間期間內發生的試用版轉換成付費的其中的所有**使用中**訂閱計數  
 
 **結束 30 天內的試用訂閱**  

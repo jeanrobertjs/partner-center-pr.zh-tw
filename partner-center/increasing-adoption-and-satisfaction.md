@@ -1,15 +1,18 @@
 ---
 title: 提高採用率與滿意度 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 我們的合作夥伴使用許多標準來衡量事業是否有成長，以及投資的方向。 合作夥伴中心提供的資料有助於瞭解您的客戶是否使用其購買的授權及使用方式。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489594"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795251"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
@@ -80,11 +83,11 @@ ms.locfileid: "4489594"
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,16 +1,19 @@
 ---
 title: 工作帳戶和合作夥伴中心 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 若要建立合作夥伴中心帳戶，您的公司必須有工作帳戶。
 author: labrenne
+ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489744"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796391"
 ---
 # <a name="your-company-work-account-and-the-partner-center"></a>您的公司工作帳戶與合作夥伴中心  
 

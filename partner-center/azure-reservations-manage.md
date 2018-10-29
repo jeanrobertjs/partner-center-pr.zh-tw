@@ -1,15 +1,18 @@
 ---
 title: 代表您的客戶管理 Azure Reservations | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Purchasing and managing Azure reservations on behalf of your customers.
 author: v-petand
+ms.author: v-petand
 keywords: azure，保留區，管理，帳單，購買
 ms.localizationpriority: medium
-ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
-ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
+ms.openlocfilehash: 20286d269a3074f89ca1368c26992feb03f9d182
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "4562270"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795451"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表您的客戶管理 Microsoft Azure Reservations
 
@@ -23,7 +26,7 @@ ms.locfileid: "4562270"
 
 1. 若要開始，從您的合作夥伴中心功能表中選取**客戶**，然後選取您想要管理其保留區的客戶。 
 
-2. 在客戶的詳細資料頁面] 功能表，選取**Azure reservations** ，然後選取您想要管理的特定保留區。  
+2. 客戶的詳細資料頁面在功能表上，選取**Azure reservations** ，然後選取您想要管理的特定保留區。  
 
 3. 在 **\[動作\]** 下方，選取 **\[管理\]** 以移至 Azure 入口網站中客戶的保留區記錄。 在保留區詳細資料頁面上，依照下列步驟以完成任務。  
 
@@ -46,10 +49,10 @@ ms.locfileid: "4562270"
 
 |**取消日期**<br> （天）   |**Usage**    |**取消貸記金額**  |**提早終止**<br> 費用    |**退款上限** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|少於 5                       | 否          | 100%       | 否                              | 50000 美元   |
-|少於 5                       | 是         | 專業版分級  | 否                              | 50000 美元   |
-|超過 5                        | 否          | 專業版分級  | 12%                             | 50000 美元   |
-|超過 5                        | 是         | 專業版分級  | 12%                             | 50000 美元   |
+|少於 5                       | 否          | 100%       | 否                              | $50000 美元   |
+|少於 5                       | 是         | 專業版分級  | 否                              | $50000 美元   |
+|超過 5                        | 否          | 專業版分級  | 12%                             | $50000 美元   |
+|超過 5                        | 是         | 專業版分級  | 12%                             | $50000 美元   |
 
 
 **交換的運作方式** 
@@ -58,7 +61,7 @@ ms.locfileid: "4562270"
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>代表客戶要求退款或交換 
 
-若要代表客戶提出退款或交換的支援要求，您將會在合作夥伴中心，選取客戶和保留區，並接著在 Azure 入口網站建立支援要求。 
+若要代表客戶提出退款或交換的支援要求，您將在合作夥伴中心，選取客戶和保留區，然後在 Azure 入口網站建立支援要求。 
 
 >[!NOTE]
 >Microsoft 支援服務專員可能會請您提供保留區識別碼和保留區訂單識別碼。 您可以在 Azure 入口網站中保留區的 **\[內容\]** 頁面上找到此資訊。 
@@ -67,7 +70,7 @@ ms.locfileid: "4562270"
 
 2. 在客戶的詳細資料頁面上，選取 **\[Azure Reservations\]**，然後選取客戶想要退款的特定保留區。  
 
-3. **動作**，在 [選取以移至 Azure 入口網站中客戶的保留區記錄並初始化支援要求的**退款**。  
+3. 在底下**的動作**，選取以移至 Azure 入口網站中客戶的保留區記錄並初始化支援要求的**退款**。  
 
 4. 在 **\[新的支援要求\]** 頁面上，依照下列步驟來要求退款。 每個步驟之後選取 **\[下一步\]**。 
 

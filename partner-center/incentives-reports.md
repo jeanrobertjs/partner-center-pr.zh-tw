@@ -1,14 +1,17 @@
 ---
 title: 即時資料報告取代部分獎勵計畫的每月報告 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: OSA 銷售與線上服務使用量獎勵計畫現在可以取得即時資料報告。
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ae842761eb1de3c0c75c951033e128691e5029a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877128"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796181"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>即時資料報告取代部分獎勵計畫的每月報告
 
@@ -45,9 +48,9 @@ Microsoft 已淘汰合作夥伴獎勵報告與分析 (PIRA) 網站，不再將�
 6. **\[調整\]** (預設檢視) 可能沒有資料。  若是如此，請選取 **\[收益\]** 或 **\[付款\]** 檢視。
 
 
- 
+ 
 
- 
+ 
 
 
 

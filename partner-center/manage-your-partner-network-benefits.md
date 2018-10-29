@@ -1,15 +1,18 @@
 ---
 title: 管理您的 Microsoft 合作夥伴網路權益 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 身為 Microsoft 合作夥伴網路會員，您有資格購買特定會員資格權益。 說明如何啟用及管理您的會員資格權益，在合作夥伴中心。
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: MPN, 會員資格權益, 成員資格
 ms.localizationpriority: medium
-ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489794"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796381"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
@@ -28,7 +31,7 @@ ms.locfileid: "4489794"
 購買會員資格權益套件之後，您需取得軟體金鑰並指派授權、訂閱及其他權益給員工以開始使用這些項目。 
 
 >[!IMPORTANT]
->您不一定要是您購買權益的組織中的全域系統管理員，您需要將權益指派給員工的全域系統管理員。  如果您想，您可以藉由下列[**權益**頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的指示，成為全域系統管理員 （需要登入）。 此外，您的組織可能已經有所以請務必檢查您的團隊使用的 「 全域管理員。
+>雖然您不需要是購買權益您組織中的全域管理員 」，您需要將權益指派給員工的全域系統管理員。  如果您想，您可以藉由下列[**權益**頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的指示，成為全域系統管理員 （需要登入）。 此外，您的組織可能已經有全域管理員，所以請務必檢查與您的團隊。
 
 權益套件包括內部使用權限權益、雲端服務、Visual Studio 訂閱和支援等各項配置。 您可以在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/internal-use-software)網站找到行動套件訂閱的詳細資料。  
 

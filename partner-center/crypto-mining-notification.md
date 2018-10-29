@@ -1,16 +1,19 @@
 ---
 title: 加密貨幣採礦活動的合作夥伴中心通知 |合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 可能發生加密貨幣採礦活動的通知。
 author: v-petand
+ms.author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 93f4031d8e084c206ee21ff96b6c16a4c0d2ea0e
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: cfc9dd5592b9b4da631f316f8b5d56ee965e6e51
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488924"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796161"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密貨幣採礦活動的合作夥伴中心通知
 

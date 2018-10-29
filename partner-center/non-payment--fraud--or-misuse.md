@@ -1,16 +1,19 @@
 ---
 title: 未付款、詐騙或濫用 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 管理線上交易風險的策略，包括客戶不支付商品與服務款項以及詐騙活動或濫用。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377700"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795421"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未付款、詐騙或濫用
 
@@ -78,9 +81,9 @@ ms.locfileid: "4377700"
 > [!IMPORTANT]  
 > 如果 Microsoft 偵測到合作夥伴或客戶活動經證實或有違反使用原則之嫌疑時，我們將會強制執行必要步驟。 可能會立即將客戶暫時停權，並根據您的要求通知您 Microsoft 所強制執行的動作或更新。
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: 指派使用者角色與權限 |合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 若要在合作夥伴中心中工作需要每個員工必須指派角色。
 author: labrenne
+ms.author: labrenne
 keywords: 角色、 權限、 系統管理員、 代理程式
 ms.localizationpriority: medium
-ms.openlocfilehash: 71dfdb260fe6baac83c01fbf79e260470f875539
-ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
+ms.openlocfilehash: ad20423242868751665ddb40d204edd17eb8bc1e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5541468"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795101"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
 

@@ -1,15 +1,18 @@
 ---
 title: 雲端解決方案提供者計畫的合作夥伴供應項目 |合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 深入了解可用來透過雲端解決方案提供者計畫進行銷售的合作夥伴供應項目。
-author: maggiepuccievans
-keywords: 雲端解決方案提供者，雲端解決方案提供者計畫，雲端解決方案提供者，新增產品、 銷售給客戶，協力廠商供應項目、 雲端解決方案提供者優惠，雲端式服務，Azure，Office 365，Dynamics，雲端解決方案提供者合作夥伴，銷售雲端解決方案提供者，Azure RI，Azure 保留的虛擬機器執行個體，Azure保留區、 線上服務，訂閱軟體 AHUB、 Azure 上的 SQL Server、 Windows Server 上的客戶的 Azure，訂閱
+author: MaggiePucciEvans
+ms.author: evansma
+keywords: 雲端解決方案提供者，雲端解決方案提供者計畫，雲端解決方案提供者，新增產品、 銷售給客戶，協力廠商優惠，雲端解決方案提供者優惠，雲端式服務，Azure，Office 365，Dynamics，雲端解決方案提供者合作夥伴，銷售雲端解決方案提供者，Azure RI，Azure 保留的虛擬機器執行個體，Azure保留區、 線上服務，訂閱軟體 AHUB、 Azure 上的 SQL Server、 Windows Server 上 Azure，客戶訂閱
 ms.localizationpriority: medium
-ms.openlocfilehash: cdc2e3a4b86724c3403c112c03b3e407ee45fb42
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5d707ea8330b5b5edd3229218a8a2efb0004a3d5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488904"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796681"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫的合作夥伴供應項目 
 
@@ -27,15 +30,15 @@ ms.locfileid: "4488904"
 
 - Azure Reservations<br> 
 
-    客戶可以保留 Azure 虛擬機器上預先空間 1 年或 3 年期間內。<br>
+    客戶可以保留事先 Azure 虛擬機器上的空間以供 1 或 3 年一詞。<br>
     
     如需有關 Azure reservations 的詳細資訊，請參閱[銷售 Microsoft Azure 保留的 VM 執行個體](azure-reservations.md)。
 
 - 軟體<br>
 
-    客戶可以購買軟體訂閱 （Windows Server 和 SQL Server，如 1 年或 3 年期間，在 Azure 保留的 VM 執行個體上執行）。<br>
+    客戶可以購買軟體訂閱 （Windows Server 和 SQL Server，適用於 1 或 3 年一詞，在 Azure 保留的 VM 執行個體上執行）。<br>
  
-  如需有關的軟體訂閱的詳細資訊，請參閱[銷售透過雲端解決方案提供者的軟體訂閱](csp-software-subscriptions.md)。  
+  如需有關軟體訂閱的詳細資訊，請參閱[銷售透過雲端解決方案提供者的軟體訂閱](csp-software-subscriptions.md)。  
 
 - 線上服務<br>
 
@@ -45,19 +48,19 @@ ms.locfileid: "4488904"
 
 若要代表您的雲端解決方案提供者客戶購買產品和服務，您選取的項目客戶想，將它們新增到您的購物車，它會建立訂單，然後檢閱和支付的訂單。 詳細的步驟如下。
 
-1. 從合作夥伴中心功能表中選取**客戶**，然後找出想要向您購買的客戶。 
+1. 從合作夥伴中心功能表中選取**客戶**，然後找出想要從您所購買的客戶。 
 
-2. 選取向下箭號來展開客戶記錄，客戶的資料列的結尾，然後選取 [**新增產品**。 從現在開始時，您要建立訂單。 訂單可以包含多個項目的不同的類型，但必須全部都相同的客戶。
+2. 選取向下箭號來展開客戶記錄的客戶的資料列的結尾，然後選取 [**新增產品**。 從現在開始時，您要建立訂單。 訂單可以包含數個項目不同的類型，但必須全部都相同的客戶。
 
-3. 在 [**新增產品**頁面上，選取**Azure**、**線上服務**或**軟體**。
+3. 在**新增產品**頁面上，選取來自**Azure**、**線上服務**或**軟體**。
 
-4. 微調可用的篩選器來更輕鬆地找出您正在尋找的產品。 若要查看有哪些可用的完整清單，請將適用於篩選器為**任何**。 
+4. 微調可用的篩選器來更輕鬆地找出您正在尋找的產品。 若要查看有哪些可用的完整清單，請將適用的篩選器為**任何**。 
 
 5. 選取客戶想輸入的所需的數量，然後選取 [**新增到購物車**的產品。
 
 6. 重複步驟 4 和 5，直到您已加入您購物車中的所有必要的項目。 選取 **\[檢閱\]** 確認您的訂單正確無誤。  
 
-7. 在**檢視您的訂單**的頁面上，確認或變更的產品以及數量，然後選取**購買**購買訂單。 
+7. 在**檢閱您的訂單**的頁面上，確認或變更的產品和數量，然後選取**購買**購買訂單。 
 
 8. 您訂單的詳細資訊，包括您的訂單號碼，會顯示在下一個頁面。 選取 **\[完成\]** 移至 **\[訂購記錄\]** 頁面。 
 

@@ -1,16 +1,19 @@
 ---
 title: 獲得 Microsoft 專長認證 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 獲得銀級和金級 Microsoft 專長認證，示範您在專業業務領域中提供高品質解決方案備受肯定的專業
 author: KPacquer
+ms.author: kenpacq
 keywords: 專長認證, 銀級會員, 金級會員, mpn, MAPS, 熟練度, 權益, 效能目標, 技能目標
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 858321809e311cc8be83967ceebd5c71fe82c48c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490154"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796891"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -55,7 +58,7 @@ Microsoft 專長認證成就彰顯您在提供高品質解決方案方面備受�
 
 某些專長認證有多種方法可以達到銀會員或金會員等級。
 
-若要檢查您的進度的專長認證，從合作夥伴中心合作夥伴中心，移至**合作關係 > 各項專長認證**。 
+若要檢查您專長認證進度，從合作夥伴中心合作夥伴中心，移至**合作關係 > 各項專長認證**。 
 
 ### <a href="" id="associating_achievements"></a>讓您的員工共同參與以完成技能目標
 

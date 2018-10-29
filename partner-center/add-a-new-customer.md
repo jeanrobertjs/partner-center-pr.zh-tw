@@ -1,16 +1,19 @@
 ---
 title: 新增新的客戶 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 在您可以銷售訂閱、管理帳單，或是提供支援之前，您必須先在合作夥伴中心中建立客戶的記錄。 這包含他們的連絡資訊，以及 Azure AD 網域。
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
-ms.openlocfilehash: abe2e5f39718ddebb69d875febe3d06637b7ebc2
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490204"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794841"
 ---
 # <a name="add-a-new-customer"></a>加入新的客戶
 
@@ -27,7 +30,7 @@ ms.locfileid: "4490204"
 
 **新增新的客戶**
 
-1.  在**合作夥伴中心**功能表中，選取**客戶**。 然後選取 **\[新增客戶\]**。
+1.  從**合作夥伴中心**功能表中，選取**客戶**。 然後選取 **\[新增客戶\]**。
 
 2.  在 **\[帳戶資訊\]** 頁面上，完成公司詳細資料和主要連絡人資訊，然後選取 **\[下一步: 訂閱\]**。
 
@@ -39,9 +42,9 @@ ms.locfileid: "4490204"
 
 若要於稍後檢閱客戶資料 (包括將附加元件授權新增到訂閱)，請參閱[建立新訂閱](create-a-new-subscription.md)的詳細資料。
 
- 
+ 
 
- 
+ 
 
 
 

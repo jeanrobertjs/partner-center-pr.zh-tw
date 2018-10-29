@@ -1,15 +1,18 @@
 ---
 title: 使用對帳檔案 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 如計費週期中每項費用的詳細的明細項目檢視，請從合作夥伴中心下載對帳檔案。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: de2050db9ec6202e43713d62269146291b5ded99
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 021b968f6dad4a47db712f0f0090edb082770000
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489954"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797291"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -46,7 +49,7 @@ ms.locfileid: "4489954"
 <td>經銷商 MPN 識別碼</td>
 <td><p>只會出現在間接模型合作夥伴的對帳檔案上。</p>
 <p>訂閱記錄中的經銷商 MPN 識別碼。 這會對應到合作夥伴中心中針對特定訂閱列出的經銷商識別碼。</p>
-<p>若要檢視或更新經銷商，請在合作夥伴中心功能表中，選取<strong>客戶</strong>，然後從清單中選擇客戶。 在客戶功能表中，選取 \[訂閱\]<strong></strong>，從清單中選擇訂閱。 選取 \[更新\]<strong></strong> 以變更 \[經銷商 (MPN 識別碼)\]<strong></strong>。</p>
+<p>若要檢視或更新經銷商，請從合作夥伴中心功能表中，選取<strong>客戶</strong>，然後從清單中選擇客戶。 在客戶功能表中，選取 \[訂閱\]<strong></strong>，從清單中選擇訂閱。 選取 \[更新\]<strong></strong> 以變更 \[經銷商 (MPN 識別碼)\]<strong></strong>。</p>
 <p>如果雲端解決方案提供者合作夥伴直接向客戶銷售訂閱，他們的 MPN 識別碼將會以 MPN 識別碼和經銷商 MPN 識別碼的形式列出兩次。</p>
 <p>如果雲端解決方案提供者合作夥伴具有沒有 MPN 識別碼的經銷商，這個值將會改成設為合作夥伴的 MPN 識別碼。</p>
 <p>如果雲端解決方案提供者合作夥伴移除經銷商識別碼，這個值將會設為 -1。</p></td>
@@ -54,7 +57,7 @@ ms.locfileid: "4489954"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a>授權型檔案欄位
 

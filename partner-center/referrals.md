@@ -1,17 +1,20 @@
 ---
 title: 透過 Microsoft 推薦拓展您的業務 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 產生業務潛在客戶，並連接到需要協助實作 Microsoft 產品和解決方案的客戶。
 author: KPacquer
+ms.author: kenpacq
 keywords: 推薦, 商務設定檔, 尋找合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: d06f2a6d435c9db5bc9b4d54ceb95cdeafc956b8
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: c4241c70591d6747f9e5994c43119740d6819791
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489234"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794821"
 ---
-<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
+<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>透過 Microsoft 推薦拓展您的業務
 
@@ -23,7 +26,7 @@ ms.locfileid: "4489234"
 
 我們想將您連結至需要您的解決方案和專業知識的客戶。 您可以開始從我們獲得業務潛在客戶的首要步驟，就是[建立商務設定檔](create-a-marketing-profile.md)，來展示您公司的產品、解決方案以及專業。 您的商務設定檔將會列在客戶和 Microsoft 內部銷售專員搜尋合格合作夥伴的所有位置。 
 
- 在您發佈商務設定檔之後，您將會開始在合作夥伴中心收到業務潛在客戶透過推薦功能。 請務必在必要時限內回應推薦，以便繼續收到潛在客戶，以及最重要的是，贏得交易。 請參閱 < 在合作夥伴中心<b0>回應推薦</b0>如需詳細資訊，有關如何管理業務潛在客戶。  
+ 在您發佈商務設定檔之後，您將會開始在合作夥伴中心收到業務潛在客戶透過推薦功能。 請務必在必要時限內回應推薦，以便繼續收到潛在客戶，以及最重要的是，贏得交易。 請參閱在合作夥伴中心[回應推薦](responding-to-referrals.md)如需詳細資訊，有關如何管理業務潛在客戶。  
 
 祝您好運！
 

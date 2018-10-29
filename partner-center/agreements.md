@@ -1,15 +1,17 @@
 ---
 title: Microsoft 雲端解決方案提供者可用的市場和客戶合約 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 從合作夥伴中心下載特定市場及語言的客戶合約範本
 author: Maggie Evans
 keywords: Microsoft Cloud 合約, 客戶合約範本, 雲端解決方案提供者客戶合約, MCA, MCA, 雲端解決方案提供者, 可以透過雲端解決方案提供者在哪些地方進行銷售？, 雲端解決方案提供者國家/地區, 多種語言的雲端解決方案提供者 MCA, 北美洲雲端解決方案提供者, 中美洲雲端解決方案提供者, 南美洲雲端解決方案提供者, 加勒比海雲端解決方案提供者, CSP Microsoft Cloud for US Government, 雲端解決方案提供者 Microsoft Cloud 德國, 中東雲端解決方案提供者, 非洲雲端解決方案提供者, 歐洲雲端解決方案提供者, 亞洲雲端解決方案提供者, 太平洋雲端解決方案提供者, 雲端解決方案提供者 MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 629d15b8a233168420147b8324d85bbee385b170
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377810"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797321"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft 雲端解決方案提供者市場和客戶合約
 

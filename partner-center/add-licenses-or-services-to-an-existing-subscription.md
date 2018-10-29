@@ -1,16 +1,19 @@
 ---
 title: 將授權或服務新增到現有的訂閱 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 如果您的客戶需要的授權數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權
 ms.localizationpriority: medium
-ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489724"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795971"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>將授權或服務新增到現有的訂閱
 
@@ -38,7 +41,7 @@ ms.locfileid: "4489724"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 商務版</td>
+<td>Office365Business</td>
 <td><ul>
 <li>Office 365 商務進階版¹</li>
 <li>Office 365 專業增強版</li>
@@ -47,14 +50,14 @@ ms.locfileid: "4489724"
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 商務進階版</td>
+<td>Office365BusinessPremium</td>
 <td><ul>
 <li>Office 365 企業版 E3</li>
 <li>Office 365 企業版 E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 商務基本版</td>
+<td>Office365BusinessEssentials</td>
 <td><ul>
 <li>Office 365 商務進階版¹</li>
 <li>Office 365 企業版 E1</li>
@@ -64,12 +67,12 @@ ms.locfileid: "4489724"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 商務版 (印度) 與 Office 365 商務基本版 (印度) 可以升級至 Office 365 商務進階版 (印度)，而不是升級至 Office 365 商務進階版。</p></td>
+<td><p>¹ Office365BusinessIndia 和 Office365BusinessEssentialsIndia 可以升級到 Office365BusinessPremiumIndia，不到 Office365BusinessPremium。</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
 如果符合下列條件，便可以升級訂閱：
 
@@ -92,9 +95,9 @@ ms.locfileid: "4489724"
 3.  選取新的訂閱詳情，然後選擇 **\[送出\]**。
 4.  針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 如果是這樣，在合作夥伴中心提供帳戶和受影響的服務的清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](http://go.microsoft.com/fwlink/p/?LinkId=723576)。
 
- 
+ 
 
- 
+ 
 
 
 

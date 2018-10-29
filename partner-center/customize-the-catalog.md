@@ -1,15 +1,18 @@
 ---
 title: 自訂型錄 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 型錄會列出合作夥伴可以銷售的所有 Microsoft 產品和附加元件。
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba9d9efd51d4b647e02e7f27b54e4259e90d782f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 626f25e3f56949d658c6ab7ff1fdf1fb1ffdd2ad
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488544"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797051"
 ---
 # <a name="customize-the-catalog"></a>自訂型錄
 
@@ -23,12 +26,12 @@ ms.locfileid: "4488544"
 
 **自訂型錄**
 
-1.  移至合作夥伴中心 \] 功能表&gt;**銷售** &gt; **類別目錄**。
+1.  移至合作夥伴中心功能表&gt;**銷售** &gt; **類別目錄**。
 2.  選擇最多五個產品以顯示於型錄頂端。
 
- 
+ 
 
- 
+ 
 
 
 

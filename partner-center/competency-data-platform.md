@@ -1,16 +1,19 @@
 ---
 title: 資料平台專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 資料平台專長認證對致力於設計和開發用於經營其業務之強大多功能資料庫平台的合作夥伴給予認可。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各專長認證, 資料平台
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 57fee0a3d7c8b1ff3cf00893b641295b2b271813
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 90b655a6844a69b537b9fabb44adb120b4f961ad
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875648"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797271"
 ---
 >[!IMPORTANT]
 >若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。

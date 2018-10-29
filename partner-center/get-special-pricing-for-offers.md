@@ -1,15 +1,18 @@
 ---
 title: 銷售到特色產業 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Microsoft provides special, reduced pricing for select groups of customers, including education customers, non-profit customers, and government users.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: d252af955ea82d42ebd8196ad020088edee43dfb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489584"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795011"
 ---
 # <a name="sell-to-specialized-industries"></a>銷售到特色產業
 
@@ -36,7 +39,7 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 ## <a name="check-the-customer-qualifications"></a>檢查客戶資格
 
-1.  在**合作夥伴中心**功能表中，選取**客戶**。 從清單中選擇客戶。
+1.  從**合作夥伴中心**功能表中，選取**客戶**。 從清單中選擇客戶。
 2.  從客戶功能表中，選取 **\[帳戶\]**。 在 **\[公司資訊\]** 區段中，尋找 **\[特殊資格\]**。
 3.  如果 **\[特殊資格\]** 是設為 **\[無\]**，但該客戶確實符合資格，您可以 **\[更新\]** 他們的詳細資料以包含他們。
 
@@ -49,11 +52,11 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 [向教育機構客戶銷售 Minecraft: Education Edition](minecraft-subscriptions.md)
 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

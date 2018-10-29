@@ -1,16 +1,19 @@
 ---
 title: 企業行動管理專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 企業行動管理專長認證適合在功能強大、安全且適用於大型企業之行動管理解決方案上表現出眾的專家合作夥伴。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 企業行動管理
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e6c5fd30a82992d41a22b4892d27ec4709b4b931
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876068"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796241"
 ---
 >[!IMPORTANT]
 >若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。

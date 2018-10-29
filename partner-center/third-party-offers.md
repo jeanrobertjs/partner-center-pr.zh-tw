@@ -1,14 +1,17 @@
 ---
 title: 協力廠商產品 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 隨著業務擴大，您可將協力廠商產品納入您的產品搭售方案，藉以開發並深化您的產品組合。
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 087154d9e1729eb80273094edba285ce83cc4b4c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9cc92120866502244f73efd8de6874b5d3d8428a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490114"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796941"
 ---
 # <a name="third-party-offers"></a>協力廠商優惠 
 
@@ -16,15 +19,15 @@ ms.locfileid: "4490114"
 
 - 合作夥伴中心
 
-協力廠商供應項目是一項功能提供直接存取的合作夥伴中心中與間接經銷商合作夥伴銷售透過雲端解決方案提供者計畫 (CSP) 能夠交易、 管理及支援協力廠商 SaaS 解決方案。  
+協力廠商優惠是合作夥伴中心，提供直接存取中的功能和間接經銷商合作夥伴銷售透過雲端解決方案提供者計畫 (CSP) 能夠交易、 管理及支援協力廠商 SaaS 解決方案。  
 
 運用協力廠商優惠，雲端解決方案提供者合作夥伴不只能購買第一方 (亦即 Microsoft) 解決方案，也能夠購買第三方 (亦即 ISV 合作夥伴) 解決方案... 全都透過單一商務平台，只需一張發票。  隨著業務擴大，您可將協力廠商產品納入您的產品搭售方案，藉以開發並深化您的產品組合。 
 
-您可以找到不同類型的協力廠商供應項目在合作夥伴中心上與 Microsoft 產品一起陳列。 您的客戶好處了更多樣的解決方案，探索、 販售和在單一位置輕鬆地管理由值得信賴的 Microsoft 合作夥伴，您的選擇。 合作夥伴中心可讓您輕鬆探索、 交易，以及管理這些服務，以便您可以解決方案和其優點得以加快交付。
+您可以找到不同類型的協力廠商供應項目在合作夥伴中心上與 Microsoft 產品搭配運作。 您的客戶好處了更多樣的解決方案，探索、 販售和在單一位置輕鬆地管理由值得信賴的 Microsoft 合作夥伴，您的選擇。 合作夥伴中心可讓您輕鬆探索、 交易，以及管理這些服務，以便您可以解決方案和其優點得以加快交付。
 
 ## <a name="microsoft-partners-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫中的 Microsoft 合作夥伴
 
-協力廠商優惠專門設計來減輕管理及交易的難度。 若要確保您和您的客戶的最佳體驗，我們建議使用下列檢查清單，若要開始使用協力廠商供應項目：
+協力廠商優惠專門設計來減輕管理及交易的難度。 若要確保您和客戶的最佳體驗，我們建議使用下列檢查清單，若要開始使用協力廠商供應項目：
 
 1. 檢閱下方所有資料，從上線網路研討會與常見問題集
 2. 熟悉協力廠商優惠，在合作夥伴中心目錄

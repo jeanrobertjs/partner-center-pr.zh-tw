@@ -1,16 +1,19 @@
 ---
 title: 建立、暫停或取消客戶訂閱 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 當您在合作夥伴中心中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489104"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796401"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489104"
 -  Microsoft Cloud 德國合作夥伴中心
 -  雲端解決方案提供者合作夥伴
 
-在合作夥伴中心中建立客戶的記錄之後，您可以向他們銷售型錄中產品的訂閱。
+在合作夥伴中心建立客戶的記錄之後，您可以向他們銷售型錄中產品的訂閱。
 
 請注意，某些供應項目會限制每一個客戶只能擁有一個訂閱。 若要查看受限制的供應項目清單，請造訪合作夥伴中心 [定價與方案] 頁面。 
 
@@ -64,7 +67,7 @@ ms.locfileid: "4489104"
 
 
 
- 
+ 
 
 
 

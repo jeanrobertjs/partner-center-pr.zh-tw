@@ -1,15 +1,18 @@
 ---
 title: 變更暫時密碼 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 收到您的暫時密碼時，請立即登入合作夥伴中心並變更該密碼。
 author: labrenne
+ms.author: labrenne
 Keywords: temporary password, change password, reset password
 ms.localizationpriority: medium
-ms.openlocfilehash: f2f385defe6c98bddf7bbc46ba70bd05667c2905
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7128107fe4be216b4e4adc094792c7329edc2ab8
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490184"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796911"
 ---
 # <a name="change-your-temporary-password"></a>變更暫時密碼
 
@@ -29,9 +32,9 @@ ms.locfileid: "4490184"
 如需詳細資訊，請參閱[重設使用者密碼](reset-a-user-password.md)。
 
 
- 
+ 
 
- 
+ 
 
 
 

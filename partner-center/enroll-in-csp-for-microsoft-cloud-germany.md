@@ -1,14 +1,17 @@
 ---
 title: 註冊 Microsoft Cloud 德國雲端解決方案提供者計畫 | Microsoft Cloud 德國合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 在您註冊 Microsoft Cloud 德國雲端解決方案提供者計畫之前，請先深入了解雲端解決方案提供者計畫需求。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ff6e0c0ecbf6ef67ae22f21dca25a0026ae0b59
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7ed0b90395e3a15dd03963891dbadc9b1feebeec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489624"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796971"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>註冊 Microsoft Cloud 德國雲端解決方案提供者計畫
 
@@ -70,7 +73,7 @@ ms.locfileid: "4489624"
 Microsoft Cloud 德國提供 Microsoft Azure 的獨立執行個體，這些執行個體使用德國專用網路從德國境內的資料中心提供。 若要允許管理員管理 Azure 德國入口網站中的使用者和授權，您需要手動指派系統管理代理人角色給他們。
 
 > [!NOTE]  
-> 您將使用者指派給系統管理代理人角色之後，在**客戶**功能表會出現在合作夥伴中心 \] 功能表，您將無法存取您的客戶清單和[新增新的客戶](add-a-new-customer.md)。   
+> 您將使用者指派給系統管理代理人角色之後，在**客戶**功能表會出現在合作夥伴中心功能表，您將無法存取您的客戶清單和[新增新的客戶](add-a-new-customer.md)。   
 
 1.  登入 Azure 德國入口網站，在https://portal.microsoftazure.de/。
 

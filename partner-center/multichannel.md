@@ -1,15 +1,18 @@
 ---
 title: 多通路 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 有時候客戶可能會想雇用您來佈建及支援他們在其他地方購買的訂閱。
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489414"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795741"
 ---
 # <a name="multi-channel-support"></a>多通路支援
 
@@ -55,11 +58,11 @@ ms.locfileid: "4489414"
 
 如果您是間接經銷商，請參閱[與間接提供者建立合夥關係](indirect-reseller-tasks-in-partner-center.md)
 
-如果您是間接提供者，請參閱[與間接經銷商建立合夥關係](indirect-provider-tasks-in-partner-center.md) 
+如果您是間接提供者，請參閱[與間接經銷商建立合夥關係](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

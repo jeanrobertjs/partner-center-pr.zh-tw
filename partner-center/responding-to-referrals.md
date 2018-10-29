@@ -1,15 +1,18 @@
 ---
 title: 回應推薦 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 透過合作夥伴中心評估、交涉和回應推薦。
 author: KPacquer
+ms.author: kenpacq
 keywords: 推薦, RFI, 尋找合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 4467a6404718a21d206980e77a9a84d7f77432dc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: d8305212477fab01e96cc966d404d5fa427e1faa
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489454"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796171"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>在合作夥伴中心回應推薦
 

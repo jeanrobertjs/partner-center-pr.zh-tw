@@ -1,16 +1,19 @@
 ---
 title: 雲端解決方案提供者地區授權 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 透過地區授權，擁有國際企業的合作夥伴現在可以更輕鬆地管理全球不同地區及國家中的客戶。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Azure AD 租用戶, 整合您的租用戶, 租用戶策略, 雲端解決方案提供者中的租用戶, 雲端解決方案提供者中的合作夥伴帳戶, 雲端解決方案提供者市場和地區, 可以透過雲端解決方案提供者在哪些地方進行銷售？
 ms.localizationpriority: medium
-ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377630"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796631"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>雲端解決方案提供者中的租用戶整合策略
 
@@ -69,7 +72,7 @@ ms.locfileid: "4377630"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="one-tenant-for-multiple-regions-or-countries"></a>多個地區或國家的單一租用戶
 
@@ -101,7 +104,7 @@ ms.locfileid: "4377630"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="some-tenants-for-some-regions-or-countries"></a>部分地區或國家的部分租用戶
 
@@ -137,7 +140,7 @@ ms.locfileid: "4377630"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="consolidating-tenants"></a>合併租用戶
 
@@ -211,7 +214,7 @@ ms.locfileid: "4377630"
 | 澳元 | 澳大利亞、聖誕島、可可斯群島、庫克島、斐濟、赫德島及麥當勞群島、吉里巴斯、馬紹爾群島、諾魯、紐威島、諾福克島、北馬里安納群島、帛琉、巴布亞新幾內亞、皮特康群島、索羅門群島、托克勞群島、東加、吐瓦魯、瓦利斯及福杜納。 |
 
 
- 
+ 
 
 
 

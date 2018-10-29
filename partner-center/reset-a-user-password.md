@@ -1,15 +1,18 @@
 ---
 title: 重設使用者密碼 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 如果使用者忘記密碼，您可以指派臨時密碼給他們。 他們下次登入合作夥伴中心時可以使用臨時密碼。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7643907f809fdb1fcfe58199ae98c32272416dd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377420"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794891"
 ---
 # <a name="reset-a-user-password"></a>重設使用者密碼
 
@@ -37,9 +40,9 @@ ms.locfileid: "4377420"
 
 2.  您可以看到自己的角色，以及變更您的密碼的指示。
 
- 
+ 
 
- 
+ 
 
 
 

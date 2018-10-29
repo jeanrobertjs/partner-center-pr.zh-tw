@@ -1,16 +1,19 @@
 ---
 title: 適用於 CSP 合作夥伴的 Cloudyn 支援的 Azure 成本管理 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: Cloudyn 支援的 Azure 成本管理需要對 Partner Center API 佈建存取權。
 author: Janet
+ms.author: janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f5439f47dbc99421e493c9f84f8ea2469ba6525
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 32112dd8ba23d371eda554d86cf166562779a1d1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489384"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796091"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 合作夥伴適用的 Azure 成本管理應用程式  
 
@@ -43,7 +46,7 @@ Cloudyn 支援的 Azure 成本管理是 Web 應用程式，可讓您追蹤並管
 2.  按一下 **\[新增金鑰\]**。 
 3.  複製並儲存秘密金鑰值。 您將需要此值，以便使用 30 天免費試用版。<br>
 > [!NOTE]  
-> 應用程式秘密金鑰就像是到期日較長的密碼。 請將金鑰值儲存在安全的位置，以供未來使用。
+> 應用程式秘密金鑰就像是密碼到期日較長。 請將金鑰值儲存在安全的位置，以供未來使用。
 
 ## <a name="next-steps"></a>後續步驟
 啟動 [30 天免費試用版](https://go.microsoft.com/fwlink/?linkid=857895)。

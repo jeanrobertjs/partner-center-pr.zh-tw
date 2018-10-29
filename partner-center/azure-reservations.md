@@ -1,15 +1,18 @@
 ---
 title: Microsoft Azure 保留區概觀 |合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
+ms.author: v-petand
 keywords: azure，保留區，管理，帳單，購買，Azure RI，Azure 保留的執行個體
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658114"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797231"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>銷售 Microsoft Azure 保留的執行個體 
 
@@ -73,7 +76,7 @@ Azure 保留的執行個體的可用性將會以下列方式吸引您的客戶�
 |**如需以下相關資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
 |為您在合作夥伴中心的客戶購買 Azure reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
-|在合作夥伴中心管理 Azure reservations | [在合作夥伴中心管理 Azure reservations](azure-reservations-manage.md)
+|管理 Azure reservations，在合作夥伴中心 | [管理 Azure reservations，在合作夥伴中心](azure-reservations-manage.md)
 |判斷正確的 VM 大小，並確認客戶 VM 使用率   |[調整 VM 大小以提供最大 Azure Reservations 使用率](azure-usage.md)   |
 |使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
 

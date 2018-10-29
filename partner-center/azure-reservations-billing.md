@@ -1,16 +1,19 @@
 ---
 title: Azure Reservations 帳單 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information about billing for Azure reservations.
 author: v-petand
+ms.author: v-petand
 keywords: Azure RI, azure 保留的執行個體, 保留區, vm, 管理, 帳單, 購買
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 846f2863e9c4dc9967b8c337bcab40f153b99eb6
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7aec5102d2ff76d321474e6e580acde6a854a9b5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489434"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796721"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure 保留的 VM 執行個體帳單
 
@@ -118,7 +121,7 @@ ms.locfileid: "4489434"
 |:-----------------------------|:-----------------|
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的 VM 執行個體](azure-reservations.md)
 |為您在合作夥伴中心的客戶購買 Azure reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
-| 在合作夥伴中心管理 Azure reservations | [在合作夥伴中心管理 Azure reservations](azure-reservations-manage.md)
+| 管理 Azure reservations，在合作夥伴中心 | [管理 Azure reservations，在合作夥伴中心](azure-reservations-manage.md)
 |在 Azure 入口網站中購買 Azure Reservations | Azure 說明中的[預付具有 Azure 保留的 VM 執行個體的虛擬機器](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
 |在 Azure 入口網站中管理 Azure Reservations   |Azure 說明中的[管理保留的 VM 執行個體](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
 |使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)

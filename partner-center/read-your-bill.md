@@ -1,16 +1,19 @@
 ---
 title: 閱讀您的帳單 |合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 使用此功能在合作夥伴中心。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489404"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795691"
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -20,7 +23,7 @@ ms.locfileid: "4489404"
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
 -  Microsoft Cloud 德國合作夥伴中心
 
-為您的帳單，請移至**合作夥伴中心**\] 功能表，然後選取**帳單**以查看您的帳單記錄和趨勢，您的發票和對帳檔案中和最近的付款的連結。
+為您的帳單，請移至**合作夥伴中心**功能表，然後選取**帳單**以查看您的帳單記錄和趨勢，連結到您的發票和對帳檔案，以及最近的付款。
 
 如果雲端解決方案提供者計畫中的合作夥伴已選擇每月計費，應於 60 天內，向 Microsoft 支付其客戶的訂閱費用 (包括授權型與用量型)。
 
@@ -75,7 +78,7 @@ ms.locfileid: "4489404"
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>稅金，稅金獨占費用與點數前總計。</td>
+<td>總稅金，稅金獨佔費用和點數之前。</td>
 </tr>
 <td>稅金</td>
 <td>在發票第 2 頁開始位置的詳細資料區段中加總的目前費用的總稅金。 此數字是以下所有費用的總和：
@@ -86,7 +89,7 @@ ms.locfileid: "4489404"
 </tr>
 <tr class="odd">
 <td>其他的點數</td>
-<td>稅金專屬的點數。</td>
+<td>稅專屬的點數。</td>
 </tr>
 <tr class="even">
 <td>目前總費用</td>
@@ -143,7 +146,7 @@ ms.locfileid: "4489404"
 |稅前金額 |稅前購買小計。 |
 |營業稅 |稅額。 |
 |總計 |至今應付總額。 |
- 
+ 
 
 
 

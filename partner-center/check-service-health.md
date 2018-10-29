@@ -1,16 +1,19 @@
 ---
 title: 檢查服務健康狀況 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 當客戶遇到服務發生問題時，您可以先做的其中一件事就是檢查服務健康狀況。
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: health, service health,service problems
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ae671016e6d8d8b77c85b56e268b413cee5c28f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 81e4cb9ed1d866f52767a4fe2a5065d0e595d79d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489304"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797111"
 ---
 # <a name="check-service-health"></a>檢查服務健康狀況
 
@@ -30,9 +33,9 @@ ms.locfileid: "4489304"
 
 如果問題在服務中斷結束後仍然持續，請提交服務要求。 請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。
 
- 
+ 
 
- 
+ 
 
 
 

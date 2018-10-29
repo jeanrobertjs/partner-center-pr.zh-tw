@@ -1,15 +1,18 @@
 ---
 title: 管理您的合作夥伴中心帳戶 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 管理您的組織設定檔、 銀行和稅務資訊，以及您的使用者。
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 647b34724603134caeb48e9b8e1a8cdcb50da445
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 18fc2545032c05ea93fa28ba212557165ff68a45
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490084"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796612"
 ---
 # <a name="manage-your-partner-center-account"></a>管理您的合作夥伴中心帳戶
 
@@ -19,10 +22,10 @@ ms.locfileid: "4490084"
 
 您註冊時在合作夥伴中心建立帳戶是您的工作電子郵件加上商務資訊。 您在合作夥伴中心建立帳戶之後，您或您的系統管理員必須完成設定您公司的完整設定檔，包括支援詳細資料、 回報免稅如果適當，以及主要連絡資訊。 
 
-您或您的系統管理員也會建立使用者帳戶有任何人員將會使用合作夥伴中心來新增或管理客戶、 銷售訂閱、 開立帳單和發票、 建立商務設定檔、 管理轉介，使用獎勵程式，並提供支援。
+您或您的系統管理員也會建立使用者帳戶有任何人員將會使用合作夥伴中心來新增或管理客戶、 銷售訂閱、 開立帳單和發票開立、 建立商務設定檔、 管理轉介，與獎勵合作程式，並提供支援。
 
 >[!NOTE]
->帳戶設定位於右上角的合作夥伴中心。 當您選取的圖示時，您無法選取您想要管理。 例如，選取**帳戶圖示**，然後選取 [**使用者管理**。 這會將您帶至您的使用者管理頁面，並也會開啟一個額外的窗格，其中包含所有**帳戶設定**\] 選項。
+>帳戶設定位於右上角的合作夥伴中心。 當您選取的圖示時，您無法選取您想要管理。 例如，選取**帳戶圖示**，然後選取 [**使用者管理**。 這會將您帶至您的使用者管理頁面，並也開啟了無限可能一個額外的窗格，其中包含所有**帳戶設定**\] 選項。
 
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>可協助您管理合作夥伴中心帳戶的資源
@@ -48,9 +51,9 @@ ms.locfileid: "4490084"
 
 
 
- 
+ 
 
- 
+ 
 
 
 

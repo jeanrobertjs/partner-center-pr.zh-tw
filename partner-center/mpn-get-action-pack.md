@@ -1,15 +1,18 @@
 ---
 title: 購買或續約 Microsoft 行動套件 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 了解如何取得 Microsoft 行動套件，無論是首次購買還是續約。
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 行動套件, MAPS, 續約 MAPS, 續約行動套件, 取得行動套件
 ms.localizationpriority: medium
-ms.openlocfilehash: 585fa5f61339f07282b4caab5f678eb4bce9db65
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490124"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795041"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>首次購買或續約 Microsoft 行動套件訂閱
 
@@ -36,7 +39,7 @@ ms.locfileid: "4490124"
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>續約 Microsoft 行動套件訂閱
 
 >[!IMPORTANT]
->現在日曆年度結束，我們會將行動套件訂閱管理從 Partner Membership Center (PMC) 到合作夥伴中心-此網站。 續約您的行動套件訂閱從現在開始可能會有所不同，所以請仔細閱讀以下資訊。  
+>現在日曆年度結束，我們正在將移行動套件訂閱管理從 Partner Membership Center (PMC) 到合作夥伴中心-此網站。 續約您的行動套件訂閱從現在開始可能會有所不同，所以請仔細閱讀以下資訊。  
 
 ### <a name="check-your-renewal-eligibility"></a>檢查您的續約資格
 
@@ -46,7 +49,7 @@ ms.locfileid: "4490124"
 
     - 能夠在 PMC 中依照步驟來續約您的訂閱，或者
 
-    - 收到訊息，邀請您續約您的訂閱，在合作夥伴中心-此網站
+    - 取得訊息，邀請您續約的訂閱，在合作夥伴中心-此網站
 
 >[!IMPORTANT]
 >如果您受邀續約的訂閱，在合作夥伴中心，請注意，我們已經變更我們的續約時間範圍原則，只在到期之後，您可以續約訂閱。 例如，如果您的訂閱在 6 月 22 日到期，您可以從 6 月 23 日起的 30 天內續約。       

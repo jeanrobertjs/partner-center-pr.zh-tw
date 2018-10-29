@@ -1,16 +1,19 @@
 ---
 title: Windows 與裝置專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 分享我們邁向有 10 億部裝置安裝 Windows 10 的目標。 商機囊括服務、應用程式和裝置。 這個專長認證提供可協助您開創和拓展有利可圖之 Windows 10 業務營運的工具、內容及資源。
 author: Daniel Simpson
+ms.author: dansimp
 robots: noindex,nofollow
 keywords: 專長認證, 各項專長認證, Windows 與裝置
 ms.localizationpriority: medium
-ms.openlocfilehash: eee91d5908726893cf8b5f4a0d01d99b5ac442c1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875738"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795581"
 ---
 >[!IMPORTANT]
 >若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
@@ -135,7 +138,7 @@ The Surface Hub option is ideal if you are an authorized Surface Hub ADR and pre
     - **All** individuals must each pass one of the following exams:
 
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 services
-        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
         - [Exam 70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): Planning for and Managing Devices in the Enterprise
         - [Exam 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Configuring Windows Devices 
 -->

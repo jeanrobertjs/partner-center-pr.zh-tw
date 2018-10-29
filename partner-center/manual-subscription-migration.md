@@ -1,15 +1,18 @@
 ---
 title: 將 Dynamics AX 訂閱遷移至 Dynamics 365 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft 引進新一代智慧型商業應用程式 Dynamics 365，它可讓您的組織成長、進化及轉型以滿足您客戶的需求，並掌握新的商機。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489784"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797131"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>將 Dynamics AX 訂閱遷移至 Dynamics 365
 
@@ -42,7 +45,7 @@ Microsoft Dynamics AX 產品線已於 2016 年 11 月 1 日淘汰。 若要深�
 |工作/自助|Microsoft Dynamics 365 for Team Members|
 |裝置|Microsoft Dynamics 365 for Operations Device|
 
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Microsoft Dynamics CRM Online 授權變更 
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Microsoft Dynamics CRM Online 授權變更 
 
 **Microsoft Dynamics CRM Online**
 
@@ -87,7 +90,7 @@ Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這
 
 **重新指派使用者授權**
 
-1.  在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶，選擇**使用者和授權**。 客戶的 \[使用者與授權\] 頁面隨即開啟。
+1.  在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶，選擇 [**使用者和授權**。 客戶的 \[使用者與授權\] 頁面隨即開啟。
 2.  若要重新指派使用者授權，請選取要重新指派的使用者，然後選取 **\[管理授權\]**。
 3.  在 **\[管理授權\]** 頁面上，清除 **\[Dynamics AX Enterprise\]** 授權核取方塊，並選取 **\[Dynamics 365 for Operations\]** 授權。
 4.  選取 **\[送出\]**。 確認頁面會列出新的授權指派。
@@ -97,7 +100,7 @@ Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這
 
 **取消舊訂閱**
 
-1.  在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶，並選取您想要取消的訂閱。
+1.  在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶並選取您想要取消的訂閱。
 2.  在訂閱詳細資料頁面中，將訂閱的 **\[狀態\]** 設定為 **\[暫停\]**。
 3.  選取 **\[送出\]**。
 
@@ -113,9 +116,9 @@ Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這
 
 客戶接受您成為其間接提供者之後，佈建步驟幾乎與上述步驟相同：您要購買新訂閱，然後指派使用者授權。 唯一的不同是取消舊訂閱。 新的提供者無法暫停/取消透過其他通路取得的訂閱。 如果客戶是在另一個銷售通路 (例如 Open Channel) 取得舊訂閱，客戶就必須透過該通路自行取消。
 
- 
+ 
 
- 
+ 
 
 
 

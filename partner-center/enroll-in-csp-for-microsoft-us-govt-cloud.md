@@ -1,14 +1,17 @@
 ---
 title: 註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫 |美國政府適用的 Microsoft Cloud 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 在您註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫之前，請先深入了解 CSP 計畫需求。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377660"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796331"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 

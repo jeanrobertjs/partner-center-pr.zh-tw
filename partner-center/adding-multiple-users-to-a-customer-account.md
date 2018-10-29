@@ -1,16 +1,19 @@
 ---
 title: 為客戶帳戶建立多位使用者 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 您可以透過將資料檔案 (以逗號分隔值的檔案格式 (.csv)) 上傳至合作夥伴中心，來一次新增多位使用者至客戶帳戶。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 大量上傳, 新增多個使用者至客戶的帳戶, 新增客戶使用者, 大量上傳客戶使用者, 客戶帳戶, 客戶使用者, 使用者
 ms.localizationpriority: medium
-ms.openlocfilehash: 123c2c7b80398a860aa894449052502d41409c85
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488814"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795671"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>將多個使用者新增到客戶帳戶
 
@@ -18,7 +21,7 @@ ms.locfileid: "4488814"
 
 -  合作夥伴中心
 
-您可以新增多個使用者至客戶的帳戶強度，將資料檔案中的逗點分隔值檔案格式 (.csv) 上傳至合作夥伴中心。 您可以從合作夥伴中心下載範例資料檔案然後編輯它供您使用，或者您可以建立新的資料檔案使用下面定義的資料模型。
+您可以新增多位使用者至客戶的帳戶強度，將資料檔案中的逗點分隔值檔案格式 (.csv) 上傳至合作夥伴中心。 您可以從合作夥伴中心下載範例資料檔案然後編輯它供您使用，或者您可以建立新的資料檔案使用下面定義的資料模型。
 
 ## <a href="" id="creatingtheimportcsvfile"></a>資料檔案需求
 
@@ -42,7 +45,7 @@ ms.locfileid: "4488814"
 | 電子郵件           | 使用者在客戶公司的公司電子郵件地址 (必要欄位)           | 每位使用者都必須有唯一電子郵件地址 |
 | 狀態更新   | 用來指示是否已經成功建立新的使用者記錄 | \*\*保留空白\*\*                        |
 
- 
+ 
 
 ### <a href="" id="createmultipleuseraccounts"></a>建立多位使用者帳戶
 
@@ -54,7 +57,7 @@ ms.locfileid: "4488814"
 5.  在檔案選取器中，選取您的資料檔案，然後選取 **\[開啟\]**。
 6.  選取 **\[驗證\]**。
 
-    **注意** 大部分帳戶建立錯誤的原因出自資料檔案問題，包括資訊遺失、格式不正確或電子郵件地址重複，或是檔案中有太多筆記錄。
+    **注意：** 大部分帳戶建立錯誤的原因出自資料檔案問題，包括資訊遺失、 格式不正確或重複的電子郵件地址，或是太多筆記錄檔中的。
 
 7.  在合作夥伴中心驗證檔案之後，選取新的使用者的地理**位置**。
 8.  選取 **\[儲存\]**。
@@ -64,9 +67,9 @@ ms.locfileid: "4488814"
 
 10. 新的使用者會自動獲指派**授權與服務可以使用**的權的限。 
 
- 
+ 
 
- 
+ 
 
 
 

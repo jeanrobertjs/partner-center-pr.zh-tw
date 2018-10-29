@@ -1,16 +1,19 @@
 ---
 title: 指派或撤銷多個使用者的授權 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 您可以指派授權與服務給一個使用者，或一次指派給客戶帳戶中的多個使用者，以及撤銷對使用者的授權指派。
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490004"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795351"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>指派或撤銷多個使用者的授權
 
@@ -59,9 +62,9 @@ ms.locfileid: "4490004"
 
 8.  選取 **\[儲存\]**。 在合作夥伴中心會開啟**授權更新**確認頁面，列出使用者和他們新的授權。
 
-**注意**：部分 Microsoft 產品可能在特定地區沒有提供授權。 其他產品則取決於其他產品或服務，或者可以一起指派給同一個使用者。 在您儲存之後，確認頁面就會列出所有使用者授權指派成功的結果，以及任何授權指派錯誤。
+**注意：** 部分 Microsoft 產品可能不會在提供特定的位置。 其他產品則取決於其他產品或服務，或者可以一起指派給同一個使用者。 在您儲存之後，確認頁面就會列出所有使用者授權指派成功的結果，以及任何授權指派錯誤。
 
- 
+ 
 
 <a href="" id="revoking-licenses"></a>
 **撤銷使用者的授權指派**
@@ -82,9 +85,9 @@ ms.locfileid: "4490004"
 
 [指派授權給使用者](assign-licenses-to-users.md)
 
- 
+ 
 
- 
+ 
 
 
 

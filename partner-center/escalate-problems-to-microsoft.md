@@ -1,15 +1,18 @@
 ---
 title: 向上呈報問題給 Microsoft | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 我們預期您將會為客戶解決問題。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7edd9d68e1bf144f9e05d4e5d1243f77a73d721f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489374"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797221"
 ---
 # <a name="escalate-problems-to-microsoft"></a>向上呈報問題給 Microsoft
 
@@ -37,10 +40,10 @@ ms.locfileid: "4489374"
 
 1. 從合作夥伴中心中，選取**客戶**。
 2. 選取的客戶需要支援。
-3. 選取 [**服務管理**，然後選取 [**服務要求**。
+3. 選取 [**服務管理**，並選取 [**服務要求**。
 4. 選取**新的要求**，然後選取 [ **Microsoft Office 365**。
 5. 您被引導至 Office 365 入口網站需要使用您的合作夥伴中心認證登入。
-6. 選取**支援**，左側功能表中的**新的服務要求**。
+6. 選取**支援**，左側功能表中的**新服務要求**。
 7. 選取支援主題。
 
 >[!NOTE]
@@ -49,9 +52,9 @@ ms.locfileid: "4489374"
 
 如需代表客戶報告問題資訊，請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。
 
- 
+ 
 
- 
+ 
 
 
 

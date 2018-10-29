@@ -1,18 +1,21 @@
 ---
 title: 將您的 MPN 會員資格從 Partner Membership Center 轉換到合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: PMC 使用者：我們目前透過合作夥伴中心來管理 MPN 會員資格。 以下是接下來要做的動作。
 author: KPacquer
+ms.author: kenpacq
 keywords: mpn 會員資格, 專長認證, pmc 到合作夥伴中心
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490074"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794951"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>將您的 MPN 會員資格從 Partner Membership Center 轉換到合作夥伴中心
 
@@ -31,7 +34,7 @@ Partner Membership Center 使用者：我們目前透過合作夥伴中心來管
 
 組織的系統管理員將員工新增至合作夥伴中心帳戶，其方式是將他們個別加入，或是使用 PMC 資料一次建立多個使用者：
 
-1.  從合作夥伴中心，選取 [**新增使用者**至新增個人或**設定您的團隊**（或使用 PMC 資料新增使用者） 來一次新增多個使用者。
+1.  從合作夥伴中心，選取 [**新增的新使用者**新增個人或**設定您的小組**（或使用 PMC 資料新增使用者） 來一次新增多個使用者。
     
     依照畫面上的指示完成設定。
 

@@ -1,14 +1,17 @@
 ---
 title: 合作夥伴獎勵現在位於合作夥伴中心 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 獎勵計畫可鼓勵合作夥伴開發新的行銷技術、提供訓練以及其他更多功能
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef254f1630cdfb90d16971d31e4688b50c82b614
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: bd6427f035c7cb4107073ab7039a3b1823025968
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488734"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797301"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>合作夥伴獎勵現在位於合作夥伴中心 
 
@@ -33,10 +36,10 @@ ms.locfileid: "4488734"
 ## <a name="one-site-one-log-on"></a>一個網站、一個登入
 
 Microsoft 合作夥伴獎勵計畫現在已經移到合作夥伴中心，因此您可以執行您所有的管理工作，包括管理使用者、代表客戶執行業務、註冊認證與獎勵、報告獎勵收益，以及取得支付款。 使用您在您的獎勵**合作夥伴中心**上所有的獎勵資料。 每天都會重新整理您的獎勵資料。
- 
+ 
 ## <a name="set-your-users-up-in-partner-center"></a>在合作夥伴中心設定您的使用者
- 
-您的第一個步驟是在合作夥伴中心設定獎勵使用者，以完成您的合作夥伴中心帳戶。 您已收到電子郵件，其中包含一份您組織的獎勵使用者清單。 當您的組織的獎勵系統管理員完成使用者設定時，所有的獎勵資料都會顯示在獎勵**合作夥伴中心**中。
+ 
+您的第一個步驟是在合作夥伴中心設定獎勵使用者，以完成您的合作夥伴中心帳戶。 您已收到電子郵件，其中包含一份您組織的獎勵使用者清單。 當您的組織的獎勵系統管理員完成使用者設定時，所有的獎勵資料都會顯示在獎勵**合作夥伴中心**。
 
 **請參閱**
 

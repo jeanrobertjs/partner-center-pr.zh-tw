@@ -1,15 +1,18 @@
 ---
 title: 合作夥伴中心的資料與分析 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 使用合作夥伴中心的資料功能，讓您更加了解本身的業務
 author: labrenne
+ms.author: labrenne
 keywords: 資訊, 分析, 資料分析, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: 472fea265a29b457bb29ac0545a69e5dd87c160d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 59dcad4e1cf2d3dadf2bdc037d3404f0aa8e2863
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489694"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795901"
 ---
 # <a name="get-data-and-analyze-your-business"></a>取得資料並分析您的業務 
 

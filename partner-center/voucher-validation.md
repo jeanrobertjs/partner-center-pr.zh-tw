@@ -1,15 +1,18 @@
 ---
 title: 使用合作夥伴中心的訓練上課券憑單驗證工具 |合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 驗證和保留訓練上課券在合作夥伴中心
 author: labrenne
+ms.author: labrenne
 keywords: 訓練上課券，軟體保證，訓練、 驗證上課券，保留憑單
 ms.localizationpriority: medium
-ms.openlocfilehash: 7c9c2d7cda9d61510cb277074589e798762528f6
-ms.sourcegitcommit: 8a189ccdbdaf5a75bab67c77c6a5a5338e63ca89
+ms.openlocfilehash: 73f488a63e5089dec9462125cb4de79ba6bc5fc9
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "5460094"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797091"
 ---
 # <a name="use-the-voucher-validation-tool-in-partner-center-for-training-vouchers"></a>使用合作夥伴中心的訓練上課券憑單驗證工具
 

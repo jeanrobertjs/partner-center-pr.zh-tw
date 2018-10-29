@@ -1,16 +1,19 @@
 ---
 title: 常見帳單案例 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 這個主題將說明在您新增新訂閱、調整訂閱中的授權數目，或取消訂閱後帳單上應該會看見的項目。 針對用量型和授權型訂閱會有不同的影響。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: 9757b3c4cc03ea26744f995e4931c94952de2a10
-ms.sourcegitcommit: 082795279b2beb9cecee3072cbabe584cfda1b9c
+ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/21/2018
-ms.locfileid: "4121113"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795631"
 ---
 # <a name="common-billing-scenarios"></a>常見帳單案例
 
@@ -96,7 +99,7 @@ Azure 雲端解決方案提供者價目表每月發行一次，可在合作夥�
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |循環費用   |4.00       |1        |4.00    
 
-您可以在 2 月 1 日暫停訂閱。 2 月 15 日的授權型對帳檔案將包含下列帳務明細：
+您在 2 月 1 日暫停訂閱。 2 月 15 日的授權型對帳檔案將包含下列帳務明細：
 |收費開始日期 |收費結束日期 |收費類型 |單價 |數量 |金額 |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|2/12/2018|取消費用|-4.00|1|-4.00

@@ -1,14 +1,17 @@
 ---
 title: 在 CSP 中與間接經銷商建立合作關係 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 做為間接提供者或代理商，您可以與間接經銷商合夥，以擴展您的觸及範圍。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ac9099cc1b0805c3af9c77af9df1e8f0bfcc7aa
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490134"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795191"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
 
@@ -18,7 +21,7 @@ ms.locfileid: "4490134"
 
 在間接提供者-經銷商（雙層）模型中，您和間接經銷商建立合作關係，提供 Microsoft 雲端解決方案給客戶。 您直接從 Microsoft 購買產品和訂閱，再透過您的經銷商提供這些解決方案給客戶。 
 
-身為間接提供者，您可以使用合作夥伴中心，來：
+身為間接提供者，您可以使用合作夥伴中心：
 
 -   與可以幫助您擴展觸及範圍和客戶基礎的間接經銷商聯繫
 -   與可讓您服務共同客戶的間接經銷商建立合作關係
@@ -37,17 +40,17 @@ ms.locfileid: "4490134"
 
 2.  與間接經銷商聯繫
 
-    - 您可以進行互動，並與經銷商交易之前，您必須建立與他們在合作夥伴中心的合作關係。 <br>
+    - 您可以與互動並交易經銷商之前，您必須建立與他們在合作夥伴中心的合作關係。 <br>
 
 3.  與客戶保持聯繫
 
     - 將新客戶和訂閱關聯到經銷商
     - 與現有客戶建立經銷商關係 <br>
 
-完成這些步驟之後，您可以管理您的經銷商合作關係，在 \ [**間接經銷商**] 頁面上，從您的**合作夥伴中心**功能表。
+完成這些步驟之後，您可以管理您的經銷商合作關係，在 [**間接經銷商**\] 頁面上，從您的**合作夥伴中心**功能表。
 
 > [!IMPORTANT]   
-> 您可以開始與經銷商合作前，他們必須註冊為雲端解決方案提供者計畫的間接經銷商，並擁有合作夥伴中心帳戶。 指引您的經銷商參閱[在 CSP 中與間接提供者建立合作關係](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)，以取得註冊 CSP 的相關資訊。 
+> 您可以開始與經銷商合作前，他們必須註冊為 CSP 計畫的間接經銷商，並擁有合作夥伴中心帳戶。 指引您的經銷商參閱[在 CSP 中與間接提供者建立合作關係](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)，以取得註冊 CSP 的相關資訊。 
 
 ## <a name="connect-with-indirect-resellers"></a>與間接經銷商聯繫
 
@@ -61,7 +64,7 @@ ms.locfileid: "4490134"
 
 3. 選取 **\[在電子郵件中開啟\]**，在預設的郵件應用程式中開啟訊息，或選取 **\[複製到剪貼簿\]**，將該訊息複製和然後貼到電子郵件。 完成時選取 **\[完成\]**。
     > [!IMPORTANT]  
-    >  您可以編輯電子郵件訊息中，文字，但是請務必包含連結，因為它針對您的合作夥伴中心帳戶已個人化。
+    >  您可以編輯的文字在電子郵件訊息中，但是請務必包含連結，因為它針對您的合作夥伴中心帳戶已個人化。
 
 4. 經銷商接受您的建立合作關係要求之後，他們會顯示在您的間接經銷商清單中，您就可以： 
 

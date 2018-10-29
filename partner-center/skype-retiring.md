@@ -1,15 +1,18 @@
 ---
 title: 將商務用 Skype Online 方案 1 訂閱移轉至較新的 Office 365 版本 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Skype for Business Online Plan 1 subscriptions is retiring.
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: 商務用 Skype 方案, 淘汰 Skype, Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489804"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797161"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>將商務用 Skype Online 方案 1 訂閱移轉至較新的 Office 365 版本
 
@@ -67,7 +70,7 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 將使用者授權移至新服務後，您就可以放心地取消客戶層級的已淘汰訂閱。
 
-7. 在**合作夥伴中心**功能表中，選取**客戶**。 選取您要取消其訂閱的客戶。
+7. 從**合作夥伴中心**功能表中，選取**客戶**。 選取您要取消其訂閱的客戶。
 
 8. 在訂閱詳細資料頁面中，將訂閱設定為 **\[已暫停\]**。
 

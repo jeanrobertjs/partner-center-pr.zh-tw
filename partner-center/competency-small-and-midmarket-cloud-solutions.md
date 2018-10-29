@@ -1,16 +1,19 @@
 ---
 title: 小型及中端市場雲端解決方案專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 小型及中端市場雲端解決方案專長認證可協助您以專營小型及中型企業 Office 365 解決方案銷售與部署合作夥伴的身分來建立您的品牌。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各專長認證, 小型及中端市場雲端解決方案
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8034f7d779d2dae13b916f01efa8c10be224bb2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876188"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796851"
 ---
 >[!IMPORTANT]
 >若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。

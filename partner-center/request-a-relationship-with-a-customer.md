@@ -1,15 +1,18 @@
 ---
 title: 要求與客戶建立關係 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 要求關係是用於多重合作夥伴和多重通路案例。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 28dc6bddd50b52d06652e731545fddf15156c738
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1d2d8bc96d33a182227cfda65e8095c20ffb3c44
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489504"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795951"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作夥伴中心中與客戶保持聯繫
 

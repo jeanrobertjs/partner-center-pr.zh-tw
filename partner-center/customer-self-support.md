@@ -1,16 +1,19 @@
 ---
 title: 客戶自我支援 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 客戶自我支援
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 客戶自我支援, 自我支援,
 ms.localizationpriority: medium
-ms.openlocfilehash: 7bfc4a75d384e5691763a6adca24f619bdee0a3b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874578"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794771"
 ---
 # <a name="customer-self-support"></a>客戶自我支援
 
@@ -30,9 +33,9 @@ ms.locfileid: "2874578"
 
 當客戶需要與產品的協助時，他們可以[支援](https://partnercenter.microsoft.com/partner/support)上可找到產品資源。 我們鼓勵合作夥伴將客戶指向這些資源，做為解答問題的第一個步驟。
 
- 
+ 
 
- 
+ 
 
 
 

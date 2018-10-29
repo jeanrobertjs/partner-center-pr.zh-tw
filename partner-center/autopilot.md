@@ -1,15 +1,18 @@
 ---
 title: 透過 Windows Autopilot 簡化裝置設定 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 在合作夥伴中心新增 Windows AutoPilot 部署設定檔，以透過 Windows Autopilot 簡化裝置設定
 author: KPacquer
+ms.author: kenpacq
 keywords: autopilot, windows autopilot, microsoft autopilot, 全自動部署, oobe, 登入畫面
 ms.localizationpriority: medium
-ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2c8e8953fbb79493a3704c9c8ea6982928c3fe92
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489394"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796651"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>透過 Windows Autopilot 簡化裝置設定 
 

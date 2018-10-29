@@ -1,14 +1,17 @@
 ---
 title: Office 365 合作夥伴系統管理中心客戶：您的企業營運已移轉到合作夥伴中心 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 將企業營運移轉到合作夥伴中心的 Office 365 合作夥伴系統管理中心客戶的重要考量
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c482565f51ae42b0735832f0c305fc55150032b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: d863fcf84006eed6b22b2160f611a26877efd0c7
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489324"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797011"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 合作夥伴系統管理中心客戶：請準備好將企業營運移轉到合作夥伴中心
 
@@ -36,7 +39,7 @@ ms.locfileid: "4489324"
 | Office 365 合作夥伴系統管理中心功能                       | 在合作夥伴中心的哪裡？ | 
 |   -----------------------------------------------  | -------------- |
 | 建立業務：建立購買優惠 | 與您的提供者合作，向客戶銷售優惠方案 |
-| 建立業務：要求委派的系統管理員權限 | 合作夥伴中心： 客戶 > 要求建立經銷商關係 |
+| 建立業務：要求委派的系統管理員權限 | 合作夥伴中心： 客戶 > 要求經銷商關係 |
 | 建立業務：建立試用邀請 | 無法使用。 您仍然可以使用 Office 365 合作夥伴系統管理中心進行此工作 |
 | 服務要求：用戶端清單：Office 365 系統管理中心 | 合作夥伴中心： 客戶 > 管理服務 |
 | 服務要求：用戶端清單：服務要求 | 合作夥伴中心： 服務要求 > 客戶要求 |

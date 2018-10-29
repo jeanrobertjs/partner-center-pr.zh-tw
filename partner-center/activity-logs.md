@@ -1,16 +1,19 @@
 ---
 title: 檢視客戶活動記錄 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 活動記錄提供客戶的交易和夥伴管理動作相關資訊。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488644"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794851"
 ---
 # <a name="view-customer-activity-logs"></a>檢視客戶活動記錄
 
@@ -41,9 +44,9 @@ ms.locfileid: "4488644"
     -   **狀態**—提供與活動相關聯的資料，例如訂單識別碼。 將會依動作類型不同而有所差異；
     -   **其他資訊**—活動記錄的交易資料。 例如，如果動作是客戶訂單，這個欄位就會列出購買內容。
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: 帳單基本知識 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
+ms.author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ebab84673a5651cb40223ef9d1483eb1d0322e51
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490064"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797101"
 ---
 # <a name="billing-basics"></a>帳單基本知識
 
@@ -77,7 +80,7 @@ ms.locfileid: "4490064"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="license-based-billing"></a>授權型帳單
 
@@ -109,7 +112,7 @@ ms.locfileid: "4490064"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="usage-based-billing"></a>用量型帳單
 
@@ -170,8 +173,8 @@ Azure 是採取「隨付隨用」模式，有使用 Azure 服務，才需要付�
 2.  在 **\[客戶\]** 頁面上，尋找您要檢視其訂購記錄的客戶，然後選取向下箭號來展開客戶的記錄。 
 3.  選取 **\[檢視訂單\]** 來顯示訂購記錄。
 
-#### <a name="download-a-credit-note"></a>下載取消貸記金額附註
+#### <a name="download-a-credit-note"></a>下載貸記金額附註
 
-您執行完整的貸記金額 （Void 發票） 和重新計費的事件中，我們將會提供您取消貸記金額附註以取消看原始發票，以及完整新的文件。 您可以要求貸記金額/重新計費，原因如下：
--   地址或購買的順序校正
--   產生發票，再套用稅金退款。 您可以要求貸記金額/筆取得提取回至原始發票稅務退款。 這也適用於退款，因為您可以要求貸記金額/筆的原始的發票，然後提取中退款。
+您練習完整的貸記金額 （Void 發票） 和重新計費的事件中，我們將會提供您看原始發票，以及完整新的文件取消貸記金額附註。 您可以要求貸記金額/重新計費，原因如下：
+-   地址或購買順序校正
+-   產生發票，再套用稅金退款。 您可以要求貸記金額/重新計費取得提取回至原始發票稅金退款。 這也適用於退款，因為您可以要求貸記金額/重新計費的原始的發票，然後提取中退款。

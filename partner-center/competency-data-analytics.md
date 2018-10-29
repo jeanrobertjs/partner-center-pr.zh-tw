@@ -1,16 +1,19 @@
 ---
 title: 資料分析專長認證
+ms.topic: article
+ms.date: 10/29/2018
 description: 如果您的組織涉足於調查資料的業務，這項業務協助客戶發掘深入見解、進行預測或產生推薦，那麼資料分析專長認證可為您提供增強並證實本身能力的平台。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 專長認證, 各專長認證, 資料分析
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875298"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796221"
 ---
 >[!IMPORTANT]
 >若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。

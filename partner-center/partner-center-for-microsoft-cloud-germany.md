@@ -1,14 +1,17 @@
 ---
 title: Microsoft Cloud 德國合作夥伴中心 | Microsoft Cloud 德國合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft Cloud 德國合作夥伴中心是一個商務入口網站，適用於希望向歐盟和歐洲自由貿易聯盟境內客戶提供 Microsoft Cloud 解決方案的 Microsoft 合作夥伴。 Microsoft Cloud 德國可確保您的客戶資料存放於德國，並由指定的德國資料託管單位控管資料存取。 歐盟和歐洲自由貿易聯盟境內的商業客戶可根據適用的德國法律和規範以及重要國際標準，保存並管理客戶資料。 Microsoft 在未經德國資料託管機關或客戶核准及監督的情況下，不得存取客戶資料。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0e7ae56351ab68a6883bdc647851e7e30ecec611
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377580"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797261"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心
 

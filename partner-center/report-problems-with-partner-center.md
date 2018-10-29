@@ -1,15 +1,18 @@
 ---
 title: 報告合作夥伴中心的問題 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 如何報告合作夥伴中心的問題並收集要提供給支援小組的診斷資訊。
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c7010f70ae6af549aab1a8f1affb926cf261d534
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489274"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795321"
 ---
 # <a name="report-problems-with-partner-center"></a>報告合作夥伴中心的問題
 
@@ -27,11 +30,11 @@ ms.locfileid: "4489274"
 
 2.  選取 **\[新要求\]**。
 
-3.  完成表單並選取 **\[提交\]**。 合作夥伴支援代表將會與您追蹤。
+3.  完成表單並選取 **\[提交\]**。 合作夥伴支援代表將會與您，請依照下列。
 
 **傳送診斷結果**
 
-如果在進入合作夥伴中心頁面時發生錯誤，系統可能會提示您收集登入資訊。 **收集更多資訊**從選取 collect 從開啟用戶端診斷工具在頁面頂端的連結。 此工具會收集合作夥伴支援小組判斷錯誤發生原因的資訊。 
+如果在進入合作夥伴中心頁面時發生錯誤，系統可能會提示您收集登入資訊。 **收集的詳細資訊**從選取 collect 從開啟用戶端診斷工具在頁面頂端的連結。 此工具會收集合作夥伴支援小組判斷錯誤發生原因的資訊。 
 
 >[!NOTE]
 >在網址中包含 **/pcv/** 的合作夥伴頁面上，您可以手動開啟工具來收集這些資訊。

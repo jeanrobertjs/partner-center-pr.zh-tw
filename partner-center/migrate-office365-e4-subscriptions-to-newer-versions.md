@@ -1,14 +1,17 @@
 ---
 title: 將 Office 365 E4 訂閱移轉至新版 Office 365 | 合作夥伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft Office 365 企業版 E4 從 2017 年 4 月 7 日起淘汰。 了解如何將您的客戶訂閱移轉至新版 Office 365。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1dc3957d6abe4069f3868d49e92a458d20e7fbec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490174"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796101"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>將 Office 365 E4 訂閱移轉至新版 Office 365
 
@@ -21,7 +24,7 @@ Office 365 企業版 E4 方案已淘汰，自 2017 年 4 月 7 日起生效。 �
 當 E4 訂閱結束時，會被取消。 為了確保客戶持續的訂閱，您應該將具有即將到期 E4 訂閱的客戶轉換至支援的 SKU 選項，如下所列。 我們建議您在訂閱的每年結束日期之前將客戶移動到新的訂閱，以避免客戶的任何服務中斷。 
 
 > [!NOTE]  
->  Office 365 企業版 E4 商業和政府 Sku 都將淘汰。
+>  Office 365 企業版 E4 商業和政府 Sku 都已淘汰。
  
 在訂閱的詳細資料頁面上，E4 訂閱狀態已從「自動續約於 [日期]」變更為「到期日 [日期]」。 
 
@@ -73,7 +76,7 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>步驟 2 - 重新指派客戶的使用者授權
 
-1. 在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶，然後選取**的使用者和授權**。 客戶的 \[使用者與授權\] 頁面隨即開啟。
+1. 在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶，然後選取**使用者和授權**。 客戶的 \[使用者與授權\] 頁面隨即開啟。
 
 2. 若要重新指派使用者授權，請選取要重新指派的使用者，然後選取 **\[管理授權\]**。
 
@@ -87,7 +90,7 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 ### <a name="step-3---cancel-the-old-subscription"></a>步驟 3 - 取消舊訂閱
 
-1. 在**合作夥伴中心**功能表中，選取**客戶**。 選取您想要移動的客戶，然後選取您想要取消的訂閱。
+1. 從**合作夥伴中心**功能表中，選取**客戶**。 選取您想要移動的客戶，然後選取您想要取消的訂閱。
 
 2. 在訂閱詳細資料頁面中，將訂閱狀態設定為 **\[已暫停\]**。
 
@@ -97,7 +100,7 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 
 
- 
+ 
 
 
 
