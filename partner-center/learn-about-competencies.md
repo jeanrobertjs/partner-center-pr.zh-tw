@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格
 ms.localizationpriority: medium
-ms.openlocfilehash: c4546c8e7675f2d25cd29da765c1320531c8c11f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 7c739e3e7142eee7dcc0ec4906e2dbc89fc671d4
+ms.sourcegitcommit: bf952686358864cb268f71d039c682ee2a50ba68
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796821"
+ms.locfileid: "5797386"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>金會員及銀會員資格的 Microsoft 專長認證要求條件
 
@@ -45,6 +45,7 @@ ms.locfileid: "5796821"
 | [DevOps 專長認證](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio、Visual Studio Team Foundation Server (TFS) 2012、軟體生命週期、Scrum 認證 |
 | [企業行動力管理專長認證](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| 企業行動力 + 安全性 (EMS)、Microsoft Intune、Azure 資訊保護、Azure Active Directory Premium (AADP)、行動裝置管理、身分識別及存取管理、資訊保護、雲端應用程式安全性 |
 | [企業資源規劃專長認證](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365、企業資源規劃 (ERP)、SQL Server 2012 資料庫  |
+|[ISV 專長認證](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure，SQL Server 2016、 Dynamics 365，Office 365、 Windows Server 2019，System Center 2016| 
 | [訊息中心專長認證](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
 | [專案與產品組合管理專長認證](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project、專案與組合管理 (PPM)、SharePoint Server 2016|
 | [小型及中端市場雲端解決方案專長認證](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
