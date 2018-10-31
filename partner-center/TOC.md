@@ -1,7 +1,7 @@
-# [關於 Microsoft 合作夥伴儀表板](index.md)
+# [關於 Microsoft 合作夥伴中心](index.md)
 
 # [合作夥伴網路會員資格](mpn-overview.md)
-## [建立合作夥伴儀表板帳戶](mpn-create-a-partner-center-account.md)
+## [建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)
 ## 會員優惠
 ### [行動套件](mpn-get-action-pack.md)
 ### [續訂您的優惠方案](renew-mpn-offers.md)
@@ -17,14 +17,14 @@
 ## [雲端解決方案提供者地區授權租用戶彙總](csp-regional-authorization-tenant-consolidation.md)
 ## [客戶合約範本](agreements.md)
 
-## [適用於銷售 (sell-in) 國内雲](csp-national-clouds-overview.md)
-### [Microsoft Cloud for US Government 適用的合作夥伴儀表板](partner-center-for-microsoft-us-govt-cloud.md)
-### [Microsoft Cloud 德國合作夥伴儀表板](partner-center-for-microsoft-cloud-germany.md)
+## [適用於銷售 (sell-in) 國家/地區雲](csp-national-clouds-overview.md)
+### [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
+### [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)
 
-# [管理您的合作夥伴儀表板帳戶](partner-center-account-setup.md)
-## [工作帳戶與合作夥伴儀表板](azure-active-directory-tenants-and-partner-center.md)
+# [管理您的合作夥伴中心帳戶](partner-center-account-setup.md)
+## [工作帳戶與合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)
 ## [更新您的合作夥伴設定檔](update-your-partner-profile.md)
-## [還原暫時停用的合作夥伴儀表板帳戶](suspended-partner-center-account.md)
+## [還原暫時停用的合作夥伴中心帳戶](suspended-partner-center-account.md)
 ## [建立使用者帳戶](create-user-accounts-and-set-permissions.md)
 ## [指派使用者角色和權限](permissions-overview.md)
 ## [確認您網域的擁有權](become-global-admin.md)
@@ -73,7 +73,7 @@
 ## [線上服務 (訂閱)](customer-subscriptions.md)
 ### [建立、暫停或取消客戶訂閱](create-a-new-subscription.md)
 ### [為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)
-### [在合作夥伴儀表板指派 Azure 訂閱](assign-azure-subscriptions.md)
+### [在合作夥伴中心指派 Azure 訂用帳戶](assign-azure-subscriptions.md)
 ### [指派授權給使用者](assign-licenses-to-users.md)
 ### [將授權或服務新增到現有的訂閱](add-licenses-or-services-to-an-existing-subscription.md)
 ### [指派或撤銷多個使用者的授權](bulk-license-provisioning-for-multiple-users.md)
@@ -88,8 +88,8 @@
 ### [將商務用 Skype Online 方案 1 移轉至較新的 Office 365 版本](skype-retiring.md)
 ### [轉移 Azure 訂閱](switch-azure-subscriptions-to-a-different-partner.md)
 
-# 合作夥伴儀表板資料與分析
-## [取得並分析您的業務資料](data-analysis-lp.md)
+# 合作夥伴中心資料和分析
+## [取得並分析您的商務資料](data-analysis-lp.md)
 ## [適用於 Microsoft Power BI 的合作夥伴分析應用程式](power-bi-app-for-direct-partners.md)
 ## [合作夥伴貢獻：隨時掌握效能指標](partner-contributions.md)
 ## [取得您客戶 Azure 訂閱使用狀況的相關資料](analyze-azure-usage.md)
@@ -97,12 +97,12 @@
 ## [分析訂閱與授權](analyze-subscriptions-licenses.md)
 
 # [與其他合作夥伴合作](work-with-other-partners.md)
-## [在合作夥伴儀表板的間接提供者工作](indirect-provider-tasks-in-partner-center.md)
-## [合作夥伴儀表板中的間接經銷商工作](indirect-reseller-tasks-in-partner-center.md)
+## [在合作夥伴中心的間接提供者工作](indirect-provider-tasks-in-partner-center.md)
+## [在合作夥伴中心的間接經銷商工作](indirect-reseller-tasks-in-partner-center.md)
 
 
 # [取得來自 Microsoft 的支援](support-from-microsoft.md)
-## [回報合作夥伴儀表板的問題](report-problems-with-partner-center.md)
+## [報告合作夥伴中心的問題](report-problems-with-partner-center.md)
 ## [代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)
 ## [使用 API 取得自動化服務通知](get-automated-service-notifications-with-our-apis.md)
 
