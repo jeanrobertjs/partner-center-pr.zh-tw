@@ -7,44 +7,61 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1d2d8bc96d33a182227cfda65e8095c20ffb3c44
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 118094c56549306b6ec659c6827362c07d6bd750
+ms.sourcegitcommit: 917e4b1ff2f8ae0d12e581dc2d098151eda7b8c0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795951"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "5917978"
 ---
-# <a name="connect-with-customers-in-partner-center"></a><span data-ttu-id="f9e9d-104">在合作夥伴中心中與客戶保持聯繫</span><span class="sxs-lookup"><span data-stu-id="f9e9d-104">Connect with customers in Partner Center</span></span>
+# <a name="connect-with-customers-in-partner-center"></a><span data-ttu-id="38daa-104">在合作夥伴中心中與客戶保持聯繫</span><span class="sxs-lookup"><span data-stu-id="38daa-104">Connect with customers in Partner Center</span></span>
 
-**<span data-ttu-id="f9e9d-105">適用於</span><span class="sxs-lookup"><span data-stu-id="f9e9d-105">Applies to</span></span>**
+**<span data-ttu-id="38daa-105">適用於</span><span class="sxs-lookup"><span data-stu-id="38daa-105">Applies to</span></span>**
 
--  <span data-ttu-id="f9e9d-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="f9e9d-106">Partner Center</span></span>
--  <span data-ttu-id="f9e9d-107">美國政府適用的 Microsoft Cloud 合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="f9e9d-107">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="f9e9d-108">Microsoft Cloud 德國合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="f9e9d-108">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="38daa-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="38daa-106">Partner Center</span></span>
+-  <span data-ttu-id="38daa-107">美國政府適用的 Microsoft Cloud 合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="38daa-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="38daa-108">Microsoft Cloud 德國合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="38daa-108">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="f9e9d-109">若要代表客戶管理客戶的服務或訂閱，客戶必須授與您該服務的系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-109">To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service.</span></span> <span data-ttu-id="f9e9d-110">若要從客戶取得系統管理員權限，請透過電子郵件傳送建立經銷商關係要求給他們。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-110">To get administrator permissions from a customer, email them a reseller relationship request.</span></span> <span data-ttu-id="f9e9d-111">客戶核准您的要求後，您就能登入服務的系統管理員入口網站及代表客戶管理服務。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-111">After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf.</span></span> 
+<span data-ttu-id="38daa-109">如果您想要管理客戶的服務或代表他們的訂閱，客戶必須授與您該服務或訂閱的系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="38daa-109">If you want to manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service or subscription.</span></span> <span data-ttu-id="38daa-110">下列程序說明如何透過電子郵件要求此權限。</span><span class="sxs-lookup"><span data-stu-id="38daa-110">The procedure below shows how to request this permission by email.</span></span> <span data-ttu-id="38daa-111">一旦客戶核准您的要求時，您將無法登入服務的系統管理員入口網站，並管理上代表客戶的服務。</span><span class="sxs-lookup"><span data-stu-id="38daa-111">Once the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf.</span></span> 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a><span data-ttu-id="f9e9d-112">邀請客戶與您建立經銷商關係</span><span class="sxs-lookup"><span data-stu-id="f9e9d-112">Invite a customer to establish a reseller relationship with you</span></span>
+<span data-ttu-id="38daa-112">如果您只想要與客戶建立經銷商關係，並管理您佈建的雲端解決方案提供者 Azure 訂閱，它不需要以取得系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="38daa-112">If you only want to establish a reseller relationship with a customer and manage CSP Azure subscriptions that you provision, it is not necessary to obtain administrator permissions.</span></span>
 
-1.  <span data-ttu-id="f9e9d-113">從您的**合作夥伴中心**功能表中選取**客戶**，然後選取 [**要求建立經銷商關係**。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-113">Select **Customers** from your **Partner Center** menu and then select **Request a reseller relationship**.</span></span>
+<span data-ttu-id="38daa-113">請注意沒有適用於作業系統中的 Microsoft Cloud 針對美國政府或 Microsoft Cloud 德國合作夥伴不要求權限的選項。</span><span class="sxs-lookup"><span data-stu-id="38daa-113">Note that the option to not request permissions is not available to partners operating in Microsoft Cloud for US Government or Microsoft Cloud Germany.</span></span> <span data-ttu-id="38daa-114">若要深入了解，請參閱[客戶代理人系統管理權限給合作夥伴](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)。</span><span class="sxs-lookup"><span data-stu-id="38daa-114">To learn more, see [Customers delegate administration privileges to partners](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges).</span></span>
 
-2.  <span data-ttu-id="f9e9d-114">在下一頁，檢閱草稿電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-114">On the next page, review the draft email message.</span></span> <span data-ttu-id="f9e9d-115">您可以在預設電子郵件應用程式中開啟草稿訊息，或您可以將訊息複製到您的剪貼簿，並將它貼到電子郵件。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-115">You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email.</span></span> 
 
-    <span data-ttu-id="f9e9d-116">您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-116">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="f9e9d-117">當您已經完成這個步驟，選取 **\[完成\]**。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-117">Select **Done** when you’ve completed this step.</span></span>
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a><span data-ttu-id="38daa-115">邀請客戶與您建立經銷商關係</span><span class="sxs-lookup"><span data-stu-id="38daa-115">Invite a customer to establish a reseller relationship with you</span></span>
 
-3.  <span data-ttu-id="f9e9d-118">將電子郵件傳送給您的客戶。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-118">Send the email to your customer.</span></span>
+1.  <span data-ttu-id="38daa-116">從您的**合作夥伴中心**功能表中選取**客戶**，然後選取 [**要求建立經銷商關係**。</span><span class="sxs-lookup"><span data-stu-id="38daa-116">Select **Customers** from your **Partner Center** menu and then select **Request a reseller relationship**.</span></span>
 
-4.  <span data-ttu-id="f9e9d-119">客戶接受邀請之後，他們將會出現在您的 **\[客戶\]** 頁面，而且您將能從該處佈建客戶及管理其服務。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-119">After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.</span></span>
+2.  <span data-ttu-id="38daa-117">若要從這個客戶要求系統管理員權限，選取**包含委派系統管理權限，為 Azure Active Directory 及 Office 365**。</span><span class="sxs-lookup"><span data-stu-id="38daa-117">To request administrator permissions from this customer, select **Include delegated administration privileges for Azure Active Directory and Office 365**.</span></span> <span data-ttu-id="38daa-118">若要建立關係，而不必要求系統管理員權限，請清除此選項。</span><span class="sxs-lookup"><span data-stu-id="38daa-118">To establish the relationship without requesting administrator permissions, clear this option.</span></span> 
+
+3.  <span data-ttu-id="38daa-119">在下一頁，檢閱草稿電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="38daa-119">On the next page, review the draft email message.</span></span> <span data-ttu-id="38daa-120">您可以在預設電子郵件應用程式中開啟草稿訊息，或您可以將訊息複製到您的剪貼簿，並將它貼到電子郵件。</span><span class="sxs-lookup"><span data-stu-id="38daa-120">You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email.</span></span> 
+
+    <span data-ttu-id="38daa-121">您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。</span><span class="sxs-lookup"><span data-stu-id="38daa-121">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="38daa-122">當您已經完成這個步驟，選取 **\[完成\]**。</span><span class="sxs-lookup"><span data-stu-id="38daa-122">Select **Done** when you’ve completed this step.</span></span>
+
+3.  <span data-ttu-id="38daa-123">將電子郵件傳送給您的客戶。</span><span class="sxs-lookup"><span data-stu-id="38daa-123">Send the email to your customer.</span></span>
+
+5.  <span data-ttu-id="38daa-124">客戶接受邀請之後，他們將會出現在您的 **\[客戶\]** 頁面，而且您將能從該處佈建客戶及管理其服務。</span><span class="sxs-lookup"><span data-stu-id="38daa-124">After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.</span></span>
 
  
-5.  <span data-ttu-id="f9e9d-120">若要管理客戶的帳戶、服務、使用者及授權，選取其名稱旁邊的向下鍵，展開客戶記錄。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-120">To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.</span></span>
+6.  <span data-ttu-id="38daa-125">若要管理客戶的帳戶、服務、使用者及授權，選取其名稱旁邊的向下鍵，展開客戶記錄。</span><span class="sxs-lookup"><span data-stu-id="38daa-125">To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.</span></span>
 
 
 > [!IMPORTANT]  
-> <span data-ttu-id="f9e9d-121">客戶可以在服務管理入口網站中重新指派或移除系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-121">Customers can reassign or remove administrator permisions in a service's admin portal.</span></span> <span data-ttu-id="f9e9d-122">不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-122">However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions.</span></span> <span data-ttu-id="f9e9d-123">在此情況下，如果客戶需要協助，您可以連絡 Microsoft 支援服務，以代表客戶開啟服務要求。</span><span class="sxs-lookup"><span data-stu-id="f9e9d-123">In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.</span></span>
+> <span data-ttu-id="38daa-126">客戶可以在服務管理入口網站中重新指派或移除系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="38daa-126">Customers can reassign or remove administrator permisions in a service's admin portal.</span></span> <span data-ttu-id="38daa-127">不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。</span><span class="sxs-lookup"><span data-stu-id="38daa-127">However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions.</span></span> <span data-ttu-id="38daa-128">在此情況下，如果客戶需要協助，您可以連絡 Microsoft 支援服務，以代表客戶開啟服務要求。</span><span class="sxs-lookup"><span data-stu-id="38daa-128">In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.</span></span>
 
-## <a name="related-topics"></a><span data-ttu-id="f9e9d-124">相關主題</span><span class="sxs-lookup"><span data-stu-id="f9e9d-124">Related topics</span></span>
+## <a name="changes-to-the-customer-invitation-experience"></a><span data-ttu-id="38daa-129">客戶邀請體驗的變更</span><span class="sxs-lookup"><span data-stu-id="38daa-129">Changes to the customer invitation experience</span></span>
+<span data-ttu-id="38daa-130">在 2018 年 11 月 1 日已變更，不接受經銷商關係邀請從雲端解決方案提供者合作夥伴的客戶體驗。</span><span class="sxs-lookup"><span data-stu-id="38daa-130">The customer experience for accepting a reseller relationship invitation from a Cloud Solution Provider partner is changing on November 1, 2018.</span></span> <span data-ttu-id="38daa-131">如需所做的變更的詳細資訊，請參閱下表。</span><span class="sxs-lookup"><span data-stu-id="38daa-131">For details on the changes, see the table below.</span></span> <span data-ttu-id="38daa-132">如需商務用 Microsoft Store 中的新體驗的詳細資訊，請參閱[解決方案提供者在商務用 Microsoft Store 中使用](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business)。</span><span class="sxs-lookup"><span data-stu-id="38daa-132">For details on the new experience in Microsoft Store for Business, see [Working with solution providers in Microsoft Store for Business](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business).</span></span>
 
-<span data-ttu-id="f9e9d-125">[指派支援連絡人](assign-support-contacts.md)
-[移除與客戶的關係](remove-a-relationship.md)</span><span class="sxs-lookup"><span data-stu-id="f9e9d-125">[Assign support contacts](assign-support-contacts.md)
+|  | <span data-ttu-id="38daa-133">其中客戶接受經銷商邀請在 2018 年 11 月 1 日之前建立</span><span class="sxs-lookup"><span data-stu-id="38daa-133">Where does a customer accept a reseller invitation created prior to November 1, 2018</span></span> | <span data-ttu-id="38daa-134">其中客戶接受經銷商邀請在 2018 年 11 月 1 日之前建立</span><span class="sxs-lookup"><span data-stu-id="38daa-134">Where does a customer accept a reseller invitation created prior to November 1, 2018</span></span> |
+|---------|---------|---------
+| <span data-ttu-id="38daa-135">公用雲端中的客戶</span><span class="sxs-lookup"><span data-stu-id="38daa-135">Customers in Public Cloud</span></span> | <span data-ttu-id="38daa-136">Microsoft Office 系統管理員入口網站</span><span class="sxs-lookup"><span data-stu-id="38daa-136">Microsoft Office Admin Portal</span></span> | <span data-ttu-id="38daa-137">商務用 Microsoft Store</span><span class="sxs-lookup"><span data-stu-id="38daa-137">Microsoft Store for Business</span></span> |
+| <span data-ttu-id="38daa-138">Microsoft 合作夥伴中心內的客戶雲端德國</span><span class="sxs-lookup"><span data-stu-id="38daa-138">Customers in Partner Center for Microsoft Cloud Germany</span></span> | <span data-ttu-id="38daa-139">Microsoft Office 系統管理員入口網站</span><span class="sxs-lookup"><span data-stu-id="38daa-139">Microsoft Office Admin Portal</span></span> | <span data-ttu-id="38daa-140">Microsoft Office 系統管理員入口網站</span><span class="sxs-lookup"><span data-stu-id="38daa-140">Microsoft Office Admin Portal</span></span> |
+| <span data-ttu-id="38daa-141">美國政府適用的 Microsoft Cloud 合作夥伴中心中的客戶</span><span class="sxs-lookup"><span data-stu-id="38daa-141">Customers in Partner Center for Microsoft Cloud for US Government</span></span> | <span data-ttu-id="38daa-142">Microsoft Office 系統管理員入口網站</span><span class="sxs-lookup"><span data-stu-id="38daa-142">Microsoft Office Admin Portal</span></span> | <span data-ttu-id="38daa-143">Microsoft Office 系統管理員入口網站</span><span class="sxs-lookup"><span data-stu-id="38daa-143">Microsoft Office Admin Portal</span></span> |
+
+
+## <a name="related-topics"></a><span data-ttu-id="38daa-144">相關主題</span><span class="sxs-lookup"><span data-stu-id="38daa-144">Related topics</span></span>
+
+<span data-ttu-id="38daa-145">[指派支援連絡人](assign-support-contacts.md)
+[移除與客戶的關係](remove-a-relationship.md)</span><span class="sxs-lookup"><span data-stu-id="38daa-145">[Assign support contacts](assign-support-contacts.md)
 [Remove a relationship with a customer](remove-a-relationship.md)</span></span>
