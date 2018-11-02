@@ -7,20 +7,18 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 118094c56549306b6ec659c6827362c07d6bd750
-ms.sourcegitcommit: 917e4b1ff2f8ae0d12e581dc2d098151eda7b8c0
+ms.openlocfilehash: 5211d68b79a1a67cd17c8974edd360999c10fb8d
+ms.sourcegitcommit: 6b781672d91f7ede942a9044a41e785dcf63f807
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 11/01/2018
-ms.locfileid: "5917978"
+ms.locfileid: "5962391"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作夥伴中心中與客戶保持聯繫
 
 **適用於**
 
 -  合作夥伴中心
--  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
 
 如果您想要管理客戶的服務或代表他們的訂閱，客戶必須授與您該服務或訂閱的系統管理員權限。 下列程序說明如何透過電子郵件要求此權限。 一旦客戶核准您的要求時，您將無法登入服務的系統管理員入口網站，並管理上代表客戶的服務。 
 
