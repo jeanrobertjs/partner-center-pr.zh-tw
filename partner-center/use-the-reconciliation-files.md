@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 021b968f6dad4a47db712f0f0090edb082770000
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
+ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797291"
+ms.lasthandoff: 11/04/2018
+ms.locfileid: "6022242"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -209,7 +209,7 @@ ms.locfileid: "5797291"
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>用來協助識別客戶的客戶網域名稱。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
+<td><p>用來協助識別客戶的客戶網域名稱。 這不應該用來唯一識別客戶，因為客戶/合作夥伴可以更新虛名/預設網域透過 O365 入口網站。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
