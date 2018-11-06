@@ -1,20 +1,20 @@
 ---
 title: Microsoft Azure 保留區概觀 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
-Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
+ms.date: 11/05/2018
+Description: Overview of selling Microsoft Azure Reservations through CSP.
 author: v-petand
 ms.author: v-petand
 keywords: azure，保留區，管理，帳單，購買，Azure RI，Azure 保留的執行個體
 ms.localizationpriority: medium
-ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 34b5460ca97b03d05758202912882c313c042427
+ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797231"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "6075269"
 ---
-# <a name="sell-microsoft-azure-reserved-instances"></a>銷售 Microsoft Azure 保留的執行個體 
+# <a name="sell-microsoft-azure-reservations"></a>銷售 Microsoft Azure reservations
 
 **適用對象：**
 
@@ -22,63 +22,34 @@ ms.locfileid: "5797231"
 -  Microsoft Azure 入口網站
 -  雲端解決方案提供者中的合作夥伴
 
-雲端解決方案提供者計畫 (CSP) 中的合作夥伴可以提供其客戶的保留執行個體的 Microsoft Azure。 客戶事先保留即可獲得大幅節省。 Azure 保留的執行個體提供給客戶簡易和彈性以下列方式：
+Microsoft Azure reservations，雲端解決方案提供者計畫 (CSP) 中的合作夥伴可以讓他們的客戶。 客戶事先保留即可獲得大幅節省。 Azure reservations 客戶提供簡易和彈性以下列方式：
 
--   一年或三年保留期限 
+-   一年或三年保留期限
+ 
 -   容易入門;在數秒內完成安裝 
+
 -   隨時可取消或交換保留的執行個體以調整退款 
+
 -   可在組織或個別部門層級管理保留的執行個體使用率 
 
-> [!NOTE]  
-> Azure reservations 不是目前可供下列市場中：
-  
-> * 阿根廷
-> * 亞塞拜然
-> * 白俄羅斯
-> * 巴西
-> * 中國
-> * 印度
-> * 印尼
-> * 哈薩克
-> * 列支敦斯登
-> * 馬來西亞
-> * 墨西哥
-> * 俄羅斯
-> * 沙烏地阿拉伯
-> * 南非
-> * 南韓
-> * 台灣
-> * 土耳其
-> * 烏克蘭
+Azure reservations 可以以吸引客戶以下列方式：
 
-Azure 保留的執行個體的可用性將會以下列方式吸引您的客戶：
+-   保留區，能提供大幅度節省隨付隨用 (PAYG) 定價
 
--   保留的執行個體相較於隨付隨用 (PAYG) 定價，能提供大幅度節省
 -   事先支付一年或三年期限，能更理想掌控預算和預測 
+
 -   優先使用最接近辦公室的 Azure 區域運算容量  
--   Azure reservations，可提供端對端解決方案的基礎結構結合 Microsoft Windows Server 和 Azure SQL Database 等軟體時。   
 
-## <a name="before-you-begin"></a>在您開始前
-
-代表客戶購買 Azure Reservations 之前，請務必先檢視下列資訊。 目前幾件須知事項...
-
--   在您代表客戶購買保留區之前，客戶必須已擁有有效的 Azure 訂閱  
--   Azure Reservations 價格不包含軟體成本 
--   銷售人員和技術支援中心需能代表客戶明確的存取 Azure 訂閱，以便在 Azure 入口網站與檔案支援要求中購買或管理訂閱，包括換貨與退款  
--   如果您是間接提供者，而且透過 Azure 入口網站購買 Azure Reservations，記錄可查夥伴 (間接經銷商) 將繼承自您選取的 Azure 雲端解決方案提供者訂閱。 
--   Azure Reservations 的記錄可查夥伴在購買後即無法變更。 您可以取消現有的保留區，並透過新的記錄可查夥伴購買新的保留區。 
--   如果客戶想將 Azure 訂閱從直接或 EA 轉移至雲端解決方案提供者，保留區無法轉移。 
+-   Azure reservations 結合 Microsoft Windows Server 和 Azure SQL Database 等軟體時的端對端基礎結構解決方案，可提供   
 
 >[!NOTE]
-> 您可以購買、 銷售，和管理 Azure reservations，在合作夥伴中心和 Azure 入口網站中，與使用合作夥伴中心 API。 請依照下列連結以深入了解。 
+> 您可以購買、 銷售，和管理 Azure reservations，在合作夥伴中心和 Azure 入口網站中，與使用合作夥伴中心 API。 請依照下列連結以深入了解。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
 |**如需以下相關資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
+| 您的客戶的 azure reservations 文件 | [Azure reservations 有哪些？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |為您在合作夥伴中心的客戶購買 Azure reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
 |管理 Azure reservations，在合作夥伴中心 | [管理 Azure reservations，在合作夥伴中心](azure-reservations-manage.md)
 |判斷正確的 VM 大小，並確認客戶 VM 使用率   |[調整 VM 大小以提供最大 Azure Reservations 使用率](azure-usage.md)   |
 |使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
-
- 
-
