@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5bdf937ee55a52c9a0e5c88f3e6006204c71ece8
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
+ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795591"
+ms.lasthandoff: 11/16/2018
+ms.locfileid: "7012601"
 ---
 # <a name="faq-about-new-billing-features"></a>新計費功能的常見問題集
 
@@ -144,7 +144,7 @@ ms.locfileid: "5795591"
 
 **問︰** 我可以將訂閱的帳單週期從每月計費變更為年度計費，或是將年度計費變更為每月計費嗎？ 
 
--   **答：** 否。 一旦您選取了帳單週期，就無法變更。 
+-   **答：** 可以。 **若要變更的線上服務的帳單週期**中[帳單基本知識](https://docs.microsoft.com/en-us/partner-center/billing-basics)，請參閱。
 
 **問：** 年度計費適用於附加元件嗎？   
 

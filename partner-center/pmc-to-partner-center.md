@@ -1,63 +1,76 @@
 ---
-title: 將您的 MPN 會員資格從 Partner Membership Center 轉換到合作夥伴中心
+title: 轉換您網路的會員資格從 Partner Membership Center 到合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
-description: PMC 使用者：我們目前透過合作夥伴中心來管理 MPN 會員資格。 以下是接下來要做的動作。
-author: KPacquer
-ms.author: kenpacq
+ms.date: 11/14/2018
+description: 如何轉換到合作夥伴中心您的會員資格的帳戶從 Partner Membership Center。
+author: maggiepuccievans
+ms.author: maggiepuccievans
 keywords: mpn 會員資格, 專長認證, pmc 到合作夥伴中心
-robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
+ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794951"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "7011398"
 ---
-# <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>將您的 MPN 會員資格從 Partner Membership Center 轉換到合作夥伴中心
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>轉換您的合作夥伴會員資格帳戶從 Partner Membership Center 到合作夥伴中心
 
-**適用於**
--  合作夥伴中心
+**適用對象：**
 
-Partner Membership Center 使用者：我們目前透過合作夥伴中心來管理 Microsoft 合作夥伴網路 (MPN) 的新會員資格和續約。  
+- 合作夥伴中心
+- MPN 合作夥伴
 
-如果您已透過 Partner Membership Center 訂閱 MPN，您在今年的會員資格結束之前，都可以在 PMC 中檢閱您目前的權益，即使您已經續約，也可以。 
+## <a name="partner-membership-center-being-retired"></a>Partner Membership Center 正在淘汰
 
-當您重新註冊 MPN 時，新的會員資格將立即開始，但是您的 MPN 會員資格結束日期會往後推到您目前 MPN 會員資格到期後的一年。 這將讓您有重疊的期間，可以同時存取這兩個系統。
+下一步數個月期間，我們會邀請合作夥伴到將其合作夥伴會員資格帳戶從 Partner Membership Center (PMC) 移到新的平台，在合作夥伴中心。 合作夥伴中心是單一的目的地，以管理您與 Microsoft 的商業關係。 如需詳細資訊的[合作夥伴網站](https://partner.microsoft.com/commercial)上，請參閱[會員資格管理整備](https://partner.microsoft.com/support/partner-center-help)。
 
-立即開始設定您的使用者，讓他們可以繼續存取合作夥伴大學，而且也讓您的組織可以收到有助於[贏得 Microsoft 專長認證成就](competencies.md)的技術測驗及認證點數。 
+您的會員資格的帳戶成功轉換之後，您將會管理您的帳戶詳細資料，包括 （若有的話） 權益、 各項專長認證、 獎勵、 優惠，以及在合作夥伴中心中的程式。 您也可以取得和管理業務潛在客戶從 Microsoft，並在合作夥伴中心中的雲端解決方案提供者計畫中註冊。
 
-## <a name="admin-tasks-add-employee-accounts"></a>系統管理員工作：新增員工帳戶
+## <a name="prepare-now-for-a-smooth-transition"></a>現在準備平順轉換
 
-組織的系統管理員將員工新增至合作夥伴中心帳戶，其方式是將他們個別加入，或是使用 PMC 資料一次建立多個使用者：
+合作夥伴將受邀移動到合作夥伴中心，當我們有必要的功能，並準備好確保平順轉換的功能。 我們強烈建議您檢閱您的公司資訊在 PMC 中，並遵循我們建議的步驟，以協助確保順暢的帳戶轉換善加現在的時間。
 
-1.  從合作夥伴中心，選取 [**新增的新使用者**新增個人或**設定您的小組**（或使用 PMC 資料新增使用者） 來一次新增多個使用者。
-    
-    依照畫面上的指示完成設定。
+### <a name="pmc-to-partner-center-step-by-step-guide"></a>PMC 到合作夥伴中心的逐步指南
 
-2.  如果您要建立個人帳戶，請直接將登入資訊 (使用者名稱和暫時密碼) 傳送給使用者。
+我們已經準備好綜合和詳細的逐步引導您進行每個步驟的帳戶成功轉換的方式[PMC 到合作夥伴中心轉換指南](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)。
 
-    如果您要根據 PMC 的資料設定多個帳戶，我們會自動將包含登入資訊的電子郵件傳送給每個使用者。 您也可以下載內含相同資訊的檔案，以備您的其中一個員工又再需要此資訊時使用。
+>[!IMPORTANT]
+>有數個包含所花的時間才能完成本指南中的索引鍵先決條件。 我們鼓勵您檢閱它們，並開始儘速完成這些工作。
 
-    暫時密碼的有效期為 90 天。 如果使用者未登入，請移除帳戶並再次新增這些使用者。
+### <a name="video-resources"></a>視訊資源
 
-3.  選用：設定個人帳戶以[啟用密碼自助](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)，包括選擇使用者應回答哪些類型的安全性問題。 
+除了[PMC 到合作夥伴中心轉換指南](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)中，我們建立了這些轉換您的帳戶的不同階段的相關的簡短影片。 
 
-## <a href="" id="nonadmin_tasks"></a>員工工作：更新帳戶
+- [探索您的合作夥伴中心儀表板](https://partner.microsoft.com/support/partner-center-help)
+ 
+  深入了解資源和可用的工具，在合作夥伴中心，以充分利用您的合作關係。
 
-1.  取得您登入的資訊是從 Microsoft 合作夥伴中心，或從您的系統管理員。如果您沒有收到登入資訊，請連絡您組織的系統管理員，要求他們直接將您重新傳送。 
+- [多重位置帳戶得簡單](https://partner.microsoft.com/support/partner-center-help)
+ 
+  如果您管理辦公室跨多個地區，以下是如何設定多重位置帳戶，並控制從一個方便使用網站的所有項目。
 
-2.  連接您的 Microsoft 合作夥伴大學帳戶。 從合作夥伴中心，選取 [**更新您的設定檔** > **取得合作夥伴大學存取權**。  連接這個帳戶之後，您就可以再次存取合作夥伴大學。
+- [讓您的訓練和測驗計數](https://partner.microsoft.com/support/partner-center-help)
 
-3.  建立 Microsoft 技術測驗及認證的關聯。 從合作夥伴中心，選取 [**更新您的設定檔** > **建立測驗及認證關聯**。 
+  將您的員工學習認證連接到您商務設定檔，以確保繼續的存取合作夥伴大學，若要符合資格的專長認證。
 
-4.  選用：[設定密碼重設自助](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password)。
+## <a name="see-also"></a>請參閱
 
-## <a name="checking-team-status-and-receiving-competency-achievements"></a>檢查小組狀態並獲得專長認證成就
+您已成功轉換 PMC 從您的帳戶之後，請檢閱這些文章，以取得更熟悉合作夥伴中心。
 
-1.  請參閱您的組織哪些員工已連接他們的 Microsoft 合作夥伴大學帳號，並建立其測驗及認證的關聯： 從合作夥伴中心，選取 [**檢查您的小組狀態**。
+-   [建立商務設定檔以透過 Microsoft 獲得業務潛在客戶](create-a-marketing-profile.md)
 
-2.  員工建立其帳戶關聯或完成技能目標之後，**請等候 24 小時**。 在此之後，進度就會顯示在 **\[合作關係\] > \[專長認證\]** 區段中。
+-   [新增新的帳戶使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
+
+-   [購買或續約 Microsoft 行動套件的訂閱](mpn-get-action-pack.md)
+
+-   [管理您的會員資格權益](manage-your-partner-network-benefits.md)
+
+-   [了解金會員及銀會員資格的專長認證要求條件](https://partner.microsoft.com/membership/competencies)
+
+
+
+
+
