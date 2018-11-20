@@ -7,21 +7,21 @@ author: labrenne
 ms.author: labrenne
 keywords: 獎勵宣告，合作宣告，合作資金
 ms.localizationpriority: medium
-ms.openlocfilehash: 5727110ff44b7d10c0729ae02289666920c3f636
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1050494694e66d673c866cbd260c9e33f1897018
+ms.sourcegitcommit: ecee11d731f3d47f2513839a4b2b98011eb95f55
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796791"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "7331017"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>建立和管理獎勵宣告
 
-**適用對象：**
+**適用於**
 - 合作夥伴中心
 
-您可以起始請款要求在合作夥伴中心內。 
+您可以起始從獎勵宣告在合作夥伴中心內。 
 
-1. 從合作夥伴中心上的**獎勵**，選取 [**宣告**]。
+1. 從合作夥伴中心儀表板上的**獎勵**，選取 [**宣告**]。
 2.  如果您已經有請款要求處理程序中，宣告的 [概觀] 頁面上現有的宣告的狀態會顯示資訊和資金核准、 宣告，並會有 750。
 3.  若要建立新的宣告，選取 [**建立請款要求**。
 4.  當您填寫初始表單並選取提交時，您將無法新增發票、 CRS 的、 證明的文件和成功計量。 如有需要您也可以新增額外的資訊。

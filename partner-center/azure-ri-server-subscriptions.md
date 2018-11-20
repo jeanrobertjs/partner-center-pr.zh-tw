@@ -7,12 +7,12 @@ author: v-petand
 ms.author: v-petand
 keywords: Azure，訂閱，VM，保留區，保留的執行個體
 ms.localizationpriority: medium
-ms.openlocfilehash: cc33e605af7930484b196051565781f4d4c3f17e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 40df0686cc0a7227360d8f77f09a30d9d6520d45
+ms.sourcegitcommit: ecee11d731f3d47f2513839a4b2b98011eb95f55
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797031"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "7331030"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -40,7 +40,7 @@ Azure Reservations 可協助您節省金錢預先支付一年或三年的虛擬�
 憑藉引人注目定價和獨一無二的部署靈活性的無與倫比組合，客戶會看到最佳的整體價值，選擇 Azure Reservations 時： 
 
 - [Azure 保留的 VM 執行個體](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [伺服器訂閱](https://www.microsoft.com/Licensing/news/windows-sql-server-through-csp) 
+- [伺服器訂閱](https://www.microsoft.com/en-us/Licensing/news/windows-sql-server-through-csp) 
 - [遠端桌面服務 (RDS) Cal](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – 即將推出 ！
 - [SQL DB 保留區](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [SUSE Linux](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
