@@ -47,7 +47,7 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 [Microsoft 雲端轉銷商合約 – 韓國](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Microsoft 雲端轉銷商合約 – 台灣](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud Reseller agreement – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
 [Microsoft 雲端轉銷商合約 - 美國政府適用的 Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
