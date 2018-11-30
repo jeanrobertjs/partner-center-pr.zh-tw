@@ -1,4 +1,4 @@
-# [關於 Microsoft 合作夥伴中心](index.md)
+# [深入了解 Microsoft 合作夥伴中心](index.md)
 
 # [合作夥伴網路會員資格](mpn-overview.md)
 ## [建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)
@@ -13,11 +13,10 @@
 ## [參加雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
 ## [雲端解決方案提供者直接合作夥伴的新需求](direct-partner-new-requirements.md) 
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
-## [雲端解決方案提供者地區授權概觀](regional-authorization-overview.md)
-## [雲端解決方案提供者地區授權租用戶彙總](csp-regional-authorization-tenant-consolidation.md)
-## [客戶合約範本](agreements.md)
+## [CSP 地區市場及貨幣](regional-authorization-overview.md)
+## [依地區和語言的 Microsoft Cloud 合約](agreements.md)
 
-## [適用於銷售 (sell-in) 國家/地區雲](csp-national-clouds-overview.md)
+## [國家/地區雲端](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)
 
@@ -44,6 +43,7 @@
 
 
 # [帳單與稅金](billing.md)
+## [雲端解決方案提供者計費概觀](billing-basics.md)
 ## [新計費功能的常見問題集](faq-about-new-billing-features.md)
 ## [閱讀您的帳單](read-your-bill.md)
 ## [使用對帳檔案](use-the-reconciliation-files.md)
@@ -80,6 +80,7 @@
 ### [將授權型服務客戶移轉到雲端服務提供者計畫](transition-seat-based-services.md)
 ### [銷售 Minecraft: Education Edition](minecraft-subscriptions.md)
 ### [銷售到特色產業](Get-special-pricing-for-offers.md)
+### [銷售 Office 365 政府版 GCC 給符合資格的政府客戶](csp-gcc-overview.md)
 ### [提高採用率與滿意度](increasing-adoption-and-satisfaction.md)
 ### [透過 Windows Autopilot 簡化裝置設定](autopilot.md)
 ##  將優惠方案升級或轉移至較新版本
