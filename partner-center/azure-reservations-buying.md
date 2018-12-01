@@ -7,16 +7,16 @@ author: v-petand
 ms.author: v-petand
 keywords: azure，保留區，管理，帳單，購買
 ms.localizationpriority: medium
-ms.openlocfilehash: 2022018629bd54140a3d9aeca93a4523102c366e
-ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
+ms.openlocfilehash: 75e1afefbd2b411e5e1778e04e01781ac7bbe080
+ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "6075259"
+ms.lasthandoff: 12/01/2018
+ms.locfileid: "8382944"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表您在合作夥伴中心的客戶購買 Microsoft Azure reservations 
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
 -  Microsoft Azure 入口網站
@@ -30,7 +30,7 @@ ms.locfileid: "6075259"
   
 -   Azure reservations 價格不包含軟體訂閱成本，例如 SQL 資料庫或 SUSE Linux 軟體
 
--   Microsoft 的商業定價給您不包含稅金，除非您的位置是澳洲或巴西。 如果您的位置是澳洲或巴西，對您的商業價格包含適當的稅金 
+-   Microsoft 的商業定價給您不包含稅金，除非您位置為巴西。 如果您位置為巴西，對您的商業價格包含適當的稅金 
  
 -   銷售人員和技術支援中心需能代表客戶明確的存取 Azure 訂閱，以便在 Azure 入口網站與檔案支援要求中購買或管理訂閱，包括換貨與退款  
 
@@ -100,7 +100,7 @@ ms.locfileid: "6075259"
 
     a. 客戶的市場區隔從清單中選擇**區隔**。
 
-    b。 從產品**類型**清單中選擇**保留區**。
+    b. 從產品**類型**清單中選擇**保留區**。
 
     c. 從**保留區類型**清單中選擇客戶想要保留區的類型。
 

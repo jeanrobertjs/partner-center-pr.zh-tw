@@ -1,18 +1,18 @@
 ---
 title: Azure 保留的 VM 執行個體 (RI) + Azure 伺服器訂閱 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 11/30/2018
 description: 透過將 Azure RI 與伺服器訂閱引進雲端解決方案提供者計畫，我們得以用更理想的方式協助合作夥伴，以更具成本效益的解決方案支援高度可預測的持續性雲端工作負載，解決快速成長的客戶需求。 雲端解決方案提供者計畫可讓合作夥伴透過 Microsoft 合作夥伴中心和 Azure 入口網站，代表商業客戶取得、佈建和管理 Azure RI 與伺服器訂閱。
 author: v-petand
 ms.author: v-petand
 keywords: Azure，訂閱，VM，保留區，保留的執行個體
 ms.localizationpriority: medium
-ms.openlocfilehash: 40df0686cc0a7227360d8f77f09a30d9d6520d45
-ms.sourcegitcommit: ecee11d731f3d47f2513839a4b2b98011eb95f55
+ms.openlocfilehash: e17fc04ad5428229af7c2b61368cf03890612822
+ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "7331030"
+ms.lasthandoff: 12/01/2018
+ms.locfileid: "8382934"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -20,11 +20,11 @@ ms.locfileid: "7331030"
 
 **適用對象：**
 
--  合作夥伴中心
+- 合作夥伴中心
  
 ## <a name="what-are-azure-reservations"></a>Azure Reservations 有哪些？
 
-Azure Reservations 可協助您節省金錢預先支付一年或三年的虛擬機器、 SQL 資料庫運算容量、 Azure Cosmos DB 輸送量或其他 Azure 資源。 預先支付，可讓您在您使用的資源上取得折扣。 保留區可大幅降低您的虛擬機器，SQL 資料庫運算、 Azure Cosmos DB，以及其他資源的成本高達 72%相較於付價格。 保留區提供帳單折扣，並不會影響您的資源的執行階段狀態。如需詳細資訊，請參閱[什麼是 Azure Reservations？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Azure Reservations 協助您節省金錢預先支付一年或三年的虛擬機器，SQL 資料庫運算容量、 Azure Cosmos DB 輸送量或其他 Azure 資源。 預先支付，可讓您在您使用的資源上取得折扣。 保留區可大幅降低您的虛擬機器，SQL 資料庫運算、 Azure Cosmos DB，以及其他資源的成本高達 72%相較於付價格。 保留區提供帳單折扣，並不會影響您的資源的執行階段狀態。如需詳細資訊，請參閱[什麼是 Azure Reservations？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>客戶購買保留區的原因是？
 
@@ -41,14 +41,11 @@ Azure Reservations 可協助您節省金錢預先支付一年或三年的虛擬�
 
 - [Azure 保留的 VM 執行個體](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 - [伺服器訂閱](https://www.microsoft.com/en-us/Licensing/news/windows-sql-server-through-csp) 
-- [遠端桌面服務 (RDS) Cal](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – 即將推出 ！
+- [遠端桌面服務 (RDS) Cal](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – 2018 年年底前的可用
 - [SQL DB 保留區](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [SUSE Linux](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
 - [SQL 受管理的執行個體](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
-
-
-
 
 ## <a name="getting-started"></a>開始使用
 
@@ -97,54 +94,10 @@ Azure Reservations 可協助您節省金錢預先支付一年或三年的虛擬�
 - [調整 VM 大小以提供最大保留區使用率](https://go.microsoft.com/fwlink/?linkid=872810)
 - [合作夥伴中心 API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## <a name="azure-hybrid-benefit"></a>Azure Hybrid Benefit
+
 [Azure Hybrid Benefit](https://azure.microsoft.com/pricing/hybrid-benefit)可協助您從您的 Windows Server 授權取得更多價值，並儲存最多 * 47 百分之虛擬機器上。 您可以與軟體保證所涵蓋的 Windows Server Datacenter 和 Standard 版本資料中心授權搭配使用權益。 根據版本，您可以轉換或重複使用在 Azure 中執行 Windows Server 虛擬機器的授權，並支付較低的基底運算費率 (Linux 虛擬機器費率)。
 
 請參閱 [Azure Hybrid Benefit 常見問題集](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
 * 實際節省幅度可能因地區、 執行個體類型或使用方式上。
-
