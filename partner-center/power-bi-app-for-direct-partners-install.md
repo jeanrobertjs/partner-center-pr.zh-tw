@@ -7,30 +7,37 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f176b71072a67043df2ffe59b004b0ae8411dd4a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
+ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795531"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "6131697"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安裝和預覽適用於 Microsoft Power BI 的合作夥伴中心分析應用程式
 
 **適用於**
 
--   合作夥伴中心
+- 合作夥伴中心
 
 ## <a name="before-you-begin"></a>開始之前
 
+選取是對您的企業下列清單中的可用的 Power BI 應用程式最相關的應用程式：
+- [直接合作夥伴](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+
+- [間接合作夥伴](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+
+- [間接轉售商](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+
 安裝合作夥伴中心分析應用程式預覽版之前，請先確定您符合下列需求。
 
--   您在雲端解決方案提供者計畫及合作夥伴中心都是直接合作夥伴。 如果您在業務上與 Microsoft 及客戶直接往來，即是直接合作夥伴。
+- 您為您的企業，挑選正確的 Power BI 應用程式。
 
--   您有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 的使用中訂閱。
+- 您有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 的使用中訂閱。
 
--   您可以登入 Power BI。
+- 您可以登入 Power BI。
 
--   您可以用全域管理員、系統管理代理人或帳單系統管理員的身分登入[貴公司的 Azure Active Directory (Azure AD) 租用戶](azure-active-directory-tenants-and-partner-center.md)。
+- 您可以用全域管理員、系統管理代理人或帳單系統管理員的身分登入[貴公司的 Azure Active Directory (Azure AD) 租用戶](azure-active-directory-tenants-and-partner-center.md)。
 
 ## <a name="to-install-the-app"></a>若要安裝應用程式
 
