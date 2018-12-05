@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠
 ms.localizationpriority: medium
-ms.openlocfilehash: be48f5c91d146b0906b3c5927f74531b84bfc14c
-ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
+ms.openlocfilehash: 9318834c508629285265a4c2267e8ada10896db8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2018
-ms.locfileid: "7460955"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683777"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、 合約、 價目表和優惠
 
@@ -21,7 +21,6 @@ ms.locfileid: "7460955"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
 
 
 檢閱本文中的資訊，了解參與 Microsoft 雲端解決方案提供者 (CSP) 計畫的需求。 
@@ -47,7 +46,7 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 [Microsoft 雲端轉銷商合約 – 韓國](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Microsoft Cloud Reseller agreement – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Microsoft 雲端轉銷商合約 – 台灣](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
 [Microsoft 雲端轉銷商合約 - 美國政府適用的 Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 

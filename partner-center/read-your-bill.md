@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795691"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683787"
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795691"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 為您的帳單，請移至**合作夥伴中心**功能表，然後選取**帳單**以查看您的帳單記錄和趨勢，連結到您的發票和對帳檔案，以及最近的付款。
 

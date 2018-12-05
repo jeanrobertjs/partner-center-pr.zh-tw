@@ -7,12 +7,12 @@ ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c0d55c0b8400c011b77c2be030e12686a0eadd6b
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ae2ce5ec0ac117d0adcb9e9b0f63e2c43e906bb7
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796191"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683467"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>還原暫時停用的合作夥伴中心帳戶
 
@@ -22,7 +22,7 @@ ms.locfileid: "5796191"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 > [!IMPORTANT]  
 > 當您的合作夥伴中心帳戶遭暫時停用時，您可以繼續管理現有的部署、授權與服務。 不過，您將無法授權或轉售新的授權或服務，直到至帳戶恢復良好信譽為止。

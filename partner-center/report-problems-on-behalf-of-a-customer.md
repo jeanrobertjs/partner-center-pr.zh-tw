@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795611"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683767"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795611"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 如果客戶遇到您無法解決的服務問題，且問題符合[將問題向上呈報給 Microsoft](escalate-problems-to-microsoft.md) 中描述的條件，請針對它們提出支援票證。 這個程序對於向上呈報帳單問題或爭議，以及詐騙的疑慮也很有用。
 

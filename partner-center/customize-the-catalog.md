@@ -7,12 +7,12 @@ ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 626f25e3f56949d658c6ab7ff1fdf1fb1ffdd2ad
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4eafca2c4d9273157d920197758488d399b9018d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797051"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683747"
 ---
 # <a name="customize-the-catalog"></a>自訂型錄
 
@@ -20,7 +20,7 @@ ms.locfileid: "5797051"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 型錄會列出您可以提供給客戶的 Microsoft 產品和附加元件。 這些產品和附加元件會依客戶區隔 (如企業、小型企業和政府) 加以群組。 若要讓您組織最常使用的產品能夠更輕鬆存取，或是要向銷售代理人展示新產品，您可以將最多 5 項產品釘選到型錄清單頂端。
 

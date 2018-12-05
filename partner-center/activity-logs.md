@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794851"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683757"
 ---
 # <a name="view-customer-activity-logs"></a>檢視客戶活動記錄
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794851"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+-  
 
 
 活動記錄提供客戶的交易和夥伴管理動作相關資訊。 交易記錄提供交易 (包括已購買訂閱) 的相關詳細資訊。 您也可以將活動記錄匯出至與 Excel 相容並以逗號分隔值的檔案格式 (.csv).

@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796111"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683697"
 ---
 # <a name="manage-your-customer-list"></a>管理您的客戶清單
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796111"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 客戶記錄是您在合作夥伴中心最重要的資訊資產之一。 您可以搜尋客戶帳戶資料庫、將整個各戶資料庫或某個子集匯出至與 Excel 相容的逗點分隔值檔案格式 (.csv) 您也可以將客戶的訂閱資訊匯出至 .csv 檔案。
 

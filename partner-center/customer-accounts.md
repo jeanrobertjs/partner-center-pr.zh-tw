@@ -7,12 +7,12 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c50791c224834dffd0b113e5f3d4a5bca3aad9a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f6793b1b7524a5f715dd416e17c08679d14f9818
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796881"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683507"
 ---
 # <a name="customer-accounts"></a>客戶帳戶
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796881"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 身為經銷商合作夥伴，您應該每個您在合作夥伴中心的客戶建立帳戶。 客戶帳戶將會是您銷售訂閱、帳單及提供支援的起點。 您需要為每個客戶包括您在移到合作夥伴中心之前擁有的客戶建立合作夥伴中心帳戶。
 

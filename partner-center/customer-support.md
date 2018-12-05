@@ -7,20 +7,20 @@ ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f8fbb46aa880bb00cf31fa2685d87e5841dbfef
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5050e4269de15d1f0fabe37e297e440fcfbd73d8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797061"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683647"
 ---
 # <a name="providing-support-to-your-customers"></a>您的客戶提供支援
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 ## <a name="microsoft-partner-support-guidance"></a>Microsoft 合作夥伴支援指導方針
 

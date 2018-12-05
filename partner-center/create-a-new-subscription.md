@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796401"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683717"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -21,7 +21,6 @@ ms.locfileid: "5796401"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
 -  雲端解決方案提供者合作夥伴
 
 在合作夥伴中心建立客戶的記錄之後，您可以向他們銷售型錄中產品的訂閱。

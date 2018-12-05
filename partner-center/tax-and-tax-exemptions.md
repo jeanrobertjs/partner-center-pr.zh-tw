@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796003"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683737"
 ---
 # <a name="tax-and-tax-exemptions"></a>稅金與免稅
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796003"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 因為雲端解決方案提供者是專注於合作夥伴經銷產品的銷售通路，因此 Microsoft 並非一律受要求在合作夥伴的發票上收取營業稅。 相關規定因國家/地區而異。 合作夥伴應根據其所在地區與其客戶的所在地，與其稅務顧問提出適當的免稅辦法。 合作夥伴若要將其 Microsoft 銷售帳戶列為免稅，則應將其免稅憑證傳送給 Microsoft。
 

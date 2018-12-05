@@ -7,12 +7,12 @@ ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d759001b2cbaf8cab5f5b6e501dd0635b7adb11b
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797221"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683547"
 ---
 # <a name="escalate-problems-to-microsoft"></a>向上呈報問題給 Microsoft
 
@@ -20,7 +20,7 @@ ms.locfileid: "5797221"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 我們預期您將會為客戶解決問題。 您的第一個步驟應該是[檢查服務健康狀況](check-service-health.md)是否發生現有且已記錄的問題。 如果無法解決客戶的問題，您可以使用您的系統管理員權限針對軟體、設定及組態進行疑難排解。
 

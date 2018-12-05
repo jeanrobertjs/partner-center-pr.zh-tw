@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794841"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683687"
 ---
 # <a name="add-a-new-customer"></a>加入新的客戶
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794841"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 
 您可以銷售訂閱、 管理帳單，或提供支援之前，您需要為您的客戶在您的合作夥伴中心建立帳戶。 這包含他們的連絡資訊，以及 Azure AD 網域。

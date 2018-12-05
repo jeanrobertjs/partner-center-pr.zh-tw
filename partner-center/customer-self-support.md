@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客戶自我支援, 自我支援,
 ms.localizationpriority: medium
-ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794771"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683477"
 ---
 # <a name="customer-self-support"></a>客戶自我支援
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794771"
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
--  Microsoft Cloud 德國合作夥伴中心
+
 
 客戶可以登入他們的 Microsoft Office 365 系統管理中心或 Azure 管理入口網站，並管理其帳戶：
 
