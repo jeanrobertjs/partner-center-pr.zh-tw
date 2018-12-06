@@ -1,63 +1,78 @@
 ---
 title: 加入 Microsoft 合作夥伴網路 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/5/2018
 description: 在合作夥伴中心購買 Microsoft 行動寶盒，並獲得專長認證
-author: labrenne
-ms.author: labrenne
+author: maggiepuccievans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: a6989957b3c4e3cf0c0c63d5297a9c04371c0a81
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796991"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776442"
 ---
-# <a name="join-the-microsoft-partner-network-mpn"></a>加入 Microsoft 合作夥伴網路 (MPN)
+<!-- Note from Maggie on Dec 5, 2018: I can no longer tell what purpose this article serves. I'm going to redirect it to the mpn-overview.md topic and move the relevant information there. In the interim, I've copied and pasted the content from the MPN overview topic into this one in case anyone out there has it bookmarked.
+-->
 
-**適用對象：**
+# <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
 
--  合作夥伴中心
--  Microsoft 合作夥伴網路
+當您加入 Microsoft 合作夥伴計畫，您就成為全球社群的一分子，將您與讓客戶驚豔以及推動業務成長所需的人際關係、見解、工具、資源及計劃連結起來。
 
-## <a name="new-to-the-partner-center"></a>新加入合作夥伴中心
+請參閱[為何選擇 Microsoft？](https://partner.microsoft.com/business-opportunities/why-microsoft)以取得與 Microsoft 合作可獲得權益的詳細資訊。 
 
- 與 Microsoft 合作可讓您取得新商機，讓您的業務改頭換面。 您可以在合作夥伴中心購買並更新 Microsoft 行動寶盒，您可以輕鬆存取專長認證和達到方式的相關資訊。
+## <a name="join-the-microsoft-partner-network"></a>加入 Microsoft 合作夥伴網路
 
- 我們正在逐漸邀請合作夥伴到管理他們的會員資格在合作夥伴中心 MAPS 或專長認證週年日，以及當重要的合作夥伴中心功能可供使用並經證明符合業務需求。  目前，在您收到移動邀請前，可先在 Partner Membership Center (PMC) 計畫續約以及管理您的會員資格。
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-## <a name="get-your-mpn-id"></a>取得 MPN 識別碼
+您最多種類的業界以及計畫中的產品選項來區分您的企業，Microsoft 合作夥伴網路提供市場，請前往，和銷售解決方案。 加入免費，然後選擇如何願意投資於您與 Microsoft 行動寶盒、 入門套件或專長認證合作關係。
 
-若要以 Microsoft 合作夥伴身分執行業務，您需要 MPN 識別碼編號。 這表示您已向 Microsoft 正式註冊 Microsoft 合作夥伴網路。 此外，您也可以使用 MPN 識別碼來註冊雲端解決方案提供者計畫以及其他合作夥伴計畫。  
+動作套件或入門套件提供軟體和支援，可建置 Microsoft 型解決方案，專長認證示範您備受專業知識的客戶和其他合作夥伴。
 
-## <a name="become-a-microsoft-partner"></a>成為 Microsoft 合作夥伴
+如需 Microsoft 合作夥伴網路 (MPN) 的詳細資訊，請瀏覽[MPN 網站](https://partner.microsoft.com/commercial)。
 
-1.  在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/en-us/membership)網站的 **\[會員資格\]** 索引標籤上，選取 **\[註冊\]**。 
+### <a name="how-to-join"></a>若要加入的方式
 
-2.  以新組織註冊或加入現有的組織。
+若要加入 Microsoft 合作夥伴網路，移至[**成員資格**頁面](https://partner.microsoft.com/membership)MPN 網站上，然後選取**註冊**或**加入現在**。
 
-3.  若是成為新組織，請填寫詢問您組織和業務類型的表單。
+## <a name="microsoft-partner-network-membership-types"></a>Microsoft 合作夥伴網路會員資格類型
 
-4.  如果您透過現有組織註冊，系統會詢問您組織的名稱和地址。
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-> [!NOTE]  
->  您需要針對每個您要銷售的地點，提供組織總部的地址。
+Microsoft 合作夥伴網路提供三種類型的成員資格，如下所述。 每個類型都會提供一組可協助您拓展業務的權益。 當您達到您的目標時，請參與計畫中符合您獨特需求的會員層級，以便存取更多權益，並發展您與我們及網路其他合作夥伴的關係。
 
-在此免費的基本等級加入網路會員時，您會收到一組[核心內部使用權限權益](https://partner.microsoft.com/membership/core-benefits)，可協助您建立業務並採取下一個步驟。 
+### <a name="action-pack"></a>行動套件
 
-### <a name="add-additional-benefits-to-your-business"></a>為您的企業增加額外好處： 
+行動套件提供軟體、 支援和權益的企業，想要開始，建置，並拓展其 Microsoft 業務雲端優先、 行動優先的世界中。 
 
-**行動寶盒**。 購買行動寶盒這個經濟實惠的年費型服務，可獲得額外的權益，包括開發人員工具、支援、訓練及軟體的存取權。
+檢閱下列深入了解行動寶盒資源：
 
-**專長認證**。 證明您在一個或多個特殊業務領域中提供高品質解決方案方面卓有建樹的專長。 Microsoft 專長認證是設計來讓您做好滿足客戶需求的準備，以及協助您吸引正在尋找 Microsoft 認證解決方案提供者的新客戶。 
+- [移動雲朵業務向前與 Microsoft 行動寶盒](https://partner.microsoft.com/membership/action-pack)
+- [取得行動套件](mpn-get-action-pack.md)
+  
+    >[!IMPORTANT]
+    >我們會將行動套件訂閱管理從 Partner Membership Center (PMC) 移到合作夥伴中心。 此移動將會接手接下來的幾個月的地方。 請仔細閱讀資訊中[取得行動套件](mpn-get-action-pack.md)，讓您知道如何與何處續約。  
 
-- 贏得銀會員資格可證明您始終如一的能力、專長與承諾
-- 贏得金會員資格可證明您在特定 Microsoft 解決方案領域中的能力一流
+- [續訂您的 MPN 優惠方案](renew-mpn-offers.md)
 
-|**進行此動作**   |**請閱讀本文**   |
-|------------------|:---------------|
-|成為 Microsoft 合作夥伴|[會員資格：運作方式](https://partner.microsoft.com/membership/how-it-works)|
-管理您的 Microsoft 合作夥伴網路會員資格，在合作夥伴中心   |[管理您的 Microsoft 合作夥伴網路會員資格](mpn-overview.md)
-|購買行動寶盒   |[購買或續約 Microsoft 行動寶盒](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
-|獲得銀級或金級專長認證   |[銀會員及金會員資格的專長認證要求條件](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
-|考慮加入雲端解決方案提供者計畫|[雲端解決方案提供者 - 銷售隨選雲端解決方案](csp-overview.md)|
+### <a name="competencies"></a>專長認證
+
+示範您備受領域中提供高品質解決方案肯定商務版的專長。 Microsoft 專長認證專為符合您目前客戶的需求以及獲得肯定潛在而設計。 加入 Microsoft 合作夥伴菁英層，從同儕中脫穎而出。
+
+檢閱下列深入了解各項專長認證的資源：
+
+- [專長認證的合作夥伴](https://partner.microsoft.com/membership/competencies)
+
+## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft 合作夥伴網路權益和需求
+
+當您加入 Microsoft 合作夥伴網路，您會收到一組核心權益，可協助您節省時間和金錢，同時加強您的功能、提供更好的客戶服務，以及建立人脈，實現完整業務潛能。
+
+檢閱下列深入了解網路權益和需求資源：
+
+- [核心權益](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
+- [管理您的 MPN 權益，在合作夥伴中心](manage-your-partner-network-benefits.md)
+- [核心需求](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
+
+## <a name="see-also"></a>請參閱
+- [拓展您的 Microsoft 合作夥伴業務](grow-your-business.md)

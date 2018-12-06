@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5211d68b79a1a67cd17c8974edd360999c10fb8d
-ms.sourcegitcommit: 6b781672d91f7ede942a9044a41e785dcf63f807
+ms.openlocfilehash: 21f94c78227c75124a1835b463aac3ad8fc38eb5
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "5962391"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776542"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作夥伴中心中與客戶保持聯繫
 
@@ -20,9 +20,9 @@ ms.locfileid: "5962391"
 
 -  合作夥伴中心
 
-如果您想要管理客戶的服務或代表他們的訂閱，客戶必須授與您該服務或訂閱的系統管理員權限。 下列程序說明如何透過電子郵件要求此權限。 一旦客戶核准您的要求時，您將無法登入服務的系統管理員入口網站，並管理上代表客戶的服務。 
+如果您想要管理客戶的服務或代表他們的訂閱，客戶必須授與您該服務或訂閱的系統管理員權限。 下列程序說明如何透過電子郵件要求此權限。 客戶核准您的要求後，您就能登入服務的系統管理員入口網站及代表客戶管理服務。
 
-如果您只想要與客戶建立經銷商關係，並管理您佈建的雲端解決方案提供者 Azure 訂閱，它不需要以取得系統管理員權限。
+如果您想要與客戶建立經銷商關係，並管理只有您佈建的 Azure 訂閱，它不需要以取得系統管理員權限。
 
 請注意沒有適用於作業系統中的 Microsoft Cloud 針對美國政府或 Microsoft Cloud 德國合作夥伴不要求權限的選項。 若要深入了解，請參閱[客戶代理人系統管理權限給合作夥伴](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)。
 
@@ -46,19 +46,20 @@ ms.locfileid: "5962391"
 
 
 > [!IMPORTANT]  
-> 客戶可以在服務管理入口網站中重新指派或移除系統管理員權限。 不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。 在此情況下，如果客戶需要協助，您可以連絡 Microsoft 支援服務，以代表客戶開啟服務要求。
+> 客戶可以重新指派或移除系統管理員權限的服務管理入口網站中。 不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。 在此情況下，如果客戶需要協助，您可以連絡 Microsoft 支援服務，以代表客戶開啟服務要求。
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>客戶邀請體驗的變更
+
 在 2018 年 11 月 1 日已變更，不接受經銷商關係邀請從雲端解決方案提供者合作夥伴的客戶體驗。 如需所做的變更的詳細資訊，請參閱下表。 如需商務用 Microsoft Store 中的新體驗的詳細資訊，請參閱[解決方案提供者在商務用 Microsoft Store 中使用](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business)。
 
-|  | 其中客戶接受經銷商邀請在 2018 年 11 月 1 日之前建立 | 其中客戶接受經銷商邀請在 2018 年 11 月 1 日之前建立 |
+|  | 其中客戶接受經銷商邀請在 2018 年 11 月 1 日之前傳送？ | 其中客戶接受經銷商邀請傳送在 2018 年 11 月 1 日之後？ |
 |---------|---------|---------
 | 公用雲端中的客戶 | Microsoft Office 系統管理員入口網站 | 商務用 Microsoft Store |
 | Microsoft 合作夥伴中心內的客戶雲端德國 | Microsoft Office 系統管理員入口網站 | Microsoft Office 系統管理員入口網站 |
 | 美國政府適用的 Microsoft Cloud 合作夥伴中心中的客戶 | Microsoft Office 系統管理員入口網站 | Microsoft Office 系統管理員入口網站 |
+|
 
+## <a name="see-also"></a>請參閱
 
-## <a name="related-topics"></a>相關主題
-
-[指派支援連絡人](assign-support-contacts.md)
-[移除與客戶的關係](remove-a-relationship.md)
+- [指派支援連絡人](assign-support-contacts.md)
+- [移除與客戶的關係](remove-a-relationship.md)

@@ -5,15 +5,16 @@ title: 從這裡開始使用合作夥伴中心說明
 ms.topic: landing-page
 ms.date: 10/29/2018
 description: 需要設定帳戶、與客戶保持聯繫，或購買行動套件訂閱的相關協助嗎？ 尋找解答這個合作夥伴中心中的協助建立專為在雲端解決方案提供者與 MPN 計畫的協力廠商程式庫。 
-author: v-chmccl
+author: labrenne
+ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: afd4421e000081864394995d75e4671d711825ef
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795911"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776522"
 ---
 # <a name="start-here-for-help-with-partner-center"></a>從這裡開始使用合作夥伴中心說明
 

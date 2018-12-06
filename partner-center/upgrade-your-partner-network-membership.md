@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 800e816ad882b11721f26f7c219997de7a33e416
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795711"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776472"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升級您的 Microsoft 合作夥伴網路會員資格
 
@@ -79,7 +79,7 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 3. 選取 **\[關閉自動續約\]** (如果您不想要您的行動套件訂閱每年自動續約)。 
 
-   > [!NOTE]  
+> [!NOTE]  
 > 如果您關閉自動訂閱續約，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 我們將在您的訂閱到期之前提醒您續約。
 
 

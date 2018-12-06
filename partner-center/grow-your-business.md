@@ -7,27 +7,27 @@ keywords: 推薦, 回應推薦, 潛在客戶, 業務潛在客戶, 行銷設定�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1fa537dbb170412385080b17cf3a52e8a7a784ea
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796421"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776482"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>拓展您的 Microsoft 合作夥伴業務 
 
-Microsoft 提供許多資源，協助您拓展合作夥伴業務。 了解此網站 - Microsoft 合作夥伴中心 - 的功能如何協助您吸引新客戶，並獲得更多收益。 
+Microsoft 提供許多資源，協助您拓展合作夥伴業務。 了解此網站，Microsoft 合作夥伴中心上的功能如何協助您吸引新客戶，並獲得更多獲利。
 
 使用合作夥伴中心可以：
 
--   獲得業務潛在客戶 (所有合作夥伴)
--   使用銀級或金級會員合作夥伴狀態設定您的公司 (所有合作夥伴)
--   提供 Microsoft 產品的試用訂閱 (雲端解決方案提供者合作夥伴)
--   提供 Microsoft 產品的促銷價格 (雲端解決方案提供者合作夥伴)
--   在其他市場銷售 (雲端解決方案提供者合作夥伴)
+- 獲得業務潛在客戶 (所有合作夥伴)
+- 使用銀級或金級會員合作夥伴狀態設定您的公司 (所有合作夥伴)
+- 提供 Microsoft 產品的試用訂閱 (雲端解決方案提供者合作夥伴)
+- 提供 Microsoft 產品的促銷價格 (雲端解決方案提供者合作夥伴)
+- 在其他市場銷售 (雲端解決方案提供者合作夥伴)
 
 > [!NOTE]  
->  您的公司必須註冊 Microsoft 合作夥伴網路，並擁有合作夥伴中心帳戶，充分利用這些功能。 如需加入該網路的相關資訊，請參閱[加入 Microsoft 合作夥伴網路](mpn-overview.md)。 對於其中某些功能，您也必須是雲端解決方案提供者 (CSP) 計畫的經銷商才能使用。 如需透過這個計畫銷售的相關資訊，請參閱[雲端解決方案提供者概觀](csp-overview.md)。
+> 您的公司必須註冊 Microsoft 合作夥伴網路，並擁有合作夥伴中心帳戶，充分利用這些功能。 如需加入該網路的相關資訊，請參閱[加入 Microsoft 合作夥伴網路](mpn-overview.md)。 對於其中某些功能，您也必須是雲端解決方案提供者 (CSP) 計畫的經銷商才能使用。 如需透過這個計畫銷售的相關資訊，請參閱[雲端解決方案提供者概觀](csp-overview.md)。
 
 ## <a name="resources-to-help-your-business-grow"></a>協助您拓展業務的資源
 
@@ -41,8 +41,4 @@ Microsoft 提供許多資源，協助您拓展合作夥伴業務。 了解此網
 銷售到特色產業像非營利組織符合法定和教育版|[銷售到特色產業](get-special-pricing-for-offers.md)|雲端解決方案提供者合作夥伴|
 |拓展您的業務透過獎勵合作程式中可用的許多活動。 透過合作夥伴中心活動的檔案宣告。| [建立和管理獎勵宣告](create-incentives-claims.md)|雲端解決方案提供者合作夥伴|
 |包括可搭配 Microsoft 軟體，您要銷售的協力廠商優惠，建立新的軟體套件組合|[探索協力廠商優惠](third-party-offers.md)|雲端解決方案提供者合作夥伴|
-
-## <a name="see-also"></a>請參閱
-
-如果您是 Microsoft 合作夥伴新生或如果您還不熟悉本文中的詞彙，請參閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com)網站和[合作夥伴中心首頁](https://partnercenter.microsoft.com/partner/home)。
-
+|
