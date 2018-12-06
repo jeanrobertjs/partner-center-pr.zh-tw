@@ -7,33 +7,70 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格, 銀級, 金級, 專長認證
 ms.localizationpriority: medium
-ms.openlocfilehash: 9726297ff1a6b921ec848778f41df701afb8c49a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 06a8460e2703bffccd4a214fdd3256e859c31937
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797081"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776462"
 ---
-# <a name="partner-with-microsoft"></a><span data-ttu-id="2d41e-104">成為 Microsoft 合作夥伴</span><span class="sxs-lookup"><span data-stu-id="2d41e-104">Partner with Microsoft</span></span>
+# <a name="partner-with-microsoft"></a><span data-ttu-id="1ce5f-104">成為 Microsoft 合作夥伴</span><span class="sxs-lookup"><span data-stu-id="1ce5f-104">Partner with Microsoft</span></span>
 
-<span data-ttu-id="2d41e-105">當您加入 Microsoft 合作夥伴計畫，您就成為全球社群的一分子，將您與讓客戶驚豔以及推動業務成長所需的人際關係、見解、工具、資源及計劃連結起來。</span><span class="sxs-lookup"><span data-stu-id="2d41e-105">When you join a Microsoft partner program, you become part of a global community that connects you to the relationships, insights, tools, resources, and programs you need to amaze your customers and drive business growth.</span></span> 
+<span data-ttu-id="1ce5f-105">當您加入 Microsoft 合作夥伴計畫，您就成為全球社群的一分子，將您與讓客戶驚豔以及推動業務成長所需的人際關係、見解、工具、資源及計劃連結起來。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-105">When you join a Microsoft partner program, you become part of a global community that connects you to the relationships, insights, tools, resources, and programs you need to amaze your customers and drive business growth.</span></span>
 
-<span data-ttu-id="2d41e-106">請參閱[為何選擇 Microsoft？](https://partner.microsoft.com/business-opportunities/why-microsoft)以取得與 Microsoft 合作可獲得權益的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="2d41e-106">See [Why Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) for more information about the benefits of partnering with Microsoft.</span></span> 
+<span data-ttu-id="1ce5f-106">請參閱[為何選擇 Microsoft？](https://partner.microsoft.com/business-opportunities/why-microsoft)以取得與 Microsoft 合作可獲得權益的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-106">See [Why Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) for more information about the benefits of partnering with Microsoft.</span></span> 
 
-<span data-ttu-id="2d41e-107">如需合作夥伴網路的詳細資訊，請檢閱[合作夥伴網路網站](https://partner.microsoft.com)上的[會員資格概觀](https://partner.microsoft.com/membership)。</span><span class="sxs-lookup"><span data-stu-id="2d41e-107">For more information about the partner network, review the [membership overview](https://partner.microsoft.com/membership) on the [partner network site](https://partner.microsoft.com).</span></span> 
+## <a name="join-the-microsoft-partner-network"></a><span data-ttu-id="1ce5f-107">加入 Microsoft 合作夥伴網路</span><span class="sxs-lookup"><span data-stu-id="1ce5f-107">Join the Microsoft Partner Network</span></span>
 
-<span data-ttu-id="2d41e-108">在[合作夥伴網路網站](https://partner.microsoft.com)上閱讀有關會員資格層級以及[內部使用權軟體權益](https://partner.microsoft.com/membership/internal-use-software)。</span><span class="sxs-lookup"><span data-stu-id="2d41e-108">Read about membership levels and [internal-use rights software benefits](https://partner.microsoft.com/membership/internal-use-software) on the [partner network site](https://partner.microsoft.com).</span></span> 
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
->[!IMPORTANT]
-><span data-ttu-id="2d41e-109">我們會將行動套件訂閱管理從 Partner Membership Center (PMC) 移到合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="2d41e-109">We are moving Action Pack subscription management from Partner Membership Center (PMC) to the Partner Center.</span></span> <span data-ttu-id="2d41e-110">此移動將會接手接下來的幾個月的地方。</span><span class="sxs-lookup"><span data-stu-id="2d41e-110">This move will take place over the next several months.</span></span> <span data-ttu-id="2d41e-111">請仔細閱讀資訊中[取得行動套件](mpn-get-action-pack.md)，讓您知道如何與何處續約。</span><span class="sxs-lookup"><span data-stu-id="2d41e-111">Please review the information in [Get the Action Pack](mpn-get-action-pack.md) carefully so that you know how and where to renew.</span></span>  
+<span data-ttu-id="1ce5f-108">您最多種類的業界以及計畫中的產品選項來區分您的企業，Microsoft 合作夥伴網路提供市場，請前往，和銷售解決方案。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-108">The Microsoft Partner Network gives you the widest range of products in the industry as well as program options to differentiate your business, go to market, and sell your solutions.</span></span> <span data-ttu-id="1ce5f-109">加入免費，然後選擇如何願意投資於您與 Microsoft 行動寶盒、 入門套件或專長認證合作關係。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-109">Join at no cost, then choose how to invest in your partnership with a Microsoft action pack, starter kit, or competency.</span></span>
 
-|**<span data-ttu-id="2d41e-112">若要這樣做</span><span class="sxs-lookup"><span data-stu-id="2d41e-112">To do this</span></span>**   |**<span data-ttu-id="2d41e-113">請閱讀本文</span><span class="sxs-lookup"><span data-stu-id="2d41e-113">Read this</span></span>**   |
-|-----------------|:---------------------------|
-|<span data-ttu-id="2d41e-114">購買 Microsoft 行動寶盒，來存取開發人員工具、 支援、 訓練，年度訂閱和軟體，可協助您建置 Microsoft 實務雲端優先世界中。</span><span class="sxs-lookup"><span data-stu-id="2d41e-114">Buy a yearly subscription to the Microsoft Action Pack to gain access to developer tools, support, training, and software that can help you build your Microsoft practice in a cloud-first world.</span></span> | [<span data-ttu-id="2d41e-115">取得行動套件</span><span class="sxs-lookup"><span data-stu-id="2d41e-115">Get the Action Pack</span></span>](mpn-get-action-pack.md)|
-|<span data-ttu-id="2d41e-116">為您的行動套件訂閱續約</span><span class="sxs-lookup"><span data-stu-id="2d41e-116">Renew your Action Pack subscription</span></span>   |[<span data-ttu-id="2d41e-117">續訂您的 MPN 優惠方案</span><span class="sxs-lookup"><span data-stu-id="2d41e-117">Renew your MPN offers</span></span>](renew-mpn-offers.md)|
-|<span data-ttu-id="2d41e-118">贏得**銀級專長認證**，展示您的專業知識、技能和戰略思維。</span><span class="sxs-lookup"><span data-stu-id="2d41e-118">Earn **Silver competencies** to showcase your specialized expertise, skills, and strategic thinking.</span></span>|[<span data-ttu-id="2d41e-119">深入了解贏得銀級專長認證</span><span class="sxs-lookup"><span data-stu-id="2d41e-119">Learn more about earning Silver competencies</span></span>](https://partner.microsoft.com/membership/competencies)|
-|<span data-ttu-id="2d41e-120">贏得**金級專長認證**，展示可滿足客戶需求的最高等級專業能力。</span><span class="sxs-lookup"><span data-stu-id="2d41e-120">Earn **Gold competencies** to demonstrate the highest, most specialized capability to meet customer needs.</span></span> |[<span data-ttu-id="2d41e-121">深入了解贏得金級專長認證</span><span class="sxs-lookup"><span data-stu-id="2d41e-121">Learn more about earning Gold competencies</span></span>](https://partner.microsoft.com/membership/competencies)|
+<span data-ttu-id="1ce5f-110">動作套件或入門套件提供軟體和支援，可建置 Microsoft 型解決方案，專長認證示範您備受專業知識的客戶和其他合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-110">An action pack or starter kit provides software and support to build Microsoft-based solutions and a competency demonstrates your proven expertise to customers and other partners.</span></span>
 
+<span data-ttu-id="1ce5f-111">如需 Microsoft 合作夥伴網路 (MPN) 的詳細資訊，請瀏覽[MPN 網站](https://partner.microsoft.com/commercial)。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-111">For more information about the Microsoft Partner Network (MPN), visit the [MPN website](https://partner.microsoft.com/commercial).</span></span>
 
+### <a name="how-to-join"></a><span data-ttu-id="1ce5f-112">若要加入的方式</span><span class="sxs-lookup"><span data-stu-id="1ce5f-112">How to join</span></span>
 
+<span data-ttu-id="1ce5f-113">若要加入 Microsoft 合作夥伴網路，移至[**成員資格**頁面](https://partner.microsoft.com/membership)MPN 網站上，然後選取**註冊**或**加入現在**。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-113">To join the Microsoft Partner Network, go to the [**Membership** page](https://partner.microsoft.com/membership) on the MPN website and select **Enroll** or **Join now**.</span></span>
 
+## <a name="microsoft-partner-network-membership-types"></a><span data-ttu-id="1ce5f-114">Microsoft 合作夥伴網路會員資格類型</span><span class="sxs-lookup"><span data-stu-id="1ce5f-114">Microsoft Partner Network membership types</span></span>
+
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
+
+<span data-ttu-id="1ce5f-115">Microsoft 合作夥伴網路提供三種類型的成員資格，如下所述。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-115">The Microsoft Partner Network provides three types of memberships, as described below.</span></span> <span data-ttu-id="1ce5f-116">每個類型都會提供一組可協助您拓展業務的權益。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-116">Each type provides a set of benefits to help your business grow.</span></span> <span data-ttu-id="1ce5f-117">當您達到您的目標時，請參與計畫中符合您獨特需求的會員層級，以便存取更多權益，並發展您與我們及網路其他合作夥伴的關係。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-117">As you achieve your goals, participate in the program at the level that suits your unique needs to access more benefits and develop your relationship with us and other partners in the network.</span></span>
+
+### <a name="action-pack"></a><span data-ttu-id="1ce5f-118">行動套件</span><span class="sxs-lookup"><span data-stu-id="1ce5f-118">Action Pack</span></span>
+
+<span data-ttu-id="1ce5f-119">行動套件提供軟體、 支援和權益的企業，想要開始，建置，並拓展其 Microsoft 業務雲端優先、 行動優先的世界中。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-119">Action Pack offers software, support, and benefits for businesses that want to begin, build, and grow their Microsoft practice in a cloud-first, mobile-first world.</span></span> 
+
+<span data-ttu-id="1ce5f-120">檢閱下列深入了解行動寶盒資源：</span><span class="sxs-lookup"><span data-stu-id="1ce5f-120">Review the resources below to learn more about Action Pack:</span></span>
+
+- [<span data-ttu-id="1ce5f-121">移動雲朵業務向前與 Microsoft 行動寶盒</span><span class="sxs-lookup"><span data-stu-id="1ce5f-121">Move your cloud business forward with Microsoft Action Pack</span></span>](https://partner.microsoft.com/membership/action-pack)
+- [<span data-ttu-id="1ce5f-122">取得行動套件</span><span class="sxs-lookup"><span data-stu-id="1ce5f-122">Get the Action Pack</span></span>](mpn-get-action-pack.md)
+  
+    >[!IMPORTANT]
+    ><span data-ttu-id="1ce5f-123">我們會將行動套件訂閱管理從 Partner Membership Center (PMC) 移到合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-123">We are moving Action Pack subscription management from Partner Membership Center (PMC) to Partner Center.</span></span> <span data-ttu-id="1ce5f-124">此移動將會接手接下來的幾個月的地方。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-124">This move will take place over the next several months.</span></span> <span data-ttu-id="1ce5f-125">請仔細閱讀資訊中[取得行動套件](mpn-get-action-pack.md)，讓您知道如何與何處續約。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-125">Please review the information in [Get the Action Pack](mpn-get-action-pack.md) carefully so that you know how and where to renew.</span></span>  
+
+- [<span data-ttu-id="1ce5f-126">續訂您的 MPN 優惠方案</span><span class="sxs-lookup"><span data-stu-id="1ce5f-126">Renew your MPN offers</span></span>](renew-mpn-offers.md)
+
+### <a name="competencies"></a><span data-ttu-id="1ce5f-127">專長認證</span><span class="sxs-lookup"><span data-stu-id="1ce5f-127">Competencies</span></span>
+
+<span data-ttu-id="1ce5f-128">示範您備受領域中提供高品質解決方案肯定商務版的專長。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-128">Demonstrate your proven expertise in delivering quality solutions in a specialized area of business.</span></span> <span data-ttu-id="1ce5f-129">Microsoft 專長認證專為符合您目前客戶的需求以及獲得肯定潛在而設計。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-129">Microsoft competencies are designed to meet your current customers’ needs and be recognizable to prospective ones.</span></span> <span data-ttu-id="1ce5f-130">加入 Microsoft 合作夥伴菁英層，從同儕中脫穎而出。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-130">Join the elite tier of Microsoft partners and stand out from your peers.</span></span>
+
+<span data-ttu-id="1ce5f-131">檢閱下列深入了解各項專長認證的資源：</span><span class="sxs-lookup"><span data-stu-id="1ce5f-131">Review the resources below to learn more about competencies:</span></span>
+
+- [<span data-ttu-id="1ce5f-132">專長認證的合作夥伴</span><span class="sxs-lookup"><span data-stu-id="1ce5f-132">Competency partners</span></span>](https://partner.microsoft.com/membership/competencies)
+
+## <a name="microsoft-partner-network-benefits-and-requirements"></a><span data-ttu-id="1ce5f-133">Microsoft 合作夥伴網路權益和需求</span><span class="sxs-lookup"><span data-stu-id="1ce5f-133">Microsoft Partner Network benefits and requirements</span></span>
+
+<span data-ttu-id="1ce5f-134">當您加入 Microsoft 合作夥伴網路，您會收到一組核心權益，可協助您節省時間和金錢，同時加強您的功能、提供更好的客戶服務，以及建立人脈，實現完整業務潛能。</span><span class="sxs-lookup"><span data-stu-id="1ce5f-134">When you join the Microsoft Partner Network, you receive a set of core benefits that can help you save time and money while you strengthen your capabilities, better serve customers, and build connections to reach your full business potential.</span></span>
+
+<span data-ttu-id="1ce5f-135">檢閱下列深入了解網路權益和需求資源：</span><span class="sxs-lookup"><span data-stu-id="1ce5f-135">Review the resources below to learn more about network benefits and requirements:</span></span>
+
+- [<span data-ttu-id="1ce5f-136">核心權益</span><span class="sxs-lookup"><span data-stu-id="1ce5f-136">Core benefits</span></span>](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
+- [<span data-ttu-id="1ce5f-137">管理您的 MPN 權益，在合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="1ce5f-137">Manage your MPN benefits on Partner Center</span></span>](manage-your-partner-network-benefits.md)
+- [<span data-ttu-id="1ce5f-138">核心需求</span><span class="sxs-lookup"><span data-stu-id="1ce5f-138">Core requirements</span></span>](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
+
+## <a name="see-also"></a><span data-ttu-id="1ce5f-139">請參閱</span><span class="sxs-lookup"><span data-stu-id="1ce5f-139">See also</span></span>
+- [<span data-ttu-id="1ce5f-140">拓展您的 Microsoft 合作夥伴業務</span><span class="sxs-lookup"><span data-stu-id="1ce5f-140">Grow your Microsoft partner business</span></span>](grow-your-business.md)
