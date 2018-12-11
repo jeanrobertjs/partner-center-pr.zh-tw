@@ -1,6 +1,7 @@
-# [深入了解 Microsoft 合作夥伴中心](index.md)
+# [了解 Microsoft 合作夥伴中心](index.md)
 
 # [合作夥伴網路會員資格](mpn-overview.md)
+## [從 PMC 轉換到合作夥伴中心](pmc-to-partner-center.md)
 ## [建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)
 ## 會員優惠
 ### [行動套件](mpn-get-action-pack.md)
