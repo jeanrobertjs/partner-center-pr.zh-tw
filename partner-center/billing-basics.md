@@ -1,5 +1,5 @@
 ---
-title: 帳單基本知識 | 合作夥伴中心
+title: 帳單概觀 |合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
@@ -7,21 +7,21 @@ author: labrenne
 ms.author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c79f3f8eff26aec3af313711e9e83de2a4eace9
-ms.sourcegitcommit: d4e03062ba7ab9f23b0242086cf73a9fdd217ff6
+ms.custom: seodec18
+ms.openlocfilehash: 96a859fda2ba8641c701888c4a865b1a1278c268
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2018
-ms.locfileid: "6224656"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917600"
 ---
-# <a name="billing-basics"></a>帳單基本知識
+# <a name="billing-overview"></a>帳單概觀
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
 -  雲端解決方案提供者計畫中的合作夥伴
 
-# <a name="billing-overview"></a>帳單概觀
 根據產品、 解決方案和您代表客戶購買的服務，您會收到帳單這些購買中一或多個以下列方式：
 -   [授權型帳單](#licensebasedbilling)
 

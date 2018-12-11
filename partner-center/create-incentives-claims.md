@@ -2,17 +2,18 @@
 title: 建立和管理獎勵宣告 |合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 從合作夥伴中心的起始獎勵合作宣告。
+description: 從合作夥伴中心的起始獎勵合作宣告。 您可以看到所有進入歷程記錄中您宣告的建置的活動。
 author: labrenne
 ms.author: labrenne
 keywords: 獎勵宣告，合作宣告，合作資金
 ms.localizationpriority: medium
-ms.openlocfilehash: 1050494694e66d673c866cbd260c9e33f1897018
-ms.sourcegitcommit: ecee11d731f3d47f2513839a4b2b98011eb95f55
+ms.custom: seodec18
+ms.openlocfilehash: e14a3875eebdfab8e7ef79c29169ff9f5cbde086
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "7331017"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917430"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>建立和管理獎勵宣告
 

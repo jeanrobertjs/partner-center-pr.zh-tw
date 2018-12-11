@@ -2,20 +2,21 @@
 title: 銷售雲端解決方案提供者的 Office 365 政府 GCC |合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 雲端解決方案提供者計畫中的 Microsoft 合作夥伴可以銷售 Office 365 政府 GCC 雲端解決方案提供者訂閱給合格的客戶。 雲端解決方案提供者的 office 365 政府 GCC 套件的設計目的是為美國政府和政府約聘人員存取各級職權的雲端生產力服務，並包含狀態、 本機、 部落、 聯邦平民，和聯邦防禦機構。
+description: 雲端解決方案提供者計畫中的 Microsoft 合作夥伴可以銷售 Office 365 政府 GCC 雲端解決方案提供者訂閱給合格的客戶。 Office 365 雲端解決方案提供者的政府 GCC 是套件的設計目的是為美國政府和政府約聘人員存取雲端生產力服務。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 27bdeee374bfb25230355186cb2e4e403d51dfcb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: f604fc898646ae18e081f4d13443d7835ebce28e
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794961"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917660"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>雲端解決方案提供者訂閱的合格的客戶銷售 Office 365 政府 GCC
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
 -  雲端解決方案提供者合作夥伴

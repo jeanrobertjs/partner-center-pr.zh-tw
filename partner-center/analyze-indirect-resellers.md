@@ -1,23 +1,24 @@
 ---
 title: 分析間接經銷商效能 |合作夥伴中心
 ms.date: 07/12/2018
-Description: Get data about the performance of your indirect resellers.
+Description: Get data about the performance of your indirect resellers to identify successes as well as areas that may need more attention.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
-ms.openlocfilehash: bc0e38a516e77fbbbaf75d07f4f6344001bf1229
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: ddf55ceef4ec9d47e53d4697b8d54799ba70f6fd
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795841"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917650"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>分析間接經銷商績效 
 
-**適用對象：**
+**適用於**
 - 合作夥伴中心
 
 資料推動業務決策。 **經銷商分析**頁面中使用的計量，找出您成功、 間接經銷商的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。

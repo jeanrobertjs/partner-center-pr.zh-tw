@@ -2,17 +2,18 @@
 title: 代表您的客戶管理 Azure Reservations | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-Description: Managing Azure reservations on behalf of your customers.
+Description: To manage your customers’ Azure reservations post-purchase, you’ll select the customer and reservation you want to manage in Partner Center, and then make changes to the reservation in the Azure portal.
 author: v-petand
 ms.author: v-petand
 keywords: azure，保留區，管理，帳單，購買、 取消、 exchange，提前終止費用
 ms.localizationpriority: medium
-ms.openlocfilehash: fde21951dacab70a9f9b03d853647aabcc40d9af
-ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
+ms.custom: seodec18
+ms.openlocfilehash: 7096efb34f8c72d3c8dc724332dd031a180d0636
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "7011408"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917710"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表您的客戶管理 Microsoft Azure Reservations
 

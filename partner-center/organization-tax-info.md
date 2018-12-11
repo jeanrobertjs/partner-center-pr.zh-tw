@@ -2,16 +2,17 @@
 title: 組織稅務資訊 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 如果情況許可，請務必將加值稅識別碼加入您組織的資訊中
+description: 合作夥伴中心購買項目的稅金將由您的公司地址決定。 某些國家/地區的企業可以提供他們的加值稅 (VAT) 編號或當地的對等項目。
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 94cee559de16e10c23cc1d85aff7f661859373be
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 2a7d06a812098812b8edef274e7ca2b7de2f5c44
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797141"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917480"
 ---
 # <a name="organization-tax-information"></a>組織稅務資訊
 

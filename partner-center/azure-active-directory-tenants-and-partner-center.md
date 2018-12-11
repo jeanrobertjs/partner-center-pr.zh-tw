@@ -2,28 +2,29 @@
 title: 工作帳戶和合作夥伴中心 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 若要建立合作夥伴中心帳戶，您的公司必須有工作帳戶。
+description: 若要建立合作夥伴中心帳戶，您的公司必須有工作帳戶。 如果您有 Microsoft Azure 或 Office 365 的使用中訂閱，您已經有工作帳戶。
 author: labrenne
 ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796391"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917520"
 ---
-# <a name="your-company-work-account-and-the-partner-center"></a>您的公司工作帳戶與合作夥伴中心  
+# <a name="your-company-work-account-and-partner-center"></a>您的公司工作帳戶與合作夥伴中心  
 
-**適用對象：**
+**適用對象**
 
 -  合作夥伴中心
 
 ## <a name="why-you-need-a-work-account"></a>您必須有工作帳戶的原因
 
-我們需要您的公司工作帳戶連結至新的合作夥伴中心帳戶，讓您的帳戶使用者可以登入合作夥伴中心，使用他們的工作帳戶使用者名稱和密碼。
+我們需要將您公司的工作帳戶連結至新的合作夥伴中心帳戶，讓您的帳戶使用者可以使用他們的工作帳戶使用者名稱和密碼來登入合作夥伴中心。
 
 如果您的公司已經有工作帳戶，就可以將其連結至您的合作夥伴中心帳戶。 
 
@@ -47,7 +48,7 @@ ms.locfileid: "5796391"
 
 如需關於在 Azure AD 中新增網域的詳細資訊，請參閱[在 Azure AD 中新增網域或建立網域關聯](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
-# <a name="about-microsoft-azure"></a>關於 Microsoft Azure
+## <a name="about-microsoft-azure"></a>關於 Microsoft Azure
 
 Microsoft Azure 是一個公用雲端平台，公司可以用來在 Microsoft 管理的資料中心全球網路上建置、部署和管理應用程式。 公司會利用 Azure，透過虛擬功能或服務 (而不是實體機器) 來建置虛擬 IT 基礎結構。 
 

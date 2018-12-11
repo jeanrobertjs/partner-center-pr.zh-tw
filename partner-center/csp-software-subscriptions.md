@@ -2,17 +2,18 @@
 title: 透過雲端解決方案提供者的軟體訂閱銷售 |合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 銷售透過雲端解決方案提供者的軟體訂閱。
+description: 您現在可以取得、 佈建，並藉由利用 Azure Hybrid Benefit 管理 Azure 保留的執行個體與伺服器訂閱，透過 Microsoft 合作夥伴中心和 Azure 入口網站，代表商業客戶。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者，雲端解決方案提供者，雲端式服務，Azure，Azure RI、 Windows Server、 SQL Server，軟體訂閱
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f3881b77c4d4852afc522b9866eabab18ff0c54
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 508a442b9a4e33e0ce5941733141164add306a1c
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795161"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917470"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>透過雲端解決方案提供者的軟體訂閱銷售
 

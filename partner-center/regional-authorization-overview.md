@@ -2,18 +2,19 @@
 title: 雲端解決方案提供者的全球市場 |合作夥伴中心
 ms.topic: article
 ms.date: 11/03/2018
-description: 請參閱您可以在其中銷售雲端解決方案提供者優惠，根據您公司的位置。
+description: 請參閱的國家和地區，您可以在其中銷售雲端解決方案提供者優惠，根據您公司的位置。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者市場中，領域，其中 i 銷售雲端解決方案提供者，雲端解決方案提供者供應項目，地區，銷售雲端解決方案，全球雲端解決方案提供者
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e561b68a083d7a5839aaebe6aa9f03f4f7e9c93
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.custom: seodec18
+ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022230"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917670"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>雲端解決方案提供者計畫地區的市場和貨幣
 
@@ -336,7 +337,7 @@ ms.locfileid: "6022230"
 |  莫三比克     |          |
 |  阿曼           |   美元    |
 |  巴基斯坦       |   美元    |
-|  Palestinian Territory, Occupied |        |
+|  巴勒斯坦領域佔用 |        |
 |  卡達          |   美元    |
 |  沙烏地阿拉伯   |   美元    |
 |  賽爾維亞         |   美元    |
@@ -374,13 +375,13 @@ ms.locfileid: "6022230"
 |  俄羅斯         |    俄羅斯盧布   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>台灣地區和市場
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+如果您的公司位置為台灣，您可以在台灣的客戶銷售雲端解決方案提供者優惠。
 
 |  國家/地區 | Currency |
 |  -------------- |:--------:|
-|  Taiwan         |   新臺幣    |
+|  台灣         |   新臺幣    |
 |
 
 ## <a name="united-states-region-and-market"></a>美國地區和市場

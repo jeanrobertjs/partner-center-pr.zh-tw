@@ -2,17 +2,18 @@
 title: 新增 Azure 合作夥伴共用服務 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 雲端解決方案提供者合作夥伴現在可以購買 Azure 訂閱供自己使用。
+description: Azure 合作夥伴共用服務是一種新的供應類型，適用於雲端解決方案提供者計畫中的合作夥伴，讓合作夥伴購買自己要使用的 Azure 訂閱。
 author: labrenne
 ms.author: labrenne
 Keywords: Azure, shared services, tenant
 ms.localizationpriority: medium
-ms.openlocfilehash: c663ffe58575acc02663492bf14f5ae3a3c8b43e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795721"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917630"
 ---
 # <a name="add-azure-partner-shared-services"></a>新增 Azure 合作夥伴共用服務
 

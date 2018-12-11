@@ -7,12 +7,13 @@ ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797131"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917290"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>將 Dynamics AX 訂閱遷移至 Dynamics 365
 
@@ -69,9 +70,9 @@ Microsoft Dynamics AX 產品線已於 2016 年 11 月 1 日淘汰。 若要深�
 
 Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這些情況下，經銷商可能需要將客戶升級到新服務，或是從最後將會關閉的 SKU 移轉其訂閱。 將客戶從舊的 SKU 移轉到較新的 SKU 時需要依照以下順序執行：
 
--   [購買新訂閱](#manual-subscription-migration-purchasenewsubsc)；
--   [重新指派目前的使用者授權](#manual-subscription-migration-reassignlicenses)；
--   [取消舊訂閱](#manual-subscription-migration-cancelsubscriptions)。
+-   [購買新訂閱](#purchase-the-new-subscription)；
+-   [重新指派目前的使用者授權](#reassign-user-license)；
+-   [取消舊訂閱](#cancel-the-old-subscription)。
 
 在下列程序中，您會將客戶從 Microsoft Dynamics AX 或 CRM Online 移轉至 Dynamics 365。
 
@@ -79,7 +80,7 @@ Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這
 
 <a href="" id="purchasenewsubsc"></a>
 
-**購買新訂閱**
+### <a name="purchase-the-new-subscription"></a>購買新訂閱
 
 1.  在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶，選擇 [**新增訂閱**。
 2.  選取您要從型錄購買的訂閱 (在此案例中為 Dynamics 365 for Operations Enterprise Edition)，輸入授權數量，然後選擇 **\[送出\]**。
@@ -88,7 +89,7 @@ Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這
 
 <a href="" id="reassignlicenses"></a>下一步是將所有現有的使用者授權重新指派到新訂閱。
 
-**重新指派使用者授權**
+### <a name="reassign-user-licenses"></a>重新指派使用者授權
 
 1.  在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶，選擇 [**使用者和授權**。 客戶的 \[使用者與授權\] 頁面隨即開啟。
 2.  若要重新指派使用者授權，請選取要重新指派的使用者，然後選取 **\[管理授權\]**。
@@ -98,7 +99,7 @@ Microsoft 會持續提供新的產品及服務給經銷商和提供者。 在這
 
 <a href="" id="cancelsubscriptions"></a>將使用者授權移至新服務後，您就可以放心地取消最上層 \[客戶\] 的舊訂閱。
 
-**取消舊訂閱**
+### <a name="cancel-the-old-subscription"></a>取消舊訂閱
 
 1.  在**合作夥伴中心**功能表中，選取**客戶**，選取您想要移動的客戶並選取您想要取消的訂閱。
 2.  在訂閱詳細資料頁面中，將訂閱的 **\[狀態\]** 設定為 **\[暫停\]**。

@@ -2,21 +2,22 @@
 title: 雲端解決方案提供者直接合作夥伴新需求 |合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-Description: Fulfill the new requirements to be a direct partner in CSP
+Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
 author: labrenne
 ms.author: labrenne
 keywords: 雲端解決方案提供者，直接合作夥伴，直接帳單，需求
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f62e1e1c9571669f7dfd73e6be531027b0f9935
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 1179109ab7a745b61ee38fa2fdb0a8cde656bc42
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796731"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917640"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>雲端解決方案提供者直接合作夥伴的新需求
 
-**適用對象：**
+**適用於**
 
 - 合作夥伴中心
 

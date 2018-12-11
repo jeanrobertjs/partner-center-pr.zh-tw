@@ -2,17 +2,18 @@
 title: 適用於 Power BI 的合作夥伴中心分析應用程式 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 安裝合作夥伴中心 Power BI 應用程式。
+description: 使用適用於 Power BI 的合作夥伴中心分析應用程式，以視覺化方式呈現業務資料。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7da056ed927c511de37d853f481c5a898d417dcc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: fe82e88bab3c654cbdc5d7b704dc2a9526ba38cb
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796151"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917450"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>適用於 Power BI 的合作夥伴中心分析應用程式 (雲端解決方案提供者中的直接合作夥伴)
 

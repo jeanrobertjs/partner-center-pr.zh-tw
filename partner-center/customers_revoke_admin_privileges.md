@@ -1,18 +1,18 @@
 ---
 title: 授予合作夥伴的客戶代理人系統管理權限 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/7/2018
 description: 身為經銷商合作夥伴，您的客戶可以委派您做為其系統管理員。他們也可以移除權限。
 author: labrenne
 ms.author: labrenne
 keywords: 委派的系統管理員權限，系統管理，代表，移除權限，DAP，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: cb53cf35eafd40e929c30ee74b2f7e98b3e4332a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bb92bca26c3b6c73750a5bc02f2833172006d0ff
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795731"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917500"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>授予合作夥伴的客戶代理人系統管理權限
 
@@ -28,7 +28,7 @@ ms.locfileid: "5795731"
 
 2.  在下一頁，檢閱草稿電子郵件訊息。 您可以在預設電子郵件應用程式中開啟草稿訊息，或您可以將訊息複製到您的剪貼簿，並將它貼到電子郵件。 
 
-    >!重要<br>
+    >[!IMPORTANT]
     >您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。 
     
 3.  當您已經完成這個步驟，選取 **\[完成\]**。
@@ -39,9 +39,8 @@ ms.locfileid: "5795731"
 
 6.  若要管理客戶的帳戶、 服務、 使用者和授權，請選取其名稱旁邊的向下箭號來展開客戶記錄，然後選取您想要管理的服務的系統管理員入口網站。
 
-
-> [!IMPORTANT]  
-> 客戶可以在服務管理入口網站中重新指派或移除系統管理員權限。 不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。 在此情況下，如果客戶需要協助，請連絡 Microsoft 支援服務要求代表客戶開啟。
+>[!IMPORTANT]  
+>客戶可以重新指派或移除系統管理員權限的服務管理入口網站中。 不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。 在此情況下，如果客戶需要協助，請連絡 Microsoft 支援服務要求代表客戶開啟。
 
 您的客戶可以了解哪些合作夥伴擁有 Office 365 系統管理員入口網站從其租用戶系統管理員權限。 做法如下：
 
@@ -65,8 +64,8 @@ ms.locfileid: "5795731"
 2. 在詳細資料窗格中，選取 **\[移除委派的管理員\]**。
 3. 在確認窗格中，選取 **\[移除\]**。
 
-> [!IMPORTANT]  
-> 指派給合作夥伴的 Azure AD 角色是隱含的。 如果您嘗試使用 Azure AD 入口網站/PowerShell/Graph 列出 Azure AD 角色成員，不會傳回合作夥伴。 若要了解合作夥伴是否獲指派 Azure AD 角色，您必須參考 Office 365 系統管理員入口網站中的合作夥伴關係頁面，查看是否將委派系統管理權限授與給合作夥伴。
+>[!IMPORTANT]  
+>指派給合作夥伴的 Azure AD 角色是隱含的。 如果您嘗試使用 Azure AD 入口網站/PowerShell/Graph 列出 Azure AD 角色成員，不會傳回合作夥伴。 若要了解合作夥伴是否獲指派 Azure AD 角色，您必須參考 Office 365 系統管理員入口網站中的合作夥伴關係頁面，查看是否將委派系統管理權限授與給合作夥伴。
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Azure AD 中委派的系統管理員權限 
 
@@ -90,31 +89,23 @@ ms.locfileid: "5795731"
 
 - 當客戶使用 Office 365 入口網站移除合作夥伴的委派系統管理權限時，只要合作夥伴仍然獲指派一或多個訂閱的角色，合作夥伴就還是可以管理客戶的 Azure 訂閱。 若要停止合作夥伴管理 Azure 訂閱，客戶必須移除角色指派。
 
-## <a name="windows-autopilot"></a>Windows Autopilot 
+## <a name="windows-autopilot"></a>Windows Autopilot
 
-從合作夥伴中心，雲端解決方案提供者合作夥伴可以為其客戶沒有委派的系統管理員權限管理 Autopilot 設定檔。 了解如何[透過 Windows Autopilot 簡化裝置設定。](https://docs.microsoft.com/partner-center/autopilot)
+<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
-您可以執行的動作取決於上哪個雲端解決方案提供者模型中，您已經註冊中。
+從合作夥伴中心，雲端解決方案提供者合作夥伴可以為其客戶沒有委派的系統管理員權限，在這些情況下管理 Autopilot 設定檔： 
 
-|**作業**   |**直接帳單合作夥伴與間接提供者**   |**間接經銷商**   |
-|-----------------|-----------------------------------| -----------------------------|
-|新增裝置 (使用 csv 檔案)  |是      |不可以|
-|移除裝置   |是   |不可以|
-|新增設定檔   |是   | 是   |
-|更新設定檔   |是    |是   |
-|移除設定檔   |是   |是   |
-|套用設定檔到裝置   |是   |是   |
-|從裝置移除設定檔   |是   |是   | 
-
-- 如果客戶移除委派的 aministration 管理權，但會保留您的經銷商關係，您可以繼續為他們管理 Autopilot 設定檔。
+- 如果客戶移除委派的系統管理權限，但會保留您的經銷商關係，您可以繼續為他們管理 Autopilot 設定檔。
 
 - 您可以管理已加入您或其他合作夥伴的客戶裝置。 
 
 - 您無法管理您的客戶已透過商務用 Microsoft Store，教育，Microsoft Store 或 Microsoft Intune 入口網站新增的裝置。
 
-> [!IMPORTANT]  
-> 變更可能會繼續在合作夥伴中心的目前 Autopilot 管理體驗。 在這篇文章發行時，將會被視為下列變更：
+如需有關 Autopilot 的詳細資訊，請參閱[透過 Windows Autopilot 簡化裝置設定](https://docs.microsoft.com/partner-center/autopilot)。
 
-  - 合作夥伴必須由客戶授予委派的系統管理權限，合作夥伴才能新增/更新/移除設定檔以及從客戶租用戶中的任何裝置套用/移除設定檔。
+>[!IMPORTANT]  
+>變更可能會繼續在合作夥伴中心的目前 Autopilot 管理體驗。 在這篇文章發行時，將會被視為下列變更：
+
+- 合作夥伴必須由客戶授予委派的系統管理權限，合作夥伴才能新增/更新/移除設定檔以及從客戶租用戶中的任何裝置套用/移除設定檔。
 
 - 合作夥伴必須授予委派的系統管理權限客戶，合作夥伴才能移除由其他合作夥伴或客戶在客戶租用戶中新增的裝置。 否則，合作夥伴可以移除之前由相同合作夥伴加入的裝置。

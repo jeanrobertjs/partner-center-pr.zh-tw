@@ -2,18 +2,19 @@
 title: 在 CSP 中與間接提供者建立合作關係 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 身為 CSP 間接經銷商，您與間接提供者（也稱為代理商）合作，而後者與 Microsoft 有直接關係，而且可以提供客戶支援與帳單服務。 這表示您不必親自開始，反而可以與有經驗的技術提供者合作，讓他協助確保您成功。 在提供者-經銷商（雙層）模型中，提供者從 Microsoft 購買雲端解決方案和服務，接著由您轉售給客戶。
+description: 身為 CSP 間接經銷商，您與間接提供者（也稱為代理商）合作，而後者與 Microsoft 有直接關係，而且可以提供客戶支援與帳單服務。
 ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c17ab635ac95cc53d8900c12335823fcabd75eb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c82e2dffbed0807894c8bd161281bc8e7da23a24
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795491"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917490"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接提供者建立合作關係
 
@@ -96,7 +97,7 @@ ms.locfileid: "5795491"
 
 3. 輸入使用者的全名和唯一電子郵件地址。
 
-4. 選取代理人類型及系統管理員類型。合作夥伴中心存取權是以角色為基礎，讓您可以指派權限，自訂使用者檢視，只顯示使用者完成特定工作所需的功能。 如需各角色可以採取什麼動作的詳細資訊，請參閱[指派使用者權限](#assignuserpermissions)。
+4. 選取代理人類型及系統管理員類型。合作夥伴中心存取權是以角色為基礎，讓您可以指派權限，自訂使用者檢視，只顯示使用者完成特定工作所需的功能。 如需各角色可以採取什麼動作的詳細資訊，請參閱[指派使用者權限](#assign-user-permissions)。
 
 5. 選取 **\[新增\]** 建立使用者帳戶。 在下一頁，確認使用者的詳細資料。
 

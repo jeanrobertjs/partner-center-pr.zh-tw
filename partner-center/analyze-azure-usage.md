@@ -1,23 +1,24 @@
 ---
 title: 分析 Azure 使用率 |合作夥伴中心
 ms.date: 07/12/2018
-Description: Get data about the usage of your customers' Azure subscriptions.
+Description: Use Partner Center to get data about the usage of your customers' Azure subscriptions.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
-ms.openlocfilehash: e5ed6ce99a8319ce2e86b8522f1bdf40ccf5b2f9
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 2a1311cb163d5e7f12e7649b56e74e240f0caca1
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795661"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917410"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>取得您客戶 Azure 訂閱使用狀況的相關資料 
 
-**適用對象：**
+**適用於**
 - 合作夥伴中心
 
 資料推動業務決策。 使用**Azure 使用量**頁面中的計量，找出您的成功與需要更多人注意的領域。 在規劃新的業務務目標時，請使用此資訊。

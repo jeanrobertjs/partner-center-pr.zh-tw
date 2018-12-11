@@ -2,18 +2,19 @@
 title: 指派支援連絡人 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 身為經銷商合作夥伴，您可以指派經銷商做為支援連絡人。
+description: 當您為客戶設定 Microsoft 服務訂閱時，您可以將這些產品的技術支援指派給指定的經銷商，而不是自行提供支援。
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 ms.author: kenpacq
 keywords: 協助代理人, 支援, 指派支援連絡人, 指定的支援連絡人
 ms.localizationpriority: medium
-ms.openlocfilehash: aba162f1a1fa0a5fc7f4337ac6eb0e513d680b74
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1bcb937a6020e1e6508c6f53e2790680b625051
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795291"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917250"
 ---
 # <a name="assign-support-contacts"></a>指派支援連絡人
 
