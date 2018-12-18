@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
+ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683767"
+ms.lasthandoff: 12/18/2018
+ms.locfileid: "8973898"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 
@@ -48,8 +48,22 @@ ms.locfileid: "8683767"
 
 3.  接下來，在 Microsoft Azure 入口網站中檢視客戶的服務要求，請選取 **\[管理支援要求\]**。
 
+您可能需要為客戶建立支援要求，當您沒有該客戶的系統管理員權限。 這可能會發生在兩個案例的其中一個： 
+ 
+-   當您第一次建立關係時，您不沒有要求系統管理員權限。
+-   您管理客戶的 Azure 訂閱和否其他人，不需要您具有系統管理權限。
+ 
+在上述任一種情況，您可以使用下列程序來建立支援要求。 
 
+1.  複製從他們的帳戶頁面，在合作夥伴中心的客戶的網域名稱。
 
+2.  移至https://portal.azure.com/[customerdomainname]。 
+
+3.  選取 [需要支援的 Azure 訂閱。
+
+4.  選取 [**新增支援要求**，並依照提示以建立要求。 
+
+ 
 **Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite**
 
 1. 在 **\[建立服務要求\]** 區段中，選擇適當的支援主題類別。 您可能需要選取 **\[更多\]** 以檢視其他主題。    
