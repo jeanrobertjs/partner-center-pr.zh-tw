@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 控制面板廠商、 註冊 CPV 應用程式、 管理 CPV 應用程式
 ms.localizationpriority: medium
-ms.openlocfilehash: 687165520ca68d390ad2ca0d5468085734de7755
-ms.sourcegitcommit: 92f5e5c3d42d968719d70b1cadc021a918fdd97e
+ms.openlocfilehash: 47c404c7620d66cecb1dcb1572a7c8ac85d17261
+ms.sourcegitcommit: 98bcceea95b8d9ee5d386456a723f0b8da3ebd58
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8963060"
+ms.lasthandoff: 12/17/2018
+ms.locfileid: "8972125"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>註冊為控制項面板廠商合作夥伴中心
 
@@ -22,19 +22,19 @@ ms.locfileid: "8963060"
 
 控制面板廠商 (CPV) 是獨立軟體廠商的發展以便讓廠商與合作夥伴中心 Api 整合其系統的應用程式以供雲端解決方案提供者 (CSP) 的合作夥伴。 受控制台中的供應商不是直接在合作夥伴中心儀表板存取雲端解決方案提供者合作夥伴或合作夥伴中心 Api。
 
-若要提供 CPV 服務雲端解決方案提供者合作夥伴，合作夥伴中心要求您建立帳戶並註冊為 CPV 合作夥伴。 您在合作夥伴中心註冊並註冊您的應用程式之後，您將會有合作夥伴中心 Api 的存取權。  Microsoft 會與您連絡您的沙箱資訊。 不過，您已經有沙箱帳戶，如果繼續使用它。 您不需要新的沙箱。 
+無論您是目前的控制面板廠商 (CPV) 或新的 CPV 想要與 Microsoft 合作夥伴，Microsoft 現在您需要註冊才能註冊您的應用程式，並支援雲端解決方案提供者合作夥伴的合作夥伴中心。 若要建立帳戶，CPV 合作夥伴可以使用現有的雲端解決方案提供者合作夥伴租用戶或現有 CPV 租用戶，或可以建立新的租用戶上架程序的一部分。 如果 CPV 合作夥伴選擇使用現有的雲端解決方案提供者租用戶時，他們將需要建立多租用戶的個別應用程式，並在合作夥伴中心註冊 CPV 活動。 應用程式無法登錄為雲端解決方案提供者 」 和 「 CPV 應用程式。 您在合作夥伴中心註冊並註冊您的應用程式之後，您將會有合作夥伴中心 Api 的存取權。  Microsoft 會與您連絡透過合作夥伴中心通知您沙箱的資訊。 不過，您已經有沙箱帳戶，如果繼續使用它。 您不需要新的沙箱。   
 
 
 ## <a name="working-in-partner-center"></a>在合作夥伴中心中工作
 一旦您已註冊合作夥伴中心 CPV 體驗，並接受 CPV 合約，您可以：
 
-- 管理多租用戶應用程式 （新增應用程式至 Azure 入口網站，在合作夥伴中心註冊應用程式，及取消註冊應用程式）。
+- 管理多租用戶應用程式 （新增至 Azure 入口網站，應用程式註冊及取消註冊合作夥伴中心中的應用程式）。
 
 >[!Note] 
->CPVs 必須在合作夥伴中心註冊他們的應用程式若要取得合作夥伴中心 Api 的存取權。 新增至 Azure 入口網站的單獨的應用程式不授權 CPV 合作夥伴中心 Api 的應用程式。
+>CPVs 必須在合作夥伴中心註冊他們的應用程式才能取得授權的合作夥伴中心 api。 新增至 Azure 入口網站的單獨的應用程式不授權 CPV 合作夥伴中心 api 的應用程式。 
 
 - 檢視和管理您的 CPV 設定檔 
 
-- 檢視和管理使用者存取 CPV 功能。 CPV 合作夥伴中心角色是全域系統管理員。
+- 檢視和管理您需要存取 CPV 功能的使用者。 CPV 可以有唯一的角色是全域系統管理員。
 
 
