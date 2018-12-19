@@ -1,18 +1,18 @@
 ---
 title: 授予合作夥伴的客戶代理人系統管理權限 | 合作夥伴中心
 ms.topic: article
-ms.date: 12/7/2018
+ms.date: 12/18/2018
 description: 身為經銷商合作夥伴，您的客戶可以委派您做為其系統管理員。他們也可以移除權限。
 author: labrenne
 ms.author: labrenne
 keywords: 委派的系統管理員權限，系統管理，代表，移除權限，DAP，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: bb92bca26c3b6c73750a5bc02f2833172006d0ff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 92b23c15285db651abab326c18f5b25feaffdb6c
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917500"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976815"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>授予合作夥伴的客戶代理人系統管理權限
 

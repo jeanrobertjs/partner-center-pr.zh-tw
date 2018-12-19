@@ -1,113 +1,160 @@
 ---
-title: 透過 Windows Autopilot 簡化裝置設定 | 合作夥伴中心
-ms.topic: article
-ms.date: 10/29/2018
-description: 在合作夥伴中心新增 Windows AutoPilot 部署設定檔，以透過 Windows Autopilot 簡化裝置設定
-author: KPacquer
-ms.author: kenpacq
-keywords: autopilot, windows autopilot, microsoft autopilot, 全自動部署, oobe, 登入畫面
+title: 自訂裝置的全新的體驗，使用 Windows Autopilot 設定檔 |合作夥伴中心
+description: 預先設定裝置的 Autopilot 設定檔的內建的跨體驗。
+author: maggiepuccievans
+keywords: autopilot，windows autopilot，microsoft autopilot，全自動部署、 oobe、 登入畫面的內建的跨
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d6e6e015424eb8be83bae21b2e15bdc072e480b
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 7df979042799954c5b43a2adef1915941db02e57
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917560"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976805"
 ---
-<!--Maggie, 12/7/18 - removed line telling indirect resellers to go through their indirect providers for autopilot stuff as per Bhavya Chopra in bug 19841770.-->
+# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>自訂裝置的全新的體驗，使用 Windows Autopilot 設定檔設定
 
-# <a name="simplify-device-setup-with-windows-autopilot"></a>透過 Windows Autopilot 簡化裝置設定 
+**適用於**
 
-只需幾個步驟，Windows Autopilot 即可從第一次開機開始精簡並保護新的 Windows 10 專業版裝置的裝置設定。 若要深入了解，請參閱 [Windows AutoPilot 概觀](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)。
+- 雲端解決方案提供者直接帳單合作夥伴，間接提供者和間接經銷商
 
-## <a name="features"></a>功能
+如果您管理客戶的裝置，您可能需要自訂的全新體驗 (OOBE) 的客戶的使用者。 您可以預先設定新裝置與 Windows Autopilot 設定檔之前傳遞給客戶的裝置，並將新的設定檔套用至已經購買客戶的裝置。 本文說明如何建立和套用 Autopilot 設定檔到合作夥伴中心中的裝置。
 
-- **\[停用本機系統管理員權限\]**，適用於設定裝置的使用者
-- **\[顯示組織的登入頁面\]**。 組織可以預先定義的登入頁面，做為工作裝置，新增裝置，並將裝置與 Azure Active Directory。
-- OOBE 完成後，**\[在 Mobile Device Manager (MDM) 中註冊裝置\]** (例如：Microsoft Intune)。
-- **\[簡化全新體驗 (OOBE)\]**，可透過 Windows AutoPilot 部署設定檔，只使用必要的步驟和決策。
+如果您不熟悉已經 Autopilot，檢閱這些文章中的資訊：
 
-## <a name="requirements"></a>需求
+- [Windows Autopilot 概觀](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Autopilot 部署參考指南](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-- 已預先安裝 Windows 10 專業版 Creators Update (1703 版或更新版本) 或 Windows 10 Pro for Advanced PCs 的裝置。
-- 稱為硬體雜湊 (128 HWH 或 4k HWH) 的裝置識別碼，通常由 OEM 提供。 您可以使用識別碼指派組織設定檔，在合作夥伴中心。
-- 裝置必須能夠存取網際網路。 當裝置無法連線時，會顯示預設 Windows 全新體驗 (OOBE) 畫面。
-- 在 MDM 中註冊裝置必須有 Azure Active Directory Premium。
+## <a name="overview"></a>概觀
 
-## <a name="add-company-branded-sign-in-pages-to-oobe"></a>將公司品牌登入頁面新增至 OOBE
+透過 Windows Autopilot 功能，在合作夥伴中心，您可以建立自訂的設定檔，以套用到客戶的裝置。 下列的設定檔設定可供在這篇文章發行的時：
 
-若要新增公司專屬頁面，將裝置加入到您的公司[的 Azure AD 目錄](https://go.microsoft.com/fwlink/?linkid=848958)，並建立登入頁面。
+- 略過隱私權設定。 此選用的 Autopilot 設定檔設定可讓組織不在 OOBE 程序期間詢問有關隱私權設定。
 
-## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>使用 Windows AutoPilot 設定檔從 OOBE 移除 Windows 頁面
+- 停用在裝置上的建立本機系統管理員帳戶。 組織可以決定程序完成之後，設定裝置的使用者是否應該有系統管理員存取權。
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 部署設定檔中的設定範例
+- 自動設定公司或學校的裝置。 使用 Autopilot 註冊的所有裝置自動將會視為公司或學校的裝置，因此此問題不會要求在 OOBE 程序。
 
-- 略過設定中的隱私權設定
-- 停用設定中的本機系統管理員帳戶
-- 自動略過設定中的頁面
-  - 自動選取公司或學校的設定
-  - 略過 Cortana、OneDrive 及 OEM 註冊設定頁面
+- 略過 Cortana、 OneDrive 及 OEM 註冊設定頁面。 使用 Autopilot 註冊的所有裝置將會自動略都過這些頁面的內建的全新體驗 (OOBE) 程序期間。
 
-### <a name="add-devices-and-apply-a-profile"></a>新增裝置並套用設定檔
+- 略過使用者授權合約 (EULA)。 從 Windows 10 版本 1709年開始，組織可以略過 OOBE 程序期間所呈現的使用者授權合約頁面決定。 請參閱[Windows Autopilot EULA 關閉](#windows-autopilot-eula-dismissal)下方的重要資訊考慮關於 Windows 安裝程式期間略過使用者授權合約頁面。
 
-從合作夥伴中心，您可以建立 Windows AutoPilot 部署設定檔，並將它套用到裝置的清單。
+下列的設定檔和裝置管理權限和限制套用：
 
-若要進行裝置設定，請上傳裝置清單、建立適用於這些裝置的設定檔，然後加以套用。
+- 雲端解決方案提供者合作夥伴可以繼續管理與他們有經銷商關係的現有客戶的 Autopilot 設定檔，即使客戶已移除合作夥伴的委派的系統管理權限。
 
-1.  新增裝置清單。
+- 您可以為您已新增由您或其他雲端解決方案提供者合作夥伴的客戶管理現有的裝置。
 
-    銷售代理人和系統管理代理人擁有將裝置清單新增至合作夥伴中心的存取權限。
+- 您無法管理客戶上傳到商務用 Microsoft Store 或 Microsoft Intune 入口網站的裝置。
 
-    a. 建立.csv 檔案，使用[Windows AutoPilot 概觀](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)主題中的 PowerShell 指令碼。 這個 .csv 檔案內含裝置資訊，包括序號、OEM 名稱、型號名稱、產品識別碼和裝置識別碼。 
+## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>建立和管理合作夥伴中心中的 Autopilot 設定檔
 
-    b. 從合作夥伴中心，移至**客戶**> 選取收到裝置的客戶 >**裝置 > 將裝置新增**。
+在合作夥伴中心，您可以建立 Windows Autopilot 部署設定檔，並將其套用至裝置。
 
-    c. 命名裝置批次，例如「Contoso 銷售部門電腦 – 2017 年 4 月訂單」。 
+>[!NOTE]
+>只有系統管理代理人可以建立和套用設定檔。
 
-    d. 選取 [**瀏覽**> 選取裝置資訊檔案 >**驗證**。
+### <a name="create-a-new-autopilot-profile"></a>建立新的 Autopilot 設定檔
 
-    **注意：** 如果您在嘗試上傳 .csv 檔案後收到錯誤訊息，請檢查檔案的格式。 8 月之後，您可以只使用 [硬體雜湊]，或使用 OEM 名稱、序號和型號等欄位 (依此順序)，或是 Windows 產品識別碼。 您也可以使用 **\[新增裝置\]** 旁邊連結所提供的範例 .csv 檔案。
+1. 從合作夥伴中心功能表中選取**客戶**，然後選取您要建立的 Autopilot 設定檔的客戶。
 
-2.  建立可套用至裝置的設定檔 （只有系統管理代理人擁有可建立和套用設定檔，在合作夥伴中心的存取權）。
+2. 客戶的詳細資料頁面上，選取**裝置**。
 
-    a.  從**裝置**中，選取 [**加入新的設定檔**。
+3. **Windows Autopilot 設定檔**底下選取 [**加入新的設定檔**。
 
-    b.  命名設定檔，例如「Contoso 桌面設定檔 – 略過所有 OOBE」。
+4. 輸入設定檔的名稱和描述，然後再設定 OOBE 設定。 選擇：  
 
-    c.  設定 OOBE 設定。 例如，核取設定中的 **\[略過快速設定\]**。
+   - 略過設定中的隱私權設定
+   
+   - 停用設定中的本機系統管理員帳戶
+   
+   - 自動略過設定中的頁面<br>
+        （包括*自動選取公司或學校的設定*和*略過 Cortana、 OneDrive 及 OEM 註冊設定頁面*）
+   
+   - 略過使用者授權合約 (EULA)<br> 
+       >[!IMPORTANT] 請參閱[Windows Autopilot EULA 關閉](#windows-autopilot-eula-dismissal)下方的重要資訊考慮關於 Windows 安裝程式期間略過使用者授權合約頁面。
 
-    d.  選取 **\[提交\]**。
+5. 完成時選取 **\[提交\]**。
 
-3.  套用設定檔。
+### <a name="apply-an-autopilot-profile-to-customer-devices"></a>適用於客戶裝置的 Autopilot 設定檔
 
-    a.  從 **\[裝置\]** 的 **\[指派和刪除裝置\]** 窗格中選取您想要設定的裝置。 若要選取整個批次，請按一下批次名稱 (例如「Contoso 銷售部門電腦 – 2017 年 3 月訂單」) 旁邊的核取方塊。
+>[!NOTE]
+>下面的指示假設您已經到合作夥伴中心新增客戶的裝置，您可以存取其裝置的清單。 如果您尚未新增客戶的裝置，依照[新增裝置到客戶的帳戶](#add-devices-to-a-customers-account)中的指示，則請依照下列步驟。
 
-    b.  選取**套用設定檔**，然後選取設定檔 (例如，「 Contoso 桌面設定檔 – 略過所有 OOBE 」)。 裝置會在 [設定檔] 欄中顯示設定檔。
+為客戶建立 Autopilot 設定檔之後，您可以將它套用到客戶的裝置。
 
-4.  選用：測試看看您的設定檔是否有作用。
+1. 從合作夥伴中心功能表中選取**客戶**，然後選取您建立的 Autopilot 設定檔的客戶。
 
-    a.  將裝置連接到網路，然後開啟。
+2. 客戶的詳細資料頁面上，選取**裝置**。
+
+3. **套用至裝置的設定檔**底下選取的裝置或您想要新增至設定檔，然後選取 [**套用設定檔**的裝置群組。 **設定檔**] 欄中顯示您套用設定檔。
+
+4. 請依照下列步驟來驗證設定檔將會成功套用到裝置。
+
+    a.  將裝置連接到網路，並將它開啟。
 
     b.  確認是否會顯示適當的 OOBE 畫面 (如果有的話)。
 
-    c.  若要為新的使用者準備裝置，請完成 OOBE 體驗，然後將裝置重設為原廠預設設定。
+    c.  當 OOBE 程序會停止時，重設裝置，以其原廠預設設定為新使用者準備它。
 
-## <a name="to-update-or-delete-a-profile"></a>若要更新或刪除設定檔 
+### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>從客戶的裝置移除 Autopilot 設定檔
 
-您已指派給裝置的設定檔之後，您可以更新它，，即使您已經提供裝置給您的客戶。 當裝置連線至網際網路時，會在 OOBE 程序中下載您最新版本的設定檔。 如果客戶將其裝置還原為原廠預設設定，裝置將會重新下載設定檔的最新更新。 
+1. 從合作夥伴中心功能表中選取**客戶**，然後選取您建立的 Autopilot 設定檔的客戶。
 
-### <a name="remove-a-profile-from-a-device"></a>從裝置移除設定檔
+2. 客戶的詳細資料頁面上，選取**裝置**。
 
-1. 選取您要從中移除設定檔的裝置 (或裝置批次)。 
+3. 在**套用到裝置的設定檔**中，選取您想要移除的設定檔，然後選取 [**移除設定檔**的裝置。
 
-2. 在 **\[指派和刪除裝置\]** 窗格中選取 **\[移除設定檔\]**。
+  >[!NOTE]
+  >從裝置移除設定檔並不會從您的清單中刪除設定檔。 如果您想要刪除設定檔，請依照[更新或刪除 Autopilot 設定檔](#update-or-delete-an-autopilot-profile)中的指示。
 
-3. 移至您要移除和刪除的設定檔。 設定檔將會從所有裝置中刪除。
+### <a name="update-or-delete-an-autopilot-profile"></a>更新或刪除 Autopilot 設定檔
 
-從 **\[裝置\]** 選取設定檔。 您可以在此處修改現有的設定。
+如果客戶想要變更的全新體驗，您已經出貨給他們的裝置之後，您可以變更在合作夥伴中心設定檔。
 
-## <a name="windows-autopilot-eula-dismissal--important-information"></a>Windows Autopilot EULA 關閉 – 重要資訊
+當客戶的裝置連線到網際網路時，它會在 OOBE 程序期間下載最新版的設定檔。 此外，的隨時客戶將裝置還原為原廠預設設定，裝置將會重新下載最新的設定檔版本在 OOBE 程序。
 
-使用此工具可讓您在為客戶管理的裝置上設定個別 Windows 安裝。 如果獲得客戶授權，您可以選擇抑制或隱藏安裝 Windows 時，通常會對使用者顯示的特定安裝畫面，包括 EULA 接受畫面。 
+1. 從合作夥伴中心功能表中選取**客戶**，然後選取 [想要您變更 Autopilot 設定檔的客戶。
 
-使用此功能表示您同意抑制或隱藏專為通知使用者或接受條款所設計的任何畫面，表示您您已獲得客戶的充分同意和授權以隱藏條款，並代表客戶 (組織或個別使用者，視情況而定) 同意通知並接受適用於您客戶的條款。 這包括同意授權條款和條件，或若未使用此工具抑制或隱藏時會對使用者顯示的通知。 您的客戶不可在這些裝置上使用 Windows 軟體，如果他們未向 Microsoft 或其授權經銷商有效取得軟體授權。
+2. 客戶的詳細資料頁面上，選取**裝置**。
+
+3. **Windows Autopilot 設定檔**底下選取您需要更新的設定檔。 進行必要的變更，然後選取 [**送出**。
+
+若要刪除此設定檔，請從右上角的頁面選取**刪除設定檔**。
+
+### <a name="add-devices-to-a-customers-account"></a>將裝置新增至客戶帳戶
+
+>[!NOTE]
+>銷售專員和系統管理代理人可以將裝置新增至客戶的帳戶。
+
+您可以將自訂的 Autopilot 設定檔套用至客戶裝置之前，您必須能夠存取客戶的裝置清單。
+
+如果您打算使用 OEM 名稱、 序號和型號組合，請注意這些限制：
+
+- 這個 tuple 只適用於較新的裝置 （4 個 k 雜湊，例如） 並不支援 128b 雜湊 （RS2 和先前的裝置）。
+
+- Tuple 註冊會區分大小寫，，因此檔案中的資料必須符合模型與製造商的名稱***完全***所提供的 OEM 提供者 （硬體提供者）。
+
+請依照下列指示將裝置新增至合作夥伴中心中的客戶的帳戶。
+
+1. 從合作夥伴中心功能表中選取**客戶**，然後選取您想要管理其裝置的客戶。
+
+2. 客戶的詳細資料頁面上，選取**裝置**。
+
+3. 在**套用到裝置的設定檔**選取 [**新增裝置**。
+
+4. 輸入裝置清單的名稱，然後選取 [**瀏覽**上傳至合作夥伴中心的客戶的清單中 （在.csv 檔案格式）。
+
+    >[!NOTE]
+    >您應該與您的裝置購買收到此.csv 檔案。 如果您沒有收到.csv 檔案，您可以依照下列步驟中[新增 Windows Autopilot 裝置](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)建立一個自己。  
+
+5. 上傳.csv 檔案，然後選取 [**儲存**。
+
+如果您嘗試上傳.csv 檔案時收到錯誤訊息，請檢查檔案的格式。 您可以使用硬體雜湊只，或使用 OEM 名稱、 序號，和模型 （在此欄順序） 或 Windows 產品識別碼。 您也可以使用**新增裝置**旁邊連結所提供的範例.csv 檔案，來建立裝置清單。
+
+## <a name="windows-autopilot-eula-dismissal"></a>Windows Autopilot EULA 關閉
+
+### <a name="important-information"></a>重要資訊
+
+Windows Autopilot 可讓您管理您的客戶的裝置上設定自訂的安裝 Windows。 如果客戶授權若要這樣做，您可以抑制或隱藏特定安裝畫面，通常會顯示給使用者時設定 Windows，包括 （使用者授權合約） EULA 接受畫面。
+
+使用此函式，表示您同意抑制或隱藏專為提供使用者或接受條款表示您已經從您的客戶，以隱藏條款，以及您，代表的取得足夠同意和授權的任何畫面您的客戶 （是否在組織或個別使用者，視情況可能），同意通知並接受任何適用於您客戶的條款。 這包括同意授權條款和條件，或若未使用此工具抑制或隱藏時會對使用者顯示的通知。 您的客戶不可在這些裝置上使用 Windows 軟體，如果他們未向 Microsoft 或其授權經銷商有效取得軟體授權。
