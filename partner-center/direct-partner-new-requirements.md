@@ -1,19 +1,19 @@
 ---
 title: 雲端解決方案提供者直接合作夥伴新需求 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/18/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
-author: labrenne
+program.author: labrenne
 ms.author: labrenne
 keywords: 雲端解決方案提供者，直接合作夥伴，直接帳單，需求
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1179109ab7a745b61ee38fa2fdb0a8cde656bc42
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 3282e925c9364d443fca52036dd8ae673a8350c3
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917640"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980602"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>雲端解決方案提供者直接合作夥伴的新需求
 
@@ -21,30 +21,22 @@ ms.locfileid: "8917640"
 
 - 合作夥伴中心
 
-數位轉換已發展我們的客戶執行業務的方式。 若要瞬息萬變，並繼續提供異常服務，我們必須不斷演進，太。 為了協助參與雲端解決方案提供者計畫的所有合作夥伴我們持續安排工作的一部分成功和拓展，我們已更新適用於直接合作夥伴註冊需求。 這些新的需求加強我們的商業和技術的關係，與合作夥伴合作有基礎結構，支援的功能和作業來調整，並會增加他們的客戶基底以更高版本比平均速率。
+## <a name="enroll-as-a-direct-partner"></a>註冊為直接合作夥伴
 
-如果您目前已註冊為直接合作夥伴在雲端解決方案提供者計畫中，您應該準備符合這些更新的支援和服務需求由您的下一個註冊期間在 2018 年 8 月 31 日。 如果您無法 （或不喜歡） 以符合新的需求，您將需要重新註冊為雲端解決方案提供者經銷商。
+身為直接合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 我們已經更新適用於截至 2018 年 8 月 31 日的直接帳單合作夥伴註冊需求。 這些新的需求將協助您加速您的業務成長以正確的雲端解決方案提供者註冊模型並加強您客戶的關係，與加值服務和支援。 
 
-## <a name="the-new-requirements"></a>新的需求
+### <a name="minimum-requirements"></a>最低要求條件
 
-**支援**
-
-- 購買與 Microsoft 進階支援合作夥伴套件的一對一的優先順序雲端支援，展開您支援的功能。 或者，選擇 Microsoft 頂級支援合作夥伴套件，來存取完整的類別目錄的主動式服務、 24/7 提升權限/修正的支援，以及技術帳戶管理跨雲端、 混合式和內部部署。 
-
-**服務**
-
-- 示範您提供至少一個受管理的服務、 IP 的服務或客戶解決方案的應用程式。 
-
-深入了解新增[受管理的服務](https://partner.microsoft.com/business-opportunities/managed-services-provider) 
-
-- 符合最低基礎結構功能，例如計費以及佈建。
-我們會監視年度的效能，以確認符合這些需求的直接合作夥伴會示範穩定業務成長。 不有任何特定的效能目標備妥在這個時候，但 Microsoft 可能會實作列在未來的效能。 
-
-## <a name="working-with-an-indirect-provider"></a>與間接提供者合作
-
-無法或 （不喜歡） 的合作夥伴以符合所需的直接註冊需求都可以參與為雲端解決方案提供者計畫的經銷商。 身為經銷商，合作夥伴將與基礎結構、 支援和服務提供者間接提供者運作。 這可讓經銷商優惠快速，控制事先成本，並將焦點放在符合客戶需求其雲端解決方案會增加。  
+|**需求**|                             |
+|--------------------------------|--------------------------------------------------------------|
+|**MPN 識別碼**   |您的商務位置作用中 Microsoft 合作夥伴網路 (MPN) 識別碼。   |
+|**背書**   |接受並代表您的組織簽署法律合約的授權。|
+|**支援**   |能夠提供雲端產品的第一層支援至您的客戶。|
+|**受管理的服務**   |至少一個受管理的服務、 IP 服務或客戶解決方案的應用程式。 深入了解新增[受管理的服務](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)。|
+|**應收帳款** |管理客戶帳單和佈建就地組織基礎結構。 
 
 深入了解成為[雲端解決方案提供者經銷商](https://partner.microsoft.com/cloud-solution-provider)
 
+## <a name="transition-from-direct-to-indirect-reseller"></a>從直接存取間接經銷商轉換
 
-
+如果您決定要從直接帳單商務移到間接經銷商業務，有幾個您將需要採取的步驟。 若要深入了解轉換，閱讀[來回轉換為雲端解決方案提供者間接經銷商的雲端解決方案提供者 (CSP) 直接合作夥伴](transition-direct-to-indirect) 

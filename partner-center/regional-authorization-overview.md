@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: 雲端解決方案提供者市場中，領域，其中 i 銷售雲端解決方案提供者，雲端解決方案提供者供應項目，地區，銷售雲端解決方案，全球雲端解決方案提供者
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917670"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980622"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>雲端解決方案提供者計畫地區的市場和貨幣
 
@@ -27,7 +27,7 @@ ms.locfileid: "8917670"
 >[!IMPORTANT]
 > 從開始在 7，2018 年 11 月，您將需要確認客戶已接受 Microsoft Cloud 合約，藉由提供簽署它的人的相關資訊。 如需詳細資訊，請參閱[確認客戶的接受的 Microsoft Cloud 合約](confirm-consent.md)。
 
-若要判斷您可以在其中銷售雲端解決方案提供者優惠，請其中一個下列清單中找到貴公司的位置。
+若要判斷您可以在其中銷售雲端解決方案提供者優惠，請其中一個下列清單中找到貴公司的位置。 您必須擁有的作用中的 Microsoft 合作夥伴網路 (MPN) 識別碼，您想要在銷售的位置。  
 
 ## <a name="africa-region-and-market"></a>非洲地區和市場
 
@@ -337,7 +337,7 @@ ms.locfileid: "8917670"
 |  莫三比克     |          |
 |  阿曼           |   美元    |
 |  巴基斯坦       |   美元    |
-|  Palestinian Territory, Occupied |        |
+|  巴勒斯坦領域佔用 |        |
 |  卡達          |   美元    |
 |  沙烏地阿拉伯   |   美元    |
 |  賽爾維亞         |   美元    |
@@ -375,9 +375,9 @@ ms.locfileid: "8917670"
 |  俄羅斯         |    俄羅斯盧布   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>台灣地區和市場
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+如果您的公司位置為台灣，您可以在台灣的客戶銷售雲端解決方案提供者優惠。
 
 |  國家/地區 | Currency |
 |  -------------- |:--------:|
