@@ -1,50 +1,42 @@
 ---
 title: 雲端解決方案提供者直接合作夥伴新需求 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/18/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
-author: labrenne
+program.author: labrenne
 ms.author: labrenne
 keywords: 雲端解決方案提供者，直接合作夥伴，直接帳單，需求
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1179109ab7a745b61ee38fa2fdb0a8cde656bc42
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 3282e925c9364d443fca52036dd8ae673a8350c3
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917640"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980602"
 ---
-# <a name="csp-direct-partner-new-requirements"></a><span data-ttu-id="5c3cd-103">雲端解決方案提供者直接合作夥伴的新需求</span><span class="sxs-lookup"><span data-stu-id="5c3cd-103">CSP direct partner new requirements</span></span>
+# <a name="csp-direct-partner-new-requirements"></a><span data-ttu-id="a2c8e-103">雲端解決方案提供者直接合作夥伴的新需求</span><span class="sxs-lookup"><span data-stu-id="a2c8e-103">CSP direct partner new requirements</span></span>
 
-**<span data-ttu-id="5c3cd-104">適用於</span><span class="sxs-lookup"><span data-stu-id="5c3cd-104">Applies to</span></span>**
+**<span data-ttu-id="a2c8e-104">適用於</span><span class="sxs-lookup"><span data-stu-id="a2c8e-104">Applies to</span></span>**
 
-- <span data-ttu-id="5c3cd-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="5c3cd-105">Partner Center</span></span>
+- <span data-ttu-id="a2c8e-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="a2c8e-105">Partner Center</span></span>
 
-<span data-ttu-id="5c3cd-106">數位轉換已發展我們的客戶執行業務的方式。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-106">Digital transformation is evolving the way our customers do business.</span></span> <span data-ttu-id="5c3cd-107">若要瞬息萬變，並繼續提供異常服務，我們必須不斷演進，太。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-107">To keep pace and continue delivering extraordinary service, we must evolve, too.</span></span> <span data-ttu-id="5c3cd-108">為了協助參與雲端解決方案提供者計畫的所有合作夥伴我們持續安排工作的一部分成功和拓展，我們已更新適用於直接合作夥伴註冊需求。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-108">As part of our ongoing efforts to help all partners participating in the CSP program succeed and grow, we’ve updated enrollment requirements for direct partners.</span></span> <span data-ttu-id="5c3cd-109">這些新的需求加強我們的商業和技術的關係，與合作夥伴合作有基礎結構，支援的功能和作業來調整，並會增加他們的客戶基底以更高版本比平均速率。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-109">These new requirements strengthen our business and technical relationships with partners who have the infrastructure, support capability, and operations to scale, and are growing their customer base at a higher-than-average rate.</span></span>
+## <a name="enroll-as-a-direct-partner"></a><span data-ttu-id="a2c8e-106">註冊為直接合作夥伴</span><span class="sxs-lookup"><span data-stu-id="a2c8e-106">Enroll as a direct partner</span></span>
 
-<span data-ttu-id="5c3cd-110">如果您目前已註冊為直接合作夥伴在雲端解決方案提供者計畫中，您應該準備符合這些更新的支援和服務需求由您的下一個註冊期間在 2018 年 8 月 31 日。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-110">If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements by your next enrollment period following August 31, 2018.</span></span> <span data-ttu-id="5c3cd-111">如果您無法 （或不喜歡） 以符合新的需求，您將需要重新註冊為雲端解決方案提供者經銷商。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-111">If you’re unable (or prefer not) to meet the new requirements, you’ll need to re-enroll as a CSP reseller.</span></span>
+<span data-ttu-id="a2c8e-107">身為直接合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。</span><span class="sxs-lookup"><span data-stu-id="a2c8e-107">As a direct partner, you own the end-to-end relationship with your customer and with Microsoft.</span></span> <span data-ttu-id="a2c8e-108">我們已經更新適用於截至 2018 年 8 月 31 日的直接帳單合作夥伴註冊需求。</span><span class="sxs-lookup"><span data-stu-id="a2c8e-108">We have updated enrollment requirements for direct bill partners as of August 31, 2018.</span></span> <span data-ttu-id="a2c8e-109">這些新的需求將協助您加速您的業務成長以正確的雲端解決方案提供者註冊模型並加強您客戶的關係，與加值服務和支援。</span><span class="sxs-lookup"><span data-stu-id="a2c8e-109">These new requirements will help you accelerate your business growth with the right CSP enrollment model and strengthen your customer relationships with value-added services and support.</span></span> 
 
-## <a name="the-new-requirements"></a><span data-ttu-id="5c3cd-112">新的需求</span><span class="sxs-lookup"><span data-stu-id="5c3cd-112">The new requirements</span></span>
+### <a name="minimum-requirements"></a><span data-ttu-id="a2c8e-110">最低要求條件</span><span class="sxs-lookup"><span data-stu-id="a2c8e-110">Minimum requirements</span></span>
 
-**<span data-ttu-id="5c3cd-113">支援</span><span class="sxs-lookup"><span data-stu-id="5c3cd-113">Support</span></span>**
+|**<span data-ttu-id="a2c8e-111">需求</span><span class="sxs-lookup"><span data-stu-id="a2c8e-111">Requirement</span></span>**|                             |
+|--------------------------------|--------------------------------------------------------------|
+|**<span data-ttu-id="a2c8e-112">MPN 識別碼</span><span class="sxs-lookup"><span data-stu-id="a2c8e-112">MPN ID</span></span>**   |<span data-ttu-id="a2c8e-113">您的商務位置作用中 Microsoft 合作夥伴網路 (MPN) 識別碼。</span><span class="sxs-lookup"><span data-stu-id="a2c8e-113">An active Microsoft Partner Network (MPN) ID for your business location.</span></span>   |
+|**<span data-ttu-id="a2c8e-114">背書</span><span class="sxs-lookup"><span data-stu-id="a2c8e-114">Endorsement</span></span>**   |<span data-ttu-id="a2c8e-115">接受並代表您的組織簽署法律合約的授權。</span><span class="sxs-lookup"><span data-stu-id="a2c8e-115">The authority to accept and sign legal agreements on behalf of your organization.</span></span>|
+|**<span data-ttu-id="a2c8e-116">支援</span><span class="sxs-lookup"><span data-stu-id="a2c8e-116">Support</span></span>**   |<span data-ttu-id="a2c8e-117">能夠提供雲端產品的第一層支援至您的客戶。</span><span class="sxs-lookup"><span data-stu-id="a2c8e-117">The ability to provide the first level of cloud product support to your customers.</span></span>|
+|**<span data-ttu-id="a2c8e-118">受管理的服務</span><span class="sxs-lookup"><span data-stu-id="a2c8e-118">Managed Service</span></span>**   |<span data-ttu-id="a2c8e-119">至少一個受管理的服務、 IP 服務或客戶解決方案的應用程式。</span><span class="sxs-lookup"><span data-stu-id="a2c8e-119">At least one managed service, IP service, or customer solution application.</span></span> <span data-ttu-id="a2c8e-120">深入了解新增[受管理的服務](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)。</span><span class="sxs-lookup"><span data-stu-id="a2c8e-120">Learn more about adding [managed services](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).</span></span>|
+|**<span data-ttu-id="a2c8e-121">應收帳款</span><span class="sxs-lookup"><span data-stu-id="a2c8e-121">Accounts receivable</span></span>** |<span data-ttu-id="a2c8e-122">管理客戶帳單和佈建就地組織基礎結構。</span><span class="sxs-lookup"><span data-stu-id="a2c8e-122">The organizational infrastructure in place to manage customer billing and provisioning.</span></span> 
 
-- <span data-ttu-id="5c3cd-114">購買與 Microsoft 進階支援合作夥伴套件的一對一的優先順序雲端支援，展開您支援的功能。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-114">Expand your support capabilities by purchasing one-on-one, prioritized cloud support with a Microsoft Advanced Support for Partners package.</span></span> <span data-ttu-id="5c3cd-115">或者，選擇 Microsoft 頂級支援合作夥伴套件，來存取完整的類別目錄的主動式服務、 24/7 提升權限/修正的支援，以及技術帳戶管理跨雲端、 混合式和內部部署。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-115">Or, choose a Microsoft Premier Support for Partners package to access the complete catalog of proactive services, 24/7 elevated break/fix support, and technical account management across cloud, hybrid, and on-premises.</span></span> 
+<span data-ttu-id="a2c8e-123">深入了解成為[雲端解決方案提供者經銷商](https://partner.microsoft.com/cloud-solution-provider)</span><span class="sxs-lookup"><span data-stu-id="a2c8e-123">Learn more about becoming a [CSP reseller](https://partner.microsoft.com/cloud-solution-provider)</span></span>
 
-**<span data-ttu-id="5c3cd-116">服務</span><span class="sxs-lookup"><span data-stu-id="5c3cd-116">Services</span></span>**
+## <a name="transition-from-direct-to-indirect-reseller"></a><span data-ttu-id="a2c8e-124">從直接存取間接經銷商轉換</span><span class="sxs-lookup"><span data-stu-id="a2c8e-124">Transition from direct to indirect reseller</span></span>
 
-- <span data-ttu-id="5c3cd-117">示範您提供至少一個受管理的服務、 IP 的服務或客戶解決方案的應用程式。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-117">Demonstrate that you provide at least one managed service, IP service, or customer solution application.</span></span> 
-
-<span data-ttu-id="5c3cd-118">深入了解新增[受管理的服務](https://partner.microsoft.com/business-opportunities/managed-services-provider)</span><span class="sxs-lookup"><span data-stu-id="5c3cd-118">Learn more about adding [managed services](https://partner.microsoft.com/business-opportunities/managed-services-provider)</span></span> 
-
-- <span data-ttu-id="5c3cd-119">符合最低基礎結構功能，例如計費以及佈建。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-119">Meet the minimum infrastructure capabilities, such as billing and provisioning.</span></span>
-<span data-ttu-id="5c3cd-120">我們會監視年度的效能，以確認符合這些需求的直接合作夥伴會示範穩定業務成長。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-120">We are monitoring annual performance to confirm that direct partners who meet these requirements are demonstrating steady business growth.</span></span> <span data-ttu-id="5c3cd-121">不有任何特定的效能目標備妥在這個時候，但 Microsoft 可能會實作列在未來的效能。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-121">There are no specific performance goals in place at this time, but Microsoft may implement a performance bar in the future.</span></span> 
-
-## <a name="working-with-an-indirect-provider"></a><span data-ttu-id="5c3cd-122">與間接提供者合作</span><span class="sxs-lookup"><span data-stu-id="5c3cd-122">Working with an indirect provider</span></span>
-
-<span data-ttu-id="5c3cd-123">無法或 （不喜歡） 的合作夥伴以符合所需的直接註冊需求都可以參與為雲端解決方案提供者計畫的經銷商。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-123">Partners who are unable or (prefer not) to meet the necessary direct enrollment requirements can participate as a reseller in the CSP program.</span></span> <span data-ttu-id="5c3cd-124">身為經銷商，合作夥伴將與基礎結構、 支援和服務提供者間接提供者運作。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-124">As a reseller, partners will work with an indirect provider who offers infrastructure, support, and services.</span></span> <span data-ttu-id="5c3cd-125">這可讓經銷商優惠快速，控制事先成本，並將焦點放在符合客戶需求其雲端解決方案會增加。</span><span class="sxs-lookup"><span data-stu-id="5c3cd-125">This allows resellers to ramp up their cloud solution offers quickly, control upfront costs, and focus on meeting customer needs.</span></span>  
-
-<span data-ttu-id="5c3cd-126">深入了解成為[雲端解決方案提供者經銷商](https://partner.microsoft.com/cloud-solution-provider)</span><span class="sxs-lookup"><span data-stu-id="5c3cd-126">Learn more about becoming a [CSP reseller](https://partner.microsoft.com/cloud-solution-provider)</span></span>
-
-
-
+<span data-ttu-id="a2c8e-125">如果您決定要從直接帳單商務移到間接經銷商業務，有幾個您將需要採取的步驟。</span><span class="sxs-lookup"><span data-stu-id="a2c8e-125">If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take.</span></span> <span data-ttu-id="a2c8e-126">若要深入了解轉換，閱讀[來回轉換為雲端解決方案提供者間接經銷商的雲端解決方案提供者 (CSP) 直接合作夥伴](transition-direct-to-indirect)</span><span class="sxs-lookup"><span data-stu-id="a2c8e-126">To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect)</span></span> 
