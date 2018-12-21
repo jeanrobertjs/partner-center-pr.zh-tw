@@ -337,7 +337,7 @@ ms.locfileid: "8980622"
 |  莫三比克     |          |
 |  阿曼           |   美元    |
 |  巴基斯坦       |   美元    |
-|  巴勒斯坦領域佔用 |        |
+|  Palestinian Territory, Occupied |        |
 |  卡達          |   美元    |
 |  沙烏地阿拉伯   |   美元    |
 |  賽爾維亞         |   美元    |
@@ -375,9 +375,9 @@ ms.locfileid: "8980622"
 |  俄羅斯         |    俄羅斯盧布   |
 |
 
-## <a name="taiwan-region-and-market"></a>台灣地區和市場
+## <a name="taiwan-region-and-market"></a>Taiwan region and market
 
-如果您的公司位置為台灣，您可以在台灣的客戶銷售雲端解決方案提供者優惠。
+If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
 
 |  國家/地區 | Currency |
 |  -------------- |:--------:|
