@@ -13,6 +13,7 @@
 # [雲端解決方案提供者](csp-overview.md)
 ## [參加雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
 ## [雲端解決方案提供者直接合作夥伴的新需求](direct-partner-new-requirements.md) 
+## [註冊為控制台廠商](enroll-as-cpv.md)
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
 ## [CSP 地區市場及貨幣](regional-authorization-overview.md)
 ## [依地區和語言的 Microsoft Cloud 合約](agreements.md)
@@ -85,7 +86,8 @@
 ### [提高採用率與滿意度](increasing-adoption-and-satisfaction.md)
 ### [透過 Windows Autopilot 簡化裝置設定](autopilot.md)
 ##  將優惠方案升級或轉移至較新版本
-### [將 Dynamics AX 訂閱升級至 Dynamics 365](manual-subscription-migration.md)
+### [將 Dynamics 365 和 Customer Engagement Plan 從基本 （合格的供應項目） 移轉至較新版本](manual-subscription-migration.md)
+### [將 Dynamics 365 商務版提供移轉至較新版本](migrate-dynamics-365-to-new.md)
 ### [將 Office 365 企業版 E4 訂閱遷移至新版 Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [將商務用 Skype Online 方案 1 移轉至較新的 Office 365 版本](skype-retiring.md)
 ### [轉移 Azure 訂閱](switch-azure-subscriptions-to-a-different-partner.md)
