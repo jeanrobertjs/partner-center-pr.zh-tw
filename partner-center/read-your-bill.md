@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683787"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990930"
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -57,7 +57,7 @@ ms.locfileid: "8683787"
 </tr>
 <tr class="even">
 <td>帳單地址</td>
-<td>我們可寄送發票給您的收件地址。 若要變更此地址，請移至 \[帳戶設定\] > \[合作夥伴帳單設定檔\]。 </td>
+<td>我們可寄送發票給您的收件地址。 若要變更的公司名稱或位址，請編輯您帳單設定檔的合作夥伴中心。 </td>
 </tr>
 <tr class="odd">
 <td>授權型費用</td>
@@ -105,11 +105,11 @@ ms.locfileid: "8683787"
 </tr>
 <tr class="odd">
 <td>計費期間</td>
-<td>雲端解決方案提供者合作夥伴是每月計費或年度計費。</td>
+<td>每個月期間，一直到發票日期。 這是的期間期間所取用的用量型服務和授權型服務是一致的任何貸記金額調整或變更授權計數。</td>
 </tr>
 <tr class="even">
 <td>發票日期</td>
-<td>您收到發票的日期。</td>
+<td>您的帳單日期或您的發票在其產生的每個月的週年日。</td>
 </tr>
 <tr class="odd">
 <td>付款期限</td>
@@ -129,7 +129,7 @@ ms.locfileid: "8683787"
 </tr>
 <tr class="odd">
 <td>服務收件者</td>
-<td>服務使用所在的地址。 (這是與公司審查相關聯的公司登記地址，並且無法變更。)</td>
+<td>服務使用所在的地址。 （這是與公司登記地相關聯的正式的公司地址）。</td>
 </tr>
 </tbody>
 </table>

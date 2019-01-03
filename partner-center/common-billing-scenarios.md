@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795631"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990960"
 ---
 # <a name="common-billing-scenarios"></a>常見帳單案例
 
@@ -32,6 +32,8 @@ ms.locfileid: "5795631"
 ## <a href="" id="usagebased"></a>用量型帳單
 
 用量型訂閱會在訂閱週年日，於每個月期後付款。 例如，如果訂閱週年日為 15 日，將在 1 月 15 日向您收取 12 月 15 日到 1 月 14 日服務期間的費用。 我們會在 2 月 15 日向您收取 1 月 15 日到 2 月 14 日服務期間的費用，以此類推。在訂閱週年日產生的費用會出現在下一期發票和對帳檔案上。
+
+您有時可能會注意到某些使用量費用是從您的發票，遺失，或從先前的每個月的使用方式收取中目前月份的發票。 這不是錯誤;它只是表示服務已附上時間之後發生的服務。 下個月的帳單會出現在帳單週期結束的 24 小時內報告的使用方式。 
 
 用量型訂閱可以隨時暫停。 
 

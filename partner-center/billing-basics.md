@@ -8,16 +8,16 @@ ms.author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 96a859fda2ba8641c701888c4a865b1a1278c268
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: eebf3573cdb6724497bb7933d7edc08879dc8e5e
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917600"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990940"
 ---
 # <a name="billing-overview"></a>帳單概觀
 
-**適用於**
+**適用對象：**
 
 -  合作夥伴中心
 -  雲端解決方案提供者計畫中的合作夥伴
@@ -37,7 +37,7 @@ ms.locfileid: "8917600"
 
     當您購買 Azure reservations 或其他軟體訂閱時，您事先支付的預先設定的詞彙。 您正在預先支付的因為您收到請款在一個總金額。 
     
-如果您選擇每月計費，或是您已經購買每月計費的用量型產品，您每月帳單日期是月份的當您在合作夥伴中心建立您的雲端解決方案提供者帳戶時，您選取日期。 您已成功建立您的雲端解決方案提供者帳戶之後，Microsoft 會傳送包含您帳單日期的確認電子郵件。
+如果您選擇每月計費，或是您已經購買每月計費的用量型產品，您每月帳單日期是月份的當您在合作夥伴中心建立您的雲端解決方案提供者帳戶時，您選取日期。 您已成功建立您的雲端解決方案提供者帳戶之後，Microsoft 會傳送包含您帳單日期的確認電子郵件。 一旦建立之後，就無法變更此日期。 
 
 ## <a name="pricing-and-invoicing"></a>定價和發票開立
 您可以在一 (1) 個月前事先看到價目表，價目表每個月會更新一次。 授權型價格保證在訂閱期間維持不變，通常是從購買日期算起的 12 個月。 用量型價格每個月可能會有所變更。 
