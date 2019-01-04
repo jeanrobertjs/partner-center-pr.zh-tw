@@ -14,6 +14,7 @@
 ## [參加雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
 ## [雲端解決方案提供者直接合作夥伴的新需求](direct-partner-new-requirements.md) 
 ## [註冊為控制台廠商](enroll-as-cpv.md)
+###[您必須在您的租用戶啟用 Multi-Factor Authentication (MFA)，才能存取此頁面](enable-mfa.md)
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
 ## [CSP 地區市場及貨幣](regional-authorization-overview.md)
 ## [依地區和語言的 Microsoft Cloud 合約](agreements.md)
