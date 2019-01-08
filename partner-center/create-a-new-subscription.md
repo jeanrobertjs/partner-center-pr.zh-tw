@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 4494517f295dde1439fe2e5831cf91d5012424ed
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683717"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995862"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a><span data-ttu-id="86193-103">建立、暫停或取消客戶訂閱</span><span class="sxs-lookup"><span data-stu-id="86193-103">Create, suspend, or cancel customer subscriptions</span></span>
 
@@ -30,23 +30,23 @@ ms.locfileid: "8683717"
 
 **<span data-ttu-id="86193-111">建立新訂閱</span><span class="sxs-lookup"><span data-stu-id="86193-111">Create a new subscription</span></span>**
 
-1.  <span data-ttu-id="86193-112">在**合作夥伴中心**功能表中，選取**客戶**，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="86193-112">From the **Partner Center** menu, select **Customers**, then choose a customer from the list.</span></span>
+1. <span data-ttu-id="86193-112">在**合作夥伴中心**功能表中，選取**客戶**，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="86193-112">From the **Partner Center** menu, select **Customers**, then choose a customer from the list.</span></span>
 
-2.  <span data-ttu-id="86193-113">選取 **\[新訂閱\]**。</span><span class="sxs-lookup"><span data-stu-id="86193-113">Select **New subscription**.</span></span>
+2. <span data-ttu-id="86193-113">選取 **\[新訂閱\]**。</span><span class="sxs-lookup"><span data-stu-id="86193-113">Select **New subscription**.</span></span>
 
-3.  <span data-ttu-id="86193-114">選取您要使用的訂閱計費類型。</span><span class="sxs-lookup"><span data-stu-id="86193-114">Select the type of subscription billing you want to use.</span></span>  <span data-ttu-id="86193-115">如需可協助您在每月與年度計費頻率之間做選擇的詳細資訊，請參閱[新計費功能的常見問題集](faq-about-new-billing-features.md)</span><span class="sxs-lookup"><span data-stu-id="86193-115">See [FAQ about new billing features](faq-about-new-billing-features.md) for information that will help you decide between the monthly and annual billing frequency.</span></span>
+3. <span data-ttu-id="86193-114">選取您要使用的訂閱計費類型。</span><span class="sxs-lookup"><span data-stu-id="86193-114">Select the type of subscription billing you want to use.</span></span>  <span data-ttu-id="86193-115">如需可協助您在每月與年度計費頻率之間做選擇的詳細資訊，請參閱[新計費功能的常見問題集](faq-about-new-billing-features.md)</span><span class="sxs-lookup"><span data-stu-id="86193-115">See [FAQ about new billing features](faq-about-new-billing-features.md) for information that will help you decide between the monthly and annual billing frequency.</span></span>
  
- >[!Note]
- ><span data-ttu-id="86193-116">您可以提供試用訂閱的客戶。</span><span class="sxs-lookup"><span data-stu-id="86193-116">You can offer customers trial subscriptions.</span></span> <span data-ttu-id="86193-117">可供試用的產品都在類別目錄中的 [試用] 索引標籤。</span><span class="sxs-lookup"><span data-stu-id="86193-117">Products available for trial are under the trial tab in the catalog.</span></span> <span data-ttu-id="86193-118">請參閱[為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)。</span><span class="sxs-lookup"><span data-stu-id="86193-118">See [Offer your customers trials of Microsoft products](offer-your-customers-trials-of-microsoft-products.md).</span></span>
+>[!Note]
+><span data-ttu-id="86193-116">您可以提供試用訂閱的客戶。</span><span class="sxs-lookup"><span data-stu-id="86193-116">You can offer customers trial subscriptions.</span></span> <span data-ttu-id="86193-117">可供試用的產品都在類別目錄中的 [試用] 索引標籤。</span><span class="sxs-lookup"><span data-stu-id="86193-117">Products available for trial are under the trial tab in the catalog.</span></span> <span data-ttu-id="86193-118">請參閱[為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)。</span><span class="sxs-lookup"><span data-stu-id="86193-118">See [Offer your customers trials of Microsoft products](offer-your-customers-trials-of-microsoft-products.md).</span></span>
 
  
 4. <span data-ttu-id="86193-119">選取計費頻率後，選取您想在類別目錄中的訂閱的產品。</span><span class="sxs-lookup"><span data-stu-id="86193-119">After selecting the billing frequency, select the products you want subscriptions for in the catalog.</span></span> <span data-ttu-id="86193-120">產品可用性取決於客戶的類型 (教育機構、政府單位等) 以及您選取的計費頻率。</span><span class="sxs-lookup"><span data-stu-id="86193-120">The availability of products depends on the type of customer (education, government, etc.) and the billing frequency you have selected.</span></span> <span data-ttu-id="86193-121">如果沒有提供某項產品，客戶可能已有該產品的訂閱，而且僅允許一份訂閱。</span><span class="sxs-lookup"><span data-stu-id="86193-121">If a product is not available, the customer may already have a subscription to that product and is only allowed one.</span></span> <span data-ttu-id="86193-122">或者，您可能已暫停訂閱，此時只需重新啟用即可，而不是購買新的訂閱。</span><span class="sxs-lookup"><span data-stu-id="86193-122">Or, you may have suspended the subscription in which case, you can reactivate it rather than purchasing a new one.</span></span>
 
 5. <span data-ttu-id="86193-123">選取您想要新增的訂閱並輸入授權數目。</span><span class="sxs-lookup"><span data-stu-id="86193-123">Check the subscription you want to add and enter the number of licenses.</span></span> <span data-ttu-id="86193-124">然後 **\[提交\]** 該訂單。</span><span class="sxs-lookup"><span data-stu-id="86193-124">Then **Submit** the order.</span></span>
 
-6.  <span data-ttu-id="86193-125">新增訂閱之後，請按一下訂閱清單中的訂閱名稱來開啟它。</span><span class="sxs-lookup"><span data-stu-id="86193-125">After the subscription is added, open it by clicking the subscription name in the subscriptions list.</span></span> <span data-ttu-id="86193-126">您可以在這個編輯頁面上選取附加元件授權 (若有的話)。</span><span class="sxs-lookup"><span data-stu-id="86193-126">On this edit page, you can select add-on licenses, if any are available.</span></span>
+6. <span data-ttu-id="86193-125">新增訂閱之後，請按一下訂閱清單中的訂閱名稱來開啟它。</span><span class="sxs-lookup"><span data-stu-id="86193-125">After the subscription is added, open it by clicking the subscription name in the subscriptions list.</span></span> <span data-ttu-id="86193-126">您可以在這個編輯頁面上選取附加元件授權 (若有的話)。</span><span class="sxs-lookup"><span data-stu-id="86193-126">On this edit page, you can select add-on licenses, if any are available.</span></span>
 
-7.  <span data-ttu-id="86193-127">您也可以在編輯頁面上變更授權數目，或是暫停訂閱。</span><span class="sxs-lookup"><span data-stu-id="86193-127">On the edit page you can also change the quantity of licenses, or suspend the subscription.</span></span>
+7. <span data-ttu-id="86193-127">您也可以在編輯頁面上變更授權數目，或是暫停訂閱。</span><span class="sxs-lookup"><span data-stu-id="86193-127">On the edit page you can also change the quantity of licenses, or suspend the subscription.</span></span>
 
 ## <a name="suspend-or-cancel-a-subscription"></a><span data-ttu-id="86193-128">暫停或取消訂閱</span><span class="sxs-lookup"><span data-stu-id="86193-128">Suspend or cancel a subscription</span></span>
 
@@ -66,7 +66,7 @@ ms.locfileid: "8683717"
 
 
 
- 
+ 
 
 
 

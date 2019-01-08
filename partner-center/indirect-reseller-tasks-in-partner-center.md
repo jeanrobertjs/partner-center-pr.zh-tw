@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: 間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c82e2dffbed0807894c8bd161281bc8e7da23a24
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917490"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995992"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a><span data-ttu-id="8dd32-104">在雲端解決方案提供者計畫中與間接提供者建立合作關係</span><span class="sxs-lookup"><span data-stu-id="8dd32-104">Partner with indirect providers in the Cloud Solution Provider program</span></span>
 
@@ -63,7 +63,7 @@ ms.locfileid: "8917490"
 
 3.  <span data-ttu-id="8dd32-136">使用您的工作帳戶登入。</span><span class="sxs-lookup"><span data-stu-id="8dd32-136">Sign in with your work account.</span></span> <span data-ttu-id="8dd32-137">選取 **\[登入\]**，然後輸入您以全域管理員身分登入 Office 365、Microsoft Azure 或 Microsoft Dynamics CRM 所用的使用者名稱和密碼。</span><span class="sxs-lookup"><span data-stu-id="8dd32-137">Select **Sign in** and then enter the user name and password you use to sign in as a global admin for Office 365, Microsoft Azure, or Microsoft Dynamics CRM.</span></span> 
 
-    <span data-ttu-id="8dd32-138">如果您沒有工作帳戶，請選取 **\[建立帳戶\]** 立即設定一個帳戶。</span><span class="sxs-lookup"><span data-stu-id="8dd32-138">If you don't have a work account, select **Create one** to set one up now.</span></span> <span data-ttu-id="8dd32-139">建立您的工作帳戶之後，使用新帳戶的全域管理員認證來登入。</span><span class="sxs-lookup"><span data-stu-id="8dd32-139">After creating your work account, sign in using the global admin credentials for your new account.</span></span>
+<span data-ttu-id="8dd32-138">如果您沒有工作帳戶，請選取 **\[建立帳戶\]** 立即設定一個帳戶。</span><span class="sxs-lookup"><span data-stu-id="8dd32-138">If you don't have a work account, select **Create one** to set one up now.</span></span> <span data-ttu-id="8dd32-139">建立您的工作帳戶之後，使用新帳戶的全域管理員認證來登入。</span><span class="sxs-lookup"><span data-stu-id="8dd32-139">After creating your work account, sign in using the global admin credentials for your new account.</span></span>
 
 4.  <span data-ttu-id="8dd32-140">檢閱有關如何將您的 Microsoft 合作夥伴網路識別碼 (MPN ID) 與新合作夥伴中心帳戶建立關聯的資訊。</span><span class="sxs-lookup"><span data-stu-id="8dd32-140">Review the information about how to associate your Microsoft Partner Network ID (MPN ID) with your new Partner Center account.</span></span> <span data-ttu-id="8dd32-141">我們需要連結您組織的 MPN ID 與您新的合作夥伴中心帳戶，以便您可以管理您的會員權益和獎勵在合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="8dd32-141">We need to link your organization's MPN ID with your new Partner Center account so that you can manage your membership benefits and incentives on the Partner Center.</span></span> <span data-ttu-id="8dd32-142">選取 **\[登入\]**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-142">Select **Sign in**.</span></span>
 
@@ -73,21 +73,21 @@ ms.locfileid: "8917490"
 
 7.  <span data-ttu-id="8dd32-148">選取 MPN ID 連結至講義、會員權益和專長認證的組織設定檔，因此我們可以將此資訊移到您的合作夥伴中心帳戶。</span><span class="sxs-lookup"><span data-stu-id="8dd32-148">Select the organization profile with the MPN ID that’s linked to your incentives, membership benefits, and competencies so we can move this information to your Partner Center account.</span></span> <span data-ttu-id="8dd32-149">選取 **\[繼續\]**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-149">Select **Continue**.</span></span>
 
-    <span data-ttu-id="8dd32-150">如果在此頁面上未列出您想要使用 MPN ID，選取 **\[取消\]**，並以您想要使用的組織設定檔的使用者名稱和密碼，再試一次登入。</span><span class="sxs-lookup"><span data-stu-id="8dd32-150">If the MPN ID you want to use is not listed on this page, select **Cancel** and sign in again with the user name and password for the organization profile you want to use.</span></span> 
-    > [!IMPORTANT]  
-    > <span data-ttu-id="8dd32-151">選取 MPN ID，而且位於相同國家/地區為您的 Azure AD 租用戶的作用中的組織設定檔相關聯。</span><span class="sxs-lookup"><span data-stu-id="8dd32-151">Select the MPN ID associated with an active organization profile that’s located in the same country/region as your Azure AD tenant.</span></span>
+<span data-ttu-id="8dd32-150">如果在此頁面上未列出您想要使用 MPN ID，選取 **\[取消\]**，並以您想要使用的組織設定檔的使用者名稱和密碼，再試一次登入。</span><span class="sxs-lookup"><span data-stu-id="8dd32-150">If the MPN ID you want to use is not listed on this page, select **Cancel** and sign in again with the user name and password for the organization profile you want to use.</span></span> 
+> [!IMPORTANT]  
+> <span data-ttu-id="8dd32-151">選取 MPN ID，而且位於相同國家/地區為您的 Azure AD 租用戶的作用中的組織設定檔相關聯。</span><span class="sxs-lookup"><span data-stu-id="8dd32-151">Select the MPN ID associated with an active organization profile that’s located in the same country/region as your Azure AD tenant.</span></span>
 
 8.  <span data-ttu-id="8dd32-152">提供或更新您的組織法律商務設定檔、主要連絡人資訊，以及客戶支援資訊。</span><span class="sxs-lookup"><span data-stu-id="8dd32-152">Provide or update your organization’s legal business profile, primary contact information, and customer support information.</span></span> <span data-ttu-id="8dd32-153">選取 **\[現在註冊\]**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-153">Select **Enroll now**.</span></span>
 
-    <span data-ttu-id="8dd32-154">主要連絡人應該是您組織中我們關於您的申請可以連絡的人員（這可以是您或您組織中的其他人）。</span><span class="sxs-lookup"><span data-stu-id="8dd32-154">The primary contact should be the person in your organization we can contact about your application (this can be you or another person in your organization).</span></span> <span data-ttu-id="8dd32-155">請注意，我們不接受網頁型電子郵件服務，例如 Gmail、Yahoo!</span><span class="sxs-lookup"><span data-stu-id="8dd32-155">Please note that we don’t accept email addresses from Web-based email services such as Gmail, Yahoo!</span></span> <span data-ttu-id="8dd32-156">郵件、iCloud 郵件、AOL 郵件或 Outlook 郵件。</span><span class="sxs-lookup"><span data-stu-id="8dd32-156">Mail, iCloud Mail, AOL Mail, or Outlook Mail.</span></span> 
-    > [!IMPORTANT]  
-    > <span data-ttu-id="8dd32-157">為協助確保您組織的安全性和隱私權，我們會傳送電子郵件給您的主要連絡人確認 (1) 他/她已註冊合作夥伴中心帳戶，且 (2) 此電子郵件地址屬於您的組織。</span><span class="sxs-lookup"><span data-stu-id="8dd32-157">To help ensure your organization’s security and privacy, we’ll email your primary contact to verify that (1) he or she signed up for a Partner Center account, and (2) that this email address belongs to your organization.</span></span> <span data-ttu-id="8dd32-158">主要連絡人確認其電子郵件地址後，我們會持續審查您所提供的資訊。</span><span class="sxs-lookup"><span data-stu-id="8dd32-158">After the primary contact verifies his or her email address, we’ll continue our review of the information you provided.</span></span> <span data-ttu-id="8dd32-159">我們會使用電子郵件傳送註冊狀態更新給主要連絡人。</span><span class="sxs-lookup"><span data-stu-id="8dd32-159">We’ll email enrollment status updates to the primary contact.</span></span>
+<span data-ttu-id="8dd32-154">主要連絡人應該是您組織中我們關於您的申請可以連絡的人員（這可以是您或您組織中的其他人）。</span><span class="sxs-lookup"><span data-stu-id="8dd32-154">The primary contact should be the person in your organization we can contact about your application (this can be you or another person in your organization).</span></span> <span data-ttu-id="8dd32-155">請注意，我們不接受網頁型電子郵件服務，例如 Gmail、Yahoo!</span><span class="sxs-lookup"><span data-stu-id="8dd32-155">Please note that we don’t accept email addresses from Web-based email services such as Gmail, Yahoo!</span></span> <span data-ttu-id="8dd32-156">郵件、iCloud 郵件、AOL 郵件或 Outlook 郵件。</span><span class="sxs-lookup"><span data-stu-id="8dd32-156">Mail, iCloud Mail, AOL Mail, or Outlook Mail.</span></span> 
+> [!IMPORTANT]  
+> <span data-ttu-id="8dd32-157">為協助確保您組織的安全性和隱私權，我們會傳送電子郵件給您的主要連絡人確認 (1) 他/她已註冊合作夥伴中心帳戶，且 (2) 此電子郵件地址屬於您的組織。</span><span class="sxs-lookup"><span data-stu-id="8dd32-157">To help ensure your organization’s security and privacy, we’ll email your primary contact to verify that (1) he or she signed up for a Partner Center account, and (2) that this email address belongs to your organization.</span></span> <span data-ttu-id="8dd32-158">主要連絡人確認其電子郵件地址後，我們會持續審查您所提供的資訊。</span><span class="sxs-lookup"><span data-stu-id="8dd32-158">After the primary contact verifies his or her email address, we’ll continue our review of the information you provided.</span></span> <span data-ttu-id="8dd32-159">我們會使用電子郵件傳送註冊狀態更新給主要連絡人。</span><span class="sxs-lookup"><span data-stu-id="8dd32-159">We’ll email enrollment status updates to the primary contact.</span></span>
 
 9.  <span data-ttu-id="8dd32-160">您的合作夥伴中心帳戶準備好可以使用時，請確認您已新增至系統管理代理人群組。</span><span class="sxs-lookup"><span data-stu-id="8dd32-160">When your Partner Center account is ready to use, verify that you’ve been added to the admin agent group.</span></span> <span data-ttu-id="8dd32-161">若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。</span><span class="sxs-lookup"><span data-stu-id="8dd32-161">To finish setting up your account, including adding other users, you must have admin agent permissions.</span></span> <span data-ttu-id="8dd32-162">請依照下列步驟進行以檢視或更新權限：</span><span class="sxs-lookup"><span data-stu-id="8dd32-162">Follow these steps to view or update your permissions:</span></span>
 
-    <span data-ttu-id="8dd32-163">a.</span><span class="sxs-lookup"><span data-stu-id="8dd32-163">a.</span></span>  <span data-ttu-id="8dd32-164">在您的**合作夥伴中心**，選取 [**設定**] 圖示，然後選取 [**管理使用者**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-164">In your **Partner Center**, select the **Settings** icon and then select **User management**.</span></span>  
+<span data-ttu-id="8dd32-163">a.</span><span class="sxs-lookup"><span data-stu-id="8dd32-163">a.</span></span>  <span data-ttu-id="8dd32-164">在您的**合作夥伴中心**，選取 [**設定**] 圖示，然後選取 [**管理使用者**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-164">In your **Partner Center**, select the **Settings** icon and then select **User management**.</span></span>  
 
-    <span data-ttu-id="8dd32-165">b.</span><span class="sxs-lookup"><span data-stu-id="8dd32-165">b.</span></span>  <span data-ttu-id="8dd32-166">從使用者清單中選取您的名稱，然後選取 **\[系統管理代理人\]** (如果尚未選取)。</span><span class="sxs-lookup"><span data-stu-id="8dd32-166">Select your name from the users list and then select **Admin agent** if it’s not already selected.</span></span> <span data-ttu-id="8dd32-167">選取 **\[更新\]**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-167">Select **Update**.</span></span>   
+<span data-ttu-id="8dd32-165">b.</span><span class="sxs-lookup"><span data-stu-id="8dd32-165">b.</span></span>  <span data-ttu-id="8dd32-166">從使用者清單中選取您的名稱，然後選取 **\[系統管理代理人\]** (如果尚未選取)。</span><span class="sxs-lookup"><span data-stu-id="8dd32-166">Select your name from the users list and then select **Admin agent** if it’s not already selected.</span></span> <span data-ttu-id="8dd32-167">選取 **\[更新\]**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-167">Select **Update**.</span></span>   
 
 ## <a name="add-a-new-user"></a><span data-ttu-id="8dd32-168">新增使用者</span><span class="sxs-lookup"><span data-stu-id="8dd32-168">Add a new user</span></span>
 
@@ -102,10 +102,10 @@ ms.locfileid: "8917490"
 5. <span data-ttu-id="8dd32-174">選取 **\[新增\]** 建立使用者帳戶。</span><span class="sxs-lookup"><span data-stu-id="8dd32-174">Select **Add** to create the user account.</span></span> <span data-ttu-id="8dd32-175">在下一頁，確認使用者的詳細資料。</span><span class="sxs-lookup"><span data-stu-id="8dd32-175">Confirm the user's details on the next page.</span></span>
 
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > <span data-ttu-id="8dd32-176">記下此頁面上顯示的新使用者登入資訊。</span><span class="sxs-lookup"><span data-stu-id="8dd32-176">Make a note of the new user's sign-in information displayed on this page.</span></span> <span data-ttu-id="8dd32-177">請務必將這項資訊複製及傳送給新的使用者，因為稍後您將無法再次存取。</span><span class="sxs-lookup"><span data-stu-id="8dd32-177">Be sure to copy and send this information to the new user as you will not be able to access it again later.</span></span> <br>
-
-><span data-ttu-id="8dd32-178">使用者必須登入合作夥伴中心，使用他們的使用者名稱和暫時密碼。</span><span class="sxs-lookup"><span data-stu-id="8dd32-178">The user will need to sign in to the Partner Center with their user name and temporary password.</span></span> <span data-ttu-id="8dd32-179">當使用者登入時到合作夥伴中心第一次時，系統會提示他們變更密碼。</span><span class="sxs-lookup"><span data-stu-id="8dd32-179">When the user signs in to the Partner Center for the first time, they are prompted to change their password.</span></span>        
+> 
+> <span data-ttu-id="8dd32-178">使用者必須登入合作夥伴中心，使用他們的使用者名稱和暫時密碼。</span><span class="sxs-lookup"><span data-stu-id="8dd32-178">The user will need to sign in to the Partner Center with their user name and temporary password.</span></span> <span data-ttu-id="8dd32-179">當使用者登入時到合作夥伴中心第一次時，系統會提示他們變更密碼。</span><span class="sxs-lookup"><span data-stu-id="8dd32-179">When the user signs in to the Partner Center for the first time, they are prompted to change their password.</span></span>        
 
 ## <a name="assign-user-permissions"></a><span data-ttu-id="8dd32-180">指派使用者權限</span><span class="sxs-lookup"><span data-stu-id="8dd32-180">Assign user permissions</span></span>
 
@@ -126,20 +126,20 @@ ms.locfileid: "8917490"
 
 3.  <span data-ttu-id="8dd32-194">若要確認與提供者的合作關係，請選取核取方塊，然後選取 **\[授權間接提供者\]**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-194">To confirm the partnership with the provider, check the box and then select **Authorize indirect provider**.</span></span> <span data-ttu-id="8dd32-195">提供者現在會列在您的 **\[間接提供者\]** 頁面，而您的公司現在會列在提供者的 **\[間接經銷商\]** 頁面。</span><span class="sxs-lookup"><span data-stu-id="8dd32-195">The provider is now listed on your **Indirect providers** page and your company is now listed on the provider's **Indirect resellers** page.</span></span>
 
-    > [!NOTE]  
-    > <span data-ttu-id="8dd32-196">當您與間接提供者建立合夥關係時，您授權他們提交訂單及新增代表您的客戶的訂閱，您就將授與他們對您的公司工作帳戶的系統管理員存取權。</span><span class="sxs-lookup"><span data-stu-id="8dd32-196">When you establish a partnership with an indirect provider, you’re authorizing them to submit orders and add subscriptions on behalf of your customers, and you’re granting them administrator access to your company's work account.</span></span> <span data-ttu-id="8dd32-197">在您建立與提供者的合作關係後，可以在 Office 365 入口網站中移除提供者對您工作帳戶的系統管理員存取權。</span><span class="sxs-lookup"><span data-stu-id="8dd32-197">After your partnership with the provider has been established, you can remove the provider's administrator access to your work account in the Office 365 portal.</span></span> 
+> [!NOTE]  
+> <span data-ttu-id="8dd32-196">當您與間接提供者建立合夥關係時，您授權他們提交訂單及新增代表您的客戶的訂閱，您就將授與他們對您的公司工作帳戶的系統管理員存取權。</span><span class="sxs-lookup"><span data-stu-id="8dd32-196">When you establish a partnership with an indirect provider, you’re authorizing them to submit orders and add subscriptions on behalf of your customers, and you’re granting them administrator access to your company's work account.</span></span> <span data-ttu-id="8dd32-197">在您建立與提供者的合作關係後，可以在 Office 365 入口網站中移除提供者對您工作帳戶的系統管理員存取權。</span><span class="sxs-lookup"><span data-stu-id="8dd32-197">After your partnership with the provider has been established, you can remove the provider's administrator access to your work account in the Office 365 portal.</span></span> 
 
 4.  <span data-ttu-id="8dd32-198">從您的**合作夥伴中心**功能表，以查看您有合夥關係的提供者的清單中選取**間接提供者**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-198">Select **Indirect providers** from your **Partner Center** menu to see a list of the providers you have a partnership with.</span></span> 
 
 5.  <span data-ttu-id="8dd32-199">選取 **\[檢視客戶\]**，以查看您和提供者共用的客戶清單。</span><span class="sxs-lookup"><span data-stu-id="8dd32-199">Select **View customers** to see a list of the customers you and the provider share.</span></span>
 
 6.  <span data-ttu-id="8dd32-200">選取 **\[邀請新客戶\]** 以要求新客戶授權同時與您及您的間接提供者建立經銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8dd32-200">Select **Invite new customers** to ask a new customer to authorize reseller relationships with both you and your indirect provider at the same time.</span></span> <span data-ttu-id="8dd32-201">請務必取得客戶的電子郵件地址，以便寄送電子郵件邀請給他們。</span><span class="sxs-lookup"><span data-stu-id="8dd32-201">Be sure to have the customer’s email address on hand so you can email the invitation to them.</span></span>  
-    > [!IMPORTANT]  
-    > <span data-ttu-id="8dd32-202">您的間接提供者必須與您的客戶提交訂單代表他們建立經銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8dd32-202">Your indirect provider needs to have a reseller relationship with your customers to submit orders on their behalf.</span></span> 
+> [!IMPORTANT]  
+> <span data-ttu-id="8dd32-202">您的間接提供者必須與您的客戶提交訂單代表他們建立經銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8dd32-202">Your indirect provider needs to have a reseller relationship with your customers to submit orders on their behalf.</span></span> 
  
 ## <a name="connect-with-customers"></a><span data-ttu-id="8dd32-203">與客戶保持聯繫</span><span class="sxs-lookup"><span data-stu-id="8dd32-203">Connect with customers</span></span>
 
- <span data-ttu-id="8dd32-204">若要在合作夥伴中心與客戶進行交易，您的客戶必須擁有合作夥伴中心帳戶，而且您必須建立與他們建立經銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8dd32-204">To transact with customers on the Partner Center, your customers must have Partner Center accounts and you must establish reseller relationships with them.</span></span> <span data-ttu-id="8dd32-205">若要允許間接提供者代表客戶購買訂閱及服務，提供者也必須與您的客戶建立經銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8dd32-205">To allow your indirect provider to purchase subscriptions and services on your customers' behalf, the provider must also have reseller relationships with your customers.</span></span> 
+<span data-ttu-id="8dd32-204">若要在合作夥伴中心與客戶進行交易，您的客戶必須擁有合作夥伴中心帳戶，而且您必須建立與他們建立經銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8dd32-204">To transact with customers on the Partner Center, your customers must have Partner Center accounts and you must establish reseller relationships with them.</span></span> <span data-ttu-id="8dd32-205">若要允許間接提供者代表客戶購買訂閱及服務，提供者也必須與您的客戶建立經銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8dd32-205">To allow your indirect provider to purchase subscriptions and services on your customers' behalf, the provider must also have reseller relationships with your customers.</span></span> 
 
 ### <a name="connect-with-existing-customers"></a><span data-ttu-id="8dd32-206">與現有客戶保持聯繫</span><span class="sxs-lookup"><span data-stu-id="8dd32-206">Connect with existing customers</span></span>
 
@@ -153,7 +153,7 @@ ms.locfileid: "8917490"
 
 2.  <span data-ttu-id="8dd32-215">在下一頁，檢閱草稿電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="8dd32-215">On the next page, review the draft email message.</span></span> <span data-ttu-id="8dd32-216">您可以在電子郵件中開啟草稿訊息，或您可以將訊息複製到您的剪貼簿，並將它貼到電子郵件。</span><span class="sxs-lookup"><span data-stu-id="8dd32-216">You can open the draft message in email or you can copy the message to your clipboard and paste it into an email.</span></span> 
 
-    <span data-ttu-id="8dd32-217">您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。</span><span class="sxs-lookup"><span data-stu-id="8dd32-217">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="8dd32-218">當您已經完成這個步驟，選取 **\[完成\]**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-218">Select **Done** when you’ve completed this step.</span></span>
+<span data-ttu-id="8dd32-217">您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。</span><span class="sxs-lookup"><span data-stu-id="8dd32-217">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="8dd32-218">當您已經完成這個步驟，選取 **\[完成\]**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-218">Select **Done** when you’ve completed this step.</span></span>
 
 3.  <span data-ttu-id="8dd32-219">將電子郵件傳送給您的客戶。</span><span class="sxs-lookup"><span data-stu-id="8dd32-219">Send the email to your customer.</span></span>
 
@@ -182,7 +182,7 @@ ms.locfileid: "8917490"
 
 3.  <span data-ttu-id="8dd32-235">在下一頁，檢閱草稿電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="8dd32-235">On the next page, review the draft email message.</span></span> <span data-ttu-id="8dd32-236">您可以在電子郵件中開啟草稿訊息，或您可以將訊息複製到您的剪貼簿，並將它貼到電子郵件。</span><span class="sxs-lookup"><span data-stu-id="8dd32-236">You can open the draft message in email or you can copy the message to your clipboard and paste it into an email.</span></span> 
 
-    <span data-ttu-id="8dd32-237">您可以編輯電子郵件中的文字，但請務必將連結包含在其中；此連結已個人化，可同時將客戶直接連結至您的帳戶與提供者的帳戶。</span><span class="sxs-lookup"><span data-stu-id="8dd32-237">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to both your account and your provider’s account.</span></span> <span data-ttu-id="8dd32-238">當您完成這個步驟時，請選取 **\[完成\]**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-238">Select **Done** when you’ve completed this step.</span></span>
+<span data-ttu-id="8dd32-237">您可以編輯電子郵件中的文字，但請務必將連結包含在其中；此連結已個人化，可同時將客戶直接連結至您的帳戶與提供者的帳戶。</span><span class="sxs-lookup"><span data-stu-id="8dd32-237">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to both your account and your provider’s account.</span></span> <span data-ttu-id="8dd32-238">當您完成這個步驟時，請選取 **\[完成\]**。</span><span class="sxs-lookup"><span data-stu-id="8dd32-238">Select **Done** when you’ve completed this step.</span></span>
 
 4.  <span data-ttu-id="8dd32-239">客戶授權您和您的提供者成為其記錄可查經銷商之後，您就會有系統管理員權限，可代表他們管理其訂閱、授權和使用者，並且間接提供者可代表他們提交訂單。</span><span class="sxs-lookup"><span data-stu-id="8dd32-239">After the customer authorizes you and your provider to be their resellers of record, you’ll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.</span></span>
 

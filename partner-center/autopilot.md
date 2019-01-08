@@ -4,12 +4,12 @@ description: 預先設定裝置的 Autopilot 設定檔的內建的跨體驗。
 author: maggiepuccievans
 keywords: autopilot，windows autopilot，microsoft autopilot，全自動部署、 oobe、 登入畫面的內建的跨
 ms.localizationpriority: medium
-ms.openlocfilehash: 7df979042799954c5b43a2adef1915941db02e57
-ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
+ms.openlocfilehash: 70740212f433ad6eb4f2f04d63708fff436024ad
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "8976805"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995932"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a><span data-ttu-id="cbb91-104">自訂裝置的全新的體驗，使用 Windows Autopilot 設定檔設定</span><span class="sxs-lookup"><span data-stu-id="cbb91-104">Customize a device's out-of-box experience with Windows Autopilot profiles</span></span>
 
@@ -64,14 +64,15 @@ ms.locfileid: "8976805"
 4. <span data-ttu-id="cbb91-138">輸入設定檔的名稱和描述，然後再設定 OOBE 設定。</span><span class="sxs-lookup"><span data-stu-id="cbb91-138">Enter the profile's name and description and then configure the OOBE settings.</span></span> <span data-ttu-id="cbb91-139">選擇：</span><span class="sxs-lookup"><span data-stu-id="cbb91-139">Choose from:</span></span>  
 
    - <span data-ttu-id="cbb91-140">略過設定中的隱私權設定</span><span class="sxs-lookup"><span data-stu-id="cbb91-140">Skip privacy settings in setup</span></span>
-   
+
    - <span data-ttu-id="cbb91-141">停用設定中的本機系統管理員帳戶</span><span class="sxs-lookup"><span data-stu-id="cbb91-141">Disable local admin account in setup</span></span>
-   
+  
    - <span data-ttu-id="cbb91-142">自動略過設定中的頁面</span><span class="sxs-lookup"><span data-stu-id="cbb91-142">Automatically skip pages in setup</span></span><br>
         <span data-ttu-id="cbb91-143">（包括*自動選取公司或學校的設定*和*略過 Cortana、 OneDrive 及 OEM 註冊設定頁面*）</span><span class="sxs-lookup"><span data-stu-id="cbb91-143">(Includes *Automatically select setup for work or school* and *Skip Cortana, OneDrive, and OEM registration setup pages*)</span></span>
-   
+  
    - <span data-ttu-id="cbb91-144">略過使用者授權合約 (EULA)</span><span class="sxs-lookup"><span data-stu-id="cbb91-144">Skip end user license agreement (EULA)</span></span><br> 
-       >[!IMPORTANT] <span data-ttu-id="cbb91-145">請參閱[Windows Autopilot EULA 關閉](#windows-autopilot-eula-dismissal)下方的重要資訊考慮關於 Windows 安裝程式期間略過使用者授權合約頁面。</span><span class="sxs-lookup"><span data-stu-id="cbb91-145">See [Windows Autopilot EULA dismissal](#windows-autopilot-eula-dismissal) below for important information to consider about skipping the EULA page during Windows setup.</span></span>
+       >[!IMPORTANT] 
+       ><span data-ttu-id="cbb91-145">請參閱[Windows Autopilot EULA 關閉](#windows-autopilot-eula-dismissal)下方的重要資訊考慮關於 Windows 安裝程式期間略過使用者授權合約頁面。</span><span class="sxs-lookup"><span data-stu-id="cbb91-145">See [Windows Autopilot EULA dismissal](#windows-autopilot-eula-dismissal) below for important information to consider about skipping the EULA page during Windows setup.</span></span>
 
 5. <span data-ttu-id="cbb91-146">完成時選取 **\[提交\]**。</span><span class="sxs-lookup"><span data-stu-id="cbb91-146">Select **Submit** when finished.</span></span>
 
@@ -104,8 +105,8 @@ ms.locfileid: "8976805"
 
 3. <span data-ttu-id="cbb91-165">在**套用到裝置的設定檔**中，選取您想要移除的設定檔，然後選取 [**移除設定檔**的裝置。</span><span class="sxs-lookup"><span data-stu-id="cbb91-165">Under **Apply profiles to devices** select the devices you want to remove the profile from and then select **Remove profile**.</span></span>
 
-  >[!NOTE]
-  ><span data-ttu-id="cbb91-166">從裝置移除設定檔並不會從您的清單中刪除設定檔。</span><span class="sxs-lookup"><span data-stu-id="cbb91-166">Removing a profile from a device does not delete the profile from your list.</span></span> <span data-ttu-id="cbb91-167">如果您想要刪除設定檔，請依照[更新或刪除 Autopilot 設定檔](#update-or-delete-an-autopilot-profile)中的指示。</span><span class="sxs-lookup"><span data-stu-id="cbb91-167">If you want to delete a profile, follow the instructions in [Update or delete an Autopilot profile](#update-or-delete-an-autopilot-profile).</span></span>
+   >[!NOTE]
+   ><span data-ttu-id="cbb91-166">從裝置移除設定檔並不會從您的清單中刪除設定檔。</span><span class="sxs-lookup"><span data-stu-id="cbb91-166">Removing a profile from a device does not delete the profile from your list.</span></span> <span data-ttu-id="cbb91-167">如果您想要刪除設定檔，請依照[更新或刪除 Autopilot 設定檔](#update-or-delete-an-autopilot-profile)中的指示。</span><span class="sxs-lookup"><span data-stu-id="cbb91-167">If you want to delete a profile, follow the instructions in [Update or delete an Autopilot profile](#update-or-delete-an-autopilot-profile).</span></span>
 
 ### <a name="update-or-delete-an-autopilot-profile"></a><span data-ttu-id="cbb91-168">更新或刪除 Autopilot 設定檔</span><span class="sxs-lookup"><span data-stu-id="cbb91-168">Update or delete an Autopilot profile</span></span>
 

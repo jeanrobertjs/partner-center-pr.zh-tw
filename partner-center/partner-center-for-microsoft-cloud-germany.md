@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 42cd7aa9f152557e98e1d62a7114b62364d71c4a
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 74fdfa55a90b7e19dbe44f68a2a24f96be0f5e86
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917380"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995652"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a><span data-ttu-id="9ec4a-103">Microsoft Cloud 德國合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="9ec4a-103">Partner Center for Microsoft Cloud Germany</span></span>
 
@@ -24,10 +24,11 @@ ms.locfileid: "8917380"
 
 <span data-ttu-id="9ec4a-109">Microsoft Cloud 德國提供[Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)，從德國境內的資料中心傳遞個別的執行個體。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-109">Microsoft Cloud Germany provides a separate instance of [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), delivered from datacenters in Germany.</span></span> <span data-ttu-id="9ec4a-110">因此，歐盟和歐洲自由貿易聯盟境內的商業客戶可根據適用的德國法律和規範以及重要國際標準，保存並管理客戶資料。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-110">As a result, commercial customers in the European Union (EU) and European Free Trade Association (EFTA) can store and manage customer data in compliance with applicable German laws and regulations as well as key international standards.</span></span> <span data-ttu-id="9ec4a-111">Microsoft 人員在未經德國資料託管機關或客戶核准及監督的情況下，不得存取客戶資料。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-111">Microsoft personnel cannot access customer data without approval from and supervision by the German data trustee or customer.</span></span>
 
->[!IMPORTANT]
-><span data-ttu-id="9ec4a-112">根據客戶需求的發展，我們的雲端策略德國將重點放在傳遞的新雲端區域德國中使用我們的全域雲端一致提供。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-112">Based on the evolution in customers’ needs, our cloud strategy for Germany will focus on delivery of the new cloud regions in Germany that are consistent with our global cloud offering.</span></span> <span data-ttu-id="9ec4a-113">具有此焦點，我們將無法再接受新客戶或部署任何來自目前可用的 Microsoft Cloud 德國的新服務。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-113">With this focus, we will no longer be accepting new customers or deploying any new services from the currently available Microsoft Cloud Germany.</span></span> <span data-ttu-id="9ec4a-114">現有客戶可以繼續使用目前的雲端服務可立即，這我們將會維持使用所需的安全性更新。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-114">Existing customers can continue to use the current cloud services available today, which we’ll maintain with necessary security updates.</span></span> 
+> [!IMPORTANT]
 
-><span data-ttu-id="9ec4a-115">向前移動，新客戶已變成可用時使用目前可用的歐洲地區或德國中的新區域的選項。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-115">Moving forward, new customers have the option to use the currently available European regions or the new regions in Germany when they become available.</span></span> <span data-ttu-id="9ec4a-116">如需詳細資訊，請參閱[Microsoft 傳遞從德國境內的新資料中心的雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-116">For more information, see [Microsoft to deliver cloud services from new datacenters in Germany](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).</span></span> 
+> <span data-ttu-id="9ec4a-112">根據客戶需求的發展，我們的雲端策略德國將重點放在傳遞的新雲端區域德國中使用我們的全域雲端一致提供。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-112">Based on the evolution in customers’ needs, our cloud strategy for Germany will focus on delivery of the new cloud regions in Germany that are consistent with our global cloud offering.</span></span> <span data-ttu-id="9ec4a-113">具有此焦點，我們將無法再接受新客戶或部署任何來自目前可用的 Microsoft Cloud 德國的新服務。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-113">With this focus, we will no longer be accepting new customers or deploying any new services from the currently available Microsoft Cloud Germany.</span></span> <span data-ttu-id="9ec4a-114">現有客戶可以繼續使用目前的雲端服務可立即，這我們將會維持使用所需的安全性更新。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-114">Existing customers can continue to use the current cloud services available today, which we’ll maintain with necessary security updates.</span></span> 
+> 
+> <span data-ttu-id="9ec4a-115">向前移動，新客戶已變成可用時使用目前可用的歐洲地區或德國中的新區域的選項。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-115">Moving forward, new customers have the option to use the currently available European regions or the new regions in Germany when they become available.</span></span> <span data-ttu-id="9ec4a-116">如需詳細資訊，請參閱[Microsoft 傳遞從德國境內的新資料中心的雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。</span><span class="sxs-lookup"><span data-stu-id="9ec4a-116">For more information, see [Microsoft to deliver cloud services from new datacenters in Germany](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).</span></span> 
 
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a><span data-ttu-id="9ec4a-117">Microsoft Cloud 德國合作夥伴中心：在歐盟和歐洲自由貿易聯盟境內銷售德國雲端解決方案</span><span class="sxs-lookup"><span data-stu-id="9ec4a-117">Partner Center for Microsoft Cloud Germany: Selling German Cloud solutions in EU and EFTA</span></span>
