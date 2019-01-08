@@ -8,12 +8,12 @@ ms.author: janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 32112dd8ba23d371eda554d86cf166562779a1d1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796091"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995792"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 合作夥伴適用的 Azure 成本管理應用程式  
 
@@ -42,11 +42,11 @@ Cloudyn 支援的 Azure 成本管理是 Web 應用程式，可讓您追蹤並管
 4.  複製並儲存您 Web 應用程式的**商務識別碼** GUID 和**應用程式識別碼** GUID。 您將需要這兩個識別碼，才能使用 30 天免費試用版的 Azure 成本管理應用程式。
 
 ## <a name="add-a-secret-key-to-your-app"></a>將秘密金鑰新增到您的應用程式。
-1.  在 **\[新增金鑰\]** 按鈕旁邊的下拉式清單中，選取 1 或 2 年期間。
-2.  按一下 **\[新增金鑰\]**。 
-3.  複製並儲存秘密金鑰值。 您將需要此值，以便使用 30 天免費試用版。<br>
-> [!NOTE]  
-> 應用程式秘密金鑰就像是密碼到期日較長。 請將金鑰值儲存在安全的位置，以供未來使用。
+1. 在 **\[新增金鑰\]** 按鈕旁邊的下拉式清單中，選取 1 或 2 年期間。
+2. 按一下 **\[新增金鑰\]**。 
+3. 複製並儲存秘密金鑰值。 您將需要此值，以便使用 30 天免費試用版。<br>
+   > [!NOTE]  
+   > 應用程式秘密金鑰就像是密碼到期日較長。 請將金鑰值儲存在安全的位置，以供未來使用。
 
 ## <a name="next-steps"></a>後續步驟
 啟動 [30 天免費試用版](https://go.microsoft.com/fwlink/?linkid=857895)。

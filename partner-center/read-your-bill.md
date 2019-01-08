@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990930"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995872"
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -146,7 +146,7 @@ ms.locfileid: "8990930"
 |稅前金額 |稅前購買小計。 |
 |營業稅 |稅額。 |
 |總計 |至今應付總額。 |
- 
+ 
 
 
 

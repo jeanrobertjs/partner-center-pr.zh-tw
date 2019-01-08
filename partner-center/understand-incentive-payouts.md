@@ -6,22 +6,22 @@ description: 檢視獎勵計畫的收益和支付。
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3905fd1841426cd70416599a48be1a9660bae2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795941"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995952"
 ---
-#<a name="incentive-payouts-overview"></a>獎勵支出的概觀
+# <a name="incentive-payouts-overview"></a>獎勵支出的概觀
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
 
 獎勵系統管理員及使用者會收到他們自其獎勵計畫獲得到或即將獲得之收益與支出的概觀。   
 
-##<a name="summary-information-on-earnings-and-payout"></a>收益和支付摘要資訊
+## <a name="summary-information-on-earnings-and-payout"></a>收益和支付摘要資訊
 
 獎勵使用者和獎勵系統管理員可以透過 **\[支付摘要\]** 查看他們在其所參與之獎勵計畫中的財務狀況。 您可以視需要詳細分析每個部分的摘要資訊。 
 

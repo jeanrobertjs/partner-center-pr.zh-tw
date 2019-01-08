@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 4494517f295dde1439fe2e5831cf91d5012424ed
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683717"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995862"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -30,23 +30,23 @@ ms.locfileid: "8683717"
 
 **建立新訂閱**
 
-1.  在**合作夥伴中心**功能表中，選取**客戶**，然後從清單中選擇客戶。
+1. 在**合作夥伴中心**功能表中，選取**客戶**，然後從清單中選擇客戶。
 
-2.  選取 **\[新訂閱\]**。
+2. 選取 **\[新訂閱\]**。
 
-3.  選取您要使用的訂閱計費類型。  如需可協助您在每月與年度計費頻率之間做選擇的詳細資訊，請參閱[新計費功能的常見問題集](faq-about-new-billing-features.md)
+3. 選取您要使用的訂閱計費類型。  如需可協助您在每月與年度計費頻率之間做選擇的詳細資訊，請參閱[新計費功能的常見問題集](faq-about-new-billing-features.md)
  
- >[!Note]
- >您可以提供試用訂閱的客戶。 可供試用的產品都在類別目錄中的 [試用] 索引標籤。 請參閱[為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)。
+>[!Note]
+>您可以提供試用訂閱的客戶。 可供試用的產品都在類別目錄中的 [試用] 索引標籤。 請參閱[為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)。
 
  
 4. 選取計費頻率後，選取您想在類別目錄中的訂閱的產品。 產品可用性取決於客戶的類型 (教育機構、政府單位等) 以及您選取的計費頻率。 如果沒有提供某項產品，客戶可能已有該產品的訂閱，而且僅允許一份訂閱。 或者，您可能已暫停訂閱，此時只需重新啟用即可，而不是購買新的訂閱。
 
 5. 選取您想要新增的訂閱並輸入授權數目。 然後 **\[提交\]** 該訂單。
 
-6.  新增訂閱之後，請按一下訂閱清單中的訂閱名稱來開啟它。 您可以在這個編輯頁面上選取附加元件授權 (若有的話)。
+6. 新增訂閱之後，請按一下訂閱清單中的訂閱名稱來開啟它。 您可以在這個編輯頁面上選取附加元件授權 (若有的話)。
 
-7.  您也可以在編輯頁面上變更授權數目，或是暫停訂閱。
+7. 您也可以在編輯頁面上變更授權數目，或是暫停訂閱。
 
 ## <a name="suspend-or-cancel-a-subscription"></a>暫停或取消訂閱
 
@@ -66,7 +66,7 @@ ms.locfileid: "8683717"
 
 
 
- 
+ 
 
 
 

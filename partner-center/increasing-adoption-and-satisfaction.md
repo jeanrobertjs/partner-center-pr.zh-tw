@@ -7,12 +7,12 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795251"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995832"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
@@ -70,24 +70,24 @@ ms.locfileid: "5795251"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>問題：</strong>使用者採用率低，還有許多未使用的授權。</p>
+<td><p><strong>問題：</strong>使用者採用率是低，以及許多授權不 & #39; 所使用的 t。</p>
 <p><strong>考量事項：</strong>客戶可能不了解軟體可提供的價值。 他們需要協助，以構想一些方式來將軟體結合到他們每日的工作中，藉以簡化他們正在進行的工作或產生新類型的生產力。</p>
 <p><strong>嘗試事項：</strong>案例研究、與特定案例有關的使用者見證、教學課程的部落格或影片。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>問題：</strong>有大量支援電話要求取得說明和使用方法。</p>
 <p><strong>考慮事項：</strong>客戶可能是軟體、該產品版本或其從事之工作的新手。</p>
-<p><strong>嘗試事項：</strong>您可以採用雙重策略，亦即提供訓練 (個人或線上) 來增加客戶的整體專業知識，同時向客戶推廣一些可用的自助服務選項。</p>
-<p>您可能會想要重新設計您的支援網站，使其中除了包含您的支援連絡資訊外，也包含[客戶自我支援](customer-self-support.md)主題中所述的自助服務選項。</p></td>
+<p><strong>嘗試事項：</strong>您可以採用雙重策略亦即提供訓練 （個人或線上） 的來增加客戶 & #39; s 整體專業知識，同時推廣一些對客戶提供的自助服務選項。</p>
+<p>您可能會想要重新設計您的支援網站，使其中除了包含您的支援連絡資訊外，也包含<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客戶自我支援</a>主題中所述的自助服務選項。</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,19 +1,19 @@
 ---
-title: 了解您的獎勵支出 | 合作夥伴中心
+title: 了解您的獎勵支出 |合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 您的獎勵收益與支出排程有助於未來的規劃。
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 74811348b14ecad7afc214337fae760c43e4de63
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 535181676cc03c8e696c613e8a907705c40a8fd5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796351"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995696"
 ---
-#<a name="understand-your-incentives-payouts"></a>了解您的獎勵支出
+# <a name="understand-your-incentive-payouts"></a>了解您的獎勵支付
 
 **適用於**
 
@@ -28,10 +28,8 @@ ms.locfileid: "5796351"
 
 您可以向下切入每項獎勵計畫的收益和支付。 追蹤收益與支出之間的時間表，對規劃未來資源需求等事項很有幫助。 您還可以查看獎勵的哪些地方有較多成果或更大效益。 
 
-##<a name="drill-down-on-incentives-earnings"></a>向下切入獎勵收益
+## <a name="drill-down-on-incentives-earnings"></a>向下切入獎勵收益
+了解您的組織還有機會透過獎勵計畫賺取更多收益的地方，以及已經收到款項的部分。 這項資料可以釐清您賺取收益但尚未獲支付的來源。  了解哪些計畫和活動已取得最大成果，以及查明您的哪些地點正在獲利。 您可以依據計畫查看總計潛在收益的結果、您可參與計畫的時間以及該計畫到期的時間。 每項計畫及收益的類型會有不同的需求、 日期和最大收益閾值。 
 
-了解您的組織還有機會透過獎勵計畫賺取更多收益的地方，以及已經收到款項的部分。 這項資料可以釐清您賺取收益但尚未獲支付的來源。  了解哪些計畫和活動已取得最大成果，以及查明您的哪些地點正在獲利。 您可以依據計畫查看總計潛在收益的結果、您可參與計畫的時間以及該計畫到期的時間。 收益的每項計畫及類型都會有不同的需求、日期和最大收益閾值。 
-
-##<a name="drill-down-on-incentive-payouts"></a>向下切入獎勵支付
-
+## <a name="drill-down-on-incentive-payouts"></a>向下切入獎勵支付
 為了讓您從另一個角度來了解獎勵收益，支付會顯示您已獲得哪些付款以及近期預定付款詳細資料。 您可以取得已獲付款之各項對應計畫的報表，以便查看交易詳細資料，例如扣繳稅款。 您可以更深入了解每筆交易的年度付款及每月付款。

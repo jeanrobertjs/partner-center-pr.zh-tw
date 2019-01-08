@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990990"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995942"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -57,7 +57,7 @@ ms.locfileid: "8990990"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a>授權型檔案欄位
 
@@ -179,7 +179,7 @@ ms.locfileid: "8990990"
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>稅金費用 (根據您所在市場的稅金規則與特定情況)。</p></td>
+<td><p>稅金費用，根據您市場 & #39; s 稅金規則與特定情況。</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ ms.locfileid: "8990990"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>合作夥伴中心中回報的客戶組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
+<td><p>客戶 & #39; 合作夥伴中心中回報 s 組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
 <td>測試客戶 A</td>
 </tr>
 <tr class="even">
@@ -204,12 +204,12 @@ ms.locfileid: "8990990"
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>訂閱記錄中的經銷商 MPN 識別碼。 請參閱[依合作夥伴詳細列舉](#itemizebypartner)。</p></td>
+<td><p>訂閱記錄中的經銷商 MPN 識別碼。 請參閱<a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">依合作夥伴詳細列舉</a>。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>用來協助識別客戶的客戶網域名稱。 這不應該用來唯一識別客戶，因為客戶/合作夥伴可以更新虛名/預設網域透過 O365 入口網站。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
+<td><p>客戶 & #39; s 網域名稱，用來協助識別客戶。 這不應該用來唯一識別客戶，因為客戶/合作夥伴可以更新虛名/預設網域透過 O365 入口網站。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ ms.locfileid: "8990990"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>合作夥伴中心中回報的客戶組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
+<td><p>客戶 & #39; 合作夥伴中心中回報 s 組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
 <td>測試客戶 A</td>
 </tr>
 <tr class="even">
@@ -272,7 +272,7 @@ ms.locfileid: "8990990"
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>訂閱記錄中的經銷商 MPN 識別碼。 請參閱[依合作夥伴詳細列舉](#itemizebypartner)。</p></td>
+<td><p>訂閱記錄中的經銷商 MPN 識別碼。 請參閱<a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">依合作夥伴詳細列舉</a>。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ ms.locfileid: "8990990"
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>稅金費用 (根據您所在市場的稅金規則與特定情況)。</p></td>
+<td><p>稅金費用，根據您市場 & #39; s 稅金規則與特定情況。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ ms.locfileid: "8990990"
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>用來協助識別客戶的客戶網域名稱。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
+<td><p>客戶 & #39; s 網域名稱，用來協助識別客戶。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -705,7 +705,7 @@ ms.locfileid: "8990990"
 </td>
 <td>
 <p><em>可套用至多個費用類型</em></p>
-<p><em>例外：「明細項目位移」已含稅。 請參閱上面的點數。</em></p>
+<p><em>例外： &quot;Offset 明細項目&quot;已含稅。 請參閱上面的點數。</em></p>
 </td>
 <td>
 <p>稅金或加值稅 (VAT)</p>

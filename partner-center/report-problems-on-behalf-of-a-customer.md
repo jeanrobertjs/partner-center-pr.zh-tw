@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
-ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
+ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/18/2018
-ms.locfileid: "8973898"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995962"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 
@@ -41,12 +41,12 @@ ms.locfileid: "8973898"
 
 - 雖然在合作夥伴中心的技術服務系統管理員無法在 Azure 服務入口網站中建立服務要求，可以做什麼是 Azure 服務入口網站中建立支援群組，並提供給該群組的權限來記錄支援要求。
 
-1.  選取 **\[新增支援要求\]**。
-2.  以適當的資訊填寫支援要求，並選取 **\[建立\]**：
-        -   在支援要求的 **\[基本\]** 區段中，請確定選取 **\[支援方案\]** 中的 **\[雲端解決方案提供者\]**。
-        -   在支援要求的 **\[連絡人\]** 資訊區段中，輸入您的資訊，而不是客戶的資訊。
+1. 選取 **\[新增支援要求\]**。
+2. 以適當的資訊填寫支援要求，並選取 **\[建立\]**：
+-   在支援要求的 **\[基本\]** 區段中，請確定選取 **\[支援方案\]** 中的 **\[雲端解決方案提供者\]**。
+-   在支援要求的 **\[連絡人\]** 資訊區段中，輸入您的資訊，而不是客戶的資訊。
 
-3.  接下來，在 Microsoft Azure 入口網站中檢視客戶的服務要求，請選取 **\[管理支援要求\]**。
+3. 接下來，在 Microsoft Azure 入口網站中檢視客戶的服務要求，請選取 **\[管理支援要求\]**。
 
 您可能需要為客戶建立支援要求，當您沒有該客戶的系統管理員權限。 這可能會發生在兩個案例的其中一個： 
  
@@ -55,20 +55,22 @@ ms.locfileid: "8973898"
  
 在上述任一種情況，您可以使用下列程序來建立支援要求。 
 
-1.  複製從他們的帳戶頁面，在合作夥伴中心的客戶的網域名稱。
+1. 複製從他們的帳戶頁面，在合作夥伴中心的客戶的網域名稱。
 
-2.  移至https://portal.azure.com/[customerdomainname]。 
+2. 移至https://portal.azure.com/[customerdomainname]。 
 
-3.  選取 [需要支援的 Azure 訂閱。
+3. 選取 [需要支援的 Azure 訂閱。
 
-4.  選取 [**新增支援要求**，並依照提示以建立要求。 
+4. 選取 [**新增支援要求**，並依照提示以建立要求。 
 
  
 **Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite**
 
 1. 在 **\[建立服務要求\]** 區段中，選擇適當的支援主題類別。 您可能需要選取 **\[更多\]** 以檢視其他主題。    
 2. 完成服務要求表單，然候選取 **\[提交\]**。
-    **注意**：請務必包含您的連絡資訊，而非客戶連絡資訊。
+
+>[**注意**] 請務必包含您連絡人資訊，而非客戶連絡資訊。
+
 3. 接下來，移至 Office 365 系統管理中心並選取 **\[查看所有支援票證\]**，以檢閱您的客戶的服務要求。
 
 ## <a name="faq"></a>常見問題集
@@ -111,7 +113,7 @@ ms.locfileid: "8973898"
 
 **如何取得其他 Dynamics 365 支援？**
 
- 如果您遇到問題的相關： 財務 Dynamics 365 計畫訂用帳戶，授權，帳單，與作業、 IURs 或您需要進一步的技術支援：
+如果您遇到問題的相關： 財務 Dynamics 365 計畫訂用帳戶，授權，帳單，與作業、 IURs 或您需要進一步的技術支援：
  
 連絡客戶[支援 Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

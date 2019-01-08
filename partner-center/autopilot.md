@@ -4,12 +4,12 @@ description: 預先設定裝置的 Autopilot 設定檔的內建的跨體驗。
 author: maggiepuccievans
 keywords: autopilot，windows autopilot，microsoft autopilot，全自動部署、 oobe、 登入畫面的內建的跨
 ms.localizationpriority: medium
-ms.openlocfilehash: 7df979042799954c5b43a2adef1915941db02e57
-ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
+ms.openlocfilehash: 70740212f433ad6eb4f2f04d63708fff436024ad
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "8976805"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995932"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>自訂裝置的全新的體驗，使用 Windows Autopilot 設定檔設定
 
@@ -64,14 +64,15 @@ ms.locfileid: "8976805"
 4. 輸入設定檔的名稱和描述，然後再設定 OOBE 設定。 選擇：  
 
    - 略過設定中的隱私權設定
-   
+
    - 停用設定中的本機系統管理員帳戶
-   
+  
    - 自動略過設定中的頁面<br>
         （包括*自動選取公司或學校的設定*和*略過 Cortana、 OneDrive 及 OEM 註冊設定頁面*）
-   
+  
    - 略過使用者授權合約 (EULA)<br> 
-       >[!IMPORTANT] 請參閱[Windows Autopilot EULA 關閉](#windows-autopilot-eula-dismissal)下方的重要資訊考慮關於 Windows 安裝程式期間略過使用者授權合約頁面。
+       >[!IMPORTANT] 
+       >請參閱[Windows Autopilot EULA 關閉](#windows-autopilot-eula-dismissal)下方的重要資訊考慮關於 Windows 安裝程式期間略過使用者授權合約頁面。
 
 5. 完成時選取 **\[提交\]**。
 
@@ -104,8 +105,8 @@ ms.locfileid: "8976805"
 
 3. 在**套用到裝置的設定檔**中，選取您想要移除的設定檔，然後選取 [**移除設定檔**的裝置。
 
-  >[!NOTE]
-  >從裝置移除設定檔並不會從您的清單中刪除設定檔。 如果您想要刪除設定檔，請依照[更新或刪除 Autopilot 設定檔](#update-or-delete-an-autopilot-profile)中的指示。
+   >[!NOTE]
+   >從裝置移除設定檔並不會從您的清單中刪除設定檔。 如果您想要刪除設定檔，請依照[更新或刪除 Autopilot 設定檔](#update-or-delete-an-autopilot-profile)中的指示。
 
 ### <a name="update-or-delete-an-autopilot-profile"></a>更新或刪除 Autopilot 設定檔
 

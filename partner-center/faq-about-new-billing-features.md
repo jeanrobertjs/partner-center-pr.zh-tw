@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fe930a85f59420548863831a6e4fd311de09c6bc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683807"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996012"
 ---
 # <a name="faq-about-new-billing-features"></a>新計費功能的常見問題集
 
@@ -138,7 +138,7 @@ ms.locfileid: "8683807"
 
 -   **答：** 可以。 您隨時可以變更訂閱的授權數量。 新增額外的授權並不會影響帳單週期。 
 
-**問︰** 我可以在採用年度計費的現有訂閱中新增每月計費的授權嗎？ 
+**問：** 可以新增授權嗎每月計費採用年度計費的現有訂閱嗎？ 
 
 -   **答：** 您使用年度計費購買訂閱後，任何新增的基座都將遵循相同的帳單週期。 如果您隨後需要購買每月訂閱的授權，您將需要購買新的訂閱。
 
@@ -242,17 +242,17 @@ ms.locfileid: "8683807"
 
 **問：** 如果您對於獎勵有疑問，可以連絡誰？
 
--   **答：** 請連絡適當的地區獎勵支援小組：
+- **答：** 請連絡適當的地區獎勵支援小組：
 
-    - 北美洲：ocina@microsoft.com
+  - 北美洲：ocina@microsoft.com
 
-    - 拉丁美洲與巴西︰ocilatam@microsoft.com
+  - 拉丁美洲與巴西︰ocilatam@microsoft.com
 
-    - 歐洲、中東、非洲：ociemea@microsoft.com
+  - 歐洲、中東、非洲：ociemea@microsoft.com
 
-    - 亞太地區 (不包括日本)：ociapgc@microsoft.com
+  - 亞太地區 (不包括日本)：ociapgc@microsoft.com
 
-    - 日本：ocijp@microsoft.com
+  - 日本：ocijp@microsoft.com
 
 
 **問：** 當我暫停訂閱時，會發生什麼事？ 

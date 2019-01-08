@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 業務資料
 ms.localizationpriority: medium
-ms.openlocfilehash: be46ca6cb4efa54bcb29874465e79ca89f7799e8
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 704b7123a8eceea9e16692d9e5413875d9f6d92d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796861"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995822"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>合作夥伴貢獻：隨時掌握效能指標
 
@@ -62,17 +62,16 @@ ms.locfileid: "5796861"
 1. 為什麼無法看到合作夥伴貢獻頁面上？
     - 合作夥伴貢獻是目前僅適用於銷售 Dynamics 365 擁有 MPN 或雲端解決方案提供者帳戶的合作夥伴。 這項功能不會針對中國和德國尚未啟用。
 2. 我是為 Dynamics 365 的合作夥伴，為什麼無法看到合作夥伴貢獻資料？
-      - 您可能沒有 MPN 或雲端解決方案提供者帳戶角色。 例如： 顧問和 DAP 仍未啟用。  
+    - 您可能沒有 MPN 或雲端解決方案提供者帳戶角色。 例如： 顧問和 DAP 仍未啟用。  
     - 若要檢視此頁面在組織中沒有適當的使用者角色。 請連絡您的全域系統管理員。
-
     - 您的組織都位於中國或德國中。
 
 3. 我的淨新增營 > 0，但我是否有任何資料的每月的作用中使用者 (MAU)？
     - 適用於大部分 VL 或開啟通道帳單的客戶顯示之前的基座佈建，因此我們無法看到 MAU 尚未。
 
-4.  為何我 MAU > 0，但我是否有任何資料的淨新增營？
-    - 對於 Web Direct 或轉銷商，基座佈建之前計費週期資料。 帳單可能會發生的月份、 季或年度稍後根據訂閱的條款。 這也會發生試用訂閱、 內部使用權、 與政府客戶。
-5.  我的營收的資料不符合？
-    - 這是最有可能因為 DPOR 關聯、 計時的差異或非雲端的資料。
-6.  為什麼我已認證個人資料是低？
-    - 我們只顯示那些位於特定的客戶租用戶區域中，人員已通過 1 或多個 5 的一項測驗所需的雲端業務應用程式專長認證、 客戶參與或財務與選項的路徑。   
+4. 為何我 MAU > 0，但我是否有任何資料的淨新增營？
+   - 對於 Web Direct 或轉銷商，基座佈建之前計費週期資料。 帳單可能會發生的月份、 季或年度稍後根據訂閱的條款。 這也會發生試用訂閱、 內部使用權、 與政府客戶。
+5. 我的營收的資料不符合？
+   - 這是最有可能因為 DPOR 關聯、 計時的差異或非雲端的資料。
+6. 為什麼我已認證個人資料是低？
+   - 我們只顯示那些位於特定的客戶租用戶區域中，人員已通過 1 或多個 5 的一項測驗所需的雲端業務應用程式專長認證、 客戶參與或財務與選項的路徑。   
