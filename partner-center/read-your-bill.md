@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
+ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995872"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "8997337"
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -28,7 +28,7 @@ ms.locfileid: "8995872"
 如果雲端解決方案提供者計畫中的合作夥伴已選擇每月計費，應於 60 天內，向 Microsoft 支付其客戶的訂閱費用 (包括授權型與用量型)。
 
 > [!NOTE]  
-> 您的發票是目前每個月期間所有費用 (涵蓋方案、產品以及客戶) 的摘要，將於您所選帳單日期的 4 天內提供。
+> 您的發票是目前計費期間： 在方案、 產品以及客戶的所有費用摘要卻 UTC 時間中您所選帳單日期的兩個 （2） 天內。 例如，如果您有年 9 月 12 帳單日期，發票產生程序將在 12:00 AM UTC 13 上開始，並上 14 日 12:00 AM UTC 所完成。 如果看不到您的發票下午 11:59 UTC 所 15 日，您會是您的服務層級合約退出，並應該提出服務要求。 
 
 您會收到一張發票授權型 (Office365) 和用量型 (Azure) 費用，以及適用於一次性 （Azure 保留的 VM 執行個體） 個別發票費用。
 
