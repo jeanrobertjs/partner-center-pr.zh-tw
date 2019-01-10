@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 9318834c508629285265a4c2267e8ada10896db8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a58edd5c7643c5c72f12672d1e289d4266b2af23
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683777"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000048"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、 合約、 價目表和優惠
 
@@ -31,6 +31,9 @@ ms.locfileid: "8683777"
 檢閱成為雲端解決方案提供者計畫中的合作夥伴的需求。
 
 [雲端解決方案提供者合作夥伴的計畫指南](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+
+>[!Note]
+>您應該需要認證或確認狀態代號，您可以[連絡支援](https://partner.microsoft.com/pcv/servicerequests/create)來要求。
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>雲端解決方案提供者合作夥伴合約
 

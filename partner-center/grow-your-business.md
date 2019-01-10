@@ -7,12 +7,12 @@ keywords: 推薦, 回應推薦, 潛在客戶, 業務潛在客戶, 行銷設定�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 0a654ac3a549d420d1684abe2174a5951026e242
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776482"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000038"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>拓展您的 Microsoft 合作夥伴業務 
 
@@ -41,4 +41,4 @@ Microsoft 提供許多資源，協助您拓展合作夥伴業務。 了解此網
 銷售到特色產業像非營利組織符合法定和教育版|[銷售到特色產業](get-special-pricing-for-offers.md)|雲端解決方案提供者合作夥伴|
 |拓展您的業務透過獎勵合作程式中可用的許多活動。 透過合作夥伴中心活動的檔案宣告。| [建立和管理獎勵宣告](create-incentives-claims.md)|雲端解決方案提供者合作夥伴|
 |包括可搭配 Microsoft 軟體，您要銷售的協力廠商優惠，建立新的軟體套件組合|[探索協力廠商優惠](third-party-offers.md)|雲端解決方案提供者合作夥伴|
-|
+|是您的公司在銷售和管理 Azure superstar？ 套用至 Azure 專家 Microsoft 服務提供者計畫中註冊|[Azure 專家 Microsoft 服務提供者計畫](azure-expert-msp.md)|雲端解決方案提供者合作夥伴|

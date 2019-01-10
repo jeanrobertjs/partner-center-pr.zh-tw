@@ -7,16 +7,16 @@ author: v-petand
 ms.author: v-petand
 keywords: 客戶、 客戶、 同意
 ms.localizationpriority: medium
-ms.openlocfilehash: baab5e0fb3ac01284b210a2059b006ee2e17f921
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 356782420046cb8b49ac4e05981becd253d7049a
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795281"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000028"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>確認 Microsoft Cloud 合約客戶接受
 
-**適用對象：**
+**適用於**
 -  合作夥伴中心
 
 身為合作夥伴，您需要之前，您可以訂購 Microsoft 產品及服務，該客戶取得您的客戶接受的 Microsoft Cloud 合約。 為了更進一步協助合作夥伴符合合規需求，Microsoft 要求合作夥伴以確認接受藉由提供接受授權合約的人相關的下列詳細資料： 
@@ -64,9 +64,11 @@ ms.locfileid: "5795281"
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>確認客戶接受為新客戶
 
 使用下列程序，以確認客戶接受時在合作夥伴中心建立新的客戶租用戶。 請注意，您必須執行此作業的系統管理代理人或銷售代理程式。 
-1.  選取**客戶**，然後按一下 [**新的客戶**。
+1.  選取**客戶**，然後按一下 [**新的客戶**，然後選取 [**帳戶資訊**。
 
 2.  輸入**公司**和**主要連絡人**的相關資訊。
+
+![公司資訊](images/mca/mca1.png)
 
 3.  **Microsoft cloud 合約**，選取**客戶已接受的最新的 Microsoft cloud 合約**。 
 
@@ -74,9 +76,10 @@ ms.locfileid: "5795281"
 
 5.  輸入提供接受之使用者的詳細資料。 
 
-    根據預設，會顯示主要連絡人的使用者資訊。 如果這不正確，選取 [**更新**]，然後輸入 [**名字**、**姓氏**、**電子郵件地址**，以及 **電話號碼*（選擇性） 的接受授權合約的人。
+![新增接受日期](images/mca/MCA3.png)
 
-    **注意：** 確認客戶的前接受變成強制性，您可能會略過確認不選取**客戶已接受的最新的 Microsoft cloud 合約**的選項，然後選取 [**下一步**。
+根據預設，會顯示主要連絡人的使用者資訊。 如果這不正確，選取 [**更新**]，然後輸入 [**名字**、**姓氏**、**電子郵件地址**，以及 **電話號碼*（選擇性） 的接受授權合約的人。
+
 
 6.  選取 [**下一步**繼續進行其餘的步驟，以建立客戶租用戶。
 
@@ -86,9 +89,11 @@ ms.locfileid: "5795281"
 
 1.  選取**客戶**，然後尋找並選取您想要查看的客戶。 
 
-2.  選取**的帳戶**。
+2.  選取 [**帳戶資訊**。
 
 3.  **Microsoft cloud 合約**，選取 [**更新**]。
+
+![更新](images/mca/mca4.png)
 
 4.  輸入的**名字**、**姓氏**、**電子郵件地址**和**電話號碼**（選用） 接受授權合約的使用者。
 
@@ -106,7 +111,6 @@ ms.locfileid: "5795281"
 
 3.  選取**儲存並繼續**。
 
-**注意：** 客戶接受的確認成為強制之前，您可能會透過選取**取消**來略過確認。
 
 ### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>擷取現有客戶的客戶接受的確認
 
@@ -114,7 +118,7 @@ ms.locfileid: "5795281"
 
 1.  選取**客戶**，然後尋找並選取您想要查看的客戶。 
 
-2.  選取**的帳戶**。
+2.  選取 [**帳戶資訊**。
 
 3.  **Microsoft cloud 合約**，您會看到確認已提供給此客戶。
 
