@@ -6,36 +6,39 @@ description: 了解以雲端解決方案提供者銷售的不同模型，並判�
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dddd94e08dd4f79050a48e50659c4e716522153e
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
+ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980612"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "9001698"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 
 **適用於**
 
--  合作夥伴中心
+- 雲端解決方案提供者計畫  
 
 
-## <a name="get-started"></a>入門
+## <a name="get-started"></a>開始使用
+
+雲端式解決方案與服務的快速成長需求為所有大小的 Microsoft 合作夥伴提供許多機會來建立可獲利的雲端解決方案業務。 準備好要進入市場，但不願管理多個廠商，或是端對端客戶關係管理基礎結構可能尚不到位的合作夥伴，可以間接經銷商的身分來參加 Microsoft 的雲端解決方案提供者 (CSP) 計畫成為間接經銷商。
 
 若要註冊雲端解決方案提供者計畫，首先您需有 MPN 識別碼。 尚未擁有嗎？ 請[在此](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=)加入。
 
 當您填寫雲端解決方案提供者應用程式時，您將需要您的 MPN 識別碼、 完整的公司地址、 銀行資訊，以及的公司電子郵件將會做為合作夥伴中心系統管理員的員工。
 
-判斷哪個[雲端解決方案提供者模型適合](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment)您，並完成申請。 
+1. 使用您的工作電子郵件 （AAD 承租人認證） 登入合作夥伴中心
 
+2. 建立您的合作夥伴設定檔，並將您的 MPN 識別碼到您的設定檔產生關聯。
 我們可能需要數天來審查並確認您所提供的資訊。 審查完成後，我們會通過電子郵件通知您。
+
+3. 我們已經確認您的資訊後，接受 Microsoft 間接經銷商條款合約。
 
 > [!IMPORTANT]  
 > 雲端解決方案提供者合作夥伴目前無法轉售線上服務給另一個雲端解決方案提供者合作夥伴。 這項限制僅適用於進行 CSP 交易的租用戶。 其公司的企業版使用非 csp 租用戶的雲端解決方案提供者合作夥伴可以從另一個雲端解決方案提供者合作夥伴購買線上服務。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本的任何新聞將會透過包括[合作夥伴中心](https://partner.microsoft.com/en-us/pcv/announcements)的一般通訊管道宣佈。
 
-### <a name="enroll-as-an-indirect-reseller"></a>註冊為間接經銷商
-
-雲端式解決方案與服務的快速成長需求為所有大小的 Microsoft 合作夥伴提供許多機會來建立可獲利的雲端解決方案業務。 準備好要進入市場，但不願管理多個廠商，或是端對端客戶關係管理基礎結構可能尚不到位的合作夥伴，可以間接經銷商的身分來參加 Microsoft 的雲端解決方案提供者 (CSP) 計畫成為間接經銷商。
+### <a name="find-an-indirect-provider"></a>尋找間接提供者
 
 身為雲端解決方案提供者計畫的間接經銷商，您將與間接提供者 (也稱為代理商) 合作，這些提供者與 Microsoft 有直接關係，而且可以為您提供客戶支援與帳單服務。 這表示您不必親自開始，反而可以與有經驗的技術提供者合作，讓他協助確保您成功。 在提供者-經銷商（雙層）模型中，提供者從 Microsoft 購買雲端解決方案和服務，接著由您轉售給客戶。
 
@@ -50,6 +53,7 @@ ms.locfileid: "8980612"
 如果您沒有合作的提供者（也稱為代理商），您可以[搜尋 Microsoft 正式提供者清單](https://partnercenter.microsoft.com/partner/find-a-provider)尋找提供者。
 
 如需有關在雲端解決方案提供者計畫中以間接經銷商身分進行銷售所需具備條件的詳細資訊，請參閱 [Microsoft 合作夥伴網路網站](https://partner.microsoft.com/)上的[開始成為間接經銷商](https://partner.microsoft.com/cloud-solution-provider/whats-required)。 
+
 
 
 ### <a name="enroll-as-a-direct-partner"></a>註冊為直接合作夥伴
@@ -70,7 +74,7 @@ ms.locfileid: "8980612"
 
 ## <a name="csp-regional-markets-and-currencies"></a>CSP 地區市場及貨幣
 
-貴公司的位置會決定您的市場。 您的市場包括地區和/或您可以在其中銷售雲端解決方案提供者優惠國家/地區。 請參閱市場位置與在[雲端解決方案提供者計畫地區市場和貨幣](regional-authorization-overview)使用的貨幣
+貴公司的位置會決定您的市場。 您的市場包括地區和/或您可以在其中銷售雲端解決方案提供者優惠國家/地區。 請參閱市場位置與在[雲端解決方案提供者計畫地區市場和貨幣](regional-authorization-overview.md)使用的貨幣
 
 
 
