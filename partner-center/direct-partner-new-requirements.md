@@ -1,19 +1,19 @@
 ---
 title: 雲端解決方案提供者直接合作夥伴新需求 |合作夥伴中心
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 1/14/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
 program.author: labrenne
 ms.author: labrenne
 keywords: 雲端解決方案提供者，直接合作夥伴，直接帳單，需求
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5bf89bd9f02dfd5a01018433bb5328e7c2a50a6
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 4e4052a54ab7ddbd53f6d793512704de8aa13670
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001678"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011085"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>雲端解決方案提供者直接合作夥伴的新需求
 
@@ -37,7 +37,8 @@ ms.locfileid: "9001678"
 
 深入了解成為[雲端解決方案提供者經銷商](https://partner.microsoft.com/cloud-solution-provider)
 
-<!-- for Jan 14 live date
-## Transition from direct to indirect reseller
+## <a name="transition-from-direct-to-indirect-reseller"></a>從直接存取間接經銷商轉換
 
-If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take. To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect) -->
+如果您決定要從直接帳單商務移到間接經銷商業務，有幾個您將需要採取的步驟。 若要深入了解轉換，閱讀[從雲端解決方案提供者 (CSP) 直接合作夥伴為雲端解決方案提供者間接經銷商的轉換](transition-direct-to-indirect.md)。 
+
+另請參閱[上成為間接經銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)並[直接帳單為間接經銷商常見問題集](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)。

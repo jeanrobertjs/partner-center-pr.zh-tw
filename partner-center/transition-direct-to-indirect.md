@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帳單，轉換，間接經銷商
-ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
-ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
+ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "9004624"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011105"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接合作夥伴轉換為雲端解決方案提供者間接經銷商 
 
@@ -156,3 +156,5 @@ ms.locfileid: "9004624"
 您已成功註冊成為間接經銷商，您現有的直接帳單合作夥伴租用戶上之後，您會收到在 30 天內註冊為間接經銷商獎勵的邀請。 邀請根據合作夥伴目前與您的雲端解決方案提供者合作夥伴租用戶相關聯的 MPN 帳戶。 將會傳送邀請，來與合作夥伴 MPN 帳戶相關聯的電子郵件地址。 
 
 您也有資格能夠與該相同的合作夥伴租用戶的直接帳單獎勵計畫中註冊。 您必須個別管理應用程式。
+
+另請參閱[上成為間接經銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)並[直接帳單為間接經銷商常見問題集](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)。
