@@ -8,12 +8,12 @@ ms.author: v-petand
 keywords: azure, 保留區, vm, 管理, 使用率, 調整大小
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917540"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014815"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a><span data-ttu-id="7ad53-103">調整 Microsoft Azure VM 大小以提供最大保留區使用率</span><span class="sxs-lookup"><span data-stu-id="7ad53-103">Microsoft Azure VM sizing for maximum reservation usage</span></span> 
 
@@ -120,7 +120,7 @@ ms.locfileid: "8917540"
 
 <span data-ttu-id="7ad53-161">您可以使用 Azure 使用量 API 取得保留區使用率資料，來確認客戶獲得保留區折扣，並查看折扣套用到那些 VM (虛擬機器)。</span><span class="sxs-lookup"><span data-stu-id="7ad53-161">You can get reservation usage data with the Azure utilization API to verify that the customer is getting the reservation discount and to see which VMs (virtual machines) the discount is applied to.</span></span> <span data-ttu-id="7ad53-162">比較範例 A 和範例 B，了解如何確認客戶的保留區使用率。</span><span class="sxs-lookup"><span data-stu-id="7ad53-162">Compare Example A to Example B to see how to verify a customer’s reservation usage.</span></span> 
 
-![保留區的使用方式範例](images\usage5.png)
+![保留區的使用方式範例](images/usage5.png)
 
 -   <span data-ttu-id="7ad53-164">ReservationId 可識別用於套用折扣至 VM 的 Azure 保留區。</span><span class="sxs-lookup"><span data-stu-id="7ad53-164">The reservationId identifies the Azure reservation that was used to apply the discount to the VM.</span></span>
 -   <span data-ttu-id="7ad53-165">consumptionMeter 是已套用保留區折扣之 VM 的 MeterId。</span><span class="sxs-lookup"><span data-stu-id="7ad53-165">consumptionMeter is the MeterId for the VM that has the reservation discount applied to it.</span></span>
