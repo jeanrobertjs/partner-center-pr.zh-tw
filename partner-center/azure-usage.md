@@ -8,12 +8,12 @@ ms.author: v-petand
 keywords: azure, 保留區, vm, 管理, 使用率, 調整大小
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917540"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014815"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率 
 
@@ -119,7 +119,7 @@ ms.locfileid: "8917540"
 
 您可以使用 Azure 使用量 API 取得保留區使用率資料，來確認客戶獲得保留區折扣，並查看折扣套用到那些 VM (虛擬機器)。 比較範例 A 和範例 B，了解如何確認客戶的保留區使用率。 
 
-![保留區的使用方式範例](images\usage5.png)
+![保留區的使用方式範例](images/usage5.png)
 
 -   ReservationId 可識別用於套用折扣至 VM 的 Azure 保留區。
 -   consumptionMeter 是已套用保留區折扣之 VM 的 MeterId。
