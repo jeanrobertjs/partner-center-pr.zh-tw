@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帳單，轉換，間接經銷商
-ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
+ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011105"
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "9015724"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接合作夥伴轉換為雲端解決方案提供者間接經銷商 
 
@@ -39,7 +39,7 @@ ms.locfileid: "9011105"
 4. 選取 \[現在註冊\]。 您的間接經銷商業務會使用相同的 AAD 承租人您針對您直接存取的企業使用。
 
 >[!Note]
->註冊成為間接經銷商使用直接帳單 AAD 租用戶的選項才會將引導帳單合作夥伴已識別為直接帳單下線。 
+>一開始，轉換這項新功能可供合作夥伴 9 月 12 月年度日期。 如果您不 「 t 擁有的週年 12 月 9 月之間，您將不會看到的功能在這個階段。 一旦啟用此功能的合作夥伴，會在稍後通知 2018 年 12 月之後到期日的夥伴。
 
 
 5. 當您註冊獲得核准時，重新登入合作夥伴中心。
@@ -54,7 +54,7 @@ ms.locfileid: "9011105"
 ![間接經銷商合約](images/direct/direct3.png)
 
 >[!Important] 
->一旦您成功註冊成為間接經銷商，使用您現有的直接帳單合作夥伴租用戶，沒有要移除的間接經銷商功能復原選項。 註冊您繼續之前，請確定您要轉換為的間接經銷商。
+>一旦您註冊為間接經銷商使用新的功能，沒有選項回復到直接帳單-唯一租用戶。 請確定您完全評估您的業務需求之前先註冊為間接經銷商。
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>當您從直接轉換到間接經銷商
 
