@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帳單，轉換，間接經銷商
-ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
-ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
+ms.openlocfilehash: 8a114829c5460bf169938e69de65a69996dc4010
+ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/21/2019
-ms.locfileid: "9015724"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "9024910"
 ---
-## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接合作夥伴轉換為雲端解決方案提供者間接經銷商 
+## <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>轉換從雲端解決方案提供者 (CSP) 直接帳單合作夥伴為雲端解決方案提供者間接經銷商 
 
 **適用於：**
  - 雲端解決方案提供者合作夥伴

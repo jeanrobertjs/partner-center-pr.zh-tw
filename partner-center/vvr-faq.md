@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 訓練上課券，軟體保證，訓練、 驗證上課券，保留憑單
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ca745281ed0e37ee6ec2e72df4ede4def17bcc7
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 457f2c7e0e43f03bac0f861ae3f4ec87a1173d0f
+ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015345"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "9024870"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>常見問題集： 使用憑單驗證與兌換工具 
 
@@ -33,12 +33,12 @@ ms.locfileid: "9015345"
 
 **我的公司已經從 PMC，移轉，但我們還沒有在過去的開始提供 18 個月中使用 DP/SATV 程式。**
 
-- 請連絡[PMC 支援小組](proghelp@microsoft.com)。 
+- 請連絡[PMC 支援小組](mailto:proghelp@microsoft.com)。 
 
 
 **我的公司已經從 PMC 移轉到合作夥伴中心。 將需要執行任何動作特定 VVR 中運作？** 
 
-- 您將無法在合作夥伴中心中使用 VVR。  若要使用 VVR，MPN 合作夥伴系統管理員可以登入合作夥伴中心使用他們的工作帳戶電子郵件。 如果您想要新增新的使用者，全域系統管理員或 MPN 系統管理員可以執行此動作。 如果您有存取合作夥伴中心，移至**存取管理**，選取 \ [**使用者**，和篩選**MPN 系統管理員**。這將讓您的公司 MPN 系統管理員的清單。  
+- 您將無法在合作夥伴中心中使用 VVR。  若要使用 VVR，MPN 合作夥伴系統管理員可以登入合作夥伴中心使用他們的工作帳戶電子郵件。 如果您想要新增新的使用者，全域系統管理員可以執行此動作。 如果您有存取合作夥伴中心，移到**存取管理**，選取 \ [**使用者**，和篩選**MPN 系統管理員**的**全域系統管理員**。這將讓您的公司 MPN 和全域系統管理員的清單。  
 
 **我想要能夠存取 VVR 少數使用者**
 
@@ -49,5 +49,5 @@ ms.locfileid: "9015345"
 - 合作夥伴中心，您需要使用 (AAD 中) 的工作帳戶登入。  晶片目前使用個人帳戶 （MSA 或 Live ID） 登入。  從 VVR 合作夥伴中心中，瀏覽晶片，您必須使用您的 MSA 或註冊的晶片 Live ID 的晶片登入。
 
 如需如何註冊 SATV，讀取[軟體保證訓練憑單 (SATV) 計畫，在合作夥伴中心](software-assurance-satv.md)中的資訊。
-
-如需如何註冊在軟體保證 DP 程式中，閱讀[合作夥伴中心中的軟體保證程式](software-assurance-dps.md)的資訊。
+ <!--
+For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
