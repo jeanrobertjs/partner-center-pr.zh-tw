@@ -13,6 +13,7 @@
 # [雲端解決方案提供者](csp-overview.md)
 ## [參加雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
 ## [雲端解決方案提供者直接合作夥伴的新需求](direct-partner-new-requirements.md) 
+## [從雲端解決方案提供者 (CSP) 直接合作夥伴轉換到雲端解決方案提供者間接轉銷商](transition-direct-to-indirect.md)
 ## [註冊為控制台廠商](enroll-as-cpv.md)
 ###[您必須在您的租用戶啟用 Multi-Factor Authentication (MFA)，才能存取此頁面](enable-mfa.md)
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
@@ -42,8 +43,8 @@
 ## [獎勵宣告](claims-overview.md)
 ### [建立和管理獎勵宣告](create-incentives-claims.md)
 ### [獎勵宣告的核心要求](core-requirements.md)
-### [獎勵宣告付款概觀](incentives-payouts.md)
-
+### [獎勵請款付款概觀](incentives-payouts.md)
+## [Azure 專家 Microsoft 服務提供者計畫](azure-expert-msp.md)
 
 # [帳單與稅金](billing.md)
 ## [雲端解決方案提供者計費概觀](billing-basics.md)
