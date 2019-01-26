@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: ede912569436c159b2dcc1661298e712f9b2065e
+ms.sourcegitcommit: daa8de3e6a269b28e77e097792ac35d70fa26461
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9025332"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "9030068"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>使用合作夥伴中心來驗證、 保留，以及兌換上課券憑單驗證和兌換工具 
 
@@ -60,7 +60,7 @@ ms.locfileid: "9025332"
 
 若要取消憑單保留區，您可能需要數個原因有：
 
-- 供應項目或程式已經從原先保留 boucher 時。
+- 供應項目或程式已經從憑單原先保留。
 
 - 佔用不再需要的地方。
 
