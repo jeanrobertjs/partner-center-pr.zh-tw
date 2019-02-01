@@ -6,12 +6,12 @@ description: 了解以雲端解決方案提供者銷售的不同模型，並判�
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
+ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001698"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "9042582"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 
@@ -28,7 +28,7 @@ ms.locfileid: "9001698"
 
 當您填寫雲端解決方案提供者應用程式時，您將需要您的 MPN 識別碼、 完整的公司地址、 銀行資訊，以及的公司電子郵件將會做為合作夥伴中心系統管理員的員工。
 
-1. 使用您的工作電子郵件 （AAD 承租人認證） 登入合作夥伴中心
+1. 使用您的工作電子郵件 （AAD 租用戶的認證） 登入合作夥伴中心
 
 2. 建立您的合作夥伴設定檔，並將您的 MPN 識別碼到您的設定檔產生關聯。
 我們可能需要數天來審查並確認您所提供的資訊。 審查完成後，我們會通過電子郵件通知您。
@@ -58,7 +58,7 @@ ms.locfileid: "9001698"
 
 ### <a name="enroll-as-a-direct-partner"></a>註冊為直接合作夥伴
 
-身為直接合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 我們已經更新適用於截至 2018 年 8 月 31 日的直接帳單合作夥伴註冊需求。 這些新的需求將協助您加速您的業務成長以正確的雲端解決方案提供者註冊模型並加強您客戶的關係，與加值服務和支援。 
+身為直接合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 我們已經更新適用於截至 2018 年 8 月 31 日的直接帳單合作夥伴註冊需求。 這些新的需求將協助您加速您的業務成長與正確的雲端解決方案提供者註冊模型，並加強您客戶的關係，與加值服務和支援。 
 
 ### <a name="minimum-requirements"></a>最低要求條件
 
@@ -66,15 +66,24 @@ ms.locfileid: "9001698"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN 識別碼**   |您的商務位置作用中 Microsoft 合作夥伴網路 (MPN) 識別碼。   |
 |**背書**   |接受並代表您的組織簽署法律合約的授權。|
-|**支援**   |能夠提供雲端產品的第一層支援至您的客戶。|
+|**支援**   |能夠提供雲端產品的第一層支援新增至您的客戶。|
 |**受管理的服務**   |至少一個受管理的服務、 IP 服務或客戶解決方案的應用程式。 深入了解新增[受管理的服務](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)。|
-|**應收帳款** |管理客戶帳單和佈建就地組織基礎結構。 
+|**應收帳款** |管理客戶帳單與佈建就地組織基礎結構。 
 
 
+檢閱的最低需求之後，您必須完成快速驗證問卷，以確認您的資格。 
+
+[雲端解決方案提供者評定](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+- 一旦您註冊並符合直接合作夥伴的接受條件，您的全域管理員就會設定您的帳戶、新增員工、根據工作內容指派角色與權限給員工，並設定組織設定檔。
+
+- 如果您有已經與您想要繼續使用透過合作夥伴中心的客戶合作，您必須[將他們關聯](request-a-relationship-with-a-customer.md)到您在合作夥伴中心帳戶。 接著 Microsoft 就會將您的計費與發票開立連結至他們。 
+
+從直接帳單合作夥伴轉換為的間接經銷商的相關資訊，請參閱[來回轉換為雲端解決方案提供者間接經銷商的雲端解決方案提供者 (CSP) 直接帳單合作夥伴](transition-direct-to-indirect.md)
 
 ## <a name="csp-regional-markets-and-currencies"></a>CSP 地區市場及貨幣
 
-貴公司的位置會決定您的市場。 您的市場包括地區和/或您可以在其中銷售雲端解決方案提供者優惠國家/地區。 請參閱市場位置與在[雲端解決方案提供者計畫地區市場和貨幣](regional-authorization-overview.md)使用的貨幣
+貴公司的位置會決定您的市場。 您的市場包括地區和/或您可以在其中銷售雲端解決方案提供者優惠國家/地區。 請參閱市場位置與在[雲端解決方案提供者計畫地區市場及貨幣](regional-authorization-overview.md)使用的貨幣
 
 
 
