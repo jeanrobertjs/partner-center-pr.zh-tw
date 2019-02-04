@@ -6,12 +6,12 @@ description: 了解以雲端解決方案提供者銷售的不同模型，並判�
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
-ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
+ms.openlocfilehash: 56a67d5843394e05007f54683ad4baec93033eb7
+ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "9042582"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043507"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 
@@ -56,28 +56,26 @@ ms.locfileid: "9042582"
 
 
 
-### <a name="enroll-as-a-direct-partner"></a>註冊為直接合作夥伴
+### <a name="enroll-as-a-direct-bill-partner"></a>註冊為直接帳單合作夥伴
 
-身為直接合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 我們已經更新適用於截至 2018 年 8 月 31 日的直接帳單合作夥伴註冊需求。 這些新的需求將協助您加速您的業務成長與正確的雲端解決方案提供者註冊模型，並加強您客戶的關係，與加值服務和支援。 
+身為直接帳單合作夥伴，您會擁有端對端關係，與您的客戶和 Microsoft。 我們已經更新適用於截至 2018 年 8 月 31 日的直接帳單合作夥伴註冊需求。 這些新的需求將協助您加速您的業務成長與正確的雲端解決方案提供者註冊模型，並加強您客戶的關係，與加值服務和支援。 
 
 ### <a name="minimum-requirements"></a>最低要求條件
 
 |**需求**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN 識別碼**   |您的商務位置作用中 Microsoft 合作夥伴網路 (MPN) 識別碼。   |
+|**MPN 識別碼**   |您的商務位置作用中 Microsoft 合作夥伴網路 (MPN) 識別碼。    |
 |**背書**   |接受並代表您的組織簽署法律合約的授權。|
-|**支援**   |能夠提供雲端產品的第一層支援新增至您的客戶。|
+|**支援**   |能夠提供雲端產品的第一層支援新增至您的客戶。 Microsoft 支援方案，任一進階合作夥伴的支援 (ASfP) 或協力廠商 (PSfP)，根據需求的頂級支援。 [比較支援計劃](https://partner.microsoft.com/en-US/support/partnersupport)。 |
 |**受管理的服務**   |至少一個受管理的服務、 IP 服務或客戶解決方案的應用程式。 深入了解新增[受管理的服務](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)。|
 |**應收帳款** |管理客戶帳單與佈建就地組織基礎結構。 
 
 
-檢閱的最低需求之後，您必須完成快速驗證問卷，以確認您的資格。 
+檢閱上述的最低需求之後，您必須完成快速驗證問卷，以確認您的資格。 
 
-[雲端解決方案提供者評定](https://partner.microsoft.com/cloud-solution-provider/assessment)
+[雲端解決方案提供者問卷](https://partner.microsoft.com/cloud-solution-provider/assessment)
 
-- 一旦您註冊並符合直接合作夥伴的接受條件，您的全域管理員就會設定您的帳戶、新增員工、根據工作內容指派角色與權限給員工，並設定組織設定檔。
-
-- 如果您有已經與您想要繼續使用透過合作夥伴中心的客戶合作，您必須[將他們關聯](request-a-relationship-with-a-customer.md)到您在合作夥伴中心帳戶。 接著 Microsoft 就會將您的計費與發票開立連結至他們。 
+問卷評定決定您要註冊雲端解決方案提供者直接帳單計畫的資格。 一旦您確定問卷調查，然後透過您符合直接帳單準則，並已提交註冊表單，我們將執行包括貸記金額核取您公司的企業評論。 如果您已核准的貸記金額，您必須確認 ASfP 」 或 「 PSfP 計劃的購買，並最後，接受開始身為直接帳單合作夥伴交易與客戶的直接帳單條款合約。
 
 從直接帳單合作夥伴轉換為的間接經銷商的相關資訊，請參閱[來回轉換為雲端解決方案提供者間接經銷商的雲端解決方案提供者 (CSP) 直接帳單合作夥伴](transition-direct-to-indirect.md)
 
