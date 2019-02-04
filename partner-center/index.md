@@ -4,21 +4,21 @@ hide_bc: true
 title: 從這裡開始以尋求協助，合作夥伴中心
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: 拓展您的企業中的 Microsoft 雲端解決方案提供者計畫的合作夥伴中心說明。 設定您的帳戶、 與客戶保持聯繫、 購買行動寶盒訂閱，以及在雲端解決方案提供者與 MPN 計畫的合作夥伴找到詳細資訊。 
+description: 合作夥伴中心可協助您拓展業務的 Microsoft 雲端解決方案提供者 (CSP) 計畫中。 設定您的帳戶、 與客戶保持聯繫、 購買行動寶盒訂閱，以及在雲端解決方案提供者與 MPN 計畫的合作夥伴找到詳細資訊。 
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f15360e6d1c8f03a856fc97e78e854d2496a4e9
-ms.sourcegitcommit: c937b024b2151c8ed5a69a354b731fd2db44a570
+ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "9035468"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043565"
 ---
-# <a name="partner-center-help"></a>合作夥伴中心說明
+# <a name="welcome-to-partner-center"></a>歡迎使用合作夥伴中心
 
-有管理您的帳戶，與客戶保持聯繫、 購買行動寶盒訂閱，在獎勵計畫中註冊的最佳做法的相關問題嗎？ 尋找在合作夥伴中心的答案協助程式庫。
+Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft 的端對端關係。 它有可協助您進行交易，並拓展業務，包括選項會員資格、 客戶推薦和雲端解決方案提供者 (CSP) 計畫工具與資源。 了解管理您的帳戶、 與客戶保持聯繫、 購買行動寶盒訂閱，以及在合作夥伴中心說明文件庫中的獎勵計畫中註冊的最佳做法。
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -27,7 +27,7 @@ ms.locfileid: "9035468"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
@@ -45,7 +45,7 @@ ms.locfileid: "9035468"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
