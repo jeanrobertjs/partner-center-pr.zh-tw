@@ -3,16 +3,16 @@ title: '向教育機構客戶銷售 Minecraft: Education Edition'
 ms.topic: article
 ms.date: 10/29/2018
 description: '向符合資格的教育機構客戶銷售 Minecraft: Education Edition'
-author: KPacquer
-ms.author: kenpacq
-keywords: 授權的教育合作夥伴
+author: labrenne
+ms.author: labrenne
+keywords: 授權的教育合作夥伴，教育版，銷售給教育版，學校
 ms.localizationpriority: medium
-ms.openlocfilehash: aa86e62d19d3f83ad828afbc8cd1c9880a6c93c3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796581"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062326"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育機構客戶銷售 Minecraft: Education Edition
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796581"
 
 -  合作夥伴中心
 
-與教育機構合作的合作夥伴可以提供 **Minecraft: Education Edition** 訂閱給其客戶。 您在購買訂閱代表客戶在合作夥伴中心，並接著客戶從[教育用 Microsoft Store](https://educationstore.microsoft.com)下載軟體。 
+與教育機構合作的合作夥伴可以提供 **Minecraft: Education Edition** 訂閱給其客戶。 您購買訂閱代表客戶在合作夥伴中心，而客戶接著從[教育用 Microsoft Store](https://educationstore.microsoft.com)下載軟體。 
 
 >[!IMPORTANT]
 >若要銷售教育版優惠給教育機構客戶，您必須註冊雲端解決方案提供者 (CSP) 計畫，並成為[授權教育版賣家 (AEP)](https://www.mepn.com)。 此外，您的客戶必須是[合格教育版使用者](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。  
@@ -40,7 +40,7 @@ ms.locfileid: "5796581"
   4.  選取您想代表客戶購買的 Minecraft 訂閱，並輸入授權數量。 選取 **\[下一步: 評論\]**。
 
       >[!NOTE]
-      >您將無法查看及管理這些授權在合作夥伴中心。 您的客戶可以在 [Minecraft: Education Edition 詳細資料頁面](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)下方的詳細目錄中查看並管理這些授權 (您必須登入教育用 Microsoft Store 才能看到詳細資料頁面)。 
+      >您將能夠檢視及管理這些授權，在合作夥伴中心。 您的客戶可以在 [Minecraft: Education Edition 詳細資料頁面](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)下方的詳細目錄中查看並管理這些授權 (您必須登入教育用 Microsoft Store 才能看到詳細資料頁面)。 
 
   5.  如果是正確的訂單，請選取 **\[提交\]**。 如果您需要對訂單進行變更，請選取 **\[取消\]** 並進行所需的變更。   
 

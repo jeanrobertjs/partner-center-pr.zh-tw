@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 當您為客戶設定 Microsoft 服務訂閱時，您可以將這些產品的技術支援指派給指定的經銷商，而不是自行提供支援。
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: 協助代理人, 支援, 指派支援連絡人, 指定的支援連絡人
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c1bcb937a6020e1e6508c6f53e2790680b625051
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 89b5d6bc493e1de970425bb35bbabb90cc963510
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917250"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062346"
 ---
 # <a name="assign-support-contacts"></a>指派支援連絡人
 
@@ -33,7 +33,7 @@ ms.locfileid: "8917250"
 
 1.  從與您指派的產品經銷商[要求建立關係](request-a-relationship-with-a-customer.md)開始。 與他們協議出處理技術支援的支援合約。
 
-2.  從**合作夥伴中心**功能表中，選取**客戶**，然後選取客戶，然後選取訂閱，例如，Office 365 商務進階版。
+2.  在**合作夥伴中心**功能表中，選取**客戶**，然後選取客戶，然後選取訂閱，例如，Office 365 商務進階版。
 
 3.  在 **\[指派的支援連絡人\]**，選取指派的產品經銷商，然後按一下 **\[提交\]**。 
 

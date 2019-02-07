@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 在合作夥伴中心建立商務設定檔以透過 Microsoft 獲得業務潛在客戶。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: pinpoint, 推薦, 業務潛在客戶, C2PC, 公司設定檔, 行銷您的公司, 尋找合作夥伴, 尋找解決方案提供者, 商務設定檔, 行銷設定檔
 ms.localizationpriority: medium
-ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797251"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062356"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -43,12 +43,12 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 *  **Microsoft 銷售和服務員工的推薦**。 有興趣部署雲端技術解決方案的潛在客戶會向 Microsoft 尋求協助，尋找可以滿足其業務需求的專業人員。 這些 Microsoft 專業人員然後向潛在客戶推薦您的公司。
 
 > [!IMPORTANT]  
-> 為了協助我們的合作夥伴簡化業務營運，我們正在整併用來分散在數個工具和網站至合作夥伴中心，而此網站的特性和功能。 工作的一部分，我們將所有推薦相關功能都移到合作夥伴中心，並淘汰 Pinpoint 和 C2PC 網站。 如果您要取得及管理推薦從 Microsoft，使用 Pinpoint 或 C2PC 在過去，您將需要建立新的商務設定檔以便繼續取得推薦在合作夥伴中心。 我們已不再支援從這些網站匯入設定檔。 
+> 為了協助我們的合作夥伴簡化業務營運，我們正在整併用來分散在數個工具和網站至合作夥伴中心，而此網站的特性和功能。 工作的一部分，我們已將所有推薦相關功能都移到合作夥伴中心，並淘汰 Pinpoint 和 C2PC 網站。 如果您要取得及管理推薦，從 Microsoft，使用 Pinpoint 或 C2PC 在過去，您將需要建立新的商務設定檔，在合作夥伴中心，以便繼續取得推薦。 我們已不再支援從這些網站匯入設定檔。 
 
 ## <a name="create-a-profile"></a>建立設定檔
 
 > [!NOTE]  
->  您可以建立商務設定檔之前，您必須有合作夥伴中心帳戶。 如果還沒有合作夥伴中心帳戶，請參閱[建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)以取得建立帳戶的說明。 
+>  您可以建立商務設定檔之前，您必須在合作夥伴中心帳戶。 如果還沒有合作夥伴中心帳戶，請參閱[建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)以取得建立帳戶的說明。 
 
 為您獲得授權執行業務的每個地區，建立設定檔。 
 
@@ -56,7 +56,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 2.  在 **\[建立商務設定檔\]** 頁面中，選取地區，然後輸入您的設定檔資訊。
     > [!NOTE]  
-    >  雖然合作夥伴中心支援多種語言，不過某些元素，例如描述及自由格式標籤可能需要包含不同語言，如本主題中所述的文字。
+    >  雖然合作夥伴中心支援多種語言，不過某些元素，例如描述及自由格式標籤，可能需要包含不同語言，如本主題中所述的文字。
 
 ### <a href="" id="partner_info"></a>合作夥伴資訊
 
