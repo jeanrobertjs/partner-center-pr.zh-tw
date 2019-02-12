@@ -9,25 +9,33 @@ ms.author: evansma
 keywords: 雲端解決方案提供者市場中，領域，其中 i 銷售雲端解決方案提供者，雲端解決方案提供者供應項目，地區，銷售雲端解決方案，全球雲端解決方案提供者
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
+ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980622"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9065605"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>雲端解決方案提供者計畫地區的市場和貨幣
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>雲端解決方案提供者計畫地區市場及貨幣
 
 貴公司的位置會決定您的市場。 您的市場包括地區和/或您可以在其中銷售雲端解決方案提供者優惠國家/地區。
 
-例如，如果您的公司位於美國，您可以在美國和美國外圍群島中的客戶銷售雲端解決方案提供者優惠。 如果您的公司位於巴西，您可以只巴西的客戶銷售雲端解決方案提供者優惠。 如果您的公司位於非洲地區，您可以在所有 18 的國家/地區中非洲地區的客戶銷售雲端解決方案提供者優惠。
+例如，如果您的公司位於美國，您就可以在美國和美國外圍群島中的客戶銷售雲端解決方案提供者優惠。 如果您的公司位於巴西，您可以只巴西的客戶銷售雲端解決方案提供者優惠。 如果您的公司位於非洲地區，您可以在非洲區域中所有 18 國家/地區的客戶銷售雲端解決方案提供者優惠。
 
-您可以訂購雲端解決方案提供者代表客戶提供之前，客戶必須登入 Microsoft Cloud 合約。 您可以針對您的地區/國家尋找適用的 Microsoft Cloud 合約[以下](agreements.md)。
+您可以訂購代表客戶的雲端解決方案提供者提供之前，客戶必須登入 Microsoft Cloud 合約。 您可以針對地區/國家/地區中尋找適用的 Microsoft Cloud 合約[以下](agreements.md)。
 
 >[!IMPORTANT]
-> 從開始在 7，2018 年 11 月，您將需要確認客戶已接受 Microsoft Cloud 合約，藉由提供簽署它的人的相關資訊。 如需詳細資訊，請參閱[確認客戶的接受的 Microsoft Cloud 合約](confirm-consent.md)。
+> 開始於 2018 年 11 月 7，您將需要確認客戶已接受的 Microsoft Cloud 合約藉由提供簽署它的人的相關資訊。 如需詳細資訊，請參閱[確認客戶的 Microsoft Cloud 合約接受](confirm-consent.md)。
 
-若要判斷您可以在其中銷售雲端解決方案提供者優惠，請其中一個下列清單中找到貴公司的位置。 您必須擁有的作用中的 Microsoft 合作夥伴網路 (MPN) 識別碼，您想要在銷售的位置。  
+若要判斷您可以在其中銷售雲端解決方案提供者優惠，尋找您的公司位置其中一個下列清單中。 您必須有您想要在銷售的位置作用中的 Microsoft 合作夥伴網路 (MPN) 識別碼。  
+
+## <a name="for-unsupported-countries"></a>不支援的國家/地區
+
+如果不支援您的國家/地區，建立客戶使用 Office 系統管理員 URL 的雲端解決方案提供者關係。 
+
+- 直接帳單合作夥伴使用下列 url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0。 **Partnertenantguid**取代為您的租用戶識別碼。 
+
+- Url 為間接經銷商： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 您將會取代**IRtenantguid**與您的租用戶識別碼。 **IRMPNID**取代為您的 MPN ID，並使用您的間接提供者租用戶識別碼取代**IPtenantguid** 。
 
 ## <a name="africa-region-and-market"></a>非洲地區和市場
 
@@ -84,7 +92,7 @@ ms.locfileid: "8980622"
 | 尚比亞                   |          |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>亞洲與太平洋地區和市場
+## <a name="asia-and-pacific-region-and-market"></a>亞洲與太平洋區域和市場
 
 如果您的公司位置為下列清單中，您可以在清單中的所有位置的客戶銷售雲端解決方案提供者優惠。
 
@@ -215,7 +223,7 @@ ms.locfileid: "8980622"
 
 ## <a name="india-region-and-market"></a>印度地區和市場
 
-如果您的公司位置為印度，您可以在印度的客戶銷售雲端解決方案提供者優惠。
+如果貴公司的位置為印度，您可以在印度的客戶銷售雲端解決方案提供者優惠。
 
 |  國家/地區 | Currency |
 |  -------------- |:--------:|
@@ -224,7 +232,7 @@ ms.locfileid: "8980622"
 
 ## <a name="japan-region-and-market"></a>日本地區和市場
 
-如果您的公司位置為日本，您可以在日本的客戶銷售雲端解決方案提供者優惠。
+如果您的公司位置為日本，您可以日本的客戶銷售雲端解決方案提供者優惠。
 
 |  國家/地區 | Currency |
 |  -------------- |:--------:|
@@ -301,7 +309,7 @@ ms.locfileid: "8980622"
 |  美屬維爾京群島| 美元 |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>中東、 歐及歐洲東部地區和市場
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>中東、 歐和東部 Europe 地區和市場
 
 如果您的公司位置為下列清單中，您可以在清單中的所有位置的客戶銷售雲端解決方案提供者優惠。
 
@@ -337,7 +345,7 @@ ms.locfileid: "8980622"
 |  莫三比克     |          |
 |  阿曼           |   美元    |
 |  巴基斯坦       |   美元    |
-|  Palestinian Territory, Occupied |        |
+|  巴勒斯坦領域佔用 |        |
 |  卡達          |   美元    |
 |  沙烏地阿拉伯   |   美元    |
 |  賽爾維亞         |   美元    |
@@ -368,16 +376,16 @@ ms.locfileid: "8980622"
 
 ## <a name="russia-region-and-market"></a>俄羅斯地區和市場
 
-如果您的公司位置為俄羅斯，您可以在俄羅斯的客戶銷售雲端解決方案提供者優惠。
+如果貴公司的位置為俄羅斯，您可以在俄羅斯的客戶銷售雲端解決方案提供者優惠。
 
 |  國家/地區 | Currency |
 |  -------------- |:--------:|
 |  俄羅斯         |    俄羅斯盧布   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>台灣地區和市場
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+如果貴公司的位置為台灣，您可以在台灣的客戶銷售雲端解決方案提供者優惠。
 
 |  國家/地區 | Currency |
 |  -------------- |:--------:|
