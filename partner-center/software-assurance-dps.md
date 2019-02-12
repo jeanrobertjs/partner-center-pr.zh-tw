@@ -2,21 +2,21 @@
 title: 軟體保證規劃服務在合作夥伴中心 |合作夥伴中心
 ms.topic: article
 ms.date: 1/21/19
-description: 規劃預先部署規劃的企業客戶所提供的服務中註冊
+description: 在規劃預先部署規劃的企業客戶所提供的服務中註冊
 author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 98527a89422ff30638c4d6ecc44efac5c147a7f6
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
+ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9028495"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9066015"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>軟體保證規劃服務在合作夥伴中心
+# <a name="software-assurance-planning-services-in-partner-center"></a>合作夥伴中心的軟體保證規劃服務
 
-拓展您的業務，藉由軟體保證合作夥伴計畫中註冊。 Microsoft 會將訓練、 規劃，及其他的服務傳遞給擁有軟體保證的企業客戶補償合作夥伴。
+拓展您的業務，藉由軟體保證規劃服務計畫中註冊。 Microsoft 會將訓練、 規劃，及其他的服務傳遞給擁有軟體保證的企業客戶補償合作夥伴。
 
 如已核准的規劃服務合作夥伴，Microsoft 會補償您提供針對企業客戶預先部署規劃的客戶業務。 參與本計畫可協助您吸引更多客戶、 成為其受信任的規劃合作夥伴，以及會導致其他客戶業務開發。
 
@@ -25,7 +25,7 @@ ms.locfileid: "9028495"
 
 ## <a name="get-started"></a>開始使用
 
-如果您是新手軟體保證規劃服務，請依照下列所有步驟。 如果您已經在作用中規劃服務程式後，且您的合作夥伴帳戶資訊已移到合作夥伴中心，開始在步驟四 （4） 下方。 
+如果您是新手軟體保證規劃服務，請依照下列所有步驟。 如果您已經在作用中的規劃服務程式，且您的合作夥伴帳戶資訊已移到合作夥伴中心，開始在步驟四 （4） 下方。 
 
 1. 確認計畫資格 
 2. 規劃的服務計畫中註冊
@@ -39,7 +39,7 @@ ms.locfileid: "9028495"
 
 ## <a name="confirm-eligibility"></a>確認資格
 
-您可以註冊規劃的服務計畫之前，您的公司必須符合專長認證和合規性訓練需求，並導致客戶參與顧問必須符合技術訓練和測驗要求條件。 
+您可以註冊規劃服務計畫之前，您的公司必須符合專長認證和合規性訓練需求，並導致客戶參與顧問必須符合技術訓練和測驗要求條件。 
 
 每個規劃服務程式有唯一的資格要求。 如需有關規劃服務資格要求，請參閱[驗證的資格](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx)。
 
@@ -59,9 +59,9 @@ ms.locfileid: "9028495"
 
 5. 您的公司計畫 」 參與者完成所需的訓練課程後，返回[註冊頁面](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx)，並登入 Microsoft 規劃服務計畫提供者合約。 
 
-## <a name="enroll-in-a-planning-service-program"></a>規劃的服務計畫中註冊
+## <a name="enroll-in-the-planning-services-program"></a>規劃服務計畫中註冊
 
-您的公司符合規劃的服務計畫的資格需求，以及您計畫 」 參與者已通過合規性訓練課程之後，就可以註冊。 
+您的公司符合規劃服務計畫的資格需求，以及您計畫 」 參與者已通過合規性訓練課程之後，就可以註冊。 
 
 請依照下列步驟來規劃的服務計畫中註冊。
 
@@ -69,7 +69,7 @@ ms.locfileid: "9028495"
 2. 選取要開啟規劃服務] 索引標籤的規劃服務。
 3. 選取您想要註冊，並選取的計畫**註冊。**
 
-當您完成此程序後時，將會獲得核准您的公司 loations 傳遞您已經註冊雲端供應項目。 您組織的員工列為連絡人角色 MPN 任何已核准位置將可以存取 VVR 工具來管理規劃服務上課券代表該位置。 
+當您完成此程序時，來提供您已經註冊雲端供應項目將會獲得核准您公司的位置。 您的公司員工列為 MPN 合作夥伴系統管理員能夠存取 VVR 工具來管理規劃服務上課券代表任何位置。
 >[!Note]
 > 您將需要續約您的需求，並且重新規劃服務計畫中註冊每年。
 
@@ -92,7 +92,6 @@ ms.locfileid: "9028495"
 >[!NOTE]
 > 您也需要上傳一份交付項目，在此步驟中客戶參與。 
 
-完成後，當您送出 \ [完成] 報告時，儲存所產生提交收據檔案 （在.xml 格式） 到您的裝置，您需要兌換折扣。
 
 依照中[管理上課券憑單驗證和兌換工具 (VVR) 中](voucher-validation-tool.md)的步驟。
 
@@ -102,7 +101,12 @@ ms.locfileid: "9028495"
 
 1. 在您保留上課券清單中，選取您想要兌換的 voucher(s)。 
 2. 現在，您會看到一份**Redeemed**上課券。
+3. 選取所需的 voucher(s) 旁邊 checkbox(es)，然後按一下 [**兌換選取上課券**。
+4. 從確認憑單兌換頁面上，檢閱憑單資訊的正確性，然後選取 **[是]** 兌換折扣。
 
-4. 若要建立請款要求，選取 [**建立請款要求**，或在憑單詳細資料頁面上，選取 \ [ **Create 請款要求**。
+5. 若要建立請款要求，選取 [**建立請款要求**，或在憑單詳細資料頁面上，選取 \ [ **Create 請款要求**。
 
-5. 選取 [**建立宣告**會將您帶到[線上付款工具的軟體保證憑單權益 (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)才能發票 Microsoft。
+6. 選取 [**建立宣告**會將您帶到[線上付款工具的軟體保證憑單權益 (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)才能發票 Microsoft。
+
+
+
