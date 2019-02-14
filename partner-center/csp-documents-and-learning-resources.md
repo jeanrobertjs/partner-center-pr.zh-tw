@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠
 ms.localizationpriority: medium
-ms.openlocfilehash: a58edd5c7643c5c72f12672d1e289d4266b2af23
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
+ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000048"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "9075181"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、 合約、 價目表和優惠
 
-**適用於**
+**適用對象：**
 
 -  合作夥伴中心
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
@@ -41,7 +41,7 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 [Microsoft 雲端轉銷商合約 – 北美洲、中美洲、南美洲及加勒比海](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 雲端轉銷商合約 – 亞洲、澳大利亞及太平洋](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Sep2018_CR.pdf)
+[Microsoft 雲端轉銷商合約 – 亞洲、澳大利亞及太平洋](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
 [Microsoft 雲端轉銷商合約 – 歐洲、中東及非洲](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -51,20 +51,20 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 [Microsoft 雲端轉銷商合約 – 台灣](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft 雲端轉銷商合約 - 美國政府適用的 Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
+[Microsoft 雲端轉銷商合約 - 美國政府適用的 Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud 合約範本
 
-身為 CSP 合作夥伴，您負責與客戶檢閱 Microsoft 的條款及條件，包括 Microsoft 產品與服務可接受的使用。 請依照下面的連結，尋找您需要與新客戶檢閱 Microsoft Cloud 合約。 
+身為 CSP 合作夥伴，您負責與客戶檢閱 Microsoft 的條款及條件，包括 Microsoft 產品與服務可接受的使用。 請依照下面的連結，尋找您需要檢閱與新客戶的 Microsoft Cloud 合約。 
 
 Microsoft Cloud 合約[客戶範本](agreements.md)
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 合約 （德國） 的專業加密增修條款
 
-在德國，刑事程式碼 (區段 203) 及管理辦法專業代碼需要特定的用戶端關係會保持機密，範例、 病患和其醫療醫生之間的關係及之間的關係律師和他們的用戶端。 這些職業群組都有以確保專業加密。 對於這些和其他從雲端解決方案提供者購買雲端服務的專業人員，雲端服務提供者必須得出專業加密，可確保客戶合約。 
+在德國，刑事程式碼 (區段 203) 及管理辦法專業代碼需要特定的用戶端關係會保持機密，範例、 病患和其醫療醫生之間的關係，以及之間的關係律師和他們的用戶端。 這些職業群組都有以確保專業加密。 對於這些和其他從雲端解決方案提供者購買雲端式服務的專業人員，雲端服務提供者必須得出專業加密，可確保客戶合約。 
 
-如果您這麼做德國境內的商業，您可能需要這個專業加密增修條款為客戶提供那里除了 Microsoft Cloud 合約。
+如果您這麼做德國境內的商業，您可能需要此專業加密增修條款為客戶提供那里除了 Microsoft Cloud 合約。
 
 [Microsoft Cloud 合約專業加密增修條款德國 (EN-US)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
@@ -80,7 +80,7 @@ Microsoft Cloud 合約[客戶範本](agreements.md)
 
 用量型價格是動態的且會經常變更。 用量型服務的範例包括 Microsoft Azure。
 
-一次性購買價格也是動態的。 一次性購買的範例包括 Microsoft Azure reservations 和對應到 Windows Server 和 SQL 軟體訂閱。 
+一次性購買價格也是動態的。 一次性購買的範例包括 Microsoft Azure reservations 和相對應的 Windows Server 和 SQL 軟體訂閱。 
 
 
 ## <a name="offers"></a>優惠
