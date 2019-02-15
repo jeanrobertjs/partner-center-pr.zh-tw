@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
-ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
+ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
+ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "9075181"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079256"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、 合約、 價目表和優惠
 
@@ -56,9 +56,9 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud 合約範本
 
-身為 CSP 合作夥伴，您負責與客戶檢閱 Microsoft 的條款及條件，包括 Microsoft 產品與服務可接受的使用。 請依照下面的連結，尋找您需要檢閱與新客戶的 Microsoft Cloud 合約。 
+身為 CSP 合作夥伴，您負責與客戶檢閱 Microsoft 的條款及條件，包括 Microsoft 產品與服務可接受的使用。 移至 Microsoft Cloud 合約[客戶範本](agreements.md)，以尋找您需要檢閱與新客戶的 Microsoft Cloud 合約。 
 
-Microsoft Cloud 合約[客戶範本](agreements.md)
+
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 合約 （德國） 的專業加密增修條款
 
