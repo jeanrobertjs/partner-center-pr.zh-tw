@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
-ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
+ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
+ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079256"
+ms.locfileid: "9079727"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、 合約、 價目表和優惠
 
@@ -43,6 +43,8 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 [Microsoft 雲端轉銷商合約 – 亞洲、澳大利亞及太平洋](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
+
+
 [Microsoft 雲端轉銷商合約 – 歐洲、中東及非洲](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
 [Microsoft 雲端轉銷商合約 – 日本](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
@@ -56,7 +58,8 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud 合約範本
 
-身為 CSP 合作夥伴，您負責與客戶檢閱 Microsoft 的條款及條件，包括 Microsoft 產品與服務可接受的使用。 移至 Microsoft Cloud 合約[客戶範本](agreements.md)，以尋找您需要檢閱與新客戶的 Microsoft Cloud 合約。 
+身為 CSP 合作夥伴，您負責與客戶檢閱 Microsoft 的條款及條件，包括 Microsoft 產品與服務可接受的使用。 移至 Microsoft Cloud 合約[客戶範本](agreements.md)，以尋找您將需要檢閱與新客戶的 Microsoft Cloud 合約。 
+
 
 
 
