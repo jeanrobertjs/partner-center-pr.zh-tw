@@ -6,12 +6,12 @@ description: 做為間接提供者或代理商，您可以與間接經銷商合�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
+ms.sourcegitcommit: 48684194c75e5ca9df225745b2263a18f2c18943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795191"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "9081352"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
 
@@ -47,10 +47,10 @@ ms.locfileid: "5795191"
     - 將新客戶和訂閱關聯到經銷商
     - 與現有客戶建立經銷商關係 <br>
 
-完成這些步驟之後，您可以管理您的經銷商合作關係，在 [**間接經銷商**\] 頁面上，從您的**合作夥伴中心**功能表。
+完成這些步驟之後，您可以管理經銷商合作關係 \ [**間接經銷商**] 頁面上的，從您的**合作夥伴中心**功能表。
 
 > [!IMPORTANT]   
-> 您可以開始與經銷商合作前，他們必須註冊為 CSP 計畫的間接經銷商，並擁有合作夥伴中心帳戶。 指引您的經銷商參閱[在 CSP 中與間接提供者建立合作關係](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)，以取得註冊 CSP 的相關資訊。 
+> 您可以開始與經銷商合作前，他們必須註冊為間接經銷商，雲端解決方案提供者計畫中，並有合作夥伴中心帳戶。 指引您的經銷商參閱[在 CSP 中與間接提供者建立合作關係](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)，以取得註冊 CSP 的相關資訊。 
 
 ## <a name="connect-with-indirect-resellers"></a>與間接經銷商聯繫
 
@@ -64,7 +64,7 @@ ms.locfileid: "5795191"
 
 3. 選取 **\[在電子郵件中開啟\]**，在預設的郵件應用程式中開啟訊息，或選取 **\[複製到剪貼簿\]**，將該訊息複製和然後貼到電子郵件。 完成時選取 **\[完成\]**。
     > [!IMPORTANT]  
-    >  您可以編輯的文字在電子郵件訊息中，但是請務必包含連結，因為它針對您的合作夥伴中心帳戶已個人化。
+    >  您可以編輯電子郵件訊息中，文字，但是請務必包含連結，因為它針對您的合作夥伴中心帳戶已個人化。
 
 4. 經銷商接受您的建立合作關係要求之後，他們會顯示在您的間接經銷商清單中，您就可以： 
 
@@ -75,12 +75,65 @@ ms.locfileid: "5795191"
 
 根據您想要讓經銷商擁有的存取和參與程度，您可以執行下列一或多個動作，如下所述。
 
+對於現有的訂閱，如果您決定要使用的間接經銷商，您可以更新的訂閱詳細資料，以包含間接經銷商。
+
+- 在訂閱詳細資料頁面上，在 [**經銷商 (MPN ID)** 欄位中，新增您想要使用的經銷商。 這樣可確保經銷商，將會收到適當的獎勵。
+
 | **若要完成此目標** | **執行這項操作** | **其中** |
 |   ------------------   |   -------   |   -----   |
 | 讓經銷商管理客戶帳戶，並擁有系統管理員權限以管理其訂閱 | 當您新增客戶，關聯經銷商到客戶帳戶 | 在 **\[新客戶\]** 頁面 |
 |讓經銷商管理 Azure 客戶帳戶|當您新增客戶，關聯經銷商到 Azure 客戶帳戶|在 \[**Azure 服務入口網站**\] 中，選取[使用者設定](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)提供間接經銷商**租用戶擁有者**權限|
 | 提供經銷商獎勵的信用點數 | 關聯經銷商到訂閱（新或現有） | 在 **\[新訂閱\]** 頁面上 |
 | 委派特定訂閱的客戶支援給經銷商 | 從 **\[指派的支援連絡人\]** 清單選取經銷商 | 在訂閱的詳細資料頁面上：從您的 **\[客戶\]** 頁面選取客戶，然後從客戶的 **\[訂閱\]** 頁面選取訂閱 |
+
+時至今日，間接提供者也可以使用合作夥伴中心儀表板，訂單，也可以選擇為 PartnerOnRecord 間接經銷商。 如果他們沒有挑選間接經銷商，我們將此項視為 1 層交易和激勵因此間接提供者。 若他們不要選擇其中一個，我們順序視為 2 層交易，我們激勵間接提供者和間接經銷商據此：
+
+ 
+
+此外，也會體驗是間接提供者也可以更新現有的訂閱 PartnerOnRecord:
+
+ 
+
+您知道若我們有現有的文件上間接提供者應該管理 PartnerOnRecord 請設定？
+這詢問我的原因是因為似乎有相當重要的一組已設定不正確的間接提供者，導致不正確的獎勵支付的 2 層交易。 隨著時間合作夥伴實現這和啟動給 Microsoft，以取得獎勵 backpay 射出。 如果我們沒有這個領域中的文件涵蓋範圍，我想要取得您的協助，以將其中一個放在一起。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="connect-with-customers"></a>與客戶保持聯繫
