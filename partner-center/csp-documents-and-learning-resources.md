@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠
 ms.localizationpriority: medium
-ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
-ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
+ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079727"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083141"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、 合約、 價目表和優惠
 
@@ -27,13 +27,12 @@ ms.locfileid: "9079727"
 
 ## <a name="cloud-solution-provider-program-guide"></a>雲端解決方案提供者計畫指南
 
-
 檢閱成為雲端解決方案提供者計畫中的合作夥伴的需求。
 
 [雲端解決方案提供者合作夥伴的計畫指南](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->您應該需要認證或確認狀態代號，您可以[連絡支援](https://partner.microsoft.com/pcv/servicerequests/create)來要求。
+>如果您需要商務代號確認或身為雲端解決方案提供者計畫，[請連絡客戶支援](https://partner.microsoft.com/pcv/servicerequests/create)新增至其中一個要求核准的 Microsoft 合作夥伴認證您的狀態。
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>雲端解決方案提供者合作夥伴合約
 
@@ -42,8 +41,6 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 [Microsoft 雲端轉銷商合約 – 北美洲、中美洲、南美洲及加勒比海](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
 [Microsoft 雲端轉銷商合約 – 亞洲、澳大利亞及太平洋](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
-
-
 
 [Microsoft 雲端轉銷商合約 – 歐洲、中東及非洲](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -55,13 +52,12 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 [Microsoft 雲端轉銷商合約 - 美國政府適用的 Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 合約客戶範本
 
-## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud 合約範本
+您可以代表客戶的放置順序之前，客戶必須接受並登入適用的 Microsoft Cloud 合約。 Microsoft Cloud 合約是特定地區且可供使用多種語言。 移至 Microsoft Cloud 合約[客戶範本](agreements.md)，以尋找您將需要檢閱與新客戶的 Microsoft Cloud 合約。
 
-身為 CSP 合作夥伴，您負責與客戶檢閱 Microsoft 的條款及條件，包括 Microsoft 產品與服務可接受的使用。 移至 Microsoft Cloud 合約[客戶範本](agreements.md)，以尋找您將需要檢閱與新客戶的 Microsoft Cloud 合約。 
-
-
-
+>[!IMPORTANT]
+>您需要確認客戶已接受的 Microsoft Cloud 合約藉由提供簽署它的人的相關資訊。 如需詳細資訊，請參閱[確認客戶的 Microsoft Cloud 合約接受](confirm-consent.md)和[Microsoft Cloud 合約客戶接受確認常見問題集](confirm-consent-faq.md)。
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 合約 （德國） 的專業加密增修條款
 
