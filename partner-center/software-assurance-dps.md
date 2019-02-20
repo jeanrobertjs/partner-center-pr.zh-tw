@@ -1,18 +1,18 @@
 ---
 title: 軟體保證規劃服務在合作夥伴中心 |合作夥伴中心
 ms.topic: article
-ms.date: 1/21/19
+ms.date: 01/21/19
 description: 在規劃預先部署規劃的企業客戶所提供的服務中註冊
 author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
-ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
+ms.openlocfilehash: 52a9c71444042cc5de7064ab56f1afd13e3d1338
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066015"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083411"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作夥伴中心的軟體保證規劃服務
 
@@ -23,7 +23,7 @@ ms.locfileid: "9066015"
 如果您不熟悉軟體保證規劃服務，請參閱[拓展您的業務和規劃服務](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)。
 
 
-## <a name="get-started"></a>開始使用
+## <a name="get-started"></a>開始
 
 如果您是新手軟體保證規劃服務，請依照下列所有步驟。 如果您已經在作用中的規劃服務程式，且您的合作夥伴帳戶資訊已移到合作夥伴中心，開始在步驟四 （4） 下方。 
 

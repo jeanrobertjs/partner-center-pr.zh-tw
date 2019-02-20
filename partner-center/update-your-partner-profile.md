@@ -1,14 +1,17 @@
 ---
 title: 更新您的合作夥伴設定檔 | 合作夥伴中心
 description: 當您第一次以系統管理員身分登入時，請確定支援詳細資料正確、回報免稅 (若適用)，並檢閱設定檔中的連絡人資訊。
+MS.Topic: article
+Date: 02/19/29
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.openlocfilehash: 5fb7852cfb393793dee00127d5397bd1dc55ef11
-ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
+MS.Author: evansma
+ms.openlocfilehash: 1e341d9209f59121d16c82a5b3bff752019e691c
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "9043497"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083381"
 ---
 # <a name="update-your-partner-profile"></a>更新您的合作夥伴設定檔
 
