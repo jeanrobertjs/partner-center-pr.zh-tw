@@ -4,18 +4,13 @@ hide_bc: true
 title: 從這裡開始以尋求協助，合作夥伴中心
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: 合作夥伴中心可協助您拓展業務的 Microsoft 雲端解決方案提供者 (CSP) 計畫中。 設定您的帳戶、 與客戶保持聯繫、 購買行動寶盒訂閱，以及在雲端解決方案提供者與 MPN 計畫的合作夥伴找到詳細資訊。 
+description: "合作夥伴中心可協助您拓展業務的 Microsoft 雲端解決方案提供者 (CSP) 計畫中。 設定您的帳戶、 與客戶保持聯繫、 購買行動寶盒訂閱，以及在雲端解決方案提供者與 MPN 計畫的合作夥伴找到詳細資訊。\_"
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
-ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066048"
 ---
+
 # <a name="welcome-to-partner-center"></a>歡迎使用合作夥伴中心
 
 Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft 的端對端關係。 它有可協助您進行交易，並拓展業務，包括選項會員資格、 客戶推薦和雲端解決方案提供者 (CSP) 計畫工具與資源。 了解管理您的帳戶、 與客戶保持聯繫、 購買行動寶盒訂閱，以及在合作夥伴中心說明文件庫中的獎勵計畫中註冊的最佳做法。
@@ -28,7 +23,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                            <img alt="Message icon" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +41,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                            <img alt="Yammer logo" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +59,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/i_api.png" data-linktype="external">
+                            <img alt="API icon" src="images/i_api.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +124,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -146,7 +141,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                            <img alt="Connection icon" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -163,7 +158,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                            <img alt="Scenario icon" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,7 +181,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -202,7 +197,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                            <img alt="API icon" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
                         </div>
                     </div>                
                     <div class="cardText">
@@ -218,7 +213,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
+                            <img alt="Benefits icon" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">

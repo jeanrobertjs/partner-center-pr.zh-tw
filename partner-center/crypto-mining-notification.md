@@ -8,12 +8,12 @@ ms.author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cfc9dd5592b9b4da631f316f8b5d56ee965e6e51
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796161"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086716"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密貨幣採礦活動的合作夥伴中心通知
 
@@ -24,7 +24,7 @@ ms.locfileid: "5796161"
 
 您可能會收到下列有關加密貨幣採礦活動的合作夥伴中心通知：
  
-![](images/crypto1.png)
+![在合作夥伴中心的安全性通知的影像](images/crypto1.png)
 
 此通知的目的是要通知您，我們已偵測到您的一個或多個 Azure 訂閱在過去一星期內加密貨幣採礦活動。 加密貨幣採礦不一定等於詐騙活動。 不過，由於在 Azure 中執行加密貨幣採礦的成本通常超過可能的經濟回報，所以這是不尋常的活動。 若要防止可能影響您或您客戶的財務詐騙行為，請考慮下列步驟：
 
@@ -37,7 +37,7 @@ ms.locfileid: "5796161"
 如果活動是正常的，返回客戶的 Azure 訂閱詳細資料頁面，並確認加密貨幣採礦合法。 
 
 
-![](images/crypto2.png)
+![客戶的 Azure 訂用帳戶詳細資料頁面的影像](images/crypto2.png)
 
 如果活動是非預期中的，請考慮下列項目：
 
