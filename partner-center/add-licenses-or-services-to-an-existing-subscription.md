@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795971"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098775"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>將授權或服務新增到現有的訂閱
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795971"
 
 -  合作夥伴中心
 
-如果您的客戶需要的基座數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。 如需詳細資料，請參閱[切換為其他商務用 Office 365 方案](http://go.microsoft.com/fwlink/p/?LinkId=723577)。
+如果您的客戶需要的基座數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。 如需詳細資料，請參閱[切換為其他商務用 Office 365 方案](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -67,7 +67,7 @@ ms.locfileid: "5795971"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office365BusinessIndia 和 Office365BusinessEssentialsIndia 可以升級到 Office365BusinessPremiumIndia，不到 Office365BusinessPremium。</p></td>
+<td><p>¹ Office365BusinessIndia 和 Office365BusinessEssentialsIndia 可以升級到 Office365BusinessPremiumIndia，不會以 Office365BusinessPremium。</p></td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +93,7 @@ ms.locfileid: "5795971"
 1.  如果要查看訂閱是否符合升級的資格，請選擇您的客戶，然後開啟其訂閱清單。
 2.  如果訂閱可以升級，您將會在訂閱名稱之後看見一個資訊圖示。 暫留於此圖示上，然後選取 **\[立即升級\]**。
 3.  選取新的訂閱詳情，然後選擇 **\[送出\]**。
-4.  針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 如果是這樣，在合作夥伴中心提供帳戶和受影響的服務的清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](http://go.microsoft.com/fwlink/p/?LinkId=723576)。
+4.  針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 如果是這樣，在合作夥伴中心提供帳戶和受影響的服務的清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](https://go.microsoft.com/fwlink/p/?LinkId=723576)。
 
  
 

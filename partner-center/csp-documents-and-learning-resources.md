@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083141"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098765"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、 合約、 價目表和優惠
 
@@ -29,7 +29,7 @@ ms.locfileid: "9083141"
 
 檢閱成為雲端解決方案提供者計畫中的合作夥伴的需求。
 
-[雲端解決方案提供者合作夥伴的計畫指南](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[雲端解決方案提供者合作夥伴的計畫指南](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
 >如果您需要商務代號確認或身為雲端解決方案提供者計畫，[請連絡客戶支援](https://partner.microsoft.com/pcv/servicerequests/create)新增至其中一個要求核准的 Microsoft 合作夥伴認證您的狀態。
@@ -38,19 +38,19 @@ ms.locfileid: "9083141"
 
 Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決方案提供者」計畫。 針對您計劃銷售的市場或國內雲，檢閱指南。
 
-[Microsoft 雲端轉銷商合約 – 北美洲、中美洲、南美洲及加勒比海](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Microsoft 雲端轉銷商合約 – 北美洲、中美洲、南美洲及加勒比海](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 雲端轉銷商合約 – 亞洲、澳大利亞及太平洋](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Microsoft 雲端轉銷商合約 – 亞洲、澳大利亞及太平洋](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[Microsoft 雲端轉銷商合約 – 歐洲、中東及非洲](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Microsoft 雲端轉銷商合約 – 歐洲、中東及非洲](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 雲端轉銷商合約 – 日本](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Microsoft 雲端轉銷商合約 – 日本](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Microsoft 雲端轉銷商合約 – 韓國](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Microsoft 雲端轉銷商合約 – 韓國](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Microsoft 雲端轉銷商合約 – 台灣](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Microsoft 雲端轉銷商合約 – 台灣](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft 雲端轉銷商合約 - 美國政府適用的 Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Microsoft 雲端轉銷商合約 - 美國政府適用的 Microsoft Cloud](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 合約客戶範本
 

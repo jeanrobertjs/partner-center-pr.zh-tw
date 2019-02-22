@@ -6,12 +6,12 @@ description: OSA 銷售與線上服務使用量獎勵計畫現在可以取得即
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796181"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098715"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>即時資料報告取代部分獎勵計畫的每月報告
 
@@ -35,7 +35,7 @@ Microsoft 已淘汰合作夥伴獎勵報告與分析 (PIRA) 網站，不再將�
  
 ## <a name="start-using-the-new-reporting-functionality"></a>開始使用新的報告功能： 
 
-1. 下載並檢閱 MPN 上的整備資產 [Partner Incentives Experience 上的合作夥伴獎勵報告](http://aka.ms/osareadiness )。
+1. 下載並檢閱 MPN 上的整備資產 [Partner Incentives Experience 上的合作夥伴獎勵報告](https://aka.ms/osareadiness )。
 
 2. 移至 [PIE](https://partnerincentives.microsoft.com/)
 

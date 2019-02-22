@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: 專長認證, 銀級會員, 金級會員, mpn, MAPS, 熟練度, 權益, 效能目標, 技能目標
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062336"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098785"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -62,11 +62,11 @@ Microsoft 專長認證成就彰顯您在提供高品質解決方案方面備受�
 
 ### <a href="" id="associating_achievements"></a>讓您的員工共同參與以完成技能目標
 
-1.  為您組織中的員工新增使用者帳戶。 從[合作夥伴中心](http://partnercenter.microsoft.com)，移至 [**帳戶設定 > 新增使用者**。 (PMC 使用者可以藉由選取 **\[使用 PMC 資料新增使用者\]**，一次新增多個使用者)。
+1.  為您組織中的員工新增使用者帳戶。 從[合作夥伴中心](https://partnercenter.microsoft.com)，移至 [**帳戶設定 > 新增使用者**。 (PMC 使用者可以藉由選取 **\[使用 PMC 資料新增使用者\]**，一次新增多個使用者)。
 
     建立使用者帳戶之後，我們會將新的使用者名稱和密碼傳送給他們，並提示您下載包含相關資訊的記錄檔，以便在需要時協助重設使用者名稱和密碼。 您也可以[設定使用者帳戶，讓他們可以自行重設密碼](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)。
 
-2. 要求您組織中的員工登入他們的 Microsoft 帳戶 (MSA)，並將此帳戶與其使用者帳戶產生關聯。 (從[合作夥伴中心](http://partnercenter.microsoft.com)，移至 [**帳戶設定**。)員工可以使用相同或不同的 Msa 來建立與其 Microsoft 技術測驗與認證及其帳戶透過 Microsoft 合作夥伴大學。
+2. 要求您組織中的員工登入他們的 Microsoft 帳戶 (MSA)，並將此帳戶與其使用者帳戶產生關聯。 (從[合作夥伴中心](https://partnercenter.microsoft.com)，移至 [**帳戶設定**。)員工可以使用相同或不同的 Msa 來建立與其 Microsoft 技術測驗與認證及其帳戶透過 Microsoft 合作夥伴大學。
 
 3.  員工建立其帳戶關聯或完成技能目標之後，**請等候 24 小時**。 在此之後，進度就會顯示在 **\[專長認證\]** 區段中。
 

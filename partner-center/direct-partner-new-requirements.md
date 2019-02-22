@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: 雲端解決方案提供者，直接合作夥伴，直接帳單，需求
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 80b3f5353c2fab8e0b4049c886407414eeba4771
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 9eaa4eae326bda4ed37fa750d588df961b573822
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083353"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098695"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>雲端解決方案提供者直接合作夥伴的新需求
 
@@ -45,4 +45,4 @@ ms.locfileid: "9083353"
 
 如果您決定要從直接帳單商務移到間接經銷商業務，有幾個您將需要採取的步驟。 若要深入了解轉換，閱讀[來回轉換為雲端解決方案提供者間接經銷商的雲端解決方案提供者 (CSP) 直接合作夥伴](transition-direct-to-indirect.md)。 
 
-另請參閱[上成為間接經銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)並[直接帳單為間接經銷商常見問題集](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)。
+另請參閱[上成為間接經銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)並[直接帳單為間接經銷商常見問題集](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)。

@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 授權的教育合作夥伴，教育版，銷售給教育版，學校
 ms.localizationpriority: medium
-ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: e71c28f1fcf9b47fffea21eddfa2ab6a2e4313ab
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062326"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098755"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育機構客戶銷售 Minecraft: Education Edition
 
@@ -23,7 +23,7 @@ ms.locfileid: "9062326"
 與教育機構合作的合作夥伴可以提供 **Minecraft: Education Edition** 訂閱給其客戶。 您購買訂閱代表客戶在合作夥伴中心，而客戶接著從[教育用 Microsoft Store](https://educationstore.microsoft.com)下載軟體。 
 
 >[!IMPORTANT]
->若要銷售教育版優惠給教育機構客戶，您必須註冊雲端解決方案提供者 (CSP) 計畫，並成為[授權教育版賣家 (AEP)](https://www.mepn.com)。 此外，您的客戶必須是[合格教育版使用者](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。  
+>若要銷售教育版優惠給教育機構客戶，您必須註冊雲端解決方案提供者 (CSP) 計畫，並成為[授權教育版賣家 (AEP)](https://www.mepn.com)。 此外，您的客戶必須是[合格教育版使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。  
 
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>代表您的客戶購買 **Minecraft: Education Edition**

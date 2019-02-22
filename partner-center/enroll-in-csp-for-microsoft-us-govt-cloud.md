@@ -6,18 +6,18 @@ description: 在您註冊美國政府適用的 Microsoft Cloud 雲端解決方�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796331"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098815"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
 **適用於**
 
--  美國政府適用的 Microsoft Cloud 合作夥伴中心
+-  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫 (CSP)，對美國聯邦、州、地方和部落實體銷售 Microsoft 的雲端解決方案及服務。 
 
@@ -25,7 +25,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 ## <a name="before-you-begin"></a>在您開始前
 
-在您註冊加入美國政府適用的 Microsoft Cloud 的 CSP 計畫之前，我們必須確認您的公司是否符合向美國政府實體進行銷售的要求條件。 在您開始進行註冊程序之前，請先完成 [Microsoft 政府機構雲端驗證表單](http://azuregov.microsoft.com/csp)，方便我們確認貴公司的資格。 確認貴公司的資格後，我們會提供給您美國政府適用的 Microsoft Cloud 專用的 Azure Active Directory (Azure AD) 租用戶。  
+在您註冊加入美國政府適用的 Microsoft Cloud 的 CSP 計畫之前，我們必須確認您的公司是否符合向美國政府實體進行銷售的要求條件。 在您開始進行註冊程序之前，請先完成 [Microsoft 政府機構雲端驗證表單](https://azuregov.microsoft.com/csp)，方便我們確認貴公司的資格。 確認貴公司的資格後，我們會提供給您美國政府適用的 Microsoft Cloud 專用的 Azure Active Directory (Azure AD) 租用戶。  
 
 若要建立合作夥伴中心帳戶並註冊美國政府適用的 Microsoft Cloud CSP 計畫，您必須提供下列資訊 (建議您先收集這項資訊，再開始進行註冊程序)：
 
@@ -42,7 +42,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 1.  從[這裡](https://partnercenter.microsoft.com/register/resellerusgjoinnow)開始進行註冊程序。 
 
-2.  使用您的組織在美國政府適用的 Microsoft Cloud 中專屬於 Azure AD 租用戶的全域管理員認證來登入。 如果您的組織沒有此入口網站帳戶，您可以完成 [Microsoft 政府機構雲端驗證表單](http://azuregov.microsoft.com/csp)來要求建立帳戶。
+2.  使用您的組織在美國政府適用的 Microsoft Cloud 中專屬於 Azure AD 租用戶的全域管理員認證來登入。 如果您的組織沒有此入口網站帳戶，您可以完成 [Microsoft 政府機構雲端驗證表單](https://azuregov.microsoft.com/csp)來要求建立帳戶。
 
 
 ### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>步驟 2 - 申請參與美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫

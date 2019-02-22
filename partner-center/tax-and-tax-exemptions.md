@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 58c11c47a5d3e069fcbcea1a234cf6cf548a8006
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995802"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098805"
 ---
 # <a name="tax-and-tax-exemptions"></a>稅金與免稅
 
@@ -48,7 +48,7 @@ ms.locfileid: "8995802"
 </tr>
 <tr class="even">
 <td>歐盟</td>
-<td><p>在歐盟會員國內，合作夥伴必須提供其有效加值稅識別碼編號，以供反向徵收和適當的計費。 加值稅編號必須<a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">有效才能予以接受</a>。</p>
+<td><p>在歐盟會員國內，合作夥伴必須提供其有效加值稅識別碼編號，以供反向徵收和適當的計費。 加值稅編號必須<a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">有效才能予以接受</a>。</p>
 <p>Microsoft 不支援信用額度和重新計費，因此在銷售任何訂閱之前，您必須在合作夥伴中心註冊您的加值稅識別碼。</p>
 <p>將您的加值稅編號傳送給 Microsoft</strong></p>
 <ol>

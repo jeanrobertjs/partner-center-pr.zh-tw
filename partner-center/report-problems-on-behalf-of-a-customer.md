@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995962"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098845"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 
@@ -27,7 +27,7 @@ ms.locfileid: "8995962"
 
 **為客戶提交服務要求**
 
-1.  從**合作夥伴中心**功能表中，選取 [**服務要求**，然後**客戶要求**。 
+1.  在**合作夥伴中心**功能表中，選取 [**服務要求**，然後**客戶要求**。 
 
 2.  在 \[客戶要求\] 頁面上，搜尋您想要的客戶。
 
@@ -35,11 +35,11 @@ ms.locfileid: "8995962"
 
 **Microsoft Azure**
 
-**注意：** 當您需要在 Azure 中的客戶建立服務要求時，請注意下列：
+**注意：** 當您需要為您在 Azure 中的客戶建立服務要求時，請注意下列項目：
 
 - 為了讓您在 Azure 中的客戶建立服務要求，您的間接提供者必須授與您存取客戶的 Azure 帳戶。 這與代表 Office 365 的客戶進行管理有所不同。 
 
-- 雖然在合作夥伴中心的技術服務系統管理員無法在 Azure 服務入口網站中建立服務要求，可以做什麼是 Azure 服務入口網站中建立支援群組，並提供給該群組的權限來記錄支援要求。
+- 在合作夥伴中心的技術服務系統管理員無法在 Azure 服務入口網站中建立服務要求，雖然可以做什麼是 Azure 服務入口網站中建立支援群組，並提供給該群組的權限登的支援要求。
 
 1. 選取 **\[新增支援要求\]**。
 2. 以適當的資訊填寫支援要求，並選取 **\[建立\]**：
@@ -48,10 +48,10 @@ ms.locfileid: "8995962"
 
 3. 接下來，在 Microsoft Azure 入口網站中檢視客戶的服務要求，請選取 **\[管理支援要求\]**。
 
-您可能需要為客戶建立支援要求，當您沒有該客戶的系統管理員權限。 這可能會發生在兩個案例的其中一個： 
+您可能需要您沒有該客戶的系統管理員權限時，為客戶建立支援要求。 這可能會發生在兩個案例的其中一個： 
  
 -   當您第一次建立關係時，您不沒有要求系統管理員權限。
--   您管理客戶的 Azure 訂閱和否其他人，不需要您具有系統管理權限。
+-   您可以管理客戶的 Azure 訂閱和否其他使用者，不需要您具有系統管理權限。
  
 在上述任一種情況，您可以使用下列程序來建立支援要求。 
 
@@ -61,7 +61,7 @@ ms.locfileid: "8995962"
 
 3. 選取 [需要支援的 Azure 訂閱。
 
-4. 選取 [**新增支援要求**，並依照提示以建立要求。 
+4. 選取 [**新增支援要求**，並依照提示進行來建立要求。 
 
  
 **Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite**
@@ -105,7 +105,7 @@ ms.locfileid: "8995962"
 
 如果您直接登入 Microsoft Azure 入口網站，您將會以自己的角度檢視該中心，而不是以客戶的角度。 因此，要針對您本身的訂閱建立服務要求時，才應直接登入 Microsoft Azure 入口網站。
 
-您的雲端解決方案提供者支援權益，並不提供對您本身之合作夥伴訂閱的支援，因此在建立有關您本身之合作夥伴訂閱的服務要求時，您必須提供有效的支援計畫權益。 範例包括 MPN 合約識別碼、頂級支援或 Azure 支援方案。 請參考 [Azure 支援常見問題集](http://go.microsoft.com/fwlink/?LinkId=717532)。
+您的雲端解決方案提供者支援權益，並不提供對您本身之合作夥伴訂閱的支援，因此在建立有關您本身之合作夥伴訂閱的服務要求時，您必須提供有效的支援計畫權益。 範例包括 MPN 合約識別碼、頂級支援或 Azure 支援方案。 請參考 [Azure 支援常見問題集](https://go.microsoft.com/fwlink/?LinkId=717532)。
 
 **如果我略過合作夥伴中心登入 Office 365 系統管理中心入口網站，會發生什麼事？**
 
@@ -113,7 +113,7 @@ ms.locfileid: "8995962"
 
 **如何取得其他 Dynamics 365 支援？**
 
-如果您遇到問題的相關： 財務 Dynamics 365 計畫訂用帳戶，授權，帳單，與作業、 IURs 或您需要進一步的技術支援：
+如果您遇到問題的相關： Dynamics 365 計畫訂用帳戶，授權，帳單，財務 & 作業，IURs 或您需要進一步的技術支援：
  
 連絡客戶[支援 Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

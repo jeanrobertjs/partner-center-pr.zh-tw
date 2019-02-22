@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d252af955ea82d42ebd8196ad020088edee43dfb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795011"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098735"
 ---
 # <a name="sell-to-specialized-industries"></a>銷售到特色產業
 
@@ -26,8 +26,8 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 |**特殊定價**   |**經銷商要求資格**   |**客戶要求資格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育   |成為[授權教育版賣家](https://www.mepn.com)。   | 必須是[合格教育版使用者](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|政府   |若要銷售 Azure，請使用 [Microsoft 政府雲端驗證表單](http://azuregov.microsoft.com/csp)註冊 若要銷售授權型訂閱給政府機構，沒有要求資格。|   無|
+|教育   |成為[授權教育版賣家](https://www.mepn.com)。   | 必須是[合格教育版使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|政府   |若要銷售 Azure，請使用 [Microsoft 政府雲端驗證表單](https://azuregov.microsoft.com/csp)註冊 若要銷售授權型訂閱給政府機構，沒有要求資格。|   無|
 |非營利事業  |無<br>必須有非營利 Azure Active Directory 租用戶。<br>深入了解[非營利特別優惠](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)。   |透過 [Microsoft 非營利計畫](https://nonprofit.microsoft.com/#/register)註冊以便符合資格。   |
 
 
@@ -39,7 +39,7 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 ## <a name="check-the-customer-qualifications"></a>檢查客戶資格
 
-1.  從**合作夥伴中心**功能表中，選取**客戶**。 從清單中選擇客戶。
+1.  在**合作夥伴中心**功能表中，選取**客戶**。 從清單中選擇客戶。
 2.  從客戶功能表中，選取 **\[帳戶\]**。 在 **\[公司資訊\]** 區段中，尋找 **\[特殊資格\]**。
 3.  如果 **\[特殊資格\]** 是設為 **\[無\]**，但該客戶確實符合資格，您可以 **\[更新\]** 他們的詳細資料以包含他們。
 
