@@ -15,12 +15,12 @@
 
 # [雲端解決方案提供者](csp-overview.md)
 ## [參加雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
-## [雲端解決方案提供者直接合作夥伴的新需求](direct-partner-new-requirements.md) 
+## [雲端解決方案提供者直接合作夥伴的新需求](direct-partner-new-requirements.md)
+## [依地區和語言的 Microsoft Cloud 合約](agreements.md)
 ##[從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商](transition-direct-to-indirect.md)
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
 ## [雲端解決方案提供者地區授權概觀](regional-authorization-overview.md)
 ## [雲端解決方案提供者地區授權租用戶彙總](csp-regional-authorization-tenant-consolidation.md)
-## [客戶合約範本](agreements.md)
 
 ## [適用於銷售 (sell-in) 國家/地區雲](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
