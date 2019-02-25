@@ -1,18 +1,18 @@
 ---
 title: 確認 Microsoft Cloud 合約客戶接受 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 02/22/2019
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
 keywords: 客戶、 客戶同意 MCA、 Microsoft Cloud 合約客戶合約範本
 ms.localizationpriority: medium
-ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 269647b819dda4c86ae7397dac3504268767abba
+ms.sourcegitcommit: 83d2757756ed1ed8f5f7ae06c84e7547174faf9a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083191"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "9099436"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>確認 Microsoft Cloud 合約客戶接受
 
@@ -46,7 +46,7 @@ ms.locfileid: "9083191"
 
 **2018 年 11 月 7日日**
 
--   直接帳單合作夥伴與間接提供者**必須**確認 Microsoft Cloud 合約客戶接受。 確認是*必要*的。
+-   直接帳單合作夥伴與間接提供者**必須**確認 Microsoft Cloud 合約客戶接受透過合作夥伴中心儀表板交易時。 確認是*必要*的。
 
 -   如果未提供對於特定客戶確認：
 
@@ -57,6 +57,33 @@ ms.locfileid: "9083191"
 -   客戶接受的確認可以透過合作夥伴中心或合作夥伴中心 API 來完成。
 
 -   客戶接受的確認僅支援公用的 Microsoft Cloud 使用。
+
+-   這適用於生產環境和沙箱環境。
+
+**2018 年 3 月 11日日**
+
+- 直接帳單合作夥伴與間接 Providersmust 確認雲端解決方案提供者沙箱環境中的 Microsoft Cloud 合約客戶接受透過合作夥伴中心 API 交易時。
+- 如果未提供對於特定客戶確認：
+
+    - 您將無法建立新的訂單的此客戶使用合作夥伴中心 API。
+ 
+    - 您將無法變更此客戶使用合作夥伴中心 API 中的基座為基礎的現有訂閱的基座數目。
+- 客戶接受的確認僅支援公用的 Microsoft Cloud 使用。 
+
+**3 月 22 日 12018**
+
+- 直接帳單合作夥伴與間接 Providersmust 確認雲端解決方案提供者生產環境中的 Microsoft Cloud 合約客戶接受透過合作夥伴中心 API 交易時。
+
+- 如果未提供對於特定客戶確認：
+  - 您將無法建立新的訂單的此客戶使用合作夥伴中心 API。
+
+  - 您將無法變更此客戶使用合作夥伴中心 API 中的基座為基礎的現有訂閱的基座數目。
+-  客戶接受的確認僅支援公用的 Microsoft Cloud 使用。
+
+
+
+
+
 
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>確認客戶接受在合作夥伴中心
