@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 角色、 權限，系統管理員、 代理程式
 ms.localizationpriority: medium
-ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cc0e37601b16033bf31faaf5056ca0389d6f5cf6
+ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086726"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "9117211"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
 
@@ -74,7 +74,7 @@ CPVs 開發雲端解決方案提供者 (CSP) 的合作夥伴，以便讓廠商�
 
 |**角色** | **您可以執行的動作**|
 |----------------------------|:----------------------------|
-|MPN 系統管理員|•Can 新增非租用戶使用者
+|MPN 合作夥伴系統管理員|•Can 新增非租用戶使用者
 ||• 檢視中，建立和管理合作夥伴服務要求
 ||• 檢視法律、 組織、 商務及 MPN 設定檔
 ||• 檢視使用者詳細資料及資料及其技能資料
@@ -82,8 +82,9 @@ CPVs 開發雲端解決方案提供者 (CSP) 的合作夥伴，以便讓廠商�
 ||• 檢視及管理權益
 ||• 檢視及購買 MPN 優惠
 ||• 檢視 MPN 優惠訂購記錄和發票
-||• 可以檢視合作夥伴貢獻資料
+||• 檢視合作夥伴貢獻資料
 ||• 可以使用憑證驗證工具|
+||-檢視客戶資料分析
 |帳戶管理| • 可以新增非租用戶使用者
 ||• 新增或刪除位置
 ||-管理是系統管理員帳戶的相關的設定檔 
