@@ -49,7 +49,9 @@
 
 
 # [帳單與稅金](billing.md)
-## [新計費功能的常見問題集](faq-about-new-billing-features.md)
+## [計費常見問題集](faq-about-new-billing-features.md)
+## [帳單基本知識](billing-basics.md)
+## [了解計費，合作夥伴中心中的類型](billing-different-types.md)
 ## [閱讀您的帳單](read-your-bill.md)
 ## [使用對帳檔案](use-the-reconciliation-files.md)
 ## [稅金與免稅](tax-and-tax-exemptions.md)
@@ -78,6 +80,7 @@
 ## [線上服務 (訂閱)](customer-subscriptions.md)
 ### [建立、暫停或取消客戶訂閱](create-a-new-subscription.md)
 ### [為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)
+### [銷售 Azure Marketplace 產品的訂閱](sell-marketplace-products.md)
 ### [在合作夥伴中心指派 Azure 訂用帳戶](assign-azure-subscriptions.md)
 ### [指派授權給使用者](assign-licenses-to-users.md)
 ### [將授權或服務新增到現有的訂閱](add-licenses-or-services-to-an-existing-subscription.md)

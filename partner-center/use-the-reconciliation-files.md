@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 081afc547a0ff86010e06fcb5224a615a0075e34
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062376"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122275"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -464,34 +464,428 @@ ms.locfileid: "9062376"
 </tbody>
 </table>
 
-## <a href="" id="onetimefiles"></a>一次性購買檔案欄位
+## <a href="" id="marketplacefilefields"></a>一次性和週期性檔案欄位
 
-|**欄位** |**定義**|
-|:----------------|:-----------------------------|
-|PartnerId |合作夥伴識別碼 (GUID 格式)。 |
-|CustomerId |用來識別客戶的唯一 Microsoft ID（GUID 格式）。 |
-|CustomerName |合作夥伴中心中回報的客戶組織名稱。 這在使用您的系統資訊對帳發票時非常重要。 |
-|CustomerDomainName |客戶的網域名稱。 |
-|CustomerCountry |客戶所在的國家/地區。 |
-|InvoiceNumber |交易的指定位置顯示的發票號碼。 |
-|MpnId |雲端解決方案提供者合作夥伴的 MPN 識別碼 (直接或間接)。 |
-|經銷商 MPN 識別碼 |只會出現在間接模型合作夥伴的對帳檔案上。 保留區記錄中的經銷商 MPN 識別碼。 這會對應到合作夥伴中心中針對特定保留區列出的經銷商識別碼。 如果雲端解決方案提供者合作夥伴直接向客戶銷售保留區，他們的 MPN 識別碼將會以 MPN 識別碼和經銷商 MPN 識別碼的形式列出兩次。 如果雲端解決方案提供者合作夥伴具有沒有 MPN 識別碼的經銷商，這個值將會改成設為合作夥伴的 MPN 識別碼。 如果雲端解決方案提供者合作夥伴移除經銷商識別碼，這個值將會設為 -1。 |
-|OrderId |訂單在 Microsoft 帳單平台中的唯一識別碼。 可在連絡支援時方便識別 Azure Reservations，但不是用於對帳。 |
-|OrderDate |下訂單的日期。 |
-|ProductId |產品的識別碼。 |
-|SkuId  |特定 SKU 的識別碼。 |
-|AvailabilityId |特定可用性的識別碼。 「可用性」是指特定 SKU 是否可供特定的國家/地區、貨幣、行業區段等等購買。 |
-|SkuName  |特定 SKU 的標題。 |
-|ProductName |產品的名稱。 |
-|ChargeType |費用或調整的類型。 |
-|UnitPrice |訂購的每件產品價格。 |
-|Quantity |訂購的產品數目。 |
-|Subtotal |稅前總計。 如果有折扣，可檢查小計是否和預期的總金額相符。 |
-|TaxTotal |所有適用稅額的總計。 |
-|Total |此次購買的總金額。 |
-|Currency |貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。 |
-|DiscountDetails |任何相關折扣的詳細清單。 |
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>欄位</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
 
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>特定帳單實體，GUID 格式的唯一 Microsoft Azure Active Directory 租用戶識別碼。 對帳時不需要，但可能是很有用的資訊。 在所有資料列中都是如此。</p></td>
+</tr>
+
+<tr class="even">
+<td>客戶識別碼</td>
+<td><p>唯一 Microsoft Azure Active Directory 租用戶識別碼，用來識別客戶的 GUID 格式中。</p></td>
+</tr>
+
+<tr class="odd">
+<td>[客戶名稱]</td>
+<td><p>合作夥伴中心中回報的客戶組織名稱。</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerDomainName</td>
+<td><p>用來協助識別客戶的客戶網域名稱。 這不應該用來唯一識別客戶，因為客戶/合作夥伴可以更新透過 O365 入口網站的預設虛名/網域。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
+</tr>
+
+<tr class="odd">
+<td>客戶的國家/地區</td>
+<td><p>客戶所在的國家/地區。</p></td>
+</tr>
+
+<tr class="even">
+<td>發票號碼</td>
+<td><p>交易的指定位置顯示的發票號碼。</p></td>
+</tr>
+
+<tr class="odd">
+<td>MpnId</td>
+<td><p>雲端解決方案提供者合作夥伴的 MPN 識別碼。</p></td>
+</tr>
+
+<tr class="even">
+<td>經銷商 MpnId</td>
+<td><p>訂閱記錄中的經銷商 MPN 識別碼。</p></td>
+</tr>
+
+<tr class="odd">
+<td>訂單識別碼</td>
+<td><p>在 Microsoft 交易平台的訂單的唯一識別碼。 可在連絡支援時方便識別訂單，但不是用於對帳。</p></td>
+</tr>
+
+<tr class="even">
+<td>訂單日期</td>
+<td><p>下訂單的日期。</p></td>
+</tr>
+
+<tr class="odd">
+<td>ProductId</td>
+<td><p>產品的識別碼。</p></td>
+</tr>
+
+<tr class="even">
+<td>SkuId</td>
+<td><p>特定 SKU 的識別碼。</p></td>
+</tr>
+
+<tr class="odd">
+<td>AvailabilityId</td>
+<td><p>特定可用性的識別碼。 「可用性」是指特定 SKU 是否可供特定的國家/地區、貨幣、行業區段等等購買。</p></td>
+</tr>
+
+<tr class="even">
+<td>SKU 的名稱</td>
+<td><p>特定 SKU 的標題。</p></td>
+</tr>
+
+<tr class="odd">
+<td>產品名稱</td>
+<td><p>產品的名稱。</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>產品發行者的名稱。</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>針對此發行者的唯一識別碼。</p></td>
+</tr>
+
+<tr class="even">
+<td>訂閱描述</td>
+<td><p>訂閱的易記名稱。</p></td>
+</tr>
+
+<tr class="odd">
+<td>訂閱識別碼</td>
+<td><p>訂閱在 Microsoft 交易平台的唯一識別碼。 可在連絡支援時方便識別訂閱，但不是用於對帳。 這與合作夥伴管理主控台上的訂閱識別碼不一樣。</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>開始計算費用的日期。 時間一律是一天的開始時間 (0:00)。</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>結束計算費用的日期。 時間一律是一天的結束時間 (23:59)。</p></td>
+</tr>
+
+<tr class="even">
+<td>詞彙和 Billingcycle</td>
+<td><p>詞彙的長度和帳單週期購買。 例如，「 1 年，每個月。 」</p></td>
+</tr>
+
+<tr class="odd">
+<td>收費類型</td>
+<td><p>費用或調整的類型。</p></td>
+</tr>
+
+<tr class="even">
+<td>單價</td>
+<td><p>價格如公佈的價格表中的購買。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
+</tr>
+
+<tr class="odd">
+<td>有效的單價</td>
+<td><p>單價之後所做調整。</p></td>
+</tr>
+
+<tr class="even">
+<td>數量</td>
+<td><p>單位數。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
+</tr>
+
+<tr class="odd">
+<td>單位類型</td>
+<td><p>單位所購買的類型。</p></td>
+</tr>
+
+<tr class="even">
+<td>DiscountDetails</td>
+<td><p>任何適用的折扣的說明。</p></td>
+</tr>
+
+<tr class="odd">
+<td>子總計</td>
+<td><p>稅前總計。 如果有折扣，可檢查小計是否和預期的總金額相符。</p></td>
+</tr>
+
+<tr class="even">
+<td>稅金總計</td>
+<td><p>稅金費用 (根據您所在市場的稅金規則與特定情況)。</p></td>
+</tr>
+
+<tr class="odd">
+<td>Total</td>
+<td><p>稅後總計。 檢查發票中是否向您收取稅金。</p></td>
+</tr>
+
+<tr class="even">
+<td>Currency</td>
+<td><p>貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。</p></td>
+</tr>
+
+<tr class="odd">
+<td>AlternateID</td>
+<td><p>替代識別碼的識別碼。</p></td>
+</tr>
+</tbody>
+</table>
+
+
+## <a href="" id="dailyratedusagefields"></a>每日分級使用量檔案欄位
+
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>欄位</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>合作夥伴識別碼 (GUID 格式)。</p></td>
+</tr>
+
+<tr class="even">
+<td>PartnerName</td>
+<td><p>合作夥伴名稱。</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerId</td>
+<td><p>用來識別客戶的唯一 Microsoft ID（GUID 格式）。</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerCompanyName</td>
+<td><p>合作夥伴中心中回報的客戶組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerDomainName</td>
+<td><p>客戶的網域名稱。 沒有適用於目前的活動。</p></td>
+</tr>
+
+<tr class="even">
+<td>客戶的國家/地區</td>
+<td><p>客戶所在的國家/地區。</p></td>
+</tr>
+
+<tr class="odd">
+<td>MPNID</td>
+<td><p>雲端解決方案提供者合作夥伴的 MPN 識別碼。</p></td>
+</tr>
+
+<tr class="even">
+<td>MPNID 經銷商</td>
+<td><p>訂閱記錄中的經銷商 MPN 識別碼。 沒有適用於目前的活動。</p></td>
+</tr>
+
+<tr class="odd">
+<td>InvoiceNumber</td>
+<td><p>交易的指定位置顯示的發票號碼。 沒有適用於目前的活動。</p></td>
+</tr>
+
+<tr class="even">
+<td>ProductId</td>
+<td><p>產品的識別碼。</p></td>
+</tr>
+
+<tr class="odd">
+<td>SkuId</td>
+<td><p>特定 SKU 的識別碼。</p></td>
+</tr>
+
+<tr class="even">
+<td>AvailabilityId</td>
+<td><p>特定可用性的識別碼。 「可用性」是指特定 SKU 是否可供特定的國家/地區、貨幣、行業區段等等購買。</p></td>
+</tr>
+
+<tr class="odd">
+<td>SKU 的名稱</td>
+<td><p>特定 SKU 的標題。</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>發行者的名稱。</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>GUID 格式的發行者識別碼。 沒有適用於目前的活動。</p></td>
+</tr>
+
+<tr class=”even">
+<td>訂閱描述</td>
+<td><p>客戶購買的服務優惠名稱，如價目表中所定義。 （這是優惠名稱的相同欄位）。</p></td>
+</tr>
+
+<tr class="odd">
+<td>訂閱識別碼</td>
+<td><p>訂閱在 Microsoft 帳單平台中的唯一識別碼。 可在連絡支援時方便識別訂閱，但不是用於對帳。 這與合作夥伴管理主控台上的訂閱識別碼不一樣。</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>計費週期的開始日期，當顯示之前未收取潛在使用量資料費用的日期時除外 (從前一個計費週期開始)。 時間一律是一天的開始時間 (0:00)。</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>計費週期的結束日期，當顯示之前未收取潛在使用量資料費用的日期時除外 (從前一個計費週期開始)。 時間一律是一天的結束時間 (23:59)。</p></td>
+</tr>
+
+<tr class="even">
+<td>使用量日期</td>
+<td><p>服務使用方式的日期。</p></td>
+</tr>
+
+<tr class="odd">
+<td>計量表類型</td>
+<td><p>公尺的類型。</p></td>
+</tr>
+
+<tr class="even">
+<td>計量表類別</td>
+<td><p>使用方式的最上層的服務。</p></td>
+</tr>
+
+<tr class="odd">
+<td>計量表識別碼</td>
+<td><p>計量表所使用的識別碼。</p></td>
+</tr>
+
+<tr class="even">
+<td>計量表子類別</td>
+<td><p>可能會影響速率的 Azure 服務的類型。</p></td>
+</tr>
+
+<tr class="odd">
+<td>計量表名稱</td>
+<td><p>針對取用所計量表度量單位。</p></td>
+</tr>
+
+<tr class="even">
+<td>計量表地區</td>
+<td><p>此欄可識別適用及填入此項目之服務地區內的資料中心的位置。</p></td>
+</tr>
+
+<tr class="odd">
+<td>單位</td>
+<td><p>資源名稱的單位。</p></td>
+</tr>
+
+<tr class="even">
+<td>享用的數量</td>
+<td><p>報表期間耗用的服務量 (小時、GB 等等) 同時包括先前報表期間任何未計費的使用量。</p></td>
+</tr>
+
+<tr class="odd">
+<td>資源位置</td>
+<td><p>資料中心計量表在何處執行。</p></td>
+</tr>
+
+<tr class="even">
+<td>享用的服務</td>
+<td><p>您使用 Azure 平台服務。</p></td>
+</tr>
+
+<tr class="odd">
+<td>資源群組</td>
+<td><p>資源群組已部署的計量表正在執行。</p></td>
+</tr>
+
+<tr class="even">
+<td>資源 URI</td>
+<td><p>正在使用之資源的 URI。</p></td>
+</tr>
+
+<tr class="odd">
+<td>收費類型</td>
+<td><p>費用或調整的類型。 沒有適用於目前的活動。</p></td>
+</tr>
+
+<tr class="even">
+<td>單價</td>
+<td><p>每一授權，因為在購買時，價格表中發佈的價格。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
+</tr>
+
+<tr class="odd">
+<td>數量</td>
+<td><p>授權數目。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
+</tr>
+
+<tr class="even">
+<td>單位類型</td>
+<td><p>在負責的計量表單元類型。 沒有適用於目前的活動。</p></td>
+</tr>
+
+<tr class="odd">
+<td>帳單 pre 稅</td>
+<td><p>稅前的總金額。</p></td>
+</tr>
+
+<tr class="even">
+<td>帳單貨幣</td>
+<td><p>在客戶的地理區域貨幣</p></td>
+</tr>
+
+<tr class="odd">
+<td>定價稅前總計</td>
+<td><p>定價之前內含稅金。</p></td>
+</tr>
+
+<tr class="even">
+<td>定價貨幣</td>
+<td><p>價格表中的貨幣。</p></td>
+</tr>
+
+<tr class="odd">
+<td>服務資訊 1</td>
+<td><p>於某一天佈建及使用的 ServiceBus 連線數目。</p></td>
+</tr>
+
+<tr class="even">
+<td>服務資訊 2</td>
+<td><p>舊版的欄位，擷取選用服務特定的中繼資料。</p></td>
+</tr>
+
+<tr class="odd">
+<td>標記</td>
+<td><p>您指派給群組的帳單記錄的順序中的計量表標記。 例如，您可以使用標記來散發使用計量表部門的成本。</p></td>
+</tr>
+
+<tr class="even">
+<td>其他資訊</td>
+<td><p>未涵蓋其他欄中的任何其他資訊。</p></td>
+</tr>
+
+</tbody>
+</table>
 
 
 ## <a href="" id="charge_types"></a>對應發票和對帳檔案之間的費用

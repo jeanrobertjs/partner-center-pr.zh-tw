@@ -2,18 +2,18 @@
 title: 帳單 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+Description: 身為雲端解決方案提供者合作夥伴，您要在 60 天內，向 Microsoft 支付您客戶之授權型與用量型訂閱的費用。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683447"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122175"
 ---
 # <a name="billing"></a>帳單
 
@@ -23,7 +23,7 @@ ms.locfileid: "8683447"
 -  美國政府適用的 Microsoft Cloud 合作夥伴中心
  
  
-為您的帳單，請移至**合作夥伴中心**功能表，然後選取**帳單**以查看您的帳單記錄和趨勢，連結到您的發票和對帳檔案，以及最近的付款。
+為您的帳單，請移至**合作夥伴中心**功能表，然後選取以查看您的帳單記錄和趨勢，連結到您的發票和對帳檔案，以及最近的付款的**帳單**。
 
 如果雲端解決方案提供者計畫中的合作夥伴選擇每月計費，應於 60 天內，向 Microsoft 支付其客戶的訂閱費用 (包括授權型與用量型)。
 
@@ -42,6 +42,7 @@ ms.locfileid: "8683447"
 |:-----------------------------|:-----------------|
 |帳單、付款、發票等基本知識   |[帳單基本知識](billing-basics.md)
 |許多新的計費功能，例如年度計費   |[新計費功能的常見問題集](faq-about-new-billing-features.md)|
+|帳單的類型   |[了解計費，合作夥伴中心中的類型](billing-different-types.md)   |
 |閱讀帳單的要訣   |[閱讀您的帳單](read-your-bill.md)   |
 |如何閱讀和使用對帳檔案   |[使用對帳檔案](use-the-reconciliation-files.md)|
 |一般帳單案例 (可在[新計費功能的常見問題集](faq-about-new-billing-features.md)中尋找其他帳單案例)|[一般帳單案例](common-billing-scenarios.md)|

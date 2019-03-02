@@ -1,19 +1,19 @@
 ---
 title: 雲端解決方案提供者合約、價目表和優惠 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/01/2019
 description: 本文包括雲端解決方案提供者計畫指南、合作夥伴合約、客戶合約、價目表和優惠連結。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 優惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098765"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122235"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、 合約、 價目表和優惠
 
@@ -81,6 +81,7 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 
 一次性購買價格也是動態的。 一次性購買的範例包括 Microsoft Azure reservations 和相對應的 Windows Server 和 SQL 軟體訂閱。 
 
+如需得知價格 Azure Marketplace 優惠的相關資訊，請移至**Marketplace**合作夥伴中心左方的導覽功能表中。 選取的產品以查看發行者，Sku 的相關資訊與定價。 這些 Azure Marketplace 產品的價格可能會經常變更。 即將推出很快，我們將提供選項來匯出一份定價資料，每日更新。 我們也會啟用目前價格資料透過 Api 的存取權。 這些選項可用之後，我們會更新此頁面包含有關如何使用它們的詳細資訊。
 
 ## <a name="offers"></a>優惠
 
@@ -88,5 +89,7 @@ Microsoft 要求合作夥伴必須簽署此合約，才能加入「雲端解決�
 身為雲端解決方案提供者合作夥伴，您可以銷售各種 Microsoft 產品、 服務及解決方案，包括 Office 365、 Enterprise Mobility Suite、 Microsoft Dynamics 及 Microsoft Azure。 如需哪些供應項目可供您在這些產品系列銷售的詳細資訊，請參閱 [**定價與方案**] 頁面可從您的**合作夥伴中心**功能表上的 CSP 方案組合。 本文件每個月會更新一次。
 
 針對使用 CREST 使用量記錄 API 的 CSP 合作夥伴，Microsoft 也會在 **\[定價與方案\]** 頁面發佈一份 CSP 中的 Azure 服務清單。
+
+若要深入了解 Azure Marketplace 供應項目發行的獨立軟體廠商 (Isv)，請造訪**Marketplace**頁面的左方的導覽功能表中。 目前，您可以在合作夥伴中心購買 SaaS （軟體即服務） 的產品類型。 您將需要取得其他類型的 Azure Marketplace 供應項目在 Azure 入口網站的瀏覽。
 
 
