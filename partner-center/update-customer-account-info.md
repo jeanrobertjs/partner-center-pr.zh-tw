@@ -8,27 +8,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 5ba40901453620d98fad2195fad3bb8f6dd4773c
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683657"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587041"
 ---
 # <a name="update-customer-account-info"></a>更新客戶帳戶資訊
 
 **適用於**
 
 -  合作夥伴中心
--  美國政府適用的 Microsoft Cloud 合作夥伴中心
+-  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 
 在合作夥伴中心，您可以更新客戶帳單資訊和其他公司詳細資料。
 
 **更新客戶詳細資料**
 
-1.  從**合作夥伴中心**功能表中，選取**客戶**。 然後從清單中選擇客戶
+1.  從**合作夥伴中心**功能表上，選取**客戶**。 然後從清單中選擇客戶
 2.  在客戶功能表中，依序選取 **\[帳戶\]** 和 **\[更新\]**。
-3.  在您進行變更之後，選取 **\[提交\]**。
+3.  在您進行變更之後，選取 \[提交\]。
 
  
 

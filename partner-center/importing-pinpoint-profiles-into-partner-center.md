@@ -2,17 +2,17 @@
 title: 從 Pinpoint 轉換到合作夥伴中心 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-Description: If you see this page, the information here describes how to transition from Pinpoint to Partner Center.
+Description: 如果您看到這個頁面，這裡的資訊會說明如何從 Pinpoint 轉換到合作夥伴中心。
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 49045d191a7058f5b261deec823657308008420d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794761"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587011"
 ---
 # <a name="transition-from-pinpoint-to-partner-center"></a>從 Pinpoint 轉換到合作夥伴中心
 

@@ -3,20 +3,20 @@ title: 應用程式開發專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 促進快速軟體交付與持續改善。 加入我們為數超過 6 萬家的應用程式建置商合作夥伴，藉由取得應用程式開發專長認證，使您的業務差異化並確立自己的 Microsoft 合作夥伴地位。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 雲端業務應用程式, 應用程式開發
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c367960a24cdf278991cc74cd5354c8886d67694
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5a0123f1ec9052f409ad9964cf9c1761f9df7bb2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795031"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583891"
 ---
 >[!IMPORTANT]
->若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
+>若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 

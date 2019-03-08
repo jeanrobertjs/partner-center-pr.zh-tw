@@ -3,20 +3,20 @@ title: 雲端平台專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 雲端平台專長認證專為合作夥伴設計，以便其利用對 Microsoft Azure 上所建置之基礎結構及軟體即服務 (SaaS) 解決方案的日益增長需求來創造商機。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各專長認證, 雲端平台
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: ae31be9420e3fdc0c09e6747bd73c38a955e79d3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 362e829a1d408d7bc63c1e776077d28442eb75c2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795751"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586231"
 ---
 >[!IMPORTANT]
->若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
+>若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 #Cloud Platform

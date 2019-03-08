@@ -6,12 +6,12 @@ description: 為遵守用來約束個人資料收集和使用行為的國內、�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e371869ec5fcf6ffbd9d1b078a9e7658aa480a61
-ms.sourcegitcommit: 13a9a1cb7c810479998353d969bc15e0654d8ff1
+ms.openlocfilehash: 6e408345f1d2169d84dcb206fa276166512829c3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8962360"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587031"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理
 
@@ -20,9 +20,9 @@ ms.locfileid: "8962360"
 -  Microsoft Cloud 德國合作夥伴中心
 
 > [!IMPORTANT]
-> 根據客戶需求的發展，我們的雲端策略德國將重點放在傳遞的新雲端區域德國中使用我們的全域雲端一致提供。 具有此焦點，我們將無法再接受新客戶或部署任何來自目前可用的 Microsoft Cloud 德國的新服務。 現有客戶可以繼續使用目前的雲端服務可立即，這我們將會維持使用所需的安全性更新。
+> 根據客戶需求的發展，我們的德國雲端策略會著重於在德國提供新的雲端地區，並和全球的雲端供應項目一致。 由於這個重點策略，我們將不再從目前可用的 Microsoft Cloud Germany 接受新的客戶或部署任何新的服務。 現有客戶可以繼續使用目前提供的雲端服務，我們會以必要的安全性更新來維護這些服務。
 >  
-> 向前移動，新客戶已變成可用時使用目前可用的歐洲地區或德國中的新區域的選項。 如需詳細資訊，請參閱[Microsoft 傳遞從德國境內的新資料中心的雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
+> 之後，新的客戶可以選擇使用目前提供的歐洲地區，或在德國的新地區可供使用時加以選擇。 如需詳細資訊，請參閱 [Microsoft 即將從德國的新資料中心提供雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
 
 為遵守用來約束個人資料收集和使用行為的德國法律和規範以及重要國際標準，Microsoft Cloud 德國合作夥伴中心不提供下列使用者及授權管理功能。 不過，您可以在 Microsoft Cloud 德國 Azure 入口網站或 Office 365 系統管理員中心內新增及管理使用者和授權。
 
@@ -35,23 +35,23 @@ ms.locfileid: "8962360"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>如何在 Microsoft Cloud 德國 Azure 入口網站管理使用者 
 
-如果您已登入 Microsoft Cloud 德國合作夥伴中心，便可直接開啟 Microsoft Cloud 德國 Azure 入口網站，而不需再次登入。 不過，如果您需要直接向 Microsoft Cloud 德國 Azure 入口網站登入，請移至[https://portal.microsoftazure.de](https://portal.microsoftazure.de)。 
+如果您已登入 Microsoft Cloud 德國合作夥伴中心，便可直接開啟 Microsoft Cloud 德國 Azure 入口網站，而不需再次登入。 不過，如果您需要直接登入 Microsoft Cloud 德國 Azure 入口網站，請移至 [https://portal.microsoftazure.de](https://portal.microsoftazure.de)。 
 
 成功登入 Microsoft Cloud 德國 Azure 入口網站後，請開啟 Azure Active Directory (Azure AD) 概觀頁面，然後按照下列主題中的指示進行：
 
 > [!NOTE]  
-> 選取這些連結便會引導您以不同的網站。 
+> 選取下列連結會帶您到不同的網站。 
 
 -  [將使用者新增至 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [在 Azure Active Directory 中為使用者指派管理員角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [將使用者指派給 Azure Active Directory 中的系統管理員角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [在 Azure Active Directory 中重設使用者密碼](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [重設 Azure Active Directory 中使用者的密碼](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**相關主題**
+**相關的主題**
 
--  [Microsoft Azure 德國](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
+-  [Microsoft Azure Germany](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
 
--  [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)
+-  [Microsoft Cloud germany 的合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)
 
 

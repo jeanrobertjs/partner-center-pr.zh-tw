@@ -9,18 +9,18 @@ ms.author: evansma
 keywords: 通訊, 客戶通訊, 與 Microsoft 對話
 ms.localizationpriority: medium
 ms.openlocfilehash: fbb5e9fab5ae9a92218988f0ff1465443d9a4eac
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683457"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586671"
 ---
 # <a name="customer-communication-from-microsoft"></a>Microsoft 的客戶通訊
 
 **適用於**
 
 -  合作夥伴中心
--  美國政府適用的 Microsoft Cloud 合作夥伴中心
+-  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 
 在一般情況下，我們希望與客戶的所有通訊交流都是來自「雲端解決方案提供者」合作夥伴。 因為您擁有客戶帳單關係，所以 Microsoft 不會直接傳送與您的客戶的訂閱有關的通訊內容給他們。

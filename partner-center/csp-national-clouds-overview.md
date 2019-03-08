@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: 國內雲, Microsoft Cloud 德國, 美國政府適用的 Microsoft Cloud, 21Vianet, Microsoft Cloud 中國
 ms.localizationpriority: medium
 ms.openlocfilehash: 851b8695b6cb409ef9f70f8b2acf2504bc7b16f5
-ms.sourcegitcommit: 13a9a1cb7c810479998353d969bc15e0654d8ff1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8962370"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584231"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>適用於在 Microsoft 國内雲銷售
 
@@ -30,19 +30,19 @@ Microsoft 在國內雲提供這些服務：
 
 合格的合作夥伴可以對這些國內雲客戶銷售 Microsoft 雲端解決方案：
 
--   [**美國政府適用的 Microsoft Cloud**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US)：美國政府適用的 Microsoft Cloud 專為美國政府從頭設計，可讓公共部門客戶—從大型聯邦機構到市鎮地方政府—選取一系列的雲端運算服務。 為了妥善處理客戶的特定需求，Microsoft 對資料中心挹注了大量投資，並致力於符合美國聯邦和州政府原則、強制規定和需求。 
+-   [**適用於美國政府 Microsoft Cloud** ](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US)針對美國政府從頭設計，適用於 Government 的 Microsoft Cloud 可讓在美國公共部門客戶-從大型至小型的城鎮政府的聯邦政府機構 — 以選取此選項，從雲端運算服務的範圍。 為了妥善處理客戶的特定需求，Microsoft 對資料中心挹注了大量投資，並致力於符合美國聯邦和州政府原則、強制規定和需求。 
 
     如需如何註冊美國政府適用的 Microsoft Cloud 以及向美國政府適用的 Microsoft Cloud 客戶銷售的相關資訊，請參閱[美國政府適用的 Microsoft Cloud 合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
--   [**Microsoft Cloud 德國**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany)：Microsoft Cloud 德國透過獨特的模型，從德國資料中心提供 Azure、Office 365 和 Dynamics 365。 在此模型中，對客戶資料的存取權由獨立的德國資料託管機關根據德國法律進行控管。 T-Systems International GmbH 是 Deutsche Telecom 的子公司，也是 Microsoft Cloud 德國的獨立資料託管機關。 
+-   [**Microsoft Cloud Germany** ](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Germany 提供 Azure、 Office 365 和 Dynamics 365 從德國資料中心，透過唯一的模型。 在此模型中，對客戶資料的存取權由獨立的德國資料託管機關根據德國法律進行控管。 T-Systems International GmbH 是 Deutsche Telecom 的子公司，也是 Microsoft Cloud 德國的獨立資料託管機關。 
 
     > [!IMPORTANT]  
-    > 根據客戶需求的發展，我們的雲端策略德國將重點放在傳遞的新雲端區域德國中使用我們的全域雲端一致提供。 具有此焦點，我們將無法再接受新客戶或部署任何來自目前可用的 Microsoft Cloud 德國的新服務。 現有客戶可以繼續使用目前的雲端服務可立即，這我們將會維持使用所需的安全性更新。
+    > 根據客戶需求的發展，我們的德國雲端策略會著重於在德國提供新的雲端地區，並和全球的雲端供應項目一致。 由於這個重點策略，我們將不再從目前可用的 Microsoft Cloud Germany 接受新的客戶或部署任何新的服務。 現有客戶可以繼續使用目前提供的雲端服務，我們會以必要的安全性更新來維護這些服務。
     >  
-    > 向前移動，新客戶已變成可用時使用目前可用的歐洲地區或德國中的新區域的選項。 如需詳細資訊，請參閱[Microsoft 傳遞從德國境內的新資料中心的雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
+    > 之後，新的客戶可以選擇使用目前提供的歐洲地區，或在德國的新地區可供使用時加以選擇。 如需詳細資訊，請參閱 [Microsoft 即將從德國的新資料中心提供雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
 
     
--   [**Azure 和 Office 365 在中國由 21Vianet 營運**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China)：Microsoft 在中國透過與 Shanghai Blue Cloud Technology Co., Ltd. (21Vianet) 的獨特合作關係提供雲端服務，它是 Beijing 21Vianet Broadband Data Center Co., Ltd. 21Vianet 的全資子公司，後者則是中國境內資料中心、託管、受管理網路和雲端運算基礎結構服務的最大營運商中立網際網路提供者。 
+-   [**由位於中國的 21Vianet 所運作的 azure 和 Office 365** ](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft 提供雲端服務在中國上海藍色雲端技術 Co.，Ltd.與合作關係(21Vianet)，沭謔北京 21Vianet 寬頻資料中心 Co.，Ltd.21Vianet 是最大的電訊廠商中立網際網路提供者的資料中心、 主控、 受管理的網路和雲端運算基礎結構在中國的服務。 
 
     Microsoft 是技術提供者，但不運作服務；由 21Vianet 獨立地運作、提供及管理 Microsoft 雲端服務。 透過授權 Microsoft 技術，21Vianet 可以提供 Azure 與 Office 365 服務並操作在中國大陸境內保存資料的 Azure 與 Office 365 資料中心。 21Vianet 也提供訂閱和帳單服務，以及支援。
 

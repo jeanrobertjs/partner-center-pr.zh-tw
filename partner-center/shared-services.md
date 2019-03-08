@@ -3,25 +3,25 @@ title: 新增 Azure 合作夥伴共用服務 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: Azure 合作夥伴共用服務是一種新的供應類型，適用於雲端解決方案提供者計畫中的合作夥伴，讓合作夥伴購買自己要使用的 Azure 訂閱。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure, shared services, tenant
+Keywords: Azure, 共用服務, 租用戶
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917630"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586981"
 ---
 # <a name="add-azure-partner-shared-services"></a>新增 Azure 合作夥伴共用服務
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
 
-Azure 合作夥伴共用服務是一種新的供應類型，適用於雲端解決方案提供者計畫中的合作夥伴，讓合作夥伴購買自己要使用的 Azure 訂閱。 它提供合作夥伴能夠使用統一的方式來購買、追蹤和管理 Azure 的機會，此外還能整合他們與 Microsoft 的 Azure 授權和經銷合約。 透過 Azure 合作夥伴共用服務，合作夥伴現在於雲端解決方案提供者計畫中使用 Azure 訂閱的彈性，就如同在 Microsoft Enterprise 合約與 Web Direct 計畫中的使用彈性一樣，開啟的案例包括：組建開發與測試環境、部署內部工作負載，以及主機共用服務或多租用戶應用程式。  
+Azure 合作夥伴共用服務是一種新的供應類型，適用於雲端解決方案提供者計畫中的合作夥伴，讓合作夥伴購買自己要使用的 Azure 訂閱。  它會建立要購買、 追蹤和管理 Azure 除了能夠使用具有一致的方法，來合併其授權和轉售協議與 Microsoft 的 Azure 合作夥伴的機會。 透過 Azure 合作夥伴共用服務，合作夥伴現在於雲端解決方案提供者計畫中使用 Azure 訂閱的彈性，就如同在 Microsoft Enterprise 合約與 Web Direct 計畫中的使用彈性一樣，開啟的案例包括：組建開發與測試環境、部署內部工作負載，以及主機共用服務或多租用戶應用程式。  
 
 ## <a name="create-the-shared-services-tenant"></a>建立共用服務租用戶
 

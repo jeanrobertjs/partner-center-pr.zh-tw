@@ -2,25 +2,25 @@
 title: 向上呈報問題給 Microsoft | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 我們預期您將會為客戶解決問題。 不過，有數種類型的問題，您將需要交給 Microsoft 修正。
+description: 我們預期您將會為客戶解決問題。 不過，有數個類別，您將需要遞交給 Microsoft，以修正問題。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 0c1fc091212d70bf18337a9e17cc8f83cb61d4ae
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917350"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586431"
 ---
 # <a name="escalate-problems-to-microsoft"></a>向上呈報問題給 Microsoft
 
 **適用於**
 
 -  合作夥伴中心
--  美國政府適用的 Microsoft Cloud 合作夥伴中心
+-  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 
 我們預期您將會為客戶解決問題。 您的第一個步驟應該是[檢查服務健康狀況](check-service-health.md)是否發生現有且已記錄的問題。 如果無法解決客戶的問題，您可以使用您的系統管理員權限針對軟體、設定及組態進行疑難排解。
@@ -37,21 +37,21 @@ ms.locfileid: "8917350"
 
 -   影響多租用戶的地區性問題
 
-## <a name="submit-a-support-request"></a>提出支援要求
+## <a name="submit-a-support-request"></a>提交支援要求
 
 1. 從合作夥伴中心中，選取**客戶**。
-2. 選取的客戶需要支援。
-3. 選取 [**服務管理**，並選取 [**服務要求**。
-4. 選取**新的要求**，然後選取 [ **Microsoft Office 365**。
-5. 您被引導至 Office 365 入口網站需要使用您的合作夥伴中心認證登入。
-6. 選取**支援**，左側功能表中的**新服務要求**。
+2. 選取需要支援的客戶。
+3. 選取 **\[服務管理\]**，然後選取 **\[服務要求\]**。
+4. 選取 **\[新要求\]**，然後選取 **\[Microsoft Office 365\]**。
+5. 您會前往 Office 365 入口網站需要您使用您的合作夥伴中心認證來登入。
+6. 從左邊功能表選取 **\[支援\]**、**\[新服務要求\]**。
 7. 選取支援主題。
 
 >[!NOTE]
->請務必從合作夥伴中心開始，如此便能維持合作夥伴和客戶之間的關係。 
+>請務必啟動從合作夥伴中心，讓合作夥伴與客戶之間的關聯性會維護。 
 
 
-如需代表客戶報告問題資訊，請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。
+如需代表客戶回報問題的相關資訊，請參閱[代表客戶回報問題](report-problems-on-behalf-of-a-customer.md)。
 
  
 

@@ -7,19 +7,19 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 9c5d6ed400b416324546ef90ef04a18ecf5dbcf6
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098745"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587861"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>美國政府適用的 Microsoft Cloud 合作夥伴中心
+# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適用於**
 
--  美國政府適用的 Microsoft Cloud 合作夥伴中心
+-  Microsoft Cloud for US Government 適用的合作夥伴中心
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美國政府適用的 Microsoft Cloud ：符合資料保護需求 
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>適用於美國政府的 Microsoft 雲端：符合資料保護需求 
 
 美國政府適用的 Microsoft Cloud 針對美國政府從頭開始設計，可讓美國聯邦、州、地方或部落實體選用 Microsoft 的各種雲端運算服務。 為了完善處理公共部門客戶的特定需求，Microsoft 對資料中心挹注了大量投資，並致力於遵循美國聯邦及州政府的資料保護政策、命令與規定。 美國政府適用的 Microsoft Cloud 合作夥伴中心可讓合作夥伴向這些客戶轉售 Microsoft 雲端服務。
 
@@ -29,7 +29,7 @@ ms.locfileid: "9098745"
 
 如需詳細資訊，請參閱[美國政府適用的 Microsoft Cloud 資料工作表](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)。
 
-## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>美國政府適用的 Microsoft Cloud 合作夥伴中心：對美國政府實體銷售雲端解決方案。
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>適用於美國政府的 Microsoft 雲端合作夥伴中心：我們的政府機構銷售雲端解決方案
 
 註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者 (CSP) 計畫後，您需要透過合作夥伴中心向美國政府客戶銷售雲端特定解決方案和服務。 
 
@@ -38,7 +38,7 @@ ms.locfileid: "9098745"
 
 - 尋找合作夥伴
 - 商務設定檔
-- 推薦
+- 轉介
 - 要求與客戶建立經銷商關係 (多通路、多合作夥伴)
 - 授權分析
 - 客戶的深入資訊

@@ -3,20 +3,20 @@ title: 企業資源規劃專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 藉由證明貴組織在針對企業資源規劃需求開發和部署 Dynamics 解決方案上的能力，成為 Microsoft 合作夥伴。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 企業資源規劃
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f0c69dafa24a61923fbc69521cdc87a89ad87c70
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cf3150bca54770453da4dc3b56302a30f348aca7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795541"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584331"
 ---
 >[!IMPORTANT]
->若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
+>若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 #Enterprise Resource Planning 

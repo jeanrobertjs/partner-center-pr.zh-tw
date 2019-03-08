@@ -3,15 +3,15 @@ title: 在合作夥伴中心管理您的獎勵 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: Microsoft 合作夥伴獎勵計畫支援合作夥伴獲利能力和業務成長
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3232f52f3c04d61fb57fdada40a98612341972fc
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 644ac2020551e199ff20f520a8ac3c68ddbece54
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995642"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586991"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>在合作夥伴中心管理您的獎勵 
 
@@ -49,10 +49,10 @@ ms.locfileid: "8995642"
 獎勵系統管理員收到認證時，可以完成貴組織的移轉，讓您的組織可在合作夥伴中心這裡管理您的獎勵。
 
 
-[建立使用者帳戶和指派權限](create-user-accounts-and-set-permissions.md)
+[建立使用者帳戶，並指派權限](create-user-accounts-and-set-permissions.md)
 
 [重設使用者密碼](reset-a-user-password.md)
 
-[了解您的獎勵支付](understand-incentive-payouts.md)
+[了解您的獎勵支出](understand-incentive-payouts.md)
 
 如需詳細資訊，請參閱[合作夥伴獎勵合作指南](https://assets.microsoft.com/coop-guidebook.pdf)

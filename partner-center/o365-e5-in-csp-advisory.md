@@ -8,13 +8,13 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795651"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585331"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 合作夥伴諮詢：Office 365 E5 單一 SKU 在雲端解決方案提供者中的可用性
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 合作夥伴摘要報告：在 CSP 中的 office 365 E5 單一 SKU 可用性
 
 **適用於**
 
@@ -53,11 +53,11 @@ ms.locfileid: "5795651"
 
 ### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>依日期與 PSTN 可用性顯示在雲端解決方案提供者價目表上的 SKU
 
-**單一 Office 365 企業版 E5 單一 SKU 推出之前**
+**單一的 Office 365 Ent 之前。E5 單一 SKU 啟動**
 
-**優惠顯示名稱**
+**供應項目顯示名稱**
 
-**優惠識別碼**
+**供應項目識別碼**
 
 **單價**
 
@@ -94,11 +94,11 @@ PSTN 附加元件
 
  
 
-**單一 Office 365 企業版 E5 單一 SKU 推出之後**
+**發行後的單一 Office 365 企業與中型市場。E5 單一 SKU 啟動**
 
-**優惠顯示名稱**
+**供應項目顯示名稱**
 
-**優惠識別碼**
+**供應項目識別碼**
 
 **單價**
 
@@ -116,7 +116,7 @@ PSTN 附加元件
 
 **新的單一 SKU**
 
-**不含 PSTN 會議的 Office 365 企業版 E5**
+**沒有 PSTN 會議的 office 365 企業版 E5**
 
 **02c07b64-2cd3-4667-b014-561192fc5d1a**
 
@@ -124,7 +124,7 @@ PSTN 附加元件
 
 **35.00**
 
-**適用於非 PSTN 成員的新單一 SKU**
+**新的單一 SKU 的非 PSTN 成員**
 
 不含 PSTN 會議的 Office 365 企業版 E5
 
@@ -148,7 +148,7 @@ PSTN 附加元件
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a>發票和合作夥伴對帳檔案
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a>發票與合作夥伴對帳檔案
 
 
 雲端解決方案提供者對帳檔案和雲端解決方案提供者發票針對 Office 365 企業版 E5 單一 SKU 之 PSTN 與非 PSTN 元件提供個別的明細項目。 兩個明細項目均有相同的名稱和相同的識別碼，但每個明細項目有唯一的單價 (例如：$28.40 和 $2.00)。 這會區隔 Office 365 優惠的商務用 Skype PSTN 會議元件，讓您可以正確地套用稅金。
@@ -205,13 +205,13 @@ PSTN 附加元件
 ## <a name="additional-resources"></a>其他資源
 
 
-如需詳細資料，請參閱 [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) 網站。 Office 365 企業版 E5 特定資源可在 **\[上市與銷售\]** 索引標籤下的 [Office 365 E5](https://drumbeat.office.com/partner/pages/e5.aspx) 頁面中找到：
+如需詳細資料，請參閱 [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) 網站。 Office 365 企業版 E5 特定資源可在 \[上市與銷售\] 索引標籤下的 [Office 365 E5](https://drumbeat.office.com/partner/pages/e5.aspx) 頁面中找到：
 
 -   **Office 365 企業版 E5 授權**
 
--   **商務用 Skype PSTN 服務授權概觀**
+-   **PSTN 的商務用 Skype 服務授權的概觀**
 
--   **Office 365 E5 和商務用 Skype 授權常見問題集**
+-   **Office 365 E5 與授權常見問題集的商務用 Skype**
 
  
 

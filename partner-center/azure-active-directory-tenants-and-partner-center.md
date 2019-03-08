@@ -2,23 +2,23 @@
 title: 工作帳戶和合作夥伴中心 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 若要建立合作夥伴中心帳戶，您的公司必須有工作帳戶。 如果您有 Microsoft Azure 或 Office 365 的使用中訂閱，您已經有工作帳戶。
-author: labrenne
+description: 若要建立合作夥伴中心帳戶，您的公司必須有工作帳戶。 如果您有 Microsoft Azure 或 Office 365 的作用中訂用帳戶，您已經有工作帳戶。
+author: LauraBrenner
 ms.author: labrenne
-Keywords: work account, email, tenant, Azure tenant, create account, domain name
+Keywords: 工作帳戶、 電子郵件、 租用戶的 Azure 租用戶，請建立帳戶，網域名稱
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ef953d161fe15d8a950bdbbe70bac72ac9318ec3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917520"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584681"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>您的公司工作帳戶與合作夥伴中心  
 
-**適用對象**
+**適用於**
 
 -  合作夥伴中心
 
@@ -29,14 +29,14 @@ ms.locfileid: "8917520"
 如果您的公司已經有工作帳戶，就可以將其連結至您的合作夥伴中心帳戶。 
 
 > [!NOTE]  
->  您決定使用現有的工作帳戶之前，請先考慮帳戶中有多少使用者需要使用合作夥伴中心。 如果您不需要使用合作夥伴中心帳戶中有使用者，請考慮建立新的帳戶，只需要使用合作夥伴中心中的使用者。
+>  您決定使用現有的工作帳戶之前，請考慮在帳戶中的使用者人數的相關需要合作夥伴中心。 如果您不需要處理在合作夥伴中心帳戶中擁有使用者，請考慮建立新帳戶，只需要在合作夥伴中心內的使用者。
 
 如果貴公司還沒有工作帳戶，您可以在註冊過程中建立一個帳戶。 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>不確定您的公司是否已經有工作帳戶？
 
 如果不確定您的公司是否有工作帳戶，請依照下列步驟檢查。 請注意，如果您有使用中的 Microsoft Azure 或 Office 365 訂用帳戶，就已經擁有工作帳戶。
-1.  登入 Azure 管理入口網站：https://ms.portal.azure.com
+1.  登入 Azure 管理入口網站： https://ms.portal.azure.com
 2.  從功能表選取 [Azure Active Directory]，然後選取 [網域名稱]。
 3.  如果您已經有工作帳戶，將會列出您的網域名稱。
 

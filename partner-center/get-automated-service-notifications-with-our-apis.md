@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: fb0dcdf12a59842ebf1400f4a5e917ad64fbb14f
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098725"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587271"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>使用 API 取得自動化服務通知
 

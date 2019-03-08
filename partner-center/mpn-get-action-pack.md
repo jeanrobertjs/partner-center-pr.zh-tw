@@ -8,15 +8,15 @@ ms.author: evansma
 keywords: 行動套件, MAPS, 續約 MAPS, 續約行動套件, 取得行動套件
 ms.localizationpriority: medium
 ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795041"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587881"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>首次購買或續約 Microsoft 行動套件訂閱
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
 -  Partner Membership Center
@@ -39,7 +39,7 @@ ms.locfileid: "5795041"
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>續約 Microsoft 行動套件訂閱
 
 >[!IMPORTANT]
->現在日曆年度結束，我們正在將移行動套件訂閱管理從 Partner Membership Center (PMC) 到合作夥伴中心-此網站。 續約您的行動套件訂閱從現在開始可能會有所不同，所以請仔細閱讀以下資訊。  
+>即日日曆年度的結束，我們正在移動 Action Pack 訂用帳戶管理從夥伴成員資格中心 (PMC) 合作夥伴中心-此站台。 續約您的行動套件訂閱從現在開始可能會有所不同，所以請仔細閱讀以下資訊。  
 
 ### <a name="check-your-renewal-eligibility"></a>檢查您的續約資格
 
@@ -49,17 +49,17 @@ ms.locfileid: "5795041"
 
     - 能夠在 PMC 中依照步驟來續約您的訂閱，或者
 
-    - 取得訊息，邀請您續約的訂閱，在合作夥伴中心-此網站
+    - 收到邀請您的訊息，以更新您的訂用帳戶中合作夥伴中心-此站台
 
 >[!IMPORTANT]
->如果您受邀續約的訂閱，在合作夥伴中心，請注意，我們已經變更我們的續約時間範圍原則，只在到期之後，您可以續約訂閱。 例如，如果您的訂閱在 6 月 22 日到期，您可以從 6 月 23 日起的 30 天內續約。       
->您可以在您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面上 (需要登入)，找到您的訂閱到期日。 如果您有資格能夠在合作夥伴中心續約時，請依照下列步驟。  
+>如果系統邀請您更新您的訂用帳戶，在合作夥伴中心時，請注意，我們變更我們更新視窗原則只在過期後，您可以更新您的訂用帳戶。 例如，如果您的訂閱在 6 月 22 日到期，您可以從 6 月 23 日起的 30 天內續約。       
+>您可以在您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面上 (需要登入)，找到您的訂閱到期日。 如果或時，便有資格續約在合作夥伴中心，請遵循下列步驟。  
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>若要續約 Microsoft 行動寶盒訂閱，在合作夥伴中心
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>在合作夥伴中心內的 Microsoft 行動寶盒訂閱
 
-1. 移至您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面，然後選取 **\[已購買\]**。 找出**Microsoft 行動套件訂閱**磚。  
+1. 移至您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面，然後選取 **\[已購買\]**。 找到 **\[Microsoft 行動套件訂閱\]** 磚。  
 
 2. 選取 **\[續約訂閱\]**，然後選取您的付款方式。 您可以使用信用卡或電子銀行轉帳來付費。
 
@@ -111,13 +111,13 @@ ms.locfileid: "5795041"
  
 ## <a name="next-steps"></a>後續步驟
 
--   [開始享用您的行動套件權益](manage-your-partner-network-benefits.md)
+-   [開始使用您行動套件的權益](manage-your-partner-network-benefits.md)
 
--   [了解銀級和金級專長認證會員資格等級](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
+-   [深入了解銀級和金級專長認證的成員資格層級](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
--   [新增使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
+-   [新增使用者，並為其指派的權限](create-user-accounts-and-set-permissions.md)
 
--   [建立商務設定檔以透過 Microsoft 獲得業務潛在客戶](create-a-marketing-profile.md)
+-   [建立商務設定檔，從 Microsoft 取得的銷售潛在客戶](create-a-marketing-profile.md)
 
 
 

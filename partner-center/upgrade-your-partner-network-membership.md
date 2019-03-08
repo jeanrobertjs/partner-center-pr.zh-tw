@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 800e816ad882b11721f26f7c219997de7a33e416
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 5322b85cf8fb57d1c8cc203d39a3412f3e119772
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776472"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587671"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升級您的 Microsoft 合作夥伴網路會員資格
 
@@ -22,9 +22,9 @@ ms.locfileid: "8776472"
 
 Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權益幫助您達到業務目標。
 
-- **網路會員資格。** 核心會員資格層級，提供訓練、支援和客戶連接的入門級權益。 您必須是網路會員才能升級您的會員資格。
+- **網路的成員資格。** 核心會員資格層級，提供訓練、支援和客戶連接的入門級權益。 您必須是網路會員才能升級您的會員資格。
 
-- **Microsoft 行動套件訂閱會員資格。** 服務中小型合作夥伴公司的實惠年度訂閱。 包括入門級權益，隨附基本網路會員資格，加上內部使用權服務訂閱、軟體授權和支援的配置。
+- **Microsoft Action Pack 訂用帳戶的成員資格。** 服務中小型合作夥伴公司的實惠年度訂閱。 包括入門級權益，隨附基本網路會員資格，加上內部使用權服務訂閱、軟體授權和支援的配置。
 
 - **Microsoft 專長認證。** 贏得的榮譽稱號，展示貴公司的能力。 包括入門級權益、其他內部使用權、合作夥伴獎勵的資格，以及其他支援與諮詢時數。
 
@@ -32,7 +32,7 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
   - 金級專長認證 – 特定 Microsoft 解決方案領域同等級最佳功能
 
-您加入 Microsoft 合作夥伴網路之後，就可以升級您的會員資格，並購買專屬會員資格權益優惠。 如需有關 Microsoft 合作夥伴網路會員資格的詳細資訊，請移至[https://partner.microsoft.com](https://partner.microsoft.com)。
+您加入 Microsoft 合作夥伴網路之後，就可以升級您的會員資格，並購買專屬會員資格權益優惠。 如需有關 Microsoft 合作夥伴網路中會員資格的詳細資訊，請移至 [https://partner.microsoft.com](https://partner.microsoft.com)。
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>購買 Microsoft 行動套件訂閱
@@ -47,21 +47,21 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 - 取得每個月價值 $100 美元的 Microsoft Azure 點數
 
-如需有關 Microsoft 行動套件的詳細資訊，請移至[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
+如需 Microsoft 行動套件的詳細資訊，請移至 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
 
 > [!NOTE]  
-> 跟隨此連結會帶您到另一個網站。 回到此網站，合作夥伴中心網站，行動寶盒訂閱。
+> 遵循此連結會帶您前往另一個網站。 傳回此站台，合作夥伴中心網站的 Action Pack 訂閱。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>訂閱 Microsoft 行動套件
 
-1. 在**合作夥伴中心**功能表中，選取**合作關係 > 提供**。 Microsoft 行動套件列在 **\[可用的優惠\]** 中。 選取 **\[立即訂閱\]**。 
+1. 在 **合作夥伴中心**功能表上，選取**合作關係 > 提供**。 Microsoft 行動套件列在 **\[可用的優惠\]** 中。 選取 **\[立即訂閱\]**。 
 
 2. 選取 **\[下一步\]**，同意 Microsoft 合作夥伴網路授與的內部使用權的[條款及條件](https://go.microsoft.com/fwlink/?linkid=842232)。  
 
 3. 選取 **\[下一步\]** 新增付款詳細資料。 
 
-4. 選取 **\[馬上開始! 新增付款方式\]** (如果您需要輸入付款詳細資料)。 
+4. 選取**開始 ！新增用來在用多少付多少**如果您需要輸入付款詳細資料。 
 
 5. 輸入您的付款詳細資訊，然後選取 **\[下一步\]**。
 
@@ -73,19 +73,19 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>關閉自動行動套件訂閱續約
 
-1. 在**合作夥伴中心**功能表中，選取**合作關係 > 提供**。 Microsoft 行動套件列在 **\[已購買的優惠\]** 中。
+1. 在 **合作夥伴中心**功能表上，選取**合作關係 > 提供**。 Microsoft 行動套件列在 **\[已購買的優惠\]** 中。
 
 2. 選取 **\[Microsoft 行動套件訂閱\]** 檢視訂閱詳細資料。 
 
 3. 選取 **\[關閉自動續約\]** (如果您不想要您的行動套件訂閱每年自動續約)。 
 
 > [!NOTE]  
-> 如果您關閉自動訂閱續約，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 我們將在您的訂閱到期之前提醒您續約。
+> 如果您關閉自動訂閱續約，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 我們將會在您的訂閱到期之前提醒您續約。
 
 
 ### <a name="renew-your-action-pack-subscription"></a>為您的行動套件訂閱續約
 
-1. 在**合作夥伴中心**功能表中，選取**合作關係 > 提供**。 Microsoft 行動套件列在 **\[已購買的優惠\]** 中。
+1. 在 **合作夥伴中心**功能表上，選取**合作關係 > 提供**。 Microsoft 行動套件列在 **\[已購買的優惠\]** 中。
 
 2. 選取 **\[Microsoft 行動套件訂閱\]** 檢視訂閱詳細資料，然後選取 **\[動作\]** 下的 **\[續約訂閱\]**。  
 
@@ -95,7 +95,7 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 5. 選取 **\[下一步\]** 新增付款詳細資料。 
 
-6. 選取 **\[馬上開始! 新增付款方式\]** (如果您需要輸入付款詳細資料)。 
+6. 選取**開始 ！新增用來在用多少付多少**如果您需要輸入付款詳細資料。 
 
 7. 輸入您的付款詳細資訊，然後選取 **\[下一步\]**。
 
@@ -110,7 +110,7 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
 
 若要取消您的 Microsoft 行動套件訂閱，您必須連絡合作夥伴中心支援。
 
-1. 移至https://partnercenter.microsoft.com/partner/support。
+1. 移至 https://partnercenter.microsoft.com/partner/support。
 
 2. 選取 **\[回報合作夥伴中心的問題\]**，然後在下一頁選取 **\[新要求\]**。
 
@@ -123,12 +123,12 @@ Microsoft 合作夥伴計畫提供下列三個會員資格選項，以增量權�
  
 ### <a name="next-steps"></a>後續步驟
 
-[啟用您的行動套件訂閱](manage-your-partner-network-benefits.md)
+[啟用您的行動寶盒訂閱](manage-your-partner-network-benefits.md)
 
 
 ### <a name="related-topics"></a>相關主題
 
-[新增使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
+[新增使用者，並為其指派的權限](create-user-accounts-and-set-permissions.md)
 
 
 

@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 當您成為雲端解決方案提供者計畫的合作夥伴，您的組織會獲得信用額度，可讓您在等候客戶付款的同時，購買軟體以銷售給客戶。
 ms.assetid: ''
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-keywords: 信用額度，要購買，限制增加信用額度
+keywords: 信用額度，購買，提高限制，點數列
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 29ea91d24e141deb843f7ba00e438f882a092fff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917390"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586181"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>雲端解決方案提供者 (CSP) 帳戶信用額度
 
-**適用對象：**
+**適用於**
 
 - 合作夥伴中心
 

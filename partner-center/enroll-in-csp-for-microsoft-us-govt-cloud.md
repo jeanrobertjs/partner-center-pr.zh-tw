@@ -6,12 +6,12 @@ description: 在您註冊美國政府適用的 Microsoft Cloud 雲端解決方�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098815"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585641"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
@@ -23,7 +23,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 美國政府適用的 Microsoft Cloud 提供不公開、專用且隔離的 Microsoft Azure 執行個體，這個執行個體符合美國政府對資料安全性、隱私權及法務遵循的規定。 您的公司必須符合 Microsoft 的資格要求，才能參與美國政府適用的 Microsoft Cloud 的 CSP 計畫。 如需詳細資訊，請參閱[美國政府適用的 Microsoft Cloud 合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
-## <a name="before-you-begin"></a>在您開始前
+## <a name="before-you-begin"></a>開始之前
 
 在您註冊加入美國政府適用的 Microsoft Cloud 的 CSP 計畫之前，我們必須確認您的公司是否符合向美國政府實體進行銷售的要求條件。 在您開始進行註冊程序之前，請先完成 [Microsoft 政府機構雲端驗證表單](https://azuregov.microsoft.com/csp)，方便我們確認貴公司的資格。 確認貴公司的資格後，我們會提供給您美國政府適用的 Microsoft Cloud 專用的 Azure Active Directory (Azure AD) 租用戶。  
 
@@ -49,7 +49,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 1.  補上註冊表單上所有漏填的資訊，包括 Microsoft 合作夥伴網路識別碼和您組織的客戶支援詳細資料。 
 
-2.  選取 **\[接受並繼續\]**。 審查您的應用程式可能需要我們幾天的時間。 審查完成後，我們會通過電子郵件通知您。
+2.  選取 \[Accept and continue\] (接受並繼續)。 審查您的應用程式可能需要我們幾天的時間。 審查完成後，我們會通過電子郵件通知您。
 
     > [!IMPORTANT]  
     > 選取 **\[接受並繼續\]** 即表示您確定自己有權代表組織行事，且您同意允許 Microsoft 在審查您組織的雲端解決方案提供者計畫申請前，先進行背景信用查核。
@@ -81,8 +81,8 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 ## <a name="related-topics"></a>相關主題
 
--  [美國政府適用的 Microsoft Cloud 合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
+-  [適用於美國政府的 Microsoft 雲端合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [美國政府適用的 Microsoft Cloud 合作夥伴中心內的使用者及授權管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+-  [使用者與授權管理在 Microsoft 雲端合作夥伴中心內適用於美國政府](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
 

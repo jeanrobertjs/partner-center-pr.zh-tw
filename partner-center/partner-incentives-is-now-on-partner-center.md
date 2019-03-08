@@ -3,15 +3,15 @@ title: 合作夥伴獎勵現在位於合作夥伴中心 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 獎勵計畫可鼓勵合作夥伴開發新的行銷技術、提供訓練以及其他更多功能
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 61138645f20a24ba7eacd17546983715a0045669
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995632"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587511"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>合作夥伴獎勵現在位於合作夥伴中心 
 
@@ -31,19 +31,19 @@ ms.locfileid: "8995632"
 - 間接提供者必須具備有效雲端代理商合約。
 - 直接經銷商必須有經銷商合約。
 - 如果您是間接經售商合作夥伴，您必須加入 MPN。 間接經銷商完成其第一筆交易後，將會收到獎勵計畫的邀請。 
-- 至少擁有一項 Microsoft 專長認證。 查看目前的[Microsoft 專長認證](competencies.md)的清單。
+- 至少擁有一項 Microsoft 專長認證。 看到一份目前[Microsoft 專長認證](competencies.md)。
 
 ## <a name="one-site-one-log-on"></a>一個網站、一個登入
 
-現在，Microsoft 合作夥伴獎勵計畫已經移到合作夥伴中心，您無法執行所有您的管理工作，包括管理使用者、 執行工作代表客戶、 註冊認證與獎勵、 報告獎勵收益，以及取得支付款。 使用您在您的獎勵**合作夥伴中心**上所有的獎勵資料。 每天都會重新整理您的獎勵資料。
+現在，Microsoft 合作夥伴獎勵計畫已移至合作夥伴中心，您將能夠執行您的 系統管理工作包括管理所有使用者，執行代表客戶工作、 登入認證和獎勵，報表獎勵盈餘，以及取得支出。 您所有的獎勵資料是可供您在您的獎勵**合作夥伴中心**。 每天都會重新整理您的獎勵資料。
  
 ## <a name="set-your-users-up-in-partner-center"></a>在合作夥伴中心設定您的使用者
  
-您的第一個步驟是在合作夥伴中心設定獎勵使用者，以完成您的合作夥伴中心帳戶。 您已收到電子郵件，其中包含一份您組織的獎勵使用者清單。 當您的組織的獎勵系統管理員完成使用者設定時，所有的獎勵資料都會顯示在獎勵**合作夥伴中心**。
+您的第一個步驟是在合作夥伴中心設定獎勵使用者，以完成您的合作夥伴中心帳戶。 您已收到電子郵件，其中包含一份您組織的獎勵使用者清單。 獎勵系統管理員為您的組織完成使用者設定，您所有的獎勵資料會顯示在獎勵**合作夥伴中心**。
 
-**請參閱**
+**另請參閱**
 
-[建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)
+[建立使用者帳戶，並設定權限](create-user-accounts-and-set-permissions.md)
 
-[變更您的暫時密碼](change-your-temporary-password.md)
+[您變更暫時密碼](change-your-temporary-password.md)
 

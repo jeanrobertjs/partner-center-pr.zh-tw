@@ -3,20 +3,20 @@ title: 資料中心專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 資料中心專長認證對轉換資料中心成為更具彈性、延展性及成本效益之解決方案的合作夥伴給予認可。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各專長認證, 資料中心
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 803b3c384985564c1504d377bdcee065eff5bfd1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 356d94a49a43e24d11e0c7adf49fa36178559876
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795561"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584271"
 ---
 >[!IMPORTANT]
->若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
+>若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 #Datacenter

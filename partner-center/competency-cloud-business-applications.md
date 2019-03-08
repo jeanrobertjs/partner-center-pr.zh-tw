@@ -3,20 +3,20 @@ title: 雲端商務應用程式專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 雲端業務應用程式專長認證適合專精於為客戶部署和管理 Microsoft Dynamics 365 的合作夥伴。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 雲端業務應用程式
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6b962539a106f2b18d116bf3ca2f4b30084076a1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794571"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583941"
 ---
 >[!IMPORTANT]
->若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
+>若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 

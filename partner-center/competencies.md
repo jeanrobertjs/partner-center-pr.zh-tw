@@ -3,17 +3,17 @@ title: 獲得 Microsoft 專長認證 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 獲得銀級和金級 Microsoft 專長認證，示範您在專業業務領域中提供高品質解決方案備受肯定的專業
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: 專長認證, 銀級會員, 金級會員, mpn, MAPS, 熟練度, 權益, 效能目標, 技能目標
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: d0c78aa6c84cc1385e7c3ddeef5d434e91e1740a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098785"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586121"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -38,9 +38,9 @@ Microsoft 專長認證成就彰顯您在提供高品質解決方案方面備受�
 
 *  **展示您受肯定的專業知識**。 向潛在客戶顯示您有能力滿足他們對特定業務範圍需求，以[獲得更多業務轉介](referrals.md)。
 
-## <a href="" id="attainment_paths"></a>專長認證路徑
+## <a href="" id="attainment_paths"></a> 專長認證的路徑
 
-[銀會員及金會員資格的專長認證要求條件](learn-about-competencies.md)
+[銀級或金級的成員資格的專長認證需求](learn-about-competencies.md)
 
 ## <a name="earn-competencies"></a>獲得專長認證
 
@@ -58,15 +58,15 @@ Microsoft 專長認證成就彰顯您在提供高品質解決方案方面備受�
 
 某些專長認證有多種方法可以達到銀會員或金會員等級。
 
-若要檢查您的進度的專長認證，從合作夥伴中心合作夥伴中心，移至**合作關係 > 各項專長認證**。 
+若要檢查您的進度，專長認證，從合作夥伴中心合作夥伴中心，在前往**合作關係 > 專長認證**。 
 
-### <a href="" id="associating_achievements"></a>讓您的員工共同參與以完成技能目標
+### <a href="" id="associating_achievements"></a>取得您的員工完整技術為基礎的目標連接
 
-1.  為您組織中的員工新增使用者帳戶。 從[合作夥伴中心](https://partnercenter.microsoft.com)，移至 [**帳戶設定 > 新增使用者**。 (PMC 使用者可以藉由選取 **\[使用 PMC 資料新增使用者\]**，一次新增多個使用者)。
+1.  為您組織中的員工新增使用者帳戶。 從[合作夥伴中心](https://partnercenter.microsoft.com)，請前往**帳戶設定 > 新增使用者**。 (PMC 使用者可以藉由選取 **\[使用 PMC 資料新增使用者\]**，一次新增多個使用者)。
 
     建立使用者帳戶之後，我們會將新的使用者名稱和密碼傳送給他們，並提示您下載包含相關資訊的記錄檔，以便在需要時協助重設使用者名稱和密碼。 您也可以[設定使用者帳戶，讓他們可以自行重設密碼](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)。
 
-2. 要求您組織中的員工登入他們的 Microsoft 帳戶 (MSA)，並將此帳戶與其使用者帳戶產生關聯。 (從[合作夥伴中心](https://partnercenter.microsoft.com)，移至 [**帳戶設定**。)員工可以使用相同或不同的 Msa 來建立與其 Microsoft 技術測驗與認證及其帳戶透過 Microsoft 合作夥伴大學。
+2. 要求您組織中的員工登入他們的 Microsoft 帳戶 (MSA)，並將此帳戶與其使用者帳戶產生關聯。 (從[合作夥伴中心](https://partnercenter.microsoft.com)，請前往**帳戶設定**。)員工可以使用相同或不同的 Msa，讓其 Microsoft 技術的測驗及認證和他們透過 Microsoft 合作夥伴大學的帳戶產生關聯。
 
 3.  員工建立其帳戶關聯或完成技能目標之後，**請等候 24 小時**。 在此之後，進度就會顯示在 **\[專長認證\]** 區段中。
 
@@ -84,13 +84,13 @@ Microsoft 專長認證成就彰顯您在提供高品質解決方案方面備受�
 
 若要購買金級權益套件，您只需要在一個路徑中展示金級熟練程度。 升級到金級之後，我們會在您的商務設定檔中顯示您已經達成的銀級和金級專長認證。 
 
-### <a href="" id="maintain_membership"></a>維護和續約會員資格
+### <a href="" id="maintain_membership"></a> 維護及更新成員資格
 
 若要續約您的會員資格，您必須繼續展示 Microsoft 產品與服務的熟練程度。 您的訂閱狀態保持到您購買訂閱那年年底為止。
 
 過期的成就可能會使您無法升級合作夥伴會員資格或以相同等級來續約。 
 
-如果您收到警示：**「您的專長認證成就最近的變更，已經對您的會員續約資格產生風險」**，這表示您的其中一個或多個專長認證成就有過期的風險。 
+如果您收到警示︰**"最近的變更，以您的專長認證成就已將您的成員資格續約資格風險 」**，這表示一個或多個您專長認證的成就是即將到期的風險。 
 
 這通常是在協助您的組織符合專長認證成就的測驗或認證要求的員工離開您的組織時發生。 
 
@@ -100,4 +100,4 @@ Microsoft 專長認證成就彰顯您在提供高品質解決方案方面備受�
 
 ## <a name="related-topics"></a>相關主題
 
-[銀會員及金會員資格的專長認證要求條件](learn-about-competencies.md)
+[銀級或金級的成員資格的專長認證需求](learn-about-competencies.md)

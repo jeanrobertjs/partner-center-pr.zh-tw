@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796201"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587591"
 ---
 # <a name="create-a-partner-center-account"></a>建立合作夥伴中心帳戶
 
@@ -27,13 +27,13 @@ ms.locfileid: "5796201"
 
 建立合作夥伴中心帳戶之後，您就可以：
 
--   [購買或續約 Microsoft 行動套件訂閱](mpn-get-action-pack.md)
+-   [購買或續約 Microsoft Action Pack 訂用帳戶](mpn-get-action-pack.md)
 
--   [建立商務設定檔以透過 Microsoft 獲得業務潛在客戶](create-a-marketing-profile.md)
+-   [建立商務設定檔，從 Microsoft 取得的銷售潛在客戶](create-a-marketing-profile.md)
 
--   [從 Microsoft 取得業務潛在客戶以及進行管理](responding-to-referrals.md)
+-   [取得，並從 Microsoft 管理的銷售潛在客戶](responding-to-referrals.md)
 
-## <a name="before-you-begin"></a>在您開始前
+## <a name="before-you-begin"></a>開始之前
 
 若要在合作夥伴中心建立帳戶，您必須備妥下列資訊。 您可能需要先花幾分鐘時間收集這些項目，再開始進行：
 
@@ -70,18 +70,18 @@ ms.locfileid: "5796201"
 
 5.  確認您已被新增到系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
 
-    a. 在您的**合作夥伴中心**，選取 [**設定**] 圖示，然後選取 [**管理使用者**。  
+    a. 在您**合作夥伴中心**，選取**設定**圖示，然後選取**使用者管理**。  
 
     b. 從使用者清單中選取您的名稱，然後選取 **\[系統管理代理人\]** (如果尚未選取)。 選取 **\[更新\]**。  
 
 ## <a name="next-steps"></a>後續步驟
 
--   [新增帳戶使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
+-   [新增使用者帳戶，並為其指派的權限](create-user-accounts-and-set-permissions.md)
 
--   [購買或續約 Microsoft 行動套件的訂閱](mpn-get-action-pack.md)
+-   [購買或續約訂閱 Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [管理您的會員資格權益](manage-your-partner-network-benefits.md)
+-   [管理您的成員資格的權益](manage-your-partner-network-benefits.md)
 
--   [了解金會員及銀會員資格的專長認證要求條件](https://partner.microsoft.com/membership/competencies)
+-   [深入了解金級和銀級成員資格的專長認證需求](https://partner.microsoft.com/membership/competencies)
 
--   [建立商務設定檔以透過 Microsoft 獲得業務潛在客戶](create-a-marketing-profile.md)
+-   [建立商務設定檔，從 Microsoft 取得的銷售潛在客戶](create-a-marketing-profile.md)

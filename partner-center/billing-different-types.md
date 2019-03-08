@@ -1,48 +1,48 @@
 ---
-title: 了解計費，合作夥伴中心中的類型 |合作夥伴中心
+title: 了解計費合作夥伴中心中的類型 |合作夥伴中心
 ms.topic: article
 ms.date: 03/01/2019
-Description: 不同類型的帳單、 帳單週期，和帳單日期的詳細資訊
-author: labrenne
-ms.author: labrenne
-keywords: 帳單、 付款、 訂單、 對帳檔案、 對帳檔案
+Description: 不同計費類型，計費週期，和帳單寄送日期的詳細資訊
+author: MaggiePucciEvans
+ms.author: evansma
+keywords: 計費、 付款、 訂單、 對帳檔案、 偵察檔案
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 777a98f8780eb036b4bac99eca9a5621d61da66b
-ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
+ms.openlocfilehash: 4b2b42c0d9bbb2654bbd486f987e3d5da9c562a2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "9122292"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586071"
 ---
-# <a name="understanding-the-types-of-billing-in-partner-center"></a>了解計費，合作夥伴中心中的類型
+# <a name="understanding-the-types-of-billing-in-partner-center"></a>了解計費合作夥伴中心中的類型
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
--  雲端解決方案提供者計畫中的合作夥伴
+-  CSP 計劃中的合作夥伴
 
-根據您為客戶購買的產品類型，您可能會有不同的計費週期，並在相同月份的不同的日期上收到帳單。 這篇文章說明何變更開始在 2019 年 3 月 1 日，與所做的變更會影響您。
+根據您為您的客戶購買的產品類型，您可能會有不同的計費週期，並在同一個月份的不同日計費。 這篇文章會說明哪些方面受到變更啟動 2019 年 3 月 1 日，以及變更如何影響您。
 
-## <a name="billing-for-recurring-charges"></a>帳單週期性費用
+## <a name="billing-for-recurring-charges"></a>週期性費用的計費
 
-週期性費用的授權型與用量型訂閱的帳單體驗不會變更。 我們會繼續到您的帳單日期為您選取的那一天向您收取費用，以及您計費期間將會繼續在該日期之前個月。 如果您選取您的帳單日期之月份的 15 日之前，您會收到帳單從一個行事曆月份的 15 日到下一步行事曆每月 14 日的所有活動。 發票和對帳檔案會在您的帳單日期之後的一般可用 2-4 天。
+週期性費用的授權和使用方式為基礎的訂用帳戶的計費體驗不會變更。 我們會繼續向您收取費用，在您選取做為您的帳單寄送日期的月份天數，並在計費期間會繼續在此日期之前的月份。 如果您選取您的帳單寄送日期的月份第 15 天，您將支付從一個月 15 日至 14 日下, 一個日曆月份的所有活動。 發票和對帳檔案是正式推出的 2-4 天之後您的帳單寄送日期。
 
-如之前，我們會將您正在位於國家/地區貨幣表示這些產品的計費，無論客戶的位置您銷售產品。
+如之前，我們會針對向您收費的貨幣位於該國家/地區中的這些產品，無論客戶的位置為何您銷售產品。
 
-## <a name="billing-for-one-time-and-select-recurring-charges"></a>一次性和選取的週期性費用帳單
+## <a name="billing-for-one-time-and-select-recurring-charges"></a>計費一次，然後選取週期性費用
 
-從 2019 年 3 月 1 日，我們導入了新的計費體驗週期性和一次性費用適用於 Microsoft 和協力廠商 ISV 產品。
+我們開始 2019 年 3 月 1 日，Microsoft 和第三方 ISV 產品引進新的計費體驗，針對週期性和一次性費用。
 
-這些產品、 計費期間的行事曆月份的第一天開始和結束於行事曆月份的最後一天。 我們會讓您的發票可用的下個月 8 日那一天。 
+這些產品，計費週期在下個月的第一天開始，並將於下個月的最後一天結束。 我們將提供您發票的下個月 8 日當天。 
 
-換句話說，您可能 1 和 2019 月 31 日之間進行任何交易上會顯示您的發票 6 月 8。 6 月 1 日與 2019 年 6 月 30 日之間進行任何交易上會顯示您的發票年 7 月 8。 您可能會取得週期性和一次性購買，在相同的發票上收到帳單。 
+換句話說，5 月 1 日與 2019 5 月 31 日之間進行任何交易將出現在您的發票 June 8。 任何要年 6 月 1 和 2019 年 6 月 30 日之間的交易上會出現您的發票年 7 月 8。 您可能會在相同的發票上的週期性和單次購買計費。 
 
-每當您想要 （例如，之間月 1 日和年 6 月 7） 並不需要等待發票上看到的最新的帳戶活動，您也可以查看帳戶餘額/帳單。 請注意，當我們 8 上張貼您的帳單，它將會包含稅金與任何其他適用的費用與點數，讓您看到計費期間最終金額可能會不同。 
+當您想要 （比方說，之間 5 月 1 日和年 6 月 7），並查看最新的帳戶活動，而不必等候支付發票，您也可以查看您帳戶的餘額/帳單。 請注意，當我們 8 日上張貼您的帳單時，它會包含稅金和任何其他適用的費用和信用額度，因此最後可能會與您在計費週期內所看到的內容不同。 
 
-您將在合作夥伴中心或透過 API 現在，執行相同的方式存取您的發票。 他們將會出現在每個月 8 日日午夜 UTC 之前。 
+您將相同的方式，現在該怎麼做，在合作夥伴中心內或透過 API 存取您的發票。 即會顯示在每月 8 日當天的午夜 UTC 之前。 
 
-|**帳單體驗**|**產品類型**|**帳單日期**|**計費期間**|**帳單貨幣**|**目前的活動可用？**|
+|**計費體驗**|**產品類型**|**帳單日期**|**計費週期**|**帳單貨幣**|**目前的活動可以使用？**|
 |:----------------|:--------------|:--------------|:--------------|:--------------|:--------------|
-|授權型和用量型訂閱的週期性費用 |從[線上服務的類別目錄](https://partner.microsoft.com/commerce/preferredoffers/list)的所有產品。 範例包括 Office 365、 Microsoft 365、 Azure Active Directory、 Azure （隨付隨用）、 Dynamics 365、 PowerBI 專業版 |當您建立您的合作夥伴中心帳戶，您選取的日期 |在您的帳單日期之前月份。 |您正在中找到的國家/地區的貨幣。 例如，如果您的公司位於英國，我們將會向您收取費用英國英鎊 （gbp） 為單位中。 如果您的公司位於印度，我們將會向您收取費用在印度 Rupees (INR)。  |否 |
-|適用於 Microsoft 和協力廠商 Isv 產品的週期性和一次性費用 |所有 SaaS 訂閱、 Azure reservations 和 Microsoft 和協力廠商 Isv 所提供的軟體 （永久和訂閱為基礎） 產品。 請參閱[Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)中可用的產品。 範例包括 SUSE Linux 軟體 （軟體訂閱） Windows Server 2019 Essentials （永久軟體），Azure ISV SaaS 產品訂閱。 |每個月 8 日一天 |從第一天的每個日曆月份的最後一天 |您的客戶所在的國家/地區的貨幣。 這表示您會收到不同的發票和對帳檔案中的國家/地區的貨幣向銷售計費期間中每個客戶。 |是 |
+|週期性費用，以授權為基礎和基於使用方式的訂用帳戶 |從所有的產品[online services 目錄](https://partner.microsoft.com/commerce/preferredoffers/list)。 範例包括 Office 365，Microsoft 365、 Azure Active Directory、 Azure （隨用隨付），Dynamics 365，power Bi Pro |您選取您在建立您的合作夥伴中心帳戶時的日期 |計費日期前月份。 |您要在中找到的國家/地區當地貨幣。 例如，如果您的公司位於英國，我們會向您收取費用在英國英鎊 (GBP)。 如果您的公司位於印度，我們會向您收取費用在印度 Rupees （幣）。  |否 |
+|Microsoft 和第三方 Isv 產品的週期性和一次性費用 |所有 SaaS 訂用帳戶、 Azure 保留的項目和 Microsoft 和第三方 Isv 所提供的軟體 （永久的而且訂用帳戶為基礎） 產品。 請參閱中的可用產品[Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)。 範例包括 SUSE Linux 軟體 （軟體訂用帳戶），Windows Server 2019 Essentials （永久軟體），Azure ISV SaaS 產品訂用帳戶。 |每個月 8 日的一天 |從每個日曆月份的最後一天的第一天 |位客戶的國家/地區當地貨幣。 這表示您會收到個別的發票和對帳檔案中的國家/地區當地貨幣計費週期內銷售給每位客戶。 |是 |

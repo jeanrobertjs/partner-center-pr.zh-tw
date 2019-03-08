@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: 專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格
 ms.localizationpriority: medium
 ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776452"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585871"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>金會員及銀會員資格的 Microsoft 專長認證要求條件
 
@@ -26,7 +26,7 @@ ms.locfileid: "8776452"
 
 - 贏得**金級會員資格**可證明您在特定 Microsoft 解決方案領域中的能力一流
 
-了解所需具備獲取銀會員及金會員資格在下列專長領域中：
+深入了解 Silver 和 Gold 的成員資格，在下列領域的專業知識，即可贏得的必要條件：
 
 <!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
 
@@ -38,20 +38,20 @@ ms.locfileid: "8776452"
 |   ------------------   |   -------   |
 | [應用程式開發專長認證](https://partner.microsoft.com/membership/application-development-competency) | HTML5、C#、ASP.NET、UWP、Microsoft Azure 應用程式 |
 | [應用程式整合專長認證](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server、SQL 伺服器/資料庫、C#、Azure、BizTalk Server 2013|
-| [雲端商務應用程式專長認證](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/Enterprise/Operations/AX、SQL 資料庫 |
+| [雲端商務應用程式的專長認證](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/Enterprise/Operations/AX、SQL 資料庫 |
 | [雲端客戶關係管理專長認證](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365/Dynamics CRM |
 | [雲端平台專長認證](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure、Azure 上的 Linux |
 | [雲端生產力專長認證](https://partner.microsoft.com/membership/cloud-productivity-competency)| Microsoft Office 365 服務 (Exchange Online、SharePoint Online、商務用 Skype 或 Yammer)|
-| [共同作業及內容專長認證](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365、SharePoint Server 2016、應用程式建置商 |
+| [共同作業和內容的專長認證](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365、SharePoint Server 2016、應用程式建置商 |
 | [通訊專長認證](https://partner.microsoft.com/membership/communications-competency)| 商務用 Skype、商務用 Skype 2015 企業語音 |
-| [資料分析專長認證](https://partner.microsoft.com/membership/data-analytics-competency)| SQL 資料庫、Azure、Microsoft R Server、Microsoft HD Insight、Power BI |
+| [資料分析能力](https://partner.microsoft.com/membership/data-analytics-competency)| SQL 資料庫、Azure、Microsoft R Server、Microsoft HD Insight、Power BI |
 | [資料平台專長認證](https://partner.microsoft.com/membership/data-platform-competency)| SQL 資料庫、SQL Server 2016、Azure 資料倉儲、Azure 資料服務、Transact-SQL |
 | [資料中心專長認證](https://partner.microsoft.com/membership/datacenter-competency)| System Center 2012、Windows Server 虛擬化與 Hyper-V、Windows Server 2012/2016 |
 | [DevOps 專長認證](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio、Visual Studio Team Foundation Server (TFS) 2012、軟體生命週期、Scrum 認證 |
 | [企業行動力管理專長認證](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| 企業行動力 + 安全性 (EMS)、Microsoft Intune、Azure 資訊保護、Azure Active Directory Premium (AADP)、行動裝置管理、身分識別及存取管理、資訊保護、雲端應用程式安全性 |
 | [企業資源規劃專長認證](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365、企業資源規劃 (ERP)、SQL Server 2012 資料庫  |
-| [訊息中心專長認證](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
-| [專案與產品組合管理專長認證](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project、專案與組合管理 (PPM)、SharePoint Server 2016|
-| [小型及中端市場雲端解決方案專長認證](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
-| [Windows 與裝置專長認證](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10、Windows 10 IoT、通用 Windows 平台、Surface Hub、Office 365、商務用 Skype 2015、企業部署 |
+| [訊息的專長認證](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
+| [專案和 Portfolio 管理專長認證](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project、專案與組合管理 (PPM)、SharePoint Server 2016|
+| [小型和中型市場的雲端解決方案專長認證](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
+| [Windows 與裝置的專長認證](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10、Windows 10 IoT、通用 Windows 平台、Surface Hub、Office 365、商務用 Skype 2015、企業部署 |
 |

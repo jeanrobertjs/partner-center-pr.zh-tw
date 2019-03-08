@@ -3,20 +3,20 @@ title: 探索您想要銷售的協力廠商供應項目 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 搜尋並找到適合納入您的產品組合的協力廠商供應項目類型。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: 協力廠商供應項目, 要購買的軟體, 搜尋協力廠商
 ms.localizationpriority: medium
-ms.openlocfilehash: abf30139174d44f385b49219420ddcffcba6cf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cde02b44d728e7c5d32295ce730ee71bfc41d1e4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796961"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585451"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>探索您想要銷售的協力廠商供應項目
 
-**適用對象**
+**適用於**
 
 -  合作夥伴中心
 
@@ -45,12 +45,12 @@ ms.locfileid: "5796961"
 
 購買協力廠商軟體的方式與您購買第一方軟體的方式相同。 
 
-1. 從**合作夥伴中心**中，選取**客戶**
+1. 從**合作夥伴中心**，選取**客戶**
 2. 選取 **\[新訂閱\]**
 3. 如需詳細指示，請參閱[建立、暫停或取消客戶訂閱](create-a-new-subscription.md)。
 4.  針對協力廠商軟體選取每月計費。 年度計費和試用計費目前不適用於協力廠商。
 5.  從 **\[協力廠商\]** 索引標籤選取您要購買的產品。
-6.  核取您想要新增的訂閱並輸入授權數目。 然後 **\[提交\]** 該訂單。
+6.  選取您想要新增的訂閱並輸入授權數目。 然後 \[提交\] 該訂單。
 7.  新增訂閱之後，請按一下訂閱清單中的訂閱名稱來開啟它。 
 8.  您可以在 **\[編輯編輯\]** 頁面上變更授權數目，或是暫停訂閱。
 

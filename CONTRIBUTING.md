@@ -1,0 +1,1 @@
+# <a name="contributing-to-partner-center-documentation"></a>提供給合作夥伴中心文件

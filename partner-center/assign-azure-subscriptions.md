@@ -3,26 +3,26 @@ title: 在合作夥伴中心指派 Azure 訂閱 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 現在您可以在合作夥伴中心指派 Azure 訂閱給您的客戶。您也可以讓客戶自行管理訂閱
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Azure 訂閱, 訂閱, 指派訂閱, 管理 azure 訂閱
 ms.localizationpriority: medium
-ms.openlocfilehash: 5438803bf25fb40267cbecbdcbe25ed6e6a44cfa
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 974589437392ceb77e90e6cfbd382a4676180545
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796041"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586371"
 ---
-# <a name="assign-azure-subscriptions-in-partner-center"></a>在合作夥伴中心指派 Azure 訂閱
+# <a name="assign-azure-subscriptions-in-partner-center"></a>在合作夥伴中心指派 Azure 訂用帳戶
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
  
 ## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>在合作夥伴中心指派 Azure 訂閱給您的客戶
 
-1. 從您的**合作夥伴中心**功能表中選取**客戶**，並找出您想要管理的客戶。
+1. 選取 **客戶**從您**合作夥伴中心**功能表並找出您想要管理的客戶。
 
 2.  選取該列結尾的向下鍵以展開客戶記錄，然後選取 **\[Microsoft Azure 管理入口網站\]**。 系統會將您引導到 Azure 入口網站，讓您管理客戶的訂閱。 
 
@@ -34,14 +34,14 @@ ms.locfileid: "5796041"
 
 7. 將使用者新增至訂閱後，您可以指派角色給使用者，以及使用者可以存取的特定帳戶。 
 
-**讓客戶能夠管理他們的 Azure 訂閱**
+**啟用客戶管理其 Azure 訂用帳戶**
 
 建立客戶的 Microsoft Azure 訂閱之後，您可以允許他們管理訂閱。 若要這樣做，您必須登入客戶的 Microsoft Azure 管理入口網站。 
 
 1.  若要開啟客戶的 Azure 入口網站，請展開客戶清單中列示該客戶的項目，或是選取客戶的名稱後再選取 **\[Microsoft Azure 管理入口網站\]**。
     
 > [!NOTE]  
-> 如果系統提示您登入 Azure 入口網站，表示您可能沒有委派系統管理員權限。 選取 **\[要求建立關係\]** 以邀請客戶將您列名為他們的「記錄可查夥伴」。 客戶接受您的邀請後，系統就會自動將委派的管理員權限授與您。 
+> 如果系統提示您登入 Azure 入口網站，表示您可能沒有委派系統管理員權限。 選取 \[要求建立關係\] 以邀請客戶將您列名為他們的「記錄可查夥伴」。 客戶接受您的邀請後，系統就會自動將委派的管理員權限授與您。 
 
 2.  在 Azure 入口網站中，開啟客戶的 Azure 訂閱清單並選取其 Azure 訂閱。
 

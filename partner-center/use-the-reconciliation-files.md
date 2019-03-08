@@ -2,29 +2,29 @@
 title: 使用對帳檔案 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 如計費週期中每項費用的詳細的明細項目檢視，請從合作夥伴中心下載對帳檔案。
+description: 在計費週期中的每個收費詳細的明細項目檢視，請從合作夥伴中心下載的對帳檔案。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 081afc547a0ff86010e06fcb5224a615a0075e34
-ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
+ms.openlocfilehash: 5ce9b7cd9ead08b7709c68a0e967d64e9f2a32bd
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "9122275"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585131"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
 **適用於**
 
 -  合作夥伴中心
--  美國政府適用的 Microsoft Cloud 合作夥伴中心
+-  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 
-如計費週期中每項費用的詳細的明細項目檢視，請從合作夥伴中心下載對帳檔案。 詳細資料包括每個客戶的訂閱費用，以及詳細事件 (例如，期中增加訂閱基座)。
+在計費週期中的每個收費詳細的明細項目檢視，請從合作夥伴中心下載的對帳檔案。 詳細資料包括每個客戶的訂閱費用，以及詳細事件 (例如，期中增加訂閱基座)。
 
-## <a href="" id="itemizebypartner"></a>依合作夥伴詳細列舉
+## <a href="" id="itemizebypartner"></a>由合作夥伴條列
 
 
 間接模型合作夥伴可以在授權型及用量型對帳檔案中使用這些額外欄位，以便依經銷商詳細列舉。
@@ -49,7 +49,7 @@ ms.locfileid: "9122275"
 <td>經銷商 MPN 識別碼</td>
 <td><p>只會出現在間接模型合作夥伴的對帳檔案上。</p>
 <p>訂閱記錄中的經銷商 MPN 識別碼。 這會對應到合作夥伴中心中針對特定訂閱列出的經銷商識別碼。</p>
-<p>若要檢視或更新經銷商，請從合作夥伴中心功能表中，選取<strong>客戶</strong>，然後從清單中選擇客戶。 在客戶功能表中，選取 \[訂閱\]<strong></strong>，從清單中選擇訂閱。 選取 \[更新\]<strong></strong> 以變更 \[經銷商 (MPN 識別碼)\]<strong></strong>。</p>
+<p>干支檢視或更新的轉銷商，從合作夥伴中心 功能表中，選取<strong>客戶</strong>，然後從清單中選擇客戶。 在客戶功能表中，選取 \[訂閱\]，從清單中選擇訂閱。 選取 \[更新\] 以變更 \[經銷商 (MPN 識別碼)\]。</p>
 <p>如果雲端解決方案提供者合作夥伴直接向客戶銷售訂閱，他們的 MPN 識別碼將會以 MPN 識別碼和經銷商 MPN 識別碼的形式列出兩次。</p>
 <p>如果雲端解決方案提供者合作夥伴具有沒有 MPN 識別碼的經銷商，這個值將會改成設為合作夥伴的 MPN 識別碼。</p>
 <p>如果雲端解決方案提供者合作夥伴移除經銷商識別碼，這個值將會設為 -1。</p></td>
@@ -59,7 +59,7 @@ ms.locfileid: "9122275"
 
  
 
-## <a href="" id="licensebasedfiles"></a>授權型檔案欄位
+## <a href="" id="licensebasedfiles"></a> 以授權為基礎的檔案欄位
 
 
 若要針對您對客戶訂單的費用來對帳，請比較對帳檔案中的 Syndication\_Partner\_Subscription\_Number 與合作夥伴中心的訂閱識別碼。
@@ -72,7 +72,7 @@ ms.locfileid: "9122275"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>欄</strong></td>
+<td><strong>資料行</strong></td>
 <td><strong>描述</strong></td>
 <td><strong>範例值</strong></td>
 </tr>
@@ -106,13 +106,13 @@ ms.locfileid: "9122275"
 <tr class="odd">
 <td>OfferID</td>
 <td><p>唯一的優惠識別碼。 根據價目表的標準優惠識別碼。</p>
-<p><b>注意</b>：這個值不符合價目表上的優惠識別碼。 請參閱下方的 DurableOfferID。</p></td>
+<p><b>注意</b>：此值不符合優惠識別碼從價格清單。 請參閱下方的 DurableOfferID。</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>唯一的持續性優惠識別碼，如價目表中所定義。</p>
-<p><b>注意</b>：這個值符合價目表上的優惠識別碼。</p></td>
+<p><b>注意</b>：此值符合優惠識別碼從價格清單。</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -128,7 +128,7 @@ ms.locfileid: "9122275"
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>訂閱結束日期：開始日期之後的 12 個月 + x 天 (與合作夥伴帳單日期配合) 或自續約日期起 12 個月。</p>
+<td><p>訂用帳戶結束日期：12 個月 + x 天後 （以配合計費日期的夥伴） 的開始日期或續約日期起的 12 個月。</p>
 <p>續約時，價格會更新至目前的價目表。 自動續約之前，可能需要與客戶連絡。</p>
 <p>時間一律是一天的開始時間 (0:00)。</p></td>
 <td>2/1/2015 0:00</td>
@@ -158,12 +158,12 @@ ms.locfileid: "9122275"
 <td>6.82</td>
 </tr>
 <tr class="even">
-<td>Quantity</td>
+<td>數量</td>
 <td><p>基座數目。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
 <td>2</td>
 </tr>
 <tr class="odd">
-<td>Amount</td>
+<td>數量</td>
 <td><p>數量總價。 檢查計算金額與您用來為客戶計算此項目的方式是否相符時很有用。</p></td>
 <td>13.32</td>
 </tr>
@@ -173,13 +173,13 @@ ms.locfileid: "9122275"
 <td>2.32</td>
 </tr>
 <tr class="odd">
-<td>Subtotal</td>
+<td>小計</td>
 <td><p>稅前總計。 如果有折扣，可檢查小計是否和預期的總金額相符。</p></td>
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Tax</td>
-<td><p>稅金費用，根據您 market& #39; s 稅金規則與特定情況。</p></td>
+<td>稅</td>
+<td><p>稅務量費用，費用，根據您的市場&#39;s 稅務規則與特定的情況。</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -188,13 +188,13 @@ ms.locfileid: "9122275"
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Currency</td>
+<td>貨幣</td>
 <td><p>貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。</p></td>
 <td>EUR</td>
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer& #39; 合作夥伴中心中回報 s 組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
+<td><p>客戶&#39;合作夥伴中心中所報告的 s 的組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
 <td>測試客戶 A</td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@ ms.locfileid: "9122275"
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Customer& #39; s 網域名稱，用來協助識別客戶。 這不應該用來唯一識別客戶，因為客戶/合作夥伴可以更新透過 O365 入口網站的預設虛名/網域。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
+<td><p>客戶&#39;用來協助識別客戶的 s 網域名稱。 這不應該用來唯一識別客戶，客戶/合作夥伴可以更新透過 O365 入口網站的虛名/預設網域。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -226,7 +226,7 @@ ms.locfileid: "9122275"
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>用量型檔案欄位
+## <a href="" id="usagebasedfiles"></a>基於使用方式檔案欄位
 
 
 若要針對您客戶使用量的費用來對帳，請比較對帳檔案中的 ResellerID/ResellerName/ResellerBillableAccount、客戶名稱，與合作夥伴中心的訂閱識別碼。
@@ -241,7 +241,7 @@ ms.locfileid: "9122275"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>欄位</strong></td>
+<td><strong>資料行</strong></td>
 <td><strong>描述</strong></td>
 <td><strong>範例值</strong></td>
 </tr>
@@ -262,7 +262,7 @@ ms.locfileid: "9122275"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer& #39; 合作夥伴中心中回報 s 組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
+<td><p>客戶&#39;合作夥伴中心中所報告的 s 的組織名稱。 這在使用您的系統資訊對帳發票時非常重要。</p></td>
 <td>測試客戶 A</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ ms.locfileid: "9122275"
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>稅金費用，根據您 market& #39; s 稅金規則與特定情況。</p></td>
+<td><p>稅務量費用，費用，根據您的市場&#39;s 稅務規則與特定的情況。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -392,7 +392,7 @@ ms.locfileid: "9122275"
 <td>$0.93</td>
 </tr>
 <tr class="odd">
-<td>Currency</td>
+<td>貨幣</td>
 <td><p>貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。</p></td>
 <td>EUR</td>
 </tr>
@@ -444,7 +444,7 @@ ms.locfileid: "9122275"
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>於某一天佈建及使用的 ServiceBus 連線數目。</p></td>
-<td>例如：如果您在有 30 天的月份中有個別佈建的連線時，「服務資訊 1」的讀數會是「1.000000 連線 / 30 天」。 如果您佈建 25 組 ServiceBus 連線並在那天使用其中一組，那一天的每日使用量就會指示「25 組連線 / 30 天 - 已使用：1.000000」。</td>
+<td>例如：如果您在有 30 天的月份中有個別佈建的連線時，「服務資訊 1」的讀數會是「1.000000 連線 / 30 天」。 如果您有 25 的組件的佈建的服務匯流排連線，而且您必須在那一天使用 1，表示您那一天的每日使用量聲明 」 25 的連線 / 已使用的 30 天：1.000000”.</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -453,18 +453,18 @@ ms.locfileid: "9122275"
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Customer& #39; s 網域名稱，用來協助識別客戶。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
+<td><p>客戶&#39;用來協助識別客戶的 s 網域名稱。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
-<td>Unit</td>
+<td>單位</td>
 <td><p>資源名稱的單位</p></td>
 <td>GB 或 HOURS</td>
 </tr>
 </tbody>
 </table>
 
-## <a href="" id="marketplacefilefields"></a>一次性和週期性檔案欄位
+## <a href="" id="marketplacefilefields"></a>單次和週期的檔案欄位
 
 <table>
 <colgroup>
@@ -473,7 +473,7 @@ ms.locfileid: "9122275"
 </colgroup>
 <thead>
 <tr class="header">
-<th>欄位</th>
+<th>Column</th>
 <th>描述</th>
 </tr>
 </thead>
@@ -482,12 +482,12 @@ ms.locfileid: "9122275"
 
 <tr class="odd">
 <td>PartnerId</td>
-<td><p>特定帳單實體，GUID 格式的唯一 Microsoft Azure Active Directory 租用戶識別碼。 對帳時不需要，但可能是很有用的資訊。 在所有資料列中都是如此。</p></td>
+<td><p>唯一特定計費實體，則採用 GUID 格式的 Microsoft Azure Active Directory 租用戶識別碼。 對帳時不需要，但可能是很有用的資訊。 在所有資料列中都是如此。</p></td>
 </tr>
 
 <tr class="even">
 <td>客戶識別碼</td>
-<td><p>唯一 Microsoft Azure Active Directory 租用戶識別碼，用來識別客戶的 GUID 格式中。</p></td>
+<td><p>Microsoft Azure Active Directory 租用戶中唯一識別碼，用來識別客戶的 GUID 格式。</p></td>
 </tr>
 
 <tr class="odd">
@@ -497,7 +497,7 @@ ms.locfileid: "9122275"
 
 <tr class="even">
 <td>CustomerDomainName</td>
-<td><p>用來協助識別客戶的客戶網域名稱。 這不應該用來唯一識別客戶，因為客戶/合作夥伴可以更新透過 O365 入口網站的預設虛名/網域。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
+<td><p>用來協助識別客戶的客戶網域名稱。 這不應該用來唯一識別客戶，客戶/合作夥伴可以更新透過 O365 入口網站的虛名/預設網域。 在下一個帳單週期之前，此欄位會是空白的。</p></td>
 </tr>
 
 <tr class="odd">
@@ -516,13 +516,13 @@ ms.locfileid: "9122275"
 </tr>
 
 <tr class="even">
-<td>經銷商 MpnId</td>
+<td>Reseller MpnId</td>
 <td><p>訂閱記錄中的經銷商 MPN 識別碼。</p></td>
 </tr>
 
 <tr class="odd">
 <td>訂單識別碼</td>
-<td><p>在 Microsoft 交易平台的訂單的唯一識別碼。 可在連絡支援時方便識別訂單，但不是用於對帳。</p></td>
+<td><p>Microsoft commerce platform 中順序的唯一識別碼。 可在連絡支援時方便識別訂單，但不是用於對帳。</p></td>
 </tr>
 
 <tr class="even">
@@ -546,7 +546,7 @@ ms.locfileid: "9122275"
 </tr>
 
 <tr class="even">
-<td>SKU 的名稱</td>
+<td>SKU 名稱</td>
 <td><p>特定 SKU 的標題。</p></td>
 </tr>
 
@@ -557,22 +557,22 @@ ms.locfileid: "9122275"
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>產品發行者的名稱。</p></td>
+<td><p>產品的 「 發行者 」 的名稱。</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>針對此發行者的唯一識別碼。</p></td>
+<td><p>這個 「 發行者 」 的唯一識別碼。</p></td>
 </tr>
 
 <tr class="even">
-<td>訂閱描述</td>
-<td><p>訂閱的易記名稱。</p></td>
+<td>訂用帳戶描述</td>
+<td><p>訂用帳戶的易記名稱。</p></td>
 </tr>
 
 <tr class="odd">
 <td>訂閱識別碼</td>
-<td><p>訂閱在 Microsoft 交易平台的唯一識別碼。 可在連絡支援時方便識別訂閱，但不是用於對帳。 這與合作夥伴管理主控台上的訂閱識別碼不一樣。</p></td>
+<td><p>Microsoft 商務平台的訂用帳戶的唯一識別碼。 可在連絡支援時方便識別訂閱，但不是用於對帳。 這與合作夥伴管理主控台上的訂閱識別碼不一樣。</p></td>
 </tr>
 
 <tr class="even">
@@ -587,7 +587,7 @@ ms.locfileid: "9122275"
 
 <tr class="even">
 <td>詞彙和 Billingcycle</td>
-<td><p>詞彙的長度和帳單週期購買。 例如，「 1 年，每個月。 」</p></td>
+<td><p>約定期和購買計費週期。 比方說，「 1 年，每個月。 」</p></td>
 </tr>
 
 <tr class="odd">
@@ -597,12 +597,12 @@ ms.locfileid: "9122275"
 
 <tr class="even">
 <td>單價</td>
-<td><p>價格如公佈的價格表中的購買。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
+<td><p>價格為 pricelist 中發行當時的購買。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
 </tr>
 
 <tr class="odd">
-<td>有效的單價</td>
-<td><p>單價之後所做調整。</p></td>
+<td>有效的單位價格</td>
+<td><p>單價後調整。</p></td>
 </tr>
 
 <tr class="even">
@@ -612,43 +612,43 @@ ms.locfileid: "9122275"
 
 <tr class="odd">
 <td>單位類型</td>
-<td><p>單位所購買的類型。</p></td>
+<td><p>正在購買的單位類型。</p></td>
 </tr>
 
 <tr class="even">
 <td>DiscountDetails</td>
-<td><p>任何適用的折扣的說明。</p></td>
+<td><p>說明的任何適用的折扣。</p></td>
 </tr>
 
 <tr class="odd">
-<td>子總計</td>
+<td>Sub Total</td>
 <td><p>稅前總計。 如果有折扣，可檢查小計是否和預期的總金額相符。</p></td>
 </tr>
 
 <tr class="even">
-<td>稅金總計</td>
+<td>稅額總計</td>
 <td><p>稅金費用 (根據您所在市場的稅金規則與特定情況)。</p></td>
 </tr>
 
 <tr class="odd">
-<td>Total</td>
+<td>總計</td>
 <td><p>稅後總計。 檢查發票中是否向您收取稅金。</p></td>
 </tr>
 
 <tr class="even">
-<td>Currency</td>
+<td>貨幣</td>
 <td><p>貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。</p></td>
 </tr>
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>替代識別碼的識別碼。</p></td>
+<td><p>替代的識別項的識別碼。</p></td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="dailyratedusagefields"></a>每日分級使用量檔案欄位
+## <a href="" id="dailyratedusagefields"></a>每日按比例計算的使用方式檔案欄位
 
 
 <table>
@@ -658,7 +658,7 @@ ms.locfileid: "9122275"
 </colgroup>
 <thead>
 <tr class="header">
-<th>欄位</th>
+<th>Column</th>
 <th>描述</th>
 </tr>
 </thead>
@@ -686,7 +686,7 @@ ms.locfileid: "9122275"
 
 <tr class="odd">
 <td>CustomerDomainName</td>
-<td><p>客戶的網域名稱。 沒有適用於目前的活動。</p></td>
+<td><p>客戶的網域名稱。 不適用於目前的活動。</p></td>
 </tr>
 
 <tr class="even">
@@ -700,13 +700,13 @@ ms.locfileid: "9122275"
 </tr>
 
 <tr class="even">
-<td>MPNID 經銷商</td>
-<td><p>訂閱記錄中的經銷商 MPN 識別碼。 沒有適用於目前的活動。</p></td>
+<td>轉銷商 MPNID</td>
+<td><p>訂閱記錄中的經銷商 MPN 識別碼。 不適用於目前的活動。</p></td>
 </tr>
 
 <tr class="odd">
 <td>InvoiceNumber</td>
-<td><p>交易的指定位置顯示的發票號碼。 沒有適用於目前的活動。</p></td>
+<td><p>交易的指定位置顯示的發票號碼。 不適用於目前的活動。</p></td>
 </tr>
 
 <tr class="even">
@@ -725,7 +725,7 @@ ms.locfileid: "9122275"
 </tr>
 
 <tr class="odd">
-<td>SKU 的名稱</td>
+<td>SKU 名稱</td>
 <td><p>特定 SKU 的標題。</p></td>
 </tr>
 
@@ -736,11 +736,11 @@ ms.locfileid: "9122275"
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>GUID 格式的發行者識別碼。 沒有適用於目前的活動。</p></td>
+<td><p>「 發行者 」 的 GUID 格式的識別碼。 不適用於目前的活動。</p></td>
 </tr>
 
 <tr class=”even">
-<td>訂閱描述</td>
+<td>訂用帳戶描述</td>
 <td><p>客戶購買的服務優惠名稱，如價目表中所定義。 （這是優惠名稱的相同欄位）。</p></td>
 </tr>
 
@@ -760,37 +760,37 @@ ms.locfileid: "9122275"
 </tr>
 
 <tr class="even">
-<td>使用量日期</td>
-<td><p>服務使用方式的日期。</p></td>
+<td>使用日期</td>
+<td><p>服務使用量的日期。</p></td>
 </tr>
 
 <tr class="odd">
-<td>計量表類型</td>
-<td><p>公尺的類型。</p></td>
+<td>計量類型</td>
+<td><p>計量類型。</p></td>
 </tr>
 
 <tr class="even">
-<td>計量表類別</td>
-<td><p>使用方式的最上層的服務。</p></td>
+<td>計量類別</td>
+<td><p>使用最上層服務。</p></td>
 </tr>
 
 <tr class="odd">
-<td>計量表識別碼</td>
-<td><p>計量表所使用的識別碼。</p></td>
+<td>計量識別碼</td>
+<td><p>使用計量的識別碼。</p></td>
 </tr>
 
 <tr class="even">
-<td>計量表子類別</td>
-<td><p>可能會影響速率的 Azure 服務的類型。</p></td>
+<td>計量子類別</td>
+<td><p>可能影響費率的 Azure 服務的型別。</p></td>
 </tr>
 
 <tr class="odd">
-<td>計量表名稱</td>
-<td><p>針對取用所計量表度量單位。</p></td>
+<td>計量名稱</td>
+<td><p>耗用計量的量值單位。</p></td>
 </tr>
 
 <tr class="even">
-<td>計量表地區</td>
+<td>計量區域</td>
 <td><p>此欄可識別適用及填入此項目之服務地區內的資料中心的位置。</p></td>
 </tr>
 
@@ -800,68 +800,68 @@ ms.locfileid: "9122275"
 </tr>
 
 <tr class="even">
-<td>享用的數量</td>
+<td>取用的數量</td>
 <td><p>報表期間耗用的服務量 (小時、GB 等等) 同時包括先前報表期間任何未計費的使用量。</p></td>
 </tr>
 
 <tr class="odd">
 <td>資源位置</td>
-<td><p>資料中心計量表在何處執行。</p></td>
+<td><p>正在執行計量資料中心。</p></td>
 </tr>
 
 <tr class="even">
-<td>享用的服務</td>
-<td><p>您使用 Azure 平台服務。</p></td>
+<td>已使用的服務</td>
+<td><p>您所使用的 Azure 平台服務。</p></td>
 </tr>
 
 <tr class="odd">
 <td>資源群組</td>
-<td><p>資源群組已部署的計量表正在執行。</p></td>
+<td><p>已部署的計量執行所在的資源群組。</p></td>
 </tr>
 
 <tr class="even">
 <td>資源 URI</td>
-<td><p>正在使用之資源的 URI。</p></td>
+<td><p>正在使用的資源 URI。</p></td>
 </tr>
 
 <tr class="odd">
 <td>收費類型</td>
-<td><p>費用或調整的類型。 沒有適用於目前的活動。</p></td>
+<td><p>費用或調整的類型。 不適用於目前的活動。</p></td>
 </tr>
 
 <tr class="even">
 <td>單價</td>
-<td><p>每一授權，因為在購買時，價格表中發佈的價格。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
+<td><p>每份授權為 pricelist 中發行當時的購買價格。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
 </tr>
 
 <tr class="odd">
 <td>數量</td>
-<td><p>授權數目。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
+<td><p>授權的數目。 請確定這與對帳期間儲存在您帳單系統中的資訊相符。</p></td>
 </tr>
 
 <tr class="even">
 <td>單位類型</td>
-<td><p>在負責的計量表單元類型。 沒有適用於目前的活動。</p></td>
+<td><p>計量的計費的單位的類型。 不適用於目前的活動。</p></td>
 </tr>
 
 <tr class="odd">
-<td>帳單 pre 稅</td>
+<td>計費前稅額</td>
 <td><p>稅前的總金額。</p></td>
 </tr>
 
 <tr class="even">
 <td>帳單貨幣</td>
-<td><p>在客戶的地理區域貨幣</p></td>
+<td><p>客戶的地理區域中的貨幣</p></td>
 </tr>
 
 <tr class="odd">
-<td>定價稅前總計</td>
-<td><p>定價之前內含稅金。</p></td>
+<td>定價 pretax 總計</td>
+<td><p>定價加入稅金之前。</p></td>
 </tr>
 
 <tr class="even">
-<td>定價貨幣</td>
-<td><p>價格表中的貨幣。</p></td>
+<td>價格貨幣</td>
+<td><p>在 pricelist 貨幣。</p></td>
 </tr>
 
 <tr class="odd">
@@ -871,24 +871,24 @@ ms.locfileid: "9122275"
 
 <tr class="even">
 <td>服務資訊 2</td>
-<td><p>舊版的欄位，擷取選用服務特定的中繼資料。</p></td>
+<td><p>舊版欄位，可擷取選擇性服務特定中繼資料。</p></td>
 </tr>
 
 <tr class="odd">
 <td>標記</td>
-<td><p>您指派給群組的帳單記錄的順序中的計量表標記。 例如，您可以使用標記來散發使用計量表部門的成本。</p></td>
+<td><p>您指派給以順序為帳單記錄分組計量的標籤。 例如，您可以使用標記根據使用計量的部門散發成本。</p></td>
 </tr>
 
 <tr class="even">
 <td>其他資訊</td>
-<td><p>未涵蓋其他欄中的任何其他資訊。</p></td>
+<td><p>未涵蓋在其他資料行中的任何其他資訊。</p></td>
 </tr>
 
 </tbody>
 </table>
 
 
-## <a href="" id="charge_types"></a>對應發票和對帳檔案之間的費用
+## <a href="" id="charge_types"></a>發票和對帳檔案之間的對應費用
 
 您的發票提供費用摘要，而對帳檔案則提供包括費用類型等明細項目交易的詳細細項。
 
@@ -902,13 +902,13 @@ ms.locfileid: "9122275"
 <tbody>
 <tr>
 <td>
-<p><strong>發票費用描述</strong></p>
+<p><strong>發票費用的描述</strong></p>
 </td>
 <td>
-<p><strong>對帳檔案費用描述（ChargeType 欄）</strong></p>
+<p><strong>對帳檔案費用描述 （ChargeType 資料行）</strong></p>
 </td>
 <td>
-<p><strong>這項費用是什麼？</strong></p>
+<p><strong>此費用是什麼？</strong></p>
 </td>
 <td>
 <p><strong>如何將這些 ChargeTypes 對應到發票？</strong></p>
@@ -916,7 +916,7 @@ ms.locfileid: "9122275"
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>授權型的費用</strong></p>
+<p><strong>以授權為基礎的費用</strong></p>
 </td>
 <td>
 <p>啟用費用</p>
@@ -946,7 +946,7 @@ ms.locfileid: "9122275"
 </tr>
 <tr>
 <td>
-<p>循環執行個體按比例計算</p>
+<p>循環執行個體 (依比例計算)</p>
 </td>
 <td>
 <p>當關聯的基座變更時，按比例計算向客戶收取的費用</p>
@@ -965,7 +965,7 @@ ms.locfileid: "9122275"
 <p>購買時按比例計算費用</p>
 </td>
 <td>
-<p>當使用年度計費訂閱的費用類型</p>
+<p>當使用年度計費訂用帳戶收費類型</p>
 </td>
 </tr>
 <tr>
@@ -973,7 +973,7 @@ ms.locfileid: "9122275"
 <p>購買費用</p>
 </td>
 <td>
-<p>當使用每月計費的訂閱費用類型</p>
+<p>當使用每月計費訂用帳戶收費類型</p>
 </td>
 </tr>
 <tr>
@@ -1025,7 +1025,7 @@ ms.locfileid: "9122275"
 </tr>
 <tr>
 <td>
-<p><strong>點數</strong></p>
+<p><strong>信用額度</strong></p>
 </td>
 <td>
 <p>明細項目位移</p>
@@ -1040,7 +1040,7 @@ ms.locfileid: "9122275"
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>用量型折扣</strong></p>
+<p><strong>基於使用方式的折扣</strong></p>
 </td>
 <td>
 <p>啟用折扣</p>
@@ -1081,10 +1081,10 @@ ms.locfileid: "9122275"
 
 <tr>
 <td>
-<p><strong>授權型折扣</strong></p>
+<p><strong>以授權為基礎的折扣</strong></p>
 </td>
 <td>
-<p><em>可套用至多個費用類型</em></p>
+<p><em>可套用至多個收費類型</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1098,8 @@ ms.locfileid: "9122275"
 <p><strong>稅金</strong>&nbsp;或&nbsp;<strong>加值稅</strong></p>
 </td>
 <td>
-<p><em>可套用至多個費用類型</em></p>
-<p><em>例外： &quot;Offset 明細項目&quot;已含稅。 請參閱上面的點數。</em></p>
+<p><em>可套用至多個收費類型</em></p>
+<p><em>例外狀況：&quot;位移明細項目&quot;已經包含稅金。請參閱上面的信用額度。</em></p>
 </td>
 <td>
 <p>稅金或加值稅 (VAT)</p>

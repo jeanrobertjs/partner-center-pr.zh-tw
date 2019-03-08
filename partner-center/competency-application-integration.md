@@ -3,20 +3,20 @@ title: 應用程式整合專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 應用程式整合專長認證對將單一應用程式及解決方案整合到整個 Microsoft 生態系統中各種產的品合作夥伴和開發人員給予認可。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 應用程式整合
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 988274508a65bafdf3789e71fa2bd3ad278c7065
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797311"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584061"
 ---
 >[!IMPORTANT]
->若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
+>若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 

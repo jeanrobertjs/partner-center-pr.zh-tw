@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: 新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權
 ms.localizationpriority: medium
 ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098775"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585431"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>將授權或服務新增到現有的訂閱
 
@@ -41,7 +41,7 @@ ms.locfileid: "9098775"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office365Business</td>
+<td>Office 365 商務版</td>
 <td><ul>
 <li>Office 365 商務進階版¹</li>
 <li>Office 365 專業增強版</li>
@@ -50,14 +50,14 @@ ms.locfileid: "9098775"
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office365BusinessPremium</td>
+<td>Office 365 商務進階版</td>
 <td><ul>
 <li>Office 365 企業版 E3</li>
 <li>Office 365 企業版 E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office365BusinessEssentials</td>
+<td>Office 365 商務基本版</td>
 <td><ul>
 <li>Office 365 商務進階版¹</li>
 <li>Office 365 企業版 E1</li>
@@ -67,7 +67,7 @@ ms.locfileid: "9098775"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office365BusinessIndia 和 Office365BusinessEssentialsIndia 可以升級到 Office365BusinessPremiumIndia，不會以 Office365BusinessPremium。</p></td>
+<td><p>¹ 的 office 365 商務印度與 Office 365 商務 Essentials 印度，都可以升級至 Office 365 商務進階印度中，不是以 Office 365 商務進階版。</p></td>
 </tr>
 </tbody>
 </table>
@@ -88,12 +88,12 @@ ms.locfileid: "9098775"
 
 如需此情況會對帳單所造成之影響的詳細資訊，請參閱[常見帳單案例](common-billing-scenarios.md)中有關取消訂閱並新增新訂閱的詳細資料。
 
-**升級訂閱**
+**升級訂用帳戶**
 
 1.  如果要查看訂閱是否符合升級的資格，請選擇您的客戶，然後開啟其訂閱清單。
-2.  如果訂閱可以升級，您將會在訂閱名稱之後看見一個資訊圖示。 暫留於此圖示上，然後選取 **\[立即升級\]**。
-3.  選取新的訂閱詳情，然後選擇 **\[送出\]**。
-4.  針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 如果是這樣，在合作夥伴中心提供帳戶和受影響的服務的清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](https://go.microsoft.com/fwlink/p/?LinkId=723576)。
+2.  如果訂閱可以升級，您將會在訂閱名稱之後看見一個資訊圖示。 暫留於此圖示上，然後選取 \[立即升級\]。
+3.  選取新的訂閱詳情，然後選擇 \[送出\]。
+4.  針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 如果是這樣，合作夥伴中心提供帳戶和影響的服務的清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](https://go.microsoft.com/fwlink/p/?LinkId=723576)。
 
  
 

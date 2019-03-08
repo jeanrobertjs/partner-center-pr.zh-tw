@@ -1,8 +1,8 @@
 ---
-title: 轉換您網路的會員資格從 Partner Membership Center 到合作夥伴中心
+title: 轉換您網路的成員資格從 Partner Membership Center 合作夥伴中心
 ms.topic: article
 ms.date: 11/14/2018
-description: 如何轉換到合作夥伴中心您的會員資格的帳戶從 Partner Membership Center。
+description: 如何轉換您從 Partner Membership Center 合作夥伴中心的成員資格帳戶。
 author: maggiepuccievans
 ms.author: maggiepuccievans
 keywords: mpn 會員資格, 專長認證, pmc 到合作夥伴中心
@@ -10,65 +10,65 @@ fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
 ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
-ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "7011398"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587101"
 ---
-# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>轉換您的合作夥伴會員資格帳戶從 Partner Membership Center 到合作夥伴中心
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>轉換到合作夥伴中心您合作夥伴的成員資格帳戶從 Partner Membership Center
 
-**適用對象：**
+**適用於**
 
 - 合作夥伴中心
 - MPN 合作夥伴
 
-## <a name="partner-membership-center-being-retired"></a>Partner Membership Center 正在淘汰
+## <a name="partner-membership-center-being-retired"></a>Partner Membership Center 即將淘汰
 
-下一步數個月期間，我們會邀請合作夥伴到將其合作夥伴會員資格帳戶從 Partner Membership Center (PMC) 移到新的平台，在合作夥伴中心。 合作夥伴中心是單一的目的地，以管理您與 Microsoft 的商業關係。 如需詳細資訊的[合作夥伴網站](https://partner.microsoft.com/commercial)上，請參閱[會員資格管理整備](https://partner.microsoft.com/support/partner-center-help)。
+在接下來的幾個月，我們會邀請合作夥伴若要將其夥伴成員資格帳戶夥伴成員資格中心 (PMC) 從移至新的平台，合作夥伴中心。 合作夥伴中心是單一的目的地，以管理您與 Microsoft 的商務關係。 請參閱[成員資格管理整備程度](https://partner.microsoft.com/support/partner-center-help)上[合作夥伴網站](https://partner.microsoft.com/commercial)如需詳細資訊。
 
-您的會員資格的帳戶成功轉換之後，您將會管理您的帳戶詳細資料，包括 （若有的話） 權益、 各項專長認證、 獎勵、 優惠，以及在合作夥伴中心中的程式。 您也可以取得和管理業務潛在客戶從 Microsoft，並在合作夥伴中心中的雲端解決方案提供者計畫中註冊。
+已成功轉換的成員資格帳戶之後，您要管理您的帳戶詳細資料，包括 （如果適用的話） 的優點、 專長認證、 獎勵、 供應項目和在合作夥伴中心內的程式。 您也可以取得並管理來自 Microsoft 的銷售潛在客戶註冊在合作夥伴中心的雲端解決方案提供者方案。
 
-## <a name="prepare-now-for-a-smooth-transition"></a>現在準備平順轉換
+## <a name="prepare-now-for-a-smooth-transition"></a>能順利轉換，現在就做好準備
 
-合作夥伴將受邀移動到合作夥伴中心，當我們有必要的功能，並準備好確保平順轉換的功能。 我們強烈建議您檢閱您的公司資訊在 PMC 中，並遵循我們建議的步驟，以協助確保順暢的帳戶轉換善加現在的時間。
+合作夥伴可獲邀時，我們有必要的功能，並準備好確保順利轉換的功能移至合作夥伴中心。 我們強烈建議您將檢閱在 PMC 中的貴公司的資訊，並遵循我們建議的步驟，以協助確保 smooth 帳戶轉換現在的時間。
 
-### <a name="pmc-to-partner-center-step-by-step-guide"></a>PMC 到合作夥伴中心的逐步指南
+### <a name="pmc-to-partner-center-step-by-step-guide"></a>PMC 合作夥伴中心逐步指南
 
-我們已經準備好綜合和詳細的逐步引導您進行每個步驟的帳戶成功轉換的方式[PMC 到合作夥伴中心轉換指南](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)。
+我們已備妥完整及詳細[PMC 合作夥伴中心轉換指南](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)來逐步引導您完成每個步驟都成功帳戶轉換的方式。
 
 >[!IMPORTANT]
->有數個包含所花的時間才能完成本指南中的索引鍵先決條件。 我們鼓勵您檢閱它們，並開始儘速完成這些工作。
+>有數個需要時間才能完成本指南包含的重要必要條件。 建議您檢閱它們，並儘速完成這些工作開始。
 
-### <a name="video-resources"></a>視訊資源
+### <a name="video-resources"></a>影片資源
 
-除了[PMC 到合作夥伴中心轉換指南](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)中，我們建立了這些轉換您的帳戶的不同階段的相關的簡短影片。 
+除了[PMC 合作夥伴中心轉換指南](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)，我們建立了這些不同階段的轉換您的帳戶相關的短片。 
 
-- [探索您的合作夥伴中心儀表板](https://partner.microsoft.com/support/partner-center-help)
+- [探索合作夥伴中心儀表板](https://partner.microsoft.com/support/partner-center-help)
  
-  深入了解資源和可用的工具，在合作夥伴中心，以充分利用您的合作關係。
+  深入了解在合作夥伴中心，充分利用您的合作關係中可用的工具與資源。
 
-- [多重位置帳戶得簡單](https://partner.microsoft.com/support/partner-center-help)
+- [多重位置帳戶變得更容易](https://partner.microsoft.com/support/partner-center-help)
  
-  如果您管理辦公室跨多個地區，以下是如何設定多重位置帳戶，並控制從一個方便使用網站的所有項目。
+  如果您管理跨多個地理位置的辦公室，以下是如何設定多重位置帳戶並控制從一個簡單易用的站台的所有項目。
 
-- [讓您的訓練和測驗計數](https://partner.microsoft.com/support/partner-center-help)
+- [讓您訓練及測驗的計數](https://partner.microsoft.com/support/partner-center-help)
 
-  將您的員工學習認證連接到您商務設定檔，以確保繼續的存取合作夥伴大學，若要符合資格的專長認證。
+  連接至您商務設定檔，以確保合作夥伴大學的持續的存取，並獲得專長認證的員工的學習認證。
 
 ## <a name="see-also"></a>請參閱
 
-您已成功轉換 PMC 從您的帳戶之後，請檢閱這些文章，以取得更熟悉合作夥伴中心。
+您已成功轉換您的帳戶，從 PMC 之後，請檢閱這些文章，以更熟悉合作夥伴中心。
 
--   [建立商務設定檔以透過 Microsoft 獲得業務潛在客戶](create-a-marketing-profile.md)
+-   [建立商務設定檔，從 Microsoft 取得的銷售潛在客戶](create-a-marketing-profile.md)
 
--   [新增新的帳戶使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
+-   [加入新的帳戶使用者，並為其指派的權限](create-user-accounts-and-set-permissions.md)
 
--   [購買或續約 Microsoft 行動套件的訂閱](mpn-get-action-pack.md)
+-   [購買或續約訂閱 Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [管理您的會員資格權益](manage-your-partner-network-benefits.md)
+-   [管理您的成員資格的權益](manage-your-partner-network-benefits.md)
 
--   [了解金會員及銀會員資格的專長認證要求條件](https://partner.microsoft.com/membership/competencies)
+-   [深入了解金級和銀級成員資格的專長認證需求](https://partner.microsoft.com/membership/competencies)
 
 
 

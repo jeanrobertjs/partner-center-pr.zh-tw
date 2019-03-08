@@ -2,27 +2,27 @@
 title: 定價與方案 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 方案清單包含可透過合作夥伴中心與他們的定價資訊購買的不同產品系列。
-author: labrenne
+description: 供應項目清單包含可以透過合作夥伴中心和其定價的資訊購買不同的產品系列。
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 91ea3fefc6888c14060360a98bbd2373ff905d7a
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c71bbd0b5945c3e958aa22bc1fb1b7589bcca36a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995752"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586731"
 ---
 # <a name="pricing-and-offers"></a>定價與方案
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
 
 若要查看最新的雲端解決方案提供者計畫價目表與方案，請移至 **\[銷售\] > \[定價與方案\]**。 您會看到兩種不同的價目表：一個適用於授權型服務，例如 Office 365、Microsoft Dynamics CRM 和 Enterprise Mobility Suite，另一個則適用於用量型服務，包括 Azure。 
 
-方案清單包含可透過合作夥伴中心購買的不同產品系列。 目前包括 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 與 Microsoft Azure。 此清單會增加。
+供應項目清單包含可以透過合作夥伴中心購買不同的產品系列。 目前包括 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 與 Microsoft Azure。 此清單會增加。
 
 在每個產品系列中，有不同的 SKU 和產品套件，可供您根據您的業務來銷售。 您隨時可以透過 \[定價與方案\] 頁面上的 \[雲端轉售商方案組合\] 存取每個方案的最新詳細資料。
 
@@ -30,16 +30,16 @@ ms.locfileid: "8995752"
 
 授權型服務包括價格表預覽，於任何變更的 30 天前提供。 若要查看價格表預覽，請移至 **\[銷售\] > \[定價與方案\]**。 用量型服務沒有價格預覽，因為這些服務是動態的。 下表說明如何閱讀價格表。
 
-|**項目**        |**定義**      |
+|**Item**        |**定義**      |
 |:-----------   |:-----------   |
-|ADD   |價格表的新增項目|
+|新增   |價格表的新增項目|
 |CHG   |價格表變動，例如 SKU 說明變更|
 |DEL   |從價格表移除的項目|
 |UNC   |自從上個月的價格表以來未變更的項目   |
 |生效日期   |可以訂購方案的第一個日期    |
 |有效期限   |可以訂購方案的最後一個日期   |
 |方案顯示名稱   |方案向客戶顯示的名稱   |
-|方案識別碼   |方案的內部識別碼   |
+|優惠識別碼   |方案的內部識別碼   |
 |授權合約類型   |這會是公司、政府或學術機構，並決定此方案可以銷售給哪些客戶類型。|
 |購買單位   |購買的方案持續時間。 通常是一個月。   |
 |次要授權類型   |這會是非專屬、附加元件或試用版。 附加元件代表客戶必須先購買某些先決條件產品，然後才能購買附加元件。|
@@ -51,8 +51,8 @@ ms.locfileid: "8995752"
 
 閱讀 \[定價與方案\] 頁面上 \[雲端轉售商方案組合\] 中您可銷售的其他 SKU 和產品套件組合。 方案組合包含每個地區提供哪些方案。 如果價目表上的項目尚未列在方案組合中，表示該產品尚無法訂購。 一旦可供訂購，方案組合就會更新。
 
-適用於雲端解決方案提供者合作夥伴使用合作夥伴中心軟體開發套件 (Sdk)。 Microsoft 也會在 \[定價與方案\] 頁面發佈一份雲端解決方案提供者中的 Azure 服務清單。
+使用的 CSP 合作夥伴 Partner Center 軟體開發套件 (Sdk)。 Microsoft 也會在 \[定價與方案\] 頁面發佈一份雲端解決方案提供者中的 Azure 服務清單。
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>方案組合和價目表問題
 
-如果您有價目表或方案組合的相關的問題，請提交服務要求透過合作夥伴中心。
+如果您對於 pricelist 或供應項目矩陣有疑問，提交服務要求透過合作夥伴中心。

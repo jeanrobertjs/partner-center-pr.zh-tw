@@ -3,27 +3,27 @@ title: 續訂您的 MPN 優惠方案 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 您的 MPN 優惠訂閱續約時間範圍會從您購買日期的週年日加 1 天開始算起。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft 行動套件, MAPS, 專長認證更新, 續約日期
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3fb82e65d6ae4d3caa3f4574015f6ee980bc309a
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: e3008352b141625a974c78c11615161b29334eb1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917400"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586891"
 ---
 # <a name="renew-your-mpn-offers"></a>續訂您的 MPN 優惠方案
 
-**適用對象**
+**適用於**
 
 - 合作夥伴中心
 
-您的 MPN 優惠訂閱續約時間範圍會從您購買日期的週年日加 1 天開始算起。 例如，如果您於 2018 年 9 月 1 購買 Microsoft 動作套件，則續約時間範圍會在 2019 年 9 月 2 日開始。 您可以將您在合作夥伴中心的訂閱續約。
+您的 MPN 優惠訂閱續約時間範圍會從您購買日期的週年日加 1 天開始算起。 例如，如果您於 2018 年 9 月 1 購買 Microsoft 動作套件，則續約時間範圍會在 2019 年 9 月 2 日開始。 您可以更新您的訂用帳戶，在合作夥伴中心。
 
-從**合作夥伴中心**，選取 [**會員優惠**。
+從**合作夥伴中心**，選取**成員資格為**。
 在 **\[購買\]** 索引標籤上，每個您所購買的優惠方案都會顯示：
 
 - 您的到期日

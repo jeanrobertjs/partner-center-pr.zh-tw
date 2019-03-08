@@ -3,20 +3,20 @@ title: 將協力廠商軟體加入至您的產品組合 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 購買適用於 Microsoft 產品的協力廠商軟體
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: 協力廠商供應項目, 要購買的軟體
 ms.localizationpriority: medium
-ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb378c5fded17bd7f8f7c35d375278097fc32098
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795761"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586811"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>將協力廠商軟體加入至您的產品組合
 
-適用對象：
+適用於：
 
 - 合作夥伴中心
 
@@ -24,7 +24,7 @@ ms.locfileid: "5795761"
 
 合作夥伴中心目前有整合於 Azure、Office 365 或 Dynamics 的協力廠商供應項目。 
 
-## <a name="connect-with-third-party-partners"></a>與協力廠商合作夥伴保持聯繫
+## <a name="connect-with-third-party-partners"></a>與協力廠商合作夥伴聯繫
  
 身為雲端解決方案提供者合作夥伴，您可以搜尋所有協力廠商軟體供應項目。 您可以與 ISV 合作夥伴連線，並建立您的產品目錄。 ISV 合作夥伴也可以搜尋要與之合作的雲端解決方案提供者合作夥伴。 他們可以搜尋您銷售的 Microsoft 產品類型，以及檢閱您的商務設定檔。 請務必讓商務設定檔保持在最新狀態。 您按一下位於產品識別碼的 [我有興趣] 按鈕，再填寫出現的表單，即可通知 ISV 合作夥伴，表示您對他們的產品感興趣。 Microsoft 會將它傳送給 ISV 合作夥伴。 他們的回應會保留在合作夥伴中心。 同樣的，當 ISV 合作夥伴表達與您合作的興趣時，您也會經由合作夥伴中心收到通知。 力求在 48 小時內回應。
 
@@ -39,7 +39,7 @@ ISV 合作夥伴可以隨時決定產品需要授權。 如果 ISV 將產品變�
 搜尋並找到適合納入您的產品組合的供應項目類型 
 
 1. 從左瀏覽窗格選取 **\[協力廠商產品\]**。
-2. 預設檢視會顯示所有可用的供應項目。
+2. 預設檢視會顯示所有可用的產品。
 3. 篩選目標：
     - 市場可用性 (地區)
     - 與協力廠商產品配搭情形良好的 Microsoft 產品
@@ -56,11 +56,11 @@ ISV 合作夥伴可以隨時決定產品需要授權。 如果 ISV 將產品變�
 
 購買協力廠商軟體的方式與您購買第一方軟體的方式相同。 
 
-1. 從**合作夥伴中心**中，選取**客戶**
+1. 從**合作夥伴中心**，選取**客戶**
 2. 選取 **\[新訂閱\]**
 3. 針對協力廠商軟體選取每月計費。 年度計費和試用計費目前不適用於協力廠商。
 4. 從 \[協力廠商\] 索引標籤選取您要購買的產品
-5. 勾選您想要新增的訂閱並輸入授權數目。 然後按一下 **\[提交\]** 送出訂單。
+5. 選取您想要新增的訂閱並輸入授權數目。 然後按一下 **\[提交\]** 送出訂單。
 6. 新增訂閱之後，選取訂閱清單中的訂閱名稱來開啟它。
 7. 您可以在編輯頁面上變更授權數目，或是暫停訂閱。
 

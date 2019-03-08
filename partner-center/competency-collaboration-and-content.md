@@ -3,20 +3,20 @@ title: 共同作業及內容專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 共同作業及內容專長認證對提供 SharePoint 解決方案協助各家公司分享、共同作業和改善生產力的合作夥伴給予認可。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各專長認證, 共同作業及內容
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 70250f8c8be14a0d6de91ddf32f26fd51424b0e1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 41a64628a2ee016555c2515fcec58cf389899dbd
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795961"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583991"
 ---
 >[!IMPORTANT]
->若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
+>若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 
