@@ -3,20 +3,20 @@ title: 通訊專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 通訊專長認證對提供創新和自訂商務用 Skype 解決方案的合作夥伴給予認可。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各專長認證, 通訊
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: a537ec778cf2c9b482dda1d733ac89ec76a69800
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794631"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586161"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="2085d-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="2085d-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="9d847-104">若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="9d847-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Communications

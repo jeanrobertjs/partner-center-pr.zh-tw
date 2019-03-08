@@ -3,20 +3,20 @@ title: 雲端生產力專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 雲端生產力專長認證是為專精於 Office 365 企業部署的合作夥伴而設計。 透過此專長認證，以備受肯定的雲端解決方案提供者姿態，向尋求合格雲端解決方案合作夥伴的客戶展示貴公司與眾不同的優勢。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 雲端生產力
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0aabf09435dbb1f08ddd79f6fac5075860c3033
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794641"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585491"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="77163-105">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="77163-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="c5ebd-105">若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="c5ebd-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 # Cloud Productivity competency

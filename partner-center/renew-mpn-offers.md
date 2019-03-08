@@ -3,41 +3,41 @@ title: 續訂您的 MPN 優惠方案 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 您的 MPN 優惠訂閱續約時間範圍會從您購買日期的週年日加 1 天開始算起。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft 行動套件, MAPS, 專長認證更新, 續約日期
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3fb82e65d6ae4d3caa3f4574015f6ee980bc309a
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: e3008352b141625a974c78c11615161b29334eb1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917400"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586891"
 ---
-# <a name="renew-your-mpn-offers"></a><span data-ttu-id="af6d5-104">續訂您的 MPN 優惠方案</span><span class="sxs-lookup"><span data-stu-id="af6d5-104">Renew your MPN offers</span></span>
+# <a name="renew-your-mpn-offers"></a><span data-ttu-id="829ad-104">續訂您的 MPN 優惠方案</span><span class="sxs-lookup"><span data-stu-id="829ad-104">Renew your MPN offers</span></span>
 
-**<span data-ttu-id="af6d5-105">適用對象</span><span class="sxs-lookup"><span data-stu-id="af6d5-105">Applies to</span></span>**
+<span data-ttu-id="829ad-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="829ad-105">**Applies to**</span></span>
 
-- <span data-ttu-id="af6d5-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="af6d5-106">Partner Center</span></span>
+- <span data-ttu-id="829ad-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="829ad-106">Partner Center</span></span>
 
-<span data-ttu-id="af6d5-107">您的 MPN 優惠訂閱續約時間範圍會從您購買日期的週年日加 1 天開始算起。</span><span class="sxs-lookup"><span data-stu-id="af6d5-107">Your MPN offers subscription renewal window begins on the anniversary of your purchase date plus one day.</span></span> <span data-ttu-id="af6d5-108">例如，如果您於 2018 年 9 月 1 購買 Microsoft 動作套件，則續約時間範圍會在 2019 年 9 月 2 日開始。</span><span class="sxs-lookup"><span data-stu-id="af6d5-108">For example, if you purchased the Microsoft Action Pack on September 1, 2018, your renewal window begins on September 2, 2019.</span></span> <span data-ttu-id="af6d5-109">您可以將您在合作夥伴中心的訂閱續約。</span><span class="sxs-lookup"><span data-stu-id="af6d5-109">You can renew your subscription in Partner Center.</span></span>
+<span data-ttu-id="829ad-107">您的 MPN 優惠訂閱續約時間範圍會從您購買日期的週年日加 1 天開始算起。</span><span class="sxs-lookup"><span data-stu-id="829ad-107">Your MPN offers subscription renewal window begins on the anniversary of your purchase date plus one day.</span></span> <span data-ttu-id="829ad-108">例如，如果您於 2018 年 9 月 1 購買 Microsoft 動作套件，則續約時間範圍會在 2019 年 9 月 2 日開始。</span><span class="sxs-lookup"><span data-stu-id="829ad-108">For example, if you purchased the Microsoft Action Pack on September 1, 2018, your renewal window begins on September 2, 2019.</span></span> <span data-ttu-id="829ad-109">您可以更新您的訂用帳戶，在合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="829ad-109">You can renew your subscription in Partner Center.</span></span>
 
-<span data-ttu-id="af6d5-110">從**合作夥伴中心**，選取 [**會員優惠**。</span><span class="sxs-lookup"><span data-stu-id="af6d5-110">From **Partner Center**, select **Membership offers**.</span></span>
-<span data-ttu-id="af6d5-111">在 **\[購買\]** 索引標籤上，每個您所購買的優惠方案都會顯示：</span><span class="sxs-lookup"><span data-stu-id="af6d5-111">On the **Purchased** tab, for each of your purchased offers, you can see:</span></span>
+<span data-ttu-id="829ad-110">從**合作夥伴中心**，選取**成員資格為**。</span><span class="sxs-lookup"><span data-stu-id="829ad-110">From **Partner Center**, select **Membership offers**.</span></span>
+<span data-ttu-id="829ad-111">在 **\[購買\]** 索引標籤上，每個您所購買的優惠方案都會顯示：</span><span class="sxs-lookup"><span data-stu-id="829ad-111">On the **Purchased** tab, for each of your purchased offers, you can see:</span></span>
 
-- <span data-ttu-id="af6d5-112">您的到期日</span><span class="sxs-lookup"><span data-stu-id="af6d5-112">Your expiration date</span></span>
-- <span data-ttu-id="af6d5-113">狀態</span><span class="sxs-lookup"><span data-stu-id="af6d5-113">Status</span></span>
-- <span data-ttu-id="af6d5-114">自動續約資訊</span><span class="sxs-lookup"><span data-stu-id="af6d5-114">Auto-renewal information</span></span>
-- <span data-ttu-id="af6d5-115">您可以關閉自動續約</span><span class="sxs-lookup"><span data-stu-id="af6d5-115">You can turn-off auto-renewal</span></span>
-- <span data-ttu-id="af6d5-116">您可以管理付款選項</span><span class="sxs-lookup"><span data-stu-id="af6d5-116">You can manage your payment options</span></span>
+- <span data-ttu-id="829ad-112">您的到期日</span><span class="sxs-lookup"><span data-stu-id="829ad-112">Your expiration date</span></span>
+- <span data-ttu-id="829ad-113">狀態</span><span class="sxs-lookup"><span data-stu-id="829ad-113">Status</span></span>
+- <span data-ttu-id="829ad-114">自動續約資訊</span><span class="sxs-lookup"><span data-stu-id="829ad-114">Auto-renewal information</span></span>
+- <span data-ttu-id="829ad-115">您可以關閉自動續約</span><span class="sxs-lookup"><span data-stu-id="829ad-115">You can turn-off auto-renewal</span></span>
+- <span data-ttu-id="829ad-116">您可以管理付款選項</span><span class="sxs-lookup"><span data-stu-id="829ad-116">You can manage your payment options</span></span>
 
-## <a name="renewal-reminders"></a><span data-ttu-id="af6d5-117">續約提醒</span><span class="sxs-lookup"><span data-stu-id="af6d5-117">Renewal reminders</span></span>
+## <a name="renewal-reminders"></a><span data-ttu-id="829ad-117">續約提醒</span><span class="sxs-lookup"><span data-stu-id="829ad-117">Renewal reminders</span></span>
 
-<span data-ttu-id="af6d5-118">您在週年日之後有 30 天可以續訂。</span><span class="sxs-lookup"><span data-stu-id="af6d5-118">You have 30 days after your anniversary date to renew.</span></span> <span data-ttu-id="af6d5-119">您在這段期間繼續享有權益。</span><span class="sxs-lookup"><span data-stu-id="af6d5-119">Your benefits continue during that time.</span></span> <span data-ttu-id="af6d5-120">Microsoft 會在週年日之前 15 天提醒您週年日即將到來。</span><span class="sxs-lookup"><span data-stu-id="af6d5-120">Fifteen days before your anniversary date, Microsoft will remind you of your upcoming anniversary.</span></span> <span data-ttu-id="af6d5-121">您會在週年日之後 23 天收到另一個提醒。</span><span class="sxs-lookup"><span data-stu-id="af6d5-121">You will receive another reminder 23 days after your anniversary date.</span></span> <span data-ttu-id="af6d5-122">當您在該週年日加上 30 天的時間範圍期間續訂時，您的權益將維持不變。</span><span class="sxs-lookup"><span data-stu-id="af6d5-122">When you renew during that anniversary plus 30-day window, your benefits remain intact.</span></span> <span data-ttu-id="af6d5-123">如果您未在續約時間範圍內續訂，就會失去您的權益和專長認證。</span><span class="sxs-lookup"><span data-stu-id="af6d5-123">If you don’t renew within your renewal window, you’ll lose your benefits and competencies.</span></span>
+<span data-ttu-id="829ad-118">您在週年日之後有 30 天可以續訂。</span><span class="sxs-lookup"><span data-stu-id="829ad-118">You have 30 days after your anniversary date to renew.</span></span> <span data-ttu-id="829ad-119">您在這段期間繼續享有權益。</span><span class="sxs-lookup"><span data-stu-id="829ad-119">Your benefits continue during that time.</span></span> <span data-ttu-id="829ad-120">Microsoft 會在週年日之前 15 天提醒您週年日即將到來。</span><span class="sxs-lookup"><span data-stu-id="829ad-120">Fifteen days before your anniversary date, Microsoft will remind you of your upcoming anniversary.</span></span> <span data-ttu-id="829ad-121">您會在週年日之後 23 天收到另一個提醒。</span><span class="sxs-lookup"><span data-stu-id="829ad-121">You will receive another reminder 23 days after your anniversary date.</span></span> <span data-ttu-id="829ad-122">當您在該週年日加上 30 天的時間範圍期間續訂時，您的權益將維持不變。</span><span class="sxs-lookup"><span data-stu-id="829ad-122">When you renew during that anniversary plus 30-day window, your benefits remain intact.</span></span> <span data-ttu-id="829ad-123">如果您未在續約時間範圍內續訂，就會失去您的權益和專長認證。</span><span class="sxs-lookup"><span data-stu-id="829ad-123">If you don’t renew within your renewal window, you’ll lose your benefits and competencies.</span></span>
 
-<span data-ttu-id="af6d5-124">當您在續約時間範圍期間續訂時，新的週年日將會落在目前週年日後的 365 天。</span><span class="sxs-lookup"><span data-stu-id="af6d5-124">When you renew during the renewal window, your new anniversary date will be 365 days post your current anniversary.</span></span>
+<span data-ttu-id="829ad-124">當您在續約時間範圍期間續訂時，新的週年日將會落在目前週年日後的 365 天。</span><span class="sxs-lookup"><span data-stu-id="829ad-124">When you renew during the renewal window, your new anniversary date will be 365 days post your current anniversary.</span></span>
 
-## <a name="manage-auto-renewal"></a><span data-ttu-id="af6d5-125">管理自動續約</span><span class="sxs-lookup"><span data-stu-id="af6d5-125">Manage auto-renewal</span></span>
+## <a name="manage-auto-renewal"></a><span data-ttu-id="829ad-125">管理自動續約</span><span class="sxs-lookup"><span data-stu-id="829ad-125">Manage auto-renewal</span></span>
 
-<span data-ttu-id="af6d5-126">當您開啟自動續約時，將會在週年日隔天向您的信用卡收費。</span><span class="sxs-lookup"><span data-stu-id="af6d5-126">When you have auto-renewal turned on, your credit card will be charged one day past your anniversary date.</span></span> <span data-ttu-id="af6d5-127">您隨時都可以在週年日之前關閉自動續約。</span><span class="sxs-lookup"><span data-stu-id="af6d5-127">You can turn off auto-renewal at any time before your anniversary date.</span></span>
+<span data-ttu-id="829ad-126">當您開啟自動續約時，將會在週年日隔天向您的信用卡收費。</span><span class="sxs-lookup"><span data-stu-id="829ad-126">When you have auto-renewal turned on, your credit card will be charged one day past your anniversary date.</span></span> <span data-ttu-id="829ad-127">您隨時都可以在週年日之前關閉自動續約。</span><span class="sxs-lookup"><span data-stu-id="829ad-127">You can turn off auto-renewal at any time before your anniversary date.</span></span>

@@ -3,20 +3,20 @@ title: Windows 與裝置專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 分享我們邁向有 10 億部裝置安裝 Windows 10 的目標。 商機囊括服務、應用程式和裝置。 這個專長認證提供可協助您開創和拓展有利可圖之 Windows 10 業務營運的工具、內容及資源。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 robots: noindex,nofollow
 keywords: 專長認證, 各項專長認證, Windows 與裝置
 ms.localizationpriority: medium
-ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 634aedeafc118cd661f11cb927944499feda46af
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795581"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584611"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="7c530-106">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="7c530-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="50ad4-106">若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="50ad4-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

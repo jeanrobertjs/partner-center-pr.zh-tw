@@ -3,20 +3,20 @@ title: 企業行動管理專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 企業行動管理專長認證適合在功能強大、安全且適用於大型企業之行動管理解決方案上表現出眾的專家合作夥伴。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各項專長認證, 企業行動管理
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9ef0fbf3531916c081a495c140f550c0428d2462
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796241"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584041"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="a2fda-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="a2fda-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="dcba3-104">若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="dcba3-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

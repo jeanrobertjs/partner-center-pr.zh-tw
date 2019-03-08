@@ -3,20 +3,20 @@ title: 資料分析專長認證
 ms.topic: article
 ms.date: 10/29/2018
 description: 如果您的組織涉足於調查資料的業務，這項業務協助客戶發掘深入見解、進行預測或產生推薦，那麼資料分析專長認證可為您提供增強並證實本身能力的平台。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 專長認證, 各專長認證, 資料分析
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e7d31e7e96fceb11a64c0653e51dcd03a4b9a389
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796221"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584221"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="6a8a1-104">若要深入了解適用於此專長認證名著稱於業界需求，請造訪[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="6a8a1-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="a32d9-104">若要深入了解取得此專長認證的需求，請造訪 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="a32d9-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Data Analytics
