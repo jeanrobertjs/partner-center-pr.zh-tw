@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 請依照下列步驟，預覽適用於 Power BI 的合作夥伴中心分析應用程式 (適用於雲端解決方案提供者直接合作夥伴)。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: d51c7afa2ebe69218aeb926c46425bcbd4245cb0
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995552"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585861"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安裝和預覽適用於 Microsoft Power BI 的合作夥伴中心分析應用程式
 
@@ -22,16 +22,16 @@ ms.locfileid: "8995552"
 
 ## <a name="before-you-begin"></a>開始之前
 
-選取是對您的企業下列清單中的可用的 Power BI 應用程式最相關的應用程式：
-- [直接合作夥伴](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+選取您的業務與從下列清單中可用的 Power BI 應用程式的最相關的應用程式：
+- [直接的夥伴](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
-- [間接合作夥伴](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [間接的夥伴](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
 
-- [間接轉售商](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [間接轉銷商](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
 
 安裝合作夥伴中心分析應用程式預覽版之前，請先確定您符合下列需求。
 
-- 您為您的企業，挑選正確的 Power BI 應用程式。
+- 您為您的企業挑選正確的 Power BI 應用程式。
 
 - 您有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 的使用中訂閱。
 
@@ -62,4 +62,4 @@ ms.locfileid: "8995552"
 
 ## <a name="next-steps"></a>後續步驟
 
-[使用適用於 Microsoft Power BI 的合作夥伴中心分析應用程式來檢視業務資料](power-bi-app-for-direct-partners-use.md)
+[適用於 Microsoft Power BI 中檢視您的商務資料與 Analytics 合作夥伴中心應用程式](power-bi-app-for-direct-partners-use.md)

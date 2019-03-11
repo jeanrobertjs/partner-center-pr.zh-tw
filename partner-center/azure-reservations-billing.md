@@ -2,22 +2,22 @@
 title: Azure Reservations 帳單 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-Description: Information about billing for Azure reservations.
-author: v-petand
+Description: Azure 保留的計費的相關資訊。
+author: LauraBrenner
 ms.author: v-petand
 keywords: Azure RI, azure 保留的執行個體, 保留區, vm, 管理, 帳單, 購買
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7aec5102d2ff76d321474e6e580acde6a854a9b5
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b32c0da58cefea764f7f0cb3adb6d3a13faa46b5
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796721"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586901"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure 保留的 VM 執行個體帳單
 
-**適用對象：**
+**適用於**
 
 -  合作夥伴中心
 -  Microsoft Azure 入口網站
@@ -30,13 +30,13 @@ ms.locfileid: "5796721"
 >[!IMPORTANT]
 >如果您在所用貨幣與您不同的市場中為客戶購買 Azure 保留的 VM 執行個體，預設帳單貨幣會以客戶的市場為準，而不是您的所在位置。 如果您在多個市場擁有客戶，您會針對需要付費客戶的每種貨幣收到不同的發票和對帳檔案，讓您可用適當的貨幣向客戶開立發票。 
 
-若要存取一次收費發票和對帳檔案中，選取**帳單**從合作夥伴中心，然後選取**一次**。 
+若要存取一次性費用的發票和對帳檔案，請選取**計費**從合作夥伴中心，然後選取**一次**。 
 
 如需雲端解決方案提供者計畫中的帳單一般資訊，請參閱[帳單基本知識](billing-basics.md)。
 
 ## <a name="azure-reserved-vm-instance-invoice-file-definitions"></a>Azure 保留的 VM 執行個體發票檔案定義
 
-**一般帳單資訊**
+**計費的一般資訊**
 
 |**欄位** |**定義**|
 |:----------------|:-----------------------------|
@@ -46,15 +46,15 @@ ms.locfileid: "5796721"
 |點數 |自首次購買以來退款活動的點數。 |
 |折扣 |適用於 Azure Reservations 或客戶訂單中其他項目的折扣。 |
 |稅金 |在發票第 2 頁開始位置的詳細資料區段中加總的目前費用的總稅金。 |
-|目前總費用 |付款期限到期時，以您使用的帳單貨幣計算的帳單期間應付金額。 |
+|目前總費用 |付款期限到期時，以您使用的帳單貨幣計算的計費期間應付金額。 |
 |付款指示 |描述何時及如何支付發票 (根據您的地區)。 付款時，一律包含您的發票號碼。 |
 |發票號碼 |發票的號碼。 |
 |發票日期 |產生發票的日期。 |
-|付款期限 |對於一次性購買，這一律是 60 天。 |
-|付款截止日期 |必須在此日期前收到您的付款。 |
+|付款條款 |對於一次性購買，這一律是 60 天。 |
+|付款期限 |必須在此日期前收到您的付款。 |
 
 
-**一次性費用的分項清單**
+**一次性費用分項的清單**
 
 |**欄位** |**定義**|
 |:----------------|:-----------------------------|
@@ -89,11 +89,11 @@ ms.locfileid: "5796721"
 |ProductName |產品的名稱。 |
 |ChargeType |費用或調整的類型。 |
 |UnitPrice |訂購的每件產品價格。 |
-|Quantity |訂購的產品數目。 |
-|Subtotal |稅前總計。 如果有折扣，可檢查小計是否和預期的總金額相符。 |
+|數量 |訂購的產品數目。 |
+|小計 |稅前總計。 如果有折扣，可檢查小計是否和預期的總金額相符。 |
 |TaxTotal |所有適用稅額的總計。 |
-|Total |此次購買的總金額。 |
-|Currency |貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。 |
+|總計 |此次購買的總金額。 |
+|貨幣 |貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。 |
 |DiscountDetails |任何相關折扣的詳細清單。 |
 
 
@@ -101,12 +101,12 @@ ms.locfileid: "5796721"
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>檢視您目前的帳單狀態、發票，以及對帳檔案
 
-1.  在合作夥伴中心，選取**帳單**，然後**一次**，檢視您的帳單狀態。 
+1.  在合作夥伴中心，請選取**計費**，然後**一次**檢視您的計費狀態。 
 2.  選取發票或對帳檔案來檢視更多詳細資訊。 
 
 ### <a name="view-a-customers-order-history"></a>檢視客戶的訂購記錄
 
-1.  從合作夥伴中心功能表中選取**客戶**。
+1.  選取 **客戶**從合作夥伴中心功能表。
 2.  在 **\[客戶\]** 頁面上，尋找您要檢視其訂購記錄的客戶，然後選取向下箭號來展開客戶的記錄。 
 3.  選取 **\[檢視訂單\]** 來顯示訂購記錄。
 
@@ -117,11 +117,11 @@ ms.locfileid: "5796721"
 若要作廢發票再核發新的，請從帳單頁面的調整下方下載表格。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
-|**如需以下相關資訊**   |**請閱讀本文**    |
+|**如需詳細資訊**   |**請閱讀本**    |
 |:-----------------------------|:-----------------|
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的 VM 執行個體](azure-reservations.md)
-|為您在合作夥伴中心的客戶購買 Azure reservations   |[購買 Azure Reservations](azure-reservations-buying.md)
-| 管理 Azure reservations，在合作夥伴中心 | [管理 Azure reservations，在合作夥伴中心](azure-reservations-manage.md)
+|購買 Azure 保留項目，為您的客戶在合作夥伴中心   |[購買 Azure 保留的項目](azure-reservations-buying.md)
+| 管理 Azure 保留在合作夥伴中心內的項目 | [管理 Azure 保留在合作夥伴中心內的項目](azure-reservations-manage.md)
 |在 Azure 入口網站中購買 Azure Reservations | Azure 說明中的[預付具有 Azure 保留的 VM 執行個體的虛擬機器](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
 |在 Azure 入口網站中管理 Azure Reservations   |Azure 說明中的[管理保留的 VM 執行個體](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
 |使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)

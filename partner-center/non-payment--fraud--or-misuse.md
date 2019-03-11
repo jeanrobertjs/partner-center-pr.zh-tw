@@ -10,18 +10,18 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995902"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584381"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未付款、詐騙或濫用
 
 **適用於**
 
 -  合作夥伴中心
--  美國政府適用的 Microsoft Cloud 合作夥伴中心
+-  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 
 
@@ -67,7 +67,7 @@ ms.locfileid: "8995902"
 #### <a name="post-purchase-customer-account-management"></a>購買後客戶帳戶管理
 - 在設定適當監控閾值時，與客戶合作來了解他們的雲端使用量商務需求。
     > [!NOTE]  
-    >  您可以[設定每月 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)在合作夥伴中心來監視客戶使用方式在月份內，並在客戶接近其預算時收到通知。
+    >  您可以[設定每月 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)合作夥伴中心，以監視在該月的客戶使用量和客戶即將其預算時收到通知。
 - 定期監視[客戶活動記錄](activity-logs.md)，有助於早期偵測詐騙
 - 當偵測到可疑活動時，採取快速行動
 - 避免在沒有預先實作降低風險管控措施的情況下授與客戶對訂用帳戶的完整系統管理存取權限
