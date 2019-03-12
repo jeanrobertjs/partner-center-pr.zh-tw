@@ -1,19 +1,19 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: 從這裡開始以尋求協助，合作夥伴中心
+title: 從這裡獲得合作夥伴中心的相關協助
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "合作夥伴中心可協助您拓展業務的 Microsoft 雲端解決方案提供者 (CSP) 計畫中。 設定您的帳戶、 與客戶保持聯繫、 購買行動寶盒訂閱，以及在雲端解決方案提供者與 MPN 計畫的合作夥伴找到詳細資訊。\_"
-author: labrenne
+description: "合作夥伴中心可協助您在 Microsoft 雲端解決方案提供者 (CSP) 計畫中拓展業務。 設定您的帳戶、與客戶保持聯繫、購買行動寶盒訂閱，以及在雲端解決方案提供者與 MPN 計畫中尋找合作夥伴的更多資訊。\_"
+author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
 ---
 
-# <a name="welcome-to-partner-center"></a>歡迎使用合作夥伴中心
+# <a name="welcome-to-partner-center"></a>歡迎來到合作夥伴中心
 
-Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft 的端對端關係。 它有可協助您進行交易，並拓展業務，包括選項會員資格、 客戶推薦和雲端解決方案提供者 (CSP) 計畫工具與資源。 了解管理您的帳戶、 與客戶保持聯繫、 購買行動寶盒訂閱，以及在合作夥伴中心說明文件庫中的獎勵計畫中註冊的最佳做法。
+Microsoft 合作夥伴中心是管理您與 Microsoft 端對端關係的單一窗口。 其擁有工具和資源可協助您交易和拓展業務，包括成員資格選項、客戶推薦和雲端解決方案提供者 (CSP) 計畫。 了解管理帳戶、與客戶保持聯繫、購買行動寶盒訂閱以及在合作夥伴中心說明庫中註冊獎勵計畫的最佳做法。
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -28,7 +28,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                     </div>
                     <div class="cardText">
                         <h3>公告</h3>
-                        <p>登入合作夥伴中心儀表板來探索晚期重大變更和新聞。</p>
+                        <p>登入合作夥伴中心儀表板來探索近期重大變更和最新消息。</p>
                         <p><a href="https://partner.microsoft.com/pcv/announcements"><b>立即登入</b></a></p>
                     </div>
                 </div>
@@ -46,7 +46,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                     </div>
                     <div class="cardText">
                         <h3>Yammer</h3>
-                        <p>保持在我們的 Yammer 社群中透過觸控。</p>
+                        <p>透過我們的 Yammer 社群保持連絡。</p>
                         <p><a href="https://go.microsoft.com/fwlink/p/?linkid=851605"><b>加入社群</b></a></p>
                     </div>
                 </div>
@@ -63,8 +63,8 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>API 與 SDK 早期採用者計畫</h3>
-                        <p>取得新功能、 工作室和支援從主題專家。</p>
+                        <h3>API 和 SDK 早期採用者計畫</h3>
+                        <p>加入進階研討會、取得新功能，並獲得主題專家支援。</p>
                         <p><a href="/partner-center/develop/early-adopter-program"><b>開始使用</b></a></p>
                     </div>
                 </div>
@@ -73,8 +73,8 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
     </li>    
 </ul>
 
-<h2>最新動向</h2>
-<p>取得最新的新功能、 優點、 供應項目，以及機會拓展業務的相關資訊。</p>
+<h2>新功能</h2>
+<p>獲得新功能、權益、優惠方案和商機的最新資訊來拓展您的業務。</p>
 <ul id="products1" class="cardsZ cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
@@ -82,7 +82,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/software-assurance-lp">
                         <h3>軟體保證計畫</h3>
-                        <p>您現在可以註冊在軟體保證訓練和部署服務，在合作夥伴中心。</p></a>
+                        <p>您現在可以註冊合作夥伴中心的軟體保證訓練並部署服務。</p></a>
                     </div>
                 </div>
             </div>
@@ -93,8 +93,8 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>憑單驗證和兌換工具</h3>
-                        <p>宣告和兌換上課券支援您客戶的商務和開發的需求。</p></a>
+                        <h3>憑券驗證及兌換工具</h3>
+                        <p>宣告和兌換支援客戶商務和開發需求的憑券。</p></a>
                     </div>
                 </div>
             </div>
@@ -105,8 +105,8 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/responding-to-referrals#new-referrals">
-                        <h3>更有效率地管理您的推薦</h3>
-                        <p>我們已改善如何檢閱轉介 RFI 並接受或拒絕它們。</p></a>
+                        <h3>更有效地管理您的推薦</h3>
+                        <p>我們已改善檢閱推薦 RFI 並加以接受或拒絕的方式。</p></a>
                     </div>
                 </div>
             </div>
@@ -115,7 +115,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
 </ul>
 
 
-<h2>在合作夥伴中心中工作</h2>
+<h2>合作夥伴中心內的工作</h2>
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -162,7 +162,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>拓展您的業務</h3>
+                        <h3>讓企業茁壯</h3>
                         <p><a href="/partner-center/referrals">商務設定檔/推薦</a><br /><a href="/partner-center/promotions">促銷活動</a><br /><a href="/partner-center/get-special-pricing-for-offers">銷售到特色產業</a></p>
                     </div>
                 </div>
@@ -185,7 +185,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="/partner-center/mpn-get-action-pack">取得 Microsoft 行動套件 (MAPS)</a></h3>
+                        <h3><a href="/partner-center/mpn-get-action-pack">取得 Microsoft 行動寶盒 (MAPS)</a></h3>
                     </div>
                 </div>
             </div>
@@ -201,7 +201,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                         </div>
                     </div>                
                     <div class="cardText">
-                        <h3><a href="/partner-center/develop/">合作夥伴中心 API/SDK 的參考</a></h3>
+                        <h3><a href="/partner-center/develop/">合作夥伴中心 API/SDK 參考資料</a></h3>
                     </div>
                 </div>
             </div>
@@ -217,7 +217,7 @@ Microsoft 合作夥伴中心是一個停止您的位置來管理您與 Microsoft
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">非合作夥伴嗎？ 立即加入 Microsoft 合作夥伴網路。</a></h3>
+                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">不是合作夥伴？立即加入 Microsoft 合作夥伴網路。</a></h3>
                     </div>
                 </div>
             </div>

@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795051"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587431"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促銷吸引新客戶  
 
@@ -35,16 +35,16 @@ Microsoft 提供兩種促銷優惠：適用於雲端解決方案提供者 (CSP) 
 
 ## <a name="see-available-promotions"></a>查看可用的促銷活動
 
-您可以在 **\[促銷\]** 頁面查看您有資格享用的促銷 (如果有的話)。 從您的**合作夥伴中心**功能表，以查看目前的促銷，以及折扣、 促銷類型和訂閱的開始和結束日期的清單中選取**促銷**。 如果沒有可用的促銷，您會看到指出這點的訊息。 
+您可以在 **\[促銷\]** 頁面查看您有資格享用的促銷 (如果有的話)。 選取 **促銷**從您**合作夥伴中心**功能表以查看目前的促銷折扣、 促銷類型及訂用帳戶的開始和結束日期的清單。 如果沒有可用的促銷，您會看到指出這點的訊息。 
 
 > [!NOTE]  
 > 您也可以在進行購買時查看促銷。 當您選取訂閱時，促銷定價會顯示在 **\[檢閱\]** 頁面上。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>以促銷價格購買訂閱
 
-1. 在**合作夥伴中心**功能表中，選取**客戶**，然後選取購買訂閱的客戶。 
+1. 在您**合作夥伴中心**功能表上，選取**客戶**，然後選取 已購買訂用帳戶的客戶。 
 
-2. 選取 **\[新增訂閱\]**。
+2. 選取 **新增訂閱**。
 
 3. 在 **\[新訂閱\]** 頁面上，選取可適用銷售的訂閱。
 

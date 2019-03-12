@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995832"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586721"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
@@ -30,14 +30,14 @@ ms.locfileid: "8995832"
 ## <a name="find-license-and-user-data"></a>尋找授權和使用者資料
 
 
-**單一客戶**
+**單一客戶的**
 
--   從**合作夥伴中心**中選取**客戶**、 客戶，然後選取**客戶的深入資訊**。
+-   選取 **客戶**從**合作夥伴中心**，選擇 客戶，然後選取**Customer insights**。
 
-**涵蓋您的客戶組合**
+**您的組合**
 
-1.  在**合作夥伴中心**中，選取 [**分析]**。
-2.  選取 **\[匯出\]** 來下載整個客戶集的部署與使用量資料
+1.  在 **合作夥伴中心**，選取**分析**。
+2.  選取 **匯出** 來下載整個客戶集的部署與使用量資料
 
 詞彙︰
 
@@ -70,14 +70,14 @@ ms.locfileid: "8995832"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>問題：</strong>使用者採用率是低，以及許多授權不 & #39; 所使用的 t。</p>
-<p><strong>考量事項：</strong>客戶可能不了解軟體可提供的價值。 他們需要協助，以構想一些方式來將軟體結合到他們每日的工作中，藉以簡化他們正在進行的工作或產生新類型的生產力。</p>
-<p><strong>嘗試事項：</strong>案例研究、與特定案例有關的使用者見證、教學課程的部落格或影片。</p></td>
+<td><p><strong>問題：</strong>使用者採用率很低和許多的授權不&#39;t 所使用。</p>
+<p><strong>要考慮的事項：</strong>客戶可能不了解軟體無法提供的值。 他們需要協助，以構想一些方式來將軟體結合到他們每日的工作中，藉以簡化他們正在進行的工作或產生新類型的生產力。</p>
+<p><strong>如何著手：</strong>案例研究、 特定的案例、 教學課程的部落格或影片的相關使用者推薦。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>問題：</strong>有大量支援電話要求取得說明和使用方法。</p>
-<p><strong>考慮事項：</strong>客戶可能是軟體、該產品版本或其從事之工作的新手。</p>
-<p><strong>嘗試事項：</strong>您可以採用雙重策略亦即提供訓練 （個人或線上） 的來增加客戶 & #39; s 整體專業知識，同時推廣一些對客戶提供的自助服務選項。</p>
+<td><p><strong>問題：</strong>沒有大量的說明與 how-to 問題的支援電話。</p>
+<p><strong>要考慮的事項：</strong>客戶可能有新的軟體、 產品版本，或其工作。</p>
+<p><strong>如何著手：</strong>您可以使用 「 供應 」 訓練 （面對面或線上） 的雙重策略來增加客戶&#39;s 整體的專業知識，同時也能促進部份自助選項提供給客戶。</p>
 <p>您可能會想要重新設計您的支援網站，使其中除了包含您的支援連絡資訊外，也包含<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客戶自我支援</a>主題中所述的自助服務選項。</p></td>
 </tr>
 </tbody>
