@@ -1,22 +1,19 @@
 ---
 layout: HubPage
 hide_bc: true
-title: 開發人員及合作夥伴儀表板服務的文件
-description: 如果您登入儀表板是要發佈應用程式、取得傳統型應用程式上的資料、取得硬體認證、發佈驅動程式至 Windows Update，或是以經銷商身分進行交易，那麼這份文件就適合您閱讀。
-author: v-chmccl
+title: 開發人員及合作夥伴中心服務的文件
+ms.date: 10/29/2018
+description: 如果您登入合作夥伴中心是要發佈應用程式、取得傳統型應用程式上的資料、取得硬體認證、發佈驅動程式至 Windows Update，或是以經銷商身分進行交易，那麼這份文件就適合您閱讀。
+author: LauraBrenner
+ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 28b65a154611020de02ceb15145fcf6271d34df3
-ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2018
-ms.locfileid: "1978555"
 ---
+
 <div id="main" class="v2">
     <div class="container">
-        <h1>儀表板服務的文件</h1>
-        <p>如果您使用儀表板是要發佈應用程式和遊戲、取得傳統型應用程式上的資料、取得硬體認證、發佈驅動程式至 Windows Update，或是以經銷商身分進行交易，那麼這份文件就適合您閱讀。</p>
+        <h1>合作夥伴中心服務的文件</h1>
+        <p>如果您使用合作夥伴中心是要發佈應用程式和遊戲、取得傳統型應用程式上的資料、取得硬體認證、發佈驅動程式至 Windows Update，或是以經銷商身分進行交易，那麼這份文件就適合您閱讀。</p>
         <ul class="pivots" style="list-style:none;margin:0;">
             <li>
                 <a href="#products"></a>
@@ -55,7 +52,7 @@ ms.locfileid: "1978555"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>傳統型應用程式開發人員</h3>
-                                                    <p>了解取得詳細遙測資料和分析報告的方式，看看您的傳統型應用程式表現如何。</p>
+                                                    <p>了解取得詳細遙測資料和分析報告的方式，查看您的傳統型應用程式表現如何。</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -93,7 +90,7 @@ ms.locfileid: "1978555"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>雲端解決方案提供者與 MPN 合作夥伴</h3>
-                                                    <p>了解如何使用儀表板建置、管理和拓展您的經銷商業務以及您與 Microsoft 的合作關係。</p>
+                                                    <p>了解如何使用合作夥伴中心建置、管理和拓展您的經銷商業務以及您與 Microsoft 的合作關係。</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -112,7 +109,7 @@ ms.locfileid: "1978555"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>開發人員 API 與 SDK</h3>
-                                                    <p>使用 API 將您的客戶、訂單、帳單及支援系統與 Microsoft 的合作夥伴儀表板進行整合。</p>
+                                                    <p>使用 API 將您的客戶、訂單、帳單及支援系統與 Microsoft 的合作夥伴中心進行整合。</p>
                                                 </div>
                                             </div>
                                         </div>
