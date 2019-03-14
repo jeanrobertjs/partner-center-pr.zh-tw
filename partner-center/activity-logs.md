@@ -6,21 +6,21 @@ description: 活動記錄提供客戶的交易和夥伴管理動作相關資訊�
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
+Keywords: 活動記錄檔、 訂用帳戶、 訂用帳戶、 計費、 交易的付款
 ms.localizationpriority: medium
 ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683757"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586061"
 ---
 # <a name="view-customer-activity-logs"></a>檢視客戶活動記錄
 
 **適用於**
 
 -  合作夥伴中心
--  美國政府適用的 Microsoft Cloud 合作夥伴中心
+-  Microsoft Cloud for US Government 適用的合作夥伴中心
 -  
 
 
@@ -28,10 +28,10 @@ ms.locfileid: "8683757"
 
 活動記錄可提供和客戶帳戶與產品交易有關的夥伴動作記錄。 您也可以將活動記錄匯出至 .csv 檔案。
 
-**檢視及匯出活動記錄**
+**檢視和匯出活動記錄**
 
-1.  在**合作夥伴中心**功能表中，選取 [**活動記錄**。
-2.  在 **\[從\]** 和 **\[到\]** 欄位中選取活動記錄期間。 活動記錄預設會匯出最近月份的記錄。
+1.  從**合作夥伴中心**功能表上，選取**活動記錄**。
+2.  在 \[從\] 和 \[到\] 欄位中選取活動記錄期間。 活動記錄預設會匯出最近月份的記錄。
 
     每個活動記錄都會提供對所列出客戶的**訂閱**頁面連結。
 

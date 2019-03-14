@@ -2,28 +2,28 @@
 title: 將商務用 Skype Online 方案 1 訂閱移轉至較新的 Office 365 版本 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
-Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
-author: labrenne
+Description: 轉換客戶即將過期的 Skype for Business Online 方案 1 訂用帳戶支援的 SKU 選項。 我們建議您將客戶移至新的訂用帳戶，訂用帳戶的每年的結束日期之前。
+author: LauraBrenner
 ms.author: labrenne
 keywords: 商務用 Skype 方案, 淘汰 Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917620"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586101"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>將商務用 Skype Online 方案 1 訂閱移轉至較新的 Office 365 版本
 
-**適用對象：**
+**適用於**
 
 - 合作夥伴中心
 
 商務用 Skype Online 方案 1 將於 2018 年 8 月 1 淘汰。 該日期之後，客戶將再也無法購買新的商務用 Skype 方案 1 訂閱，而現有訂閱在到期後不會自動續約，也不會提供續約選項。 在訂閱的詳細資料頁面上，商務用 Skype Online 方案 1 訂閱狀態已從「自動續約於 [日期]」變更為「到期日 [日期]」。  
 
-為了確保客戶持續的訂閱，您應該將具有即將到期之商務用 Skype Online 方案 1 訂閱的客戶轉換至支援的 SKU 選項，如下所列。 我們建議在年度訂閱的結束日期之前將客戶移轉至新的訂閱，以避免發生任何客戶服務中斷。 
+為了確保客戶持續的訂閱，您應該將具有即將到期之商務用 Skype Online 方案 1 訂閱的客戶轉換至支援的 SKU 選項，如下所列。 我們建議在年度訂閱的結束日期之前將客戶移至新的訂閱，以避免提供客戶的服務中斷。 
 
 >[!NOTE]
 >商務用 Skype Online 方案 1 商業和政府 SKU 都將淘汰。
@@ -55,23 +55,23 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 ### <a name="migrate-your-customers-to-new-plans"></a>將您的客戶移轉至新方案
 
-1. 若要購買新訂閱，從**合作夥伴中心 \] 功能表**，選取**客戶**、 選取您想要移動的客戶，然後選取 [**新增訂閱**。
+1. 若要購買新的訂用帳戶，從**合作夥伴中心功能表**，選取**客戶**，選取您要移動，然後選取 的客戶**新增訂用帳戶**。
 
 2. 選取您要從型錄購買的訂閱 (在此案例中為以上其中一個選項)，輸入授權數量，然後選取 **\[提交\]**。 
 
 您的客戶現在應該有舊和新訂閱、舊的 商務用 Skype Online 方案 1 訂閱和新的「目標」訂閱，例如「選項 1 - Office 365 企業版 F1」。
 
-3. 若要重新指派客戶的使用者授權，在**合作夥伴中心**功能表中，選取**客戶**，選取您要移動，然後選取 [**使用者和授權**的客戶。 客戶的 \[使用者與授權\] 頁面隨即開啟。
+3. 若要將客戶的使用者授權從重新指派**合作夥伴中心**功能表上，選取**客戶**，選取您所移動的客戶，然後選取**使用者與授權**. 客戶的 \[使用者與授權\] 頁面隨即開啟。
 
 4. 若要重新指派使用者授權，請選取要重新指派的使用者，然後選取 **\[管理授權\]**。
 
 5. 在 **\[管理授權\]** 頁面中，清除 \[商務用 Skype Online 方案 1 授權\] 核取方塊，然後選取客戶要移動到的訂閱新服務方案。
 
-6. 選取 **\[提交\]**。 確認頁面會列出新的授權指派。 為其他需要指派授權的使用者，繼續進行這個相同程序。
+6. 選取 **送出**。 確認頁面會列出新的授權指派。 為其他需要指派授權的使用者，繼續進行這個相同程序。
 
 將使用者授權移至新服務後，您就可以放心地取消客戶層級的已淘汰訂閱。
 
-7. 從**合作夥伴中心**功能表中，選取**客戶**。 選取您要取消其訂閱的客戶。
+7. 從**合作夥伴中心**功能表上，選取**客戶**。 選取您要取消其訂閱的客戶。
 
 8. 在訂閱詳細資料頁面中，將訂閱設定為 **\[已暫停\]**。
 
