@@ -1,18 +1,18 @@
 ---
 title: 暫停訂閱 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/11/2018
 description: 如果客戶要求，或是發生未付款或詐騙等情形，合作夥伴可以暫停或取消訂閱。
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: HT
+ms.openlocfilehash: acf9a30f10f5d0608843cd2e3e088ac9f6bb1559
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585311"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756885"
 ---
 # <a name="suspend-a-subscription"></a>暫停訂閱
 
@@ -24,9 +24,9 @@ ms.locfileid: "57585311"
 
 如果客戶要求，或是發生未付款或詐騙等情形，合作夥伴可以暫停或取消訂閱。
 
-當您將訂閱的狀態變更為 \[已暫停\] 時，使用者就無法登入或存取服務。 系統管理員仍然可以登入並存取資料。
+當您將訂閱的狀態變更為 \[已暫停\] 時，使用者就無法登入或存取服務。
 
-**暫止訂用帳戶**
+**暫停訂閱**
 
 1.  從**合作夥伴中心**功能表上，選取**客戶**，然後從清單中選擇客戶。
 2.  選擇您要管理的訂閱。

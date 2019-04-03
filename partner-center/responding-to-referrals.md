@@ -1,30 +1,27 @@
 ---
-title: 回應推薦 | 合作夥伴中心
+title: 轉介回應 |合作夥伴中心
 ms.topic: article
-ms.date: 01/17/2019
+ms.date: 03/11/2019
 description: 身為合格的 Microsoft 合作夥伴，您可以評估、 交涉，並透過合作夥伴中心的轉介回應。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 推薦, RFI, 尋找合作夥伴
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585851"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756895"
 ---
-# <a name="responding-to-referrals"></a>回應推薦
+# <a name="respond-to-referrals"></a>回應推薦
 
 **適用於**
 
 -  合作夥伴中心
 
 身為合格的 Microsoft 合作夥伴，您會收到轉介到的潛在業務潛在客戶。 在合作夥伴中心，可以管理連入的潛在客戶、 快速因應這些是不錯的選擇，並略過或拒絕這些不是。 
-
-> [!IMPORTANT]
-> 我們做了一些更新轉介管理體驗，而且正在其推出到所有夥伴。 設定帳戶以使用新的體驗，直到使用幾個步驟可能稍有不同運作。 以下被呼叫這些差異。 
 
 ## <a name="referral-management"></a>推薦管理
 
@@ -48,9 +45,6 @@ ms.locfileid: "57585851"
 *  **拒絕**:我們會將它做為封存**已拒絕**並通知客戶選擇不同的夥伴。
 
 如果您未在分配的時間週期 （目前為 14 天） 內回應，我們會將它做為封存**已過期**並通知客戶選擇不同的夥伴。
-
-> [!NOTE]
-> 上面所述的程序會反映新的體驗。 如果您的帳戶不使用這項體驗，但您會看到**的新**區段而非**收件匣**。 對於新的轉介，您需要在 72 小時來選擇**我想要**(會將轉介到個別**評估**區段，並顯示更多詳細資料) 或**不用**（其中封存推薦項目）。 如果您選取**我想要**，您必須接受轉介的 7 天。
 
 ### <a name="active-referrals"></a>作用中的轉介
 

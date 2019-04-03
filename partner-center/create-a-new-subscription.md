@@ -1,19 +1,19 @@
 ---
 title: 建立、暫停或取消客戶訂閱 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/11/2019
 description: 當您在合作夥伴中心中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
-Keywords: 訂用帳戶，建立新的、 新增訂用帳戶、 暫停、 取消，
+Keywords: 訂用帳戶，建立新的、 新增訂用帳戶、 暫停、 取消，暫止
 ms.localizationpriority: medium
-ms.openlocfilehash: e264ddca2c3b6452493dda0beff80a5637db0455
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: HT
+ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584401"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756915"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -56,7 +56,7 @@ ms.locfileid: "57584401"
 
 ### <a name="suspend-a-subscription"></a>暫停訂閱
 
-當您將訂閱的狀態變更為 \[已暫停\] 時，使用者就無法登入或存取服務。 系統管理員仍然可以登入並存取資料。
+當您將訂閱的狀態變更為 \[已暫停\] 時，使用者就無法登入或存取服務。
 
 1.  從合作夥伴中心 功能表中，選取**客戶**，然後從清單中選擇客戶。
 2.  選擇您要管理的訂閱。

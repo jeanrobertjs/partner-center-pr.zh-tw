@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce9b7cd9ead08b7709c68a0e967d64e9f2a32bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585131"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682506"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -642,7 +642,7 @@ ms.locfileid: "57585131"
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>替代的識別項的識別碼。</p></td>
+<td><p>替代識別碼至單識別碼。</p></td>
 </tr>
 </tbody>
 </table>
@@ -875,7 +875,7 @@ ms.locfileid: "57585131"
 </tr>
 
 <tr class="odd">
-<td>標記</td>
+<td>Tags</td>
 <td><p>您指派給以順序為帳單記錄分組計量的標籤。 例如，您可以使用標記根據使用計量的部門散發成本。</p></td>
 </tr>
 

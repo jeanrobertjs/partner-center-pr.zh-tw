@@ -1,18 +1,18 @@
 ---
 title: 指派使用者角色和權限 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 3/5/19
 description: 每一位員工需要能夠在合作夥伴中心內的使用者必須指派一個角色。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 權限, 系統管理員, 代理人
 ms.localizationpriority: medium
-ms.openlocfilehash: 038a2d6f4d58bbd9a71a2b241ee68982e0e7ef0a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587741"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682486"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
 
@@ -37,6 +37,7 @@ ms.locfileid: "57587741"
 |使用者管理員   | • 檢視中，建立和管理使用者
 ||• 檢視所有夥伴設定檔
 ||• 檢視中，建立和管理合作夥伴使用者  |
+|帳單管理 | -檢視、 建立和管理計費、 發票和偵察檔案|
 |預設的使用者|  檢視我的設定檔   |
 |系統管理代理人 | • 客戶管理
 ||• 加入合作夥伴中心的裝置清單 <
@@ -61,7 +62,7 @@ ms.locfileid: "57587741"
 ||• 協助解決客戶問題與帳務或訂用帳戶管理
 ||• 要求支援代表客戶 (注意：您必須是系統管理員代理程式，以完成這項工作如 Office 365 訂用帳戶）
 ||• 管理訂用帳戶和計費代表客戶的問題 (請注意：您必須是系統管理員代理程式，以完成這項工作如 Office 365 訂用帳戶）|
-|
+
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>控制面板供應商 (CPV)。 （CSP 角色和非 AAD 角色）
 CPVs 開發以供雲端解決方案提供者 (CSP) 合作夥伴，使其能夠將其系統與合作夥伴中心 Api 整合的應用程式。 
 
@@ -90,6 +91,17 @@ CPVs 開發以供雲端解決方案提供者 (CSP) 合作夥伴，使其能夠�
 ||-管理您是系統管理員帳戶相關的設定檔 
 ||• 指派角色給非 AAD 角色的租用戶中使用者 
 ||• 註冊到程式的位置
+
+## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>（必須新增至 AAD 租用戶） 的來賓使用者
+
+|**來賓使用者**   | **角色**|
+|---------------------------|:--------------------|
+||MPN 合作夥伴系統管理員|
+||帳戶系統管理員|
+||獎勵系統管理員|
+||商務設定檔系統管理員|
+||轉介系統管理員|
+
 
 ## <a name="manage-referrals-non-aad-roles"></a>管理轉介 （非 AAD 角色）
 

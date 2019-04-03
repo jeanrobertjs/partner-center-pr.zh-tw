@@ -8,12 +8,12 @@ ms.author: labrenne
 Keywords: Azure, 共用服務, 租用戶
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: ff1e169f54c71e634d07ade9981ecb11009fa9de
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586981"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682466"
 ---
 # <a name="add-azure-partner-shared-services"></a>新增 Azure 合作夥伴共用服務
 
@@ -57,4 +57,19 @@ Azure 合作夥伴共用服務是一種新的供應類型，適用於雲端解�
 
 若要查看 Azure 共用合作夥伴服務的新定價檔案，請移至 **\[銷售\]** > **\[定價與方案\]**，然後選取目前月份的價目表。 在接下來幾個星期，也會發行特定的費率卡 api。
 
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace 供應項目與 Azure 合作夥伴共用服務
+
+截至 2019 年 3 月 1 日起，Azure 合作夥伴共用服務 (APSS) 不再支援 Marketplace 供應項目。   
+
+|**Marketplace 支援**   |**支援於 2019 年 3 月 1 日之前的 APSS**|**在 2019 年 3 月 1日日之後**|
+|---------------------------|:----------------------------|:-------------------|
+|攜帶您自己的授權 (BYOL) 和免費服務   | 是   | 否|
+|其他第三方 marketplace 供應項目   | 否   |否|
+
+
+BYOL 或免費的合作夥伴使用 APSS 部署的服務不會受到影響;不過在 2019 年 3 月 1 日之後他們將無法再購買新的 BYOL 或免費服務。 
+
+若要充分利用可用的 Marketplace 供應項目的完整的目錄 （不只是 BYOL 和免費服務） 中，我們建議 CSP 合作夥伴部署使用 web 直接的 Azure 訂用帳戶的共用的服務。  CSP 合作夥伴已部署第 3 方 BYOL，並釋放先前服務市集中的資源，並想要繼續使用它們，以及部署供應項目，建議將 APSS 訂用帳戶移轉至 web 直接的更多第 3 方[移轉現有的 Azure 訂用帳戶](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)。
+
+合作夥伴計劃繼續使用在 2019 年 3 月 1 日之後的 APSS 訂用帳戶，並想要部署新的第 3 方[BYOL 服務](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)或免費服務，可以遵循 Isv 能夠部署到其 APSS 訂用帳戶的指示。
 

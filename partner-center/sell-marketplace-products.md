@@ -1,18 +1,18 @@
 ---
 title: 販售 Azure Marketplace 產品的訂用帳戶 |合作夥伴中心
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: 您可以使用合作夥伴中心來銷售您的客戶訂用帳戶軟體即服務 (SaaS) 產品發佈至 Azure Marketplace，獨立軟體廠商 (Isv)。
 author: JnHs
 ms.author: jenhayes
 keywords: 訂用帳戶，Marketplace 中，第三方 ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 074527f791cad6b0234994fc3985d9657f5acccd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 98229a93d5ca4ba165fcfe7fc03a084c32c630b2
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587711"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508955"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>販售 Azure Marketplace 產品的訂用帳戶
 
@@ -32,5 +32,4 @@ ms.locfileid: "57587711"
 
 購買 Azure Marketplace SaaS 產品的訂用帳戶會遵循相同的程序購買 Microsoft 產品的訂用帳戶。 如需詳細資訊，請參閱 <<c0> [ 建立新的訂用帳戶](create-a-new-subscription.md)。 請注意，部分優惠可能無法使用特定的客戶，取決於是否 ISV 支援客戶的計費國家/地區，或因為其他因素。
 
-即將推出，我們會讓您使用合作夥伴中心 Api 來管理 Azure Marketplace 訂用帳戶，為您的客戶。 
-
+您也可以使用[合作夥伴中心 Api](https://docs.microsoft.com/en-us/partner-center/develop/)來管理 Azure Marketplace 訂用帳戶，為您的客戶。

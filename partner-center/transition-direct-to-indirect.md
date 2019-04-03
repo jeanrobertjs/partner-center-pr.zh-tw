@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接的帳單、 轉換、 間接轉銷商
-ms.openlocfilehash: 52995c301dba6a5ce347cbd9153f8c6ccaf88873
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587681"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682476"
 ---
 **適用於：**
  - 雲端解決方案提供者合作夥伴
@@ -30,7 +30,7 @@ ms.locfileid: "57587681"
 
 2. 登入合作夥伴中心全域管理員身分直接帳單租用戶都將其轉換為間接轉銷商。
 
-![概觀](images/direct/direct1.png) 
+![總覽](images/direct/direct1.png) 
 
 3. 檢閱您的合作夥伴詳細資料，註冊表單上。
 
@@ -120,8 +120,6 @@ ms.locfileid: "57587681"
 
 6. 若要管理客戶的帳戶、服務、使用者及授權，請選取客戶名稱旁邊的向下箭頭以展開其記錄。
 
->[!Note]
->目前，Microsoft Store for Business 不允許客戶接受間接轉銷商邀請從現有的直接帳單夥伴。 Microsoft Store for Business 支援這在不久的未來。 在那之前，繼續提交您使用直接帳單功能的現有直接帳單客戶的訂單。
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>管理您的客戶直接的計費和間接轉銷商客戶
 
@@ -173,20 +171,24 @@ ms.locfileid: "57587681"
 
 - 您無法產生對客戶要求的直接轉銷商關聯性的邀請。 **要求轉銷商關係**選項底下**客戶**在合作夥伴中心內將無法使用。 
 
-不會影響現有直接帳單的訂用帳戶。 它們會維持有效，並會自動更新。 您將繼續由 Microsoft 直接計費，直到它們取消。 您還是可以透過下列方式來管理現有的訂用帳戶： 
+>[!Note] 
+>如果您已經註冊為間接轉銷商直接帳單合作夥伴租用戶，您就能夠傳送邀請給客戶要求的間接轉銷商關聯性，而不是直接的帳單。 
+
+- 您無法建立新的 「 沙箱 」 租用戶。 每個直接帳單合作夥伴租用戶可以建立一個沙箱租用戶，以直接帳單 API 整合。 如果您先前未建立一個，將無法這樣做之後您將會導向帳單協力廠商功能已受到限制。 
+
+## <a name="whats-not-affected"></a>項目不會受到影響
+
+不會影響現有直接帳單的訂用帳戶。 它們會維持有效，並會自動更新。 您將繼續由 Microsoft 直接計費，直到您取消。 
+
+繼續透過下列方式管理現有的訂用帳戶： 
 
 - 暫停現有的訂用帳戶 
 
 - 調整以授權為基礎的現有訂閱的基座數目 
 
-- 調整現有的附加元件訂用帳戶的基座數目。 注意：您 ccan't 會將新的附加元件新增至現有的訂用帳戶中，因為它們會被視為新購買。 
+- 調整現有的附加元件訂用帳戶的基座數目。 注意：您無法將新的附加元件加入現有的訂用帳戶，因為附加元件會被視為新購買中。 
 
 - 部署新的 Azure 資源及管理現有的 Azure 訂用帳戶下現有的 Azure 資源。 這包括透過 Azure marketplace 和 Visual Studio 訂用帳戶，您可以使用哪些產品。 
-
->[!Note] 
->如果您已經註冊為間接轉銷商直接帳單合作夥伴租用戶，您就能夠傳送邀請給客戶要求的間接轉銷商關聯性，而不是直接的帳單。 
-
-- 您無法建立新的 「 沙箱 」 租用戶。 每個直接帳單合作夥伴租用戶可以建立一個沙箱租用戶，以直接帳單 API 整合。 如果您先前未建立一個，將無法這樣做之後您將會導向帳單協力廠商功能已受到限制。 
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>註冊間接轉銷商獎勵 
 

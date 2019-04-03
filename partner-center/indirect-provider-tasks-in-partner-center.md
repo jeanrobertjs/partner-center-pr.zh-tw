@@ -1,17 +1,17 @@
 ---
 title: 在 CSP 中與間接經銷商建立合作關係 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/29/2019
 description: 做為間接提供者或代理商，您可以與間接經銷商合夥，以擴展您的觸及範圍。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 0eb5afdf04655e52fe493d9039d4aa11fbca5a4b
+ms.sourcegitcommit: 29dd7a49981f998800279ee9f8c489a0e41fb371
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584371"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "58656389"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商成為合作夥伴
 
@@ -86,16 +86,7 @@ ms.locfileid: "57584371"
 | 提供經銷商獎勵的信用點數 | 關聯經銷商到訂閱（新或現有） | 在 **\[新訂閱\]** 頁面上 |
 | 委派特定訂閱的客戶支援給經銷商 | 從 **\[指派的支援連絡人\]** 清單選取經銷商 | 在訂用帳戶的詳細資料頁面上：選取客戶的您**客戶**頁面，然後選取從客戶的訂用帳戶**訂用帳戶**頁面 |
 
-現在，間接提供者可以使用下單，並選擇性地選取 為 PartnerOnRecord 間接轉銷商的夥伴中心儀表板。 如果它們不挑選間接轉銷商，我們會將這視為 1 層的交易，並 incentivize 這類間接提供者。 如果他們不要選擇其中一個，我們處理順序為 2 層的交易，而且我們據以 incentivize 的間接提供者 」 和 「 間接轉銷商：
 
- 
-
-另外還有一種體驗間接提供者也可以更新現有的訂用帳戶 PartnerOnRecord 的位置：
-
- 
-
-您知道是否有現有的文件上如何間接提供者應該管理 PartnerOnRecord 請設定？
-我問看看的原因是因為似乎有很之一組重要的未正確設定間接提供者，導致不正確的獎勵支出的 2 層交易。 隨著時間實現這合作夥伴，並啟動 連絡 Microsoft 以取得 backpay 獎勵。 如果此區域中，我們還沒有文件涵蓋範圍，我想要取得您的協助，其中一個組合。
 
 
 
@@ -177,7 +168,7 @@ ms.locfileid: "57584371"
 
 7.  完成時選取 **\[提交\]**。 
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 如需有關如何管理客戶帳戶和訂閱的詳細資訊，請參閱：
 

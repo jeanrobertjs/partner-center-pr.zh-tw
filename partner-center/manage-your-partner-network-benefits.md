@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 會員資格權益, 成員資格
 ms.localizationpriority: medium
-ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584701"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "57988212"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584701"
 -  合作夥伴中心
 
 >[!IMPORTANT]
->這篇文章說明如何開始使用您的 Microsoft 合作夥伴網路 (MPN) 權益在合作夥伴中心 （先前稱為合作夥伴中心）-此站台的成員資格。 如果您尚未收到邀請，以將您的公司資訊從夥伴成員資格中心 (PMC) 移至合作夥伴中心，您應該繼續管理您的 MPN 成員資格權益在 PMC 中。 立即[登入](https://partner.microsoft.com/_login?authType=OpenIdConnect) PMC。   
+>這篇文章說明如何開始使用您的 Microsoft 合作夥伴網路 (MPN) 成員資格權益在合作夥伴中心-此站台。 如果您尚未收到邀請，以將您的公司資訊從夥伴成員資格中心 (PMC) 移至合作夥伴中心，您應該繼續管理您的 MPN 成員資格權益在 PMC 中。 立即[登入](https://partner.microsoft.com/_login?authType=OpenIdConnect) PMC。   
 
 當您加入 Microsoft 合作夥伴網路 (MPN) 時，可以存取能協助您建立並拓展業務的會員資格權益。 如果您還不是 MPN 的會員，您可以在 [MPN 網站](https://partner.microsoft.com/membership)上加入。
 
@@ -49,7 +49,7 @@ ms.locfileid: "57584701"
 
     b. 選取您想要顯示產品的語言。
 
-    c. 選取您要安裝軟體的電腦作業系統 (OS) 類型。
+    c.  選取您要安裝軟體的電腦作業系統 (OS) 類型。
 
     d. 跟隨連結以下載並安裝軟體安裝套件。
 
@@ -96,13 +96,13 @@ ms.locfileid: "57584701"
     
     做為保護措施，我們將會透過電子郵件將存取 Microsoft 產品支援的指示傳送到此電子郵件地址，除了使用者的合作夥伴中心帳戶電子郵件。 請注意，可能需要數天來啟用這個權益及透過電子郵件傳送指示給受指派的使用者。    
     
-    c.  完成輸入其他電子郵件地址後，選取 **\[指派使用者\]**。 
+    c.   完成輸入其他電子郵件地址後，選取 **\[指派使用者\]**。 
 
 4. 在雲端和混合式解決方案的售前、設計、部署及應用程式開發階段，您可以使用您的技術售前協助或諮詢時數權益來請求技術協助。 若要請求協助，請填寫[要求表單](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
 )，然後選取 **\[提交要求\]**。
 
 
-#### <a name="see-also"></a>請參閱
+#### <a name="see-also"></a>另請參閱
 
 [新增使用者，並為其指派的權限](create-user-accounts-and-set-permissions.md)
 

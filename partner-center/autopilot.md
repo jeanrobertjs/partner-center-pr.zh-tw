@@ -2,17 +2,17 @@
 title: 自訂裝置的全新的體驗使用 Windows Autopilot 設定檔 |合作夥伴中心
 description: 預先設定裝置的全新的體驗 Autopilot 設定檔。
 ms.topic: article
-ms.date: 02/06/19
+ms.date: 03/18/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot、 windows autopilot、 microsoft autopilot、 零觸式部署、 oobe、 登入畫面、 立即可用
 ms.localizationpriority: medium
-ms.openlocfilehash: 00c4bc3717b5f40984f60dd2c04ee7fec10b80da
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586911"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "58162218"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>自訂裝置的全新的體驗使用 Windows Autopilot 設定檔
 
@@ -27,7 +27,7 @@ ms.locfileid: "57586911"
 - [Windows Autopilot 概觀](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Autopilot 部署參考指南](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>概觀
+## <a name="overview"></a>總覽
 
 使用 Windows Autopilot 在合作夥伴中心功能，您可以建立要套用到客戶裝置的自訂設定檔。 下列設定檔設定已發行的這篇文章的時間後可用：
 
@@ -45,7 +45,7 @@ ms.locfileid: "57586911"
 
 - CSP 合作夥伴可以繼續針對現有的客戶能與其轉銷商關係管理 Autopilot 設定檔，即使客戶已移除夥伴的委派的系統管理權限。
 
-- 您可以為您的客戶已加入您或其他的 CSP 合作夥伴管理現有的裝置。
+- 您可以為您加入的客戶管理現有的裝置。
 
 - 您無法管理您的客戶已上傳至 Microsoft Store for Business 或 Microsoft Intune 入口網站的裝置。
 
@@ -98,7 +98,7 @@ ms.locfileid: "57586911"
 
     b.  確認是否會顯示適當的 OOBE 畫面 (如果有的話)。
 
-    c.  當 OOBE 程序停止之後時，請將裝置重設其原廠預設值，以準備進行新的使用者。
+    c.   當 OOBE 程序停止之後時，請將裝置重設其原廠預設值，以準備進行新的使用者。
 
 ### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>移除客戶的裝置的 Autopilot 設定檔
 

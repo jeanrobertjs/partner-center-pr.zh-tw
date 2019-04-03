@@ -8,12 +8,12 @@ ms.author: janet
 Keywords: Azure 成本管理的應用程式，管理成本、 web 應用程式
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: f1627727908eff9c686dd8359558e960d0fbff88
+ms.sourcegitcommit: 6578eea4fe6836dad5710f8d22376ad8bba6e307
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586081"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58490340"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 合作夥伴適用的 Azure 成本管理應用程式  
 
@@ -29,9 +29,9 @@ ms.locfileid: "57586081"
 - 您是雲端解決方案提供者計畫的合作夥伴。
 - 您有能力建立 Partner Center API Web 應用程式。
 
-## <a name="overview"></a>概觀
+## <a name="overview"></a>總覽
 
-Cloudyn 支援的 Azure 成本管理是 Web 應用程式，可讓您追蹤並管理您有多少客戶正在使用 Azure 以及使用成本。 您是透過合作夥伴中心 API 使用此應用程式。
+Cloudyn 會是 web 應用程式，可讓您追蹤和管理 Azure 和使用量的成本多少使用您的客戶。 您是透過合作夥伴中心 API 使用此應用程式。
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>在合作夥伴中心註冊您的 Web 應用程式
 當您在合作夥伴中心註冊 Azure Active Directory Web 應用程式，您就啟用對合作夥伴中心 API 的存取權。 
