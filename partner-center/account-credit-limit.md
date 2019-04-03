@@ -9,27 +9,29 @@ ms.author: labrenne
 keywords: 信用額度，購買，提高限制，點數列
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: eea3640ca69d97d3355fec98d700268f7433fb99
+ms.sourcegitcommit: 21be97e18e9d0f9aa007f3324bedd41d0af5fbab
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586181"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "58220798"
 ---
-# <a name="cloud-solution-provider-csp-account-credit-limits"></a><span data-ttu-id="0cc46-104">雲端解決方案提供者 (CSP) 帳戶信用額度</span><span class="sxs-lookup"><span data-stu-id="0cc46-104">Cloud Solution Provider (CSP) account credit limits</span></span>
+# <a name="cloud-solution-provider-csp-account-credit-limits"></a><span data-ttu-id="40c18-104">雲端解決方案提供者 (CSP) 帳戶信用額度</span><span class="sxs-lookup"><span data-stu-id="40c18-104">Cloud Solution Provider (CSP) account credit limits</span></span>
 
-<span data-ttu-id="0cc46-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="0cc46-105">**Applies to**</span></span>
+<span data-ttu-id="40c18-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="40c18-105">**Applies to**</span></span>
 
-- <span data-ttu-id="0cc46-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="0cc46-106">Partner Center</span></span>
+- <span data-ttu-id="40c18-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="40c18-106">Partner Center</span></span>
 
-<span data-ttu-id="0cc46-107">當您成為雲端解決方案提供者計畫的合作夥伴，您的組織會獲得信用額度，可讓您在等候客戶付款的同時，購買軟體以銷售給客戶。</span><span class="sxs-lookup"><span data-stu-id="0cc46-107">When you become a partner in the CSP program, your organization is given a credit limit that enables you to purchase software to sell to your customers while you are waiting for customers to pay you.</span></span> <span data-ttu-id="0cc46-108">若要尋找您的信用額度，請檢閱解釋您目前額度的最近通訊記錄。</span><span class="sxs-lookup"><span data-stu-id="0cc46-108">To find your credit limit, please review your recent communication that explains where you stand with regard to your credit limit.</span></span>  
+<span data-ttu-id="40c18-107">CSP 計劃中的夥伴時，我們會自動為您的公司信用額度。</span><span class="sxs-lookup"><span data-stu-id="40c18-107">When you become a partner in the CSP program, we automatically give your company a line of credit.</span></span> <span data-ttu-id="40c18-108">需要信用額度，可讓您購買要銷售給客戶，而您在等待客戶付款給您的軟體。</span><span class="sxs-lookup"><span data-stu-id="40c18-108">Having credit allows you to purchase software to sell to your customers while you’re waiting for customers to pay you.</span></span> 
 
-## <a name="what-you-need-to-know-about-your-credit-limit"></a><span data-ttu-id="0cc46-109">您需要了解的信用額度相關事項</span><span class="sxs-lookup"><span data-stu-id="0cc46-109">What you need to know about your credit limit</span></span>
+## <a name="monitoring-your-credit-use"></a><span data-ttu-id="40c18-109">監視您的信用額度使用</span><span class="sxs-lookup"><span data-stu-id="40c18-109">Monitoring your credit use</span></span>
 
-<span data-ttu-id="0cc46-110">您用到該限制的 70% 時，Microsoft 會傳送電子郵件給貴組織的主要連絡人以便通知您。</span><span class="sxs-lookup"><span data-stu-id="0cc46-110">Once you have used 70 percent of that limit, Microsoft will send your organization's primary contact email letting you know.</span></span> <span data-ttu-id="0cc46-111">電子郵件會提供您的發票摘要，包含您應該支付哪些項目以維持您的服務。</span><span class="sxs-lookup"><span data-stu-id="0cc46-111">The email will provide you with a summary of your invoice that will include what you should pay to maintain your service.</span></span> <span data-ttu-id="0cc46-112">當您達到 85% 限制時，也會收到通知。</span><span class="sxs-lookup"><span data-stu-id="0cc46-112">You will also receive a notice when you reach 85 percent.</span></span> <span data-ttu-id="0cc46-113">如果您使用 100% 的信用額度，Microsoft 會提前 24 小時通知您需要付款，否則您的帳戶將會暫時停用。</span><span class="sxs-lookup"><span data-stu-id="0cc46-113">If you use 100 percent of your credit limit, Microsoft will let you know 24 hours in advance that you must make a payment, or your account will be suspended.</span></span> 
+<span data-ttu-id="40c18-110">當您已使用 70%的信用額度時，我們將透過電子郵件來通知貴公司的主要連絡人。</span><span class="sxs-lookup"><span data-stu-id="40c18-110">When you’ve used 70 percent of your credit limit, we’ll notify your company’s primary contact by email.</span></span> <span data-ttu-id="40c18-111">這封電子郵件會包含您目前的信用結餘、 您的發票和維護您的服務的指導方針的摘要。</span><span class="sxs-lookup"><span data-stu-id="40c18-111">This email will include your current credit balance, a summary of your invoice, and guidelines for maintaining your service.</span></span> <span data-ttu-id="40c18-112">當您已使用的信用額度限制的 85%時，我們會傳送另一個電子郵件。</span><span class="sxs-lookup"><span data-stu-id="40c18-112">We’ll send another email when you’ve used 85 percent of your credit limit.</span></span> <span data-ttu-id="40c18-113">您應該要達到 100%的限制，我們會通知您，您必須進行在 24 小時內的付款，避免暫止您的帳戶。</span><span class="sxs-lookup"><span data-stu-id="40c18-113">Should you reach 100 percent of your limit, we’ll notify you that you must make payment within 24 hours to avoid suspension of your account.</span></span> 
 
-<span data-ttu-id="0cc46-114">如果您的雲端解決方案提供者帳戶已暫時停用，您將無法建立新客戶、購買新訂閱，或變更現有訂閱。</span><span class="sxs-lookup"><span data-stu-id="0cc46-114">If your CSP account is suspended, you can’t create new customers, purchase new subscriptions, or make changes to existing subscriptions.</span></span>
+<span data-ttu-id="40c18-114">如果您的帳戶已暫停，您將無法建立新的客戶、 購買新的訂用帳戶，或對現有的訂用帳戶中的變更。</span><span class="sxs-lookup"><span data-stu-id="40c18-114">If your account is suspended, you’ll be unable to create new customers, purchase new subscriptions, or make changes to existing subscriptions.</span></span> <span data-ttu-id="40c18-115">不會影響您現有的客戶。</span><span class="sxs-lookup"><span data-stu-id="40c18-115">Your existing customers are not affected.</span></span> 
 
-## <a name="automatic-credit-limit-increase"></a><span data-ttu-id="0cc46-115">自動增加信用額度</span><span class="sxs-lookup"><span data-stu-id="0cc46-115">Automatic credit limit increase</span></span>
+## <a name="automatic-credit-limit-increase"></a><span data-ttu-id="40c18-116">自動增加信用額度</span><span class="sxs-lookup"><span data-stu-id="40c18-116">Automatic credit limit increase</span></span>
 
-<span data-ttu-id="0cc46-116">身為雲端解決方案提供者合作夥伴，Microsoft 會定期檢視您的帳戶，如果保持良好的信譽，您可符合自動增加信用額度的資格。</span><span class="sxs-lookup"><span data-stu-id="0cc46-116">As a CSP partner, Microsoft periodically reviews your account and if it is in good standing, you are eligible for automatic credit line increases.</span></span> <span data-ttu-id="0cc46-117">Microsoft 會通知您有關任何帳戶變動。</span><span class="sxs-lookup"><span data-stu-id="0cc46-117">Microsoft will notify you of any account changes.</span></span> 
+<span data-ttu-id="40c18-117">Microsoft 會定期檢閱所有的 CSP 合作夥伴的帳戶。</span><span class="sxs-lookup"><span data-stu-id="40c18-117">Microsoft periodically reviews the accounts of all CSP partners.</span></span> <span data-ttu-id="40c18-118">您的帳戶是否有效，您可能符合資格的信用額度行增加。</span><span class="sxs-lookup"><span data-stu-id="40c18-118">If your account is in good standing, you may be eligible for a credit line increase.</span></span> <span data-ttu-id="40c18-119">我們將通知您帳戶的任何變更。</span><span class="sxs-lookup"><span data-stu-id="40c18-119">We’ll notify you of any account changes.</span></span> 
+
+<span data-ttu-id="40c18-120">如需有關信用限制的詳細資訊，請連絡 Microsoft 信用風險小組在ucmwrcsp@microsoft.com。</span><span class="sxs-lookup"><span data-stu-id="40c18-120">For more information on credit limits, contact the Microsoft Credit Risk Team at ucmwrcsp@microsoft.com.</span></span> 
