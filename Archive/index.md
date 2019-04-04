@@ -3,8 +3,13 @@ title: 由 21Vianet 營運的合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 使用由 21Vianet 營運的合作夥伴中心在中國轉售雲端解決方案提供者服務。
+ms.openlocfilehash: 236f425c9e49ca7683b3c337f0258b7a86f76ca9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588261"
 ---
-   
 # <a name="partner-center-operated-by-21vianet"></a>由 21Vianet 營運的合作夥伴中心
 
 歡迎使用由 21Vianet 營運的合作夥伴中心，這是 21Vianet 在中國的雲端解決方案提供者 (CSP) 服務經銷商的商務入口網站。 

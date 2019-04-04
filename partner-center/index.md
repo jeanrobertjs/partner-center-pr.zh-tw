@@ -4,13 +4,18 @@ hide_bc: true
 title: 從這裡獲得合作夥伴中心的相關協助
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "合作夥伴中心可協助您在 Microsoft 雲端解決方案提供者 (CSP) 計畫中拓展業務。 設定您的帳戶、與客戶保持聯繫、購買行動寶盒訂閱，以及在雲端解決方案提供者與 MPN 計畫中尋找合作夥伴的更多資訊。\_"
+description: 合作夥伴中心可協助您在 Microsoft 雲端解決方案提供者 (CSP) 計畫中拓展業務。 設定您的帳戶、與客戶保持聯繫、購買行動寶盒訂閱，以及在雲端解決方案提供者與 MPN 計畫中尋找合作夥伴的更多資訊。 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
+ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588321"
 ---
-
 # <a name="welcome-to-partner-center"></a>歡迎來到合作夥伴中心
 
 Microsoft 合作夥伴中心是管理您與 Microsoft 端對端關係的單一窗口。 其擁有工具和資源可協助您交易和拓展業務，包括成員資格選項、客戶推薦和雲端解決方案提供者 (CSP) 計畫。 了解管理帳戶、與客戶保持聯繫、購買行動寶盒訂閱以及在合作夥伴中心說明庫中註冊獎勵計畫的最佳做法。
