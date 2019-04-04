@@ -8,8 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
+ms.openlocfilehash: 47e8208ec2609e6591d617f2431a635e81112767
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588291"
 ---
-
 <div id="main" class="v2">
     <div class="container">
         <h1>合作夥伴中心服務的文件</h1>
