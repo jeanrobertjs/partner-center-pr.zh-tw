@@ -17,10 +17,10 @@
 ## [註冊雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
 ## [雲端解決方案提供者直接合作夥伴的新需求](direct-partner-new-requirements.md)
 ## [依地區和語言的 Microsoft Cloud 合約](agreements.md)
-##[從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商](transition-direct-to-indirect.md)
+## [從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商](transition-direct-to-indirect.md)
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
-## [雲端解決方案提供者地區授權概觀](regional-authorization-overview.md)
-## [雲端解決方案提供者地區授權租用戶彙總](csp-regional-authorization-tenant-consolidation.md)
+## [CSP 地區市場及貨幣](regional-authorization-overview.md)
+
 
 ## [適用於銷售 (sell-in) 國家/地區雲](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
@@ -29,6 +29,7 @@
 # [管理您的合作夥伴中心帳戶](partner-center-account-setup.md)
 ## [工作帳戶與合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)
 ## [更新您的合作夥伴設定檔](update-your-partner-profile.md)
+## [位置](manage-locations.md)
 ## [還原暫時停用的合作夥伴中心帳戶](suspended-partner-center-account.md)
 ## [建立使用者帳戶](create-user-accounts-and-set-permissions.md)
 ## [指派使用者角色和權限](permissions-overview.md)
