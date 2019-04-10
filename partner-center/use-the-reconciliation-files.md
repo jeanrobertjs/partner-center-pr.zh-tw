@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682506"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430197"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -23,6 +23,22 @@ ms.locfileid: "57682506"
 
 
 在計費週期中的每個收費詳細的明細項目檢視，請從合作夥伴中心下載的對帳檔案。 詳細資料包括每個客戶的訂閱費用，以及詳細事件 (例如，期中增加訂閱基座)。
+
+## <a name="formatting-issues"></a>格式化問題
+
+有時候您偵查的檔案可能會有格式問題。 （這種情形，例如，如果未使用 EN-US 地區設定。）請遵循下列步驟來修正這些問題。 
+
+<ol>
+<li>在 Excel 中開啟.csv 檔案，並選取第一個資料行。 在功能區中，選取<strong>資料</strong>，然後選取<strong>資料行的文字</strong>。</li>
+
+<li>在 [文字轉換為資料行精靈，選取<strong>分隔的檔案類型</strong>，然後選取<strong>下一步]</strong>。</li> 
+
+<li>在 [分隔符號] 欄位中，選取<strong>逗號</strong>。 如果<strong> 索引標籤</strong>是已選取，您可以將它保留。 選取 <strong>\[下一步\]</strong>。</li>
+
+<li>在 資料行的資料格式 欄位中，選取<strong>日期：MDY</strong>，然後選取<strong>下一步</strong>。</li> 
+
+<li>在 [資料行的資料格式] 欄位中，選取<strong>文字</strong>的所有 amount 資料行，然後選取<strong>完成</strong>。</li>
+</ol>
 
 ## <a href="" id="itemizebypartner"></a>由合作夥伴條列
 
@@ -72,7 +88,7 @@ ms.locfileid: "57682506"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>資料行</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>描述</strong></td>
 <td><strong>範例值</strong></td>
 </tr>
@@ -241,7 +257,7 @@ ms.locfileid: "57682506"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>資料行</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>描述</strong></td>
 <td><strong>範例值</strong></td>
 </tr>
@@ -902,13 +918,13 @@ ms.locfileid: "57682506"
 <tbody>
 <tr>
 <td>
-<p><strong>發票費用的描述</strong></p>
+<p><strong>發票費用描述</strong></p>
 </td>
 <td>
-<p><strong>對帳檔案費用描述 （ChargeType 資料行）</strong></p>
+<p><strong>對帳檔案費用描述（ChargeType 欄）</strong></p>
 </td>
 <td>
-<p><strong>此費用是什麼？</strong></p>
+<p><strong>這項費用是什麼？</strong></p>
 </td>
 <td>
 <p><strong>如何將這些 ChargeTypes 對應到發票？</strong></p>
@@ -916,7 +932,7 @@ ms.locfileid: "57682506"
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>以授權為基礎的費用</strong></p>
+<p><strong>授權型費用</strong></p>
 </td>
 <td>
 <p>啟用費用</p>
@@ -1025,7 +1041,7 @@ ms.locfileid: "57682506"
 </tr>
 <tr>
 <td>
-<p><strong>信用額度</strong></p>
+<p><strong>點數</strong></p>
 </td>
 <td>
 <p>明細項目位移</p>
@@ -1040,7 +1056,7 @@ ms.locfileid: "57682506"
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>基於使用方式的折扣</strong></p>
+<p><strong>用量型折扣</strong></p>
 </td>
 <td>
 <p>啟用折扣</p>
@@ -1081,10 +1097,10 @@ ms.locfileid: "57682506"
 
 <tr>
 <td>
-<p><strong>以授權為基礎的折扣</strong></p>
+<p><strong>授權型折扣</strong></p>
 </td>
 <td>
-<p><em>可套用至多個收費類型</em></p>
+<p><em>可套用至多個費用類型</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1114,8 @@ ms.locfileid: "57682506"
 <p><strong>稅金</strong>&nbsp;或&nbsp;<strong>加值稅</strong></p>
 </td>
 <td>
-<p><em>可套用至多個收費類型</em></p>
-<p><em>例外狀況：&quot;位移明細項目&quot;已經包含稅金。請參閱上面的信用額度。</em></p>
+<p><em>可套用至多個費用類型</em></p>
+<p><em>例外狀況：&quot;位移明細項目&quot;已經包含稅金。 請參閱上面的「點數」。</em></p>
 </td>
 <td>
 <p>稅金或加值稅 (VAT)</p>

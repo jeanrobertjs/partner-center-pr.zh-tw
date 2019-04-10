@@ -1,18 +1,18 @@
 ---
 title: Microsoft Cloud 合約客戶範本 |合作夥伴中心
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 03/11/2019
 description: 尋找並下載特定區域和語言版本的 Microsoft 雲端合約，若要檢閱與您的客戶。
 author: MaggiePucciEvans
 ms.author: evensma
 keywords: Microsoft 的雲端協議、 客戶協議範本、 CSP 客戶協議，Microsoft 雲端協議、 MCA，我可以販售透過 CSP 的 CSP，？，CSP 國家和地區，在多個語言中，CSP North America，CSP 中美洲，CSP 南部的 CSP MCAs北美洲、 CSP 加勒比海、 適用於美國政府、 CSP Microsoft Cloud Germany，CSP 中東、 CSP 非洲、 CSP 歐洲、 CSP 亞洲、 CSP 太平洋、 CSP MCAs CSP Microsoft 雲端
 ms.localizationpriority: medium
-ms.openlocfilehash: 5a7e0156136a52f9bfbaccbb76fc1316cb327c55
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
+ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320751"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430217"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>依地區和語言的 Microsoft Cloud 合約
 

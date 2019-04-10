@@ -2,16 +2,17 @@
 title: 更新您的合作夥伴設定檔 | 合作夥伴中心
 description: 當您第一次以系統管理員身分登入時，請確定支援詳細資料正確、回報免稅 (若適用)，並檢閱設定檔中的連絡人資訊。
 MS.Topic: article
-Date: 02/19/29
+Date: 02/19/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-MS.Author: evansma
-ms.openlocfilehash: 1e341d9209f59121d16c82a5b3bff752019e691c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.author: evansma
+ms.localizationpriority: medium
+ms.openlocfilehash: ff8f149adda67ae911870ead8f3c03ab35f5f1be
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587461"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430097"
 ---
 # <a name="update-your-partner-profile"></a>更新您的合作夥伴設定檔
 
@@ -24,7 +25,7 @@ ms.locfileid: "57587461"
 2.  在 \[支援\] 區段中，選取 \[更新\]。
 3.  如果您的任何客戶打電話給 Microsoft 尋求支援，Microsoft 會請他們轉向您在支援設定檔中列出的網站、電子郵件與電話連絡人資訊。
 
-**檔案稅務豁免**
+**回報免稅**
 
 -   決定您是否適用免稅。如果適用，請在您新增任何客戶或訂閱之前提出申請。 請參閱[稅金與免稅](tax-and-tax-exemptions.md)。
 

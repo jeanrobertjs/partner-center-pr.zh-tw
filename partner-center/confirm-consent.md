@@ -1,18 +1,18 @@
 ---
 title: 確認客戶接受 Microsoft Cloud 合約 | 合作夥伴中心
 ms.topic: article
-ms.date: 02/22/2019
+ms.date: 04/5/2019
 Description: 身為合作夥伴，您必須先讓您的客戶接受 Microsoft Cloud 合約，才能為該客戶訂購 Microsoft 產品和服務。 若要更好的說明合作夥伴符合合規性需求，Microsoft 會要求協力廠商確認接受藉由提供接受合約的人員有關的特定詳細資料。
 author: LauraBrenner
 ms.author: v-petand
 keywords: 客戶、 客戶同意，MCA、 Microsoft 雲端協議、 客戶協議範本
 ms.localizationpriority: medium
-ms.openlocfilehash: e8c4b66027eeb9e285bd09a4b77aaf9bb6574188
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587561"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430127"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>確認客戶接受 Microsoft Cloud 合約
 
@@ -33,58 +33,26 @@ ms.locfileid: "57587561"
 
 若要進一步了解，請參閱 Microsoft 雲端合約的客戶接受度確認[常見問題集](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)。
 
-## <a name="schedule"></a>排程
+直接帳單合作夥伴和間接提供者必須確認 Microsoft 雲端合約的客戶接受度，當交易透過合作夥伴中心 」 或 「 合作夥伴中心 API。 確認是*必要*的。
 
-**2018 年 8 月 7日日**
+如果未為指定客戶提供確認：
 
--   直接帳單合作夥伴和間接提供者可以確認客戶接受 Microsoft Cloud 合約。 確認是*選擇性*的。
+-   您將無法為此客戶建立新訂單。
 
--   客戶接受度的確認可以透過合作夥伴中心 」 或 「 合作夥伴中心 API。
+-   您將無法變更此客戶現有基座型訂閱的基座數目。
 
--   只有 Microsoft 公用雲端支援確認客戶接受。
+客戶接受度的確認可以透過合作夥伴中心 」 或 「 合作夥伴中心 API。 若要透過合作夥伴中心 API 這樣做，請參閱下列主題： 
 
+-   [取得客戶同意的確認](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
 
-**2018 年 11 月 7日日**
+-   [取得合約中繼資料](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
 
--   直接帳單合作夥伴和間接提供者**必須**交易透過合作夥伴中心儀表板時，請確認 Microsoft 雲端合約的客戶接受度。 確認是*必要*的。
-
--   如果未為指定客戶提供確認：
-
-    -   您將無法為此客戶建立新訂單。
-
-    -   您將無法變更此客戶現有基座型訂閱的基座數目。
-
--   客戶接受度的確認可以透過合作夥伴中心 」 或 「 合作夥伴中心 API。
-
--   只有 Microsoft 公用雲端支援確認客戶接受。
-
--   這適用於生產和沙箱環境。
-
-**2018 年 3 月 11日日**
-
-- 直接帳單合作夥伴和間接 Providersmust 確認 CSP 沙箱環境中，Microsoft 雲端協議的客戶接受度，當交易透過合作夥伴中心 API。
-- 如果未為指定客戶提供確認：
-
-    - 您無法建立此客戶使用合作夥伴中心 API 的新訂單。
- 
-    - 您無法變更此客戶使用合作夥伴中心 API 中以基座為基礎的現有訂閱的基座計數。
-- 只有 Microsoft 公用雲端支援確認客戶接受。 
-
-**12018 年 3 月 22 日**
-
-- 直接帳單合作夥伴和間接 Providersmust 確認 CSP 生產環境中，Microsoft 雲端協議的客戶接受度，當交易透過合作夥伴中心 API。
-
-- 如果未為指定客戶提供確認：
-  - 您無法建立此客戶使用合作夥伴中心 API 的新訂單。
-
-  - 您無法變更此客戶使用合作夥伴中心 API 中以基座為基礎的現有訂閱的基座計數。
--  只有 Microsoft 公用雲端支援確認客戶接受。
+-   [確認客戶同意](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
 
+只有 Microsoft 公用雲端支援確認客戶接受。
 
-
-
-
+這適用於生產和沙箱環境。
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>確認在合作夥伴中心內的客戶接受度
 
@@ -120,7 +88,7 @@ ms.locfileid: "57587561"
 
 3.  在 **\[Microsoft Cloud 合約\]** 下方，選取 **\[更新\]**。
 
-![更新](images/mca/mca4.png)
+![Update](images/mca/mca4.png)
 
 4.  輸入接受合約之使用者的 **\[名字\]**、**\[姓氏\]**、**\[電子郵件地址\]** 和 **\[電話號碼\]** (選用)。
 

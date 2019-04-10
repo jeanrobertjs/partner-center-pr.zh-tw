@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
-ms.openlocfilehash: bb750b740280d7ee66132b999c1cc24707cd2885
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584181"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430107"
 ---
 # <a name="incentives-co-op-claims-overview"></a>獎勵合作宣告概觀
 
@@ -20,7 +20,7 @@ ms.locfileid: "57584181"
 
 - 合作夥伴中心
 
-當您參與合作夥伴獎勵合作行銷資金 (合作) (Partner Incentives Cooperative Marketing Fund (Co-op)) 計畫，您可對提高 Microsoft 產品知名度的已舉辦活動申請補助賺取資金。 您送出的宣告，直接從合作夥伴中心。 提交宣告前，不再需要先由 Microsoft 審查您的活動計畫。 請在宣告期限截止日期 (也就是使用期限結束後 45 天) 前提交您的宣告和必要文件。 
+當您參與 Microsoft 獎勵的其中一個程式 （例如合作夥伴獎勵合作式行銷資金、 線上服務 Advisor 程式或 Dynamics ISV 方案） 時，宣告 reimbursements 實獲資金活動的已完成，支援 Microsoft 產品的注意度。 您送出的宣告，直接從合作夥伴中心。 提交宣告前，不再需要先由 Microsoft 審查您的活動計畫。 請在宣告期限截止日期 (也就是使用期限結束後 45 天) 前提交您的宣告和必要文件。 
 
 成功的宣告包括：
 
@@ -32,11 +32,12 @@ ms.locfileid: "57584181"
 >[!NOTE]
 >Microsoft 保留要求原始執行證明 (POE) 文件的權利。 請在活動日期後 24 個月內保留所有原始文件。 
 
-|**若要這樣做**   |**請閱讀本**   |
+|**動作**   |**請閱讀本文**   |
 |-----------------|:--------------------------------------|
-|提交宣告，並包含正確的文件|[建立和管理的獎勵計畫活動宣告](create-incentives-claims.md)|
-|提交宣告後，管理其他文件要求|[建立和管理的獎勵計畫活動宣告](create-incentives-claims.md)  |
-|確定您知道活動宣告的核心要求|[了解獎勵宣告核心需求](core-requirements.md)   |
-|了解完整的獎勵計畫詳細資料|[合作夥伴獎勵 Co-op 指南](https://assets.microsoft.com/coop-guidebook.pdf)
+|提交宣告，並包含正確的文件|[建立和管理獎勵計畫活動宣告](create-incentives-claims.md)|
+|提交宣告後，管理其他文件要求|[建立和管理獎勵計畫活動宣告](create-incentives-claims.md)  |
+|確定您知道活動宣告的核心要求|[了解獎勵宣告核心要求](core-requirements.md)   |
+|了解完整的獎勵計畫詳細資料|[合作夥伴獎勵合作指南](https://assets.microsoft.com/coop-guidebook.pdf)
+|提交 OSA 銷售費用宣告或 ISV 營收關聯宣告 |[提交您的 OSA 宣告在合作夥伴中心](submit-osa-claim.md)|
                                                                                  
                                    

@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 01594dab5515d2373cffef581dcdd6a786afea14
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585341"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430177"
 ---
 # <a name="manage-your-partner-center-account"></a>管理您的合作夥伴中心帳戶
 
@@ -31,10 +31,12 @@ ms.locfileid: "57585341"
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>可協助您管理合作夥伴中心帳戶的資源
 
-|**若要這樣做**   |**請閱讀本**   |
+|**動作**   |**請閱讀本文**   |
 |-----------------------|:-----------------------|
-|確定您公司的設定檔案是最新的   |[更新您的夥伴設定檔](update-your-partner-profile.md)|
-|公司必須能在合作夥伴中心內的每個人都必須被指派角色。 每個角色都有其適用的特定權限與工作。|[建立使用者帳戶，並設定權限](create-user-accounts-and-set-permissions.md)|
+|確定您公司的設定檔案是最新的   |[更新您的合作夥伴設定檔](update-your-partner-profile.md)|
+|公司必須能在合作夥伴中心內的每個人都必須被指派角色。 每個角色都有其適用的特定權限與工作。|[建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)|
+|檢閱每個角色需要的權限|[指派使用者角色和權限](permissions-overview.md)
+|管理您的公司位置|[管理您的夥伴帳戶：位置](manage-locations.md)
 |如果員工忘記他們的密碼，您必須加以重設  |[重設使用者密碼](reset-a-user-password.md)|
 |請務必行銷宣傳您的公司，讓客戶可以找到您   |[建立商務設定檔](create-a-marketing-profile.md)|
 |整理您的類別目錄，讓最重要的產品列在清單頂端。   |[自訂型錄](customize-the-catalog.md)|
