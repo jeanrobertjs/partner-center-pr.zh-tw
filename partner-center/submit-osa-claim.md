@@ -7,14 +7,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 獎勵宣告、 co-op 宣告、 co-op 資金，OSA、 ISV、 營收關聯
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d043d59c5ef96e42587d36e128e7d1f556c9c5b
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
+ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430634"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "59619304"
 ---
-#<a name="submit-your-osa-claims-in-partner-center"></a>提交您的 OSA 宣告在合作夥伴中心
+# <a name="submit-your-osa-claims-in-partner-center"></a>在合作夥伴中心提交您的 OSA 宣告
 
 **適用於**
 
@@ -28,17 +28,17 @@ ms.locfileid: "59430634"
 -   **您的銀行和稅務資訊**在合作夥伴中心輸入。 
 -   **符合 OSA 銷售的資格認證和營收需求**。 （如需詳細資訊，請參閱 OSA 銷售指南中，位於 aka.ms/partnerincentives OSA 一節）。這不適用於 Isv 搜尋只營收關聯。 
 
-##<a name="submitting-your-claim"></a>提交您的宣告
+## <a name="submitting-your-claim"></a>提交您的宣告
 
 您必須從交易的日期，來提交您宣告的 90 天。 如果您送出您宣告超過 90 天的交易之後，您將不會獲得銷售獎勵，從該銷售資料。 
 
 如果您是 ISV 合作夥伴，協助客戶選擇 Microsoft Dynamics 365 方案會影響您的解決方案，您還能夠宣告營收關聯。   
 
-##<a name="payment-schedule"></a>付款排程
+## <a name="payment-schedule"></a>付款排程
 
 您會收到核准的獎勵宣告獲得期結束後 45 天內的付款。 您必須將獲得的爭議付款週期結束後 90 天。 如需支付計算和方法的詳細資訊，請參閱 OSA 銷售指南中，位於 aka.ms/partnerincentives OSA 一節。
 
-##<a name="maintaining-your-program-eligibility"></a>維護您計劃的資格
+## <a name="maintaining-your-program-eligibility"></a>維護您計劃的資格
 
 Microsoft 的線上服務 Advisor 銷售誘因促使人們收入、 計算及付款，請以每個月評估的資格。 Microsoft 才能核准並發行獎勵的付款，您必須符合特定的資格準則。 如需詳細資訊，請參閱 OSA 銷售指南中，位於 aka.ms/partnerincentives OSA 一節。
 
@@ -60,7 +60,9 @@ Microsoft 的線上服務 Advisor 銷售誘因促使人們收入、 計算及付
 
 5.  選取您想要與這個宣告中，建立關聯，然後選取 訂用的帳戶**繼續**。
 
->[!附註] 確認，名稱和地理區域無誤，然後再選取 [訂用帳戶。 
+>[!NOTES]
+
+>請確認該名稱和地理區域無誤，然後再選取 訂用帳戶。 
 
 >其他線上服務的建議程式相關聯的訂用帳戶會以黃色三角形標記。 您仍然可以選擇要與其建立關聯。 
 
@@ -76,7 +78,7 @@ Microsoft 的線上服務 Advisor 銷售誘因促使人們收入、 計算及付
 
 若要檢視您的盈餘和付款資料，請參閱支出和報告。 
  
-#<a name="submit-an-isv-revenue-association-claim"></a>提交的 ISV 營收關聯宣告
+# <a name="submit-an-isv-revenue-association-claim"></a>提交的 ISV 營收關聯宣告
 
 1.  在 [概觀] 頁面下**獎勵的所有程式**，選取**OSA**。
 
@@ -86,7 +88,9 @@ Microsoft 的線上服務 Advisor 銷售誘因促使人們收入、 計算及付
 
 4.  選取您想要與此宣告產生關聯，然後選取 訂用的帳戶**繼續**。
 
->[!附註] 確認，名稱和地理區域無誤，然後再選取 [訂用帳戶。 
+>[!NOTES]
+
+>請確認該名稱和地理區域無誤，然後再選取 訂用帳戶。 
 
 >無法重新關聯已與您的公司相關聯的訂用帳戶。  
 
