@@ -1,23 +1,29 @@
 ---
 title: 確認客戶接受 Microsoft Cloud 合約 | 合作夥伴中心
 ms.topic: article
-ms.date: 04/5/2019
+ms.date: 04/16/2019
 Description: 身為合作夥伴，您必須先讓您的客戶接受 Microsoft Cloud 合約，才能為該客戶訂購 Microsoft 產品和服務。 若要更好的說明合作夥伴符合合規性需求，Microsoft 會要求協力廠商確認接受藉由提供接受合約的人員有關的特定詳細資料。
 author: LauraBrenner
 ms.author: v-petand
 keywords: 客戶、 客戶同意，MCA、 Microsoft 雲端協議、 客戶協議範本
 ms.localizationpriority: medium
-ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430127"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "59652250"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>確認客戶接受 Microsoft Cloud 合約
 
 **適用於**
 -  合作夥伴中心
+
+> [!NOTE]
+> 合作夥伴中心，Microsoft 公用雲端中只是目前支援協議的資源。 不適用：
+> * 由 21Vianet 營運的合作夥伴中心
+> * Microsoft Cloud 德國合作夥伴中心
+> * Microsoft Cloud for US Government 適用的合作夥伴中心
 
 身為合作夥伴，您必須先讓您的客戶接受 Microsoft Cloud 合約，才能為該客戶訂購 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的下列相關詳細資料，以確認接受： 
 
@@ -27,7 +33,7 @@ ms.locfileid: "59430127"
 
 -   電子郵件地址
 
--   電話號碼
+-   電話號碼 (選用)
 
 -   接受日期
 
@@ -49,8 +55,6 @@ ms.locfileid: "59430127"
 
 -   [確認客戶同意](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
-
-只有 Microsoft 公用雲端支援確認客戶接受。
 
 這適用於生產和沙箱環境。
 
