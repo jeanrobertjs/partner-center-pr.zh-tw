@@ -8,10 +8,10 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 86397bcbf16935499049c842d5b3fd32caeb2261
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430167"
 ---
 # <a name="tax-and-tax-exemptions"></a>稅金與免稅
@@ -24,7 +24,7 @@ ms.locfileid: "59430167"
 
 因為雲端解決方案提供者是專注於合作夥伴經銷產品的銷售通路，因此 Microsoft 並非一律受要求在合作夥伴的發票上收取營業稅。 相關規定因國家/地區而異。 合作夥伴應根據其所在地區與其客戶的所在地，與其稅務顧問提出適當的免稅辦法。 合作夥伴若要將其 Microsoft 銷售帳戶列為免稅，則應將其免稅憑證傳送給 Microsoft。
 
-**提出免稅**
+**檔案免稅證明**
 
 1.  查閱您**Microsoft ID**在合作夥伴中心&gt;**帳戶設定** &gt; **組織設定檔**。
 2.  查閱您**MPN 識別碼**在合作夥伴中心&gt;**帳戶設定** &gt; **夥伴設定檔**。

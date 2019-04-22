@@ -6,12 +6,12 @@
 ### [行動寶盒](mpn-get-action-pack.md)
 ### [續訂您的優惠方案](renew-mpn-offers.md)
 ## [專長認證](learn-about-competencies.md)
-## [優點](manage-your-partner-network-benefits.md)
+## [權益](manage-your-partner-network-benefits.md)
 ## [軟體保證計畫](software-assurance-lp.md)
 ### [合作夥伴中心的軟體保證訓練憑券 (SATV) 計畫](software-assurance-satv.md)
 ### [使用合作夥伴中心的憑券驗證及兌換工具來驗證、保留和兌換憑券](voucher-validation-tool.md)
 ### [常見問題集：使用憑券驗證及兌換工具](vvr-faq.md)
-### [合作夥伴中心的軟體保證規劃服務 ](software-assurance-dps.md)
+### [合作夥伴中心的軟體保證規劃服務](software-assurance-dps.md)
 
 # [雲端解決方案提供者](csp-overview.md)
 ## [註冊雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
@@ -22,7 +22,7 @@
 ## [CSP 地區市場及貨幣](regional-authorization-overview.md)
 
 
-## [適用於銷售 (sell-in) 國家/地區雲端](csp-national-clouds-overview.md)
+## [適用於銷售 (sell-in) 國家/地區雲](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)
 
@@ -39,8 +39,8 @@
 ## [定價與方案](pricing-and-offers.md)
 ## [自訂型錄](customize-the-catalog.md)
 
-# [讓企業茁壯](grow-your-business.md)
-## [轉介](referrals.md)
+# [拓展您的業務](grow-your-business.md)
+## [推薦](referrals.md)
 ### [建立商務設定檔](create-a-marketing-profile.md)
 ### [回應推薦](responding-to-referrals.md)
 ## [獎勵宣告](claims-overview.md)
@@ -112,8 +112,8 @@
 
 
 # [取得來自 Microsoft 的支援](support-from-microsoft.md)
-## [回報合作夥伴中心的問題](report-problems-with-partner-center.md)
-## [代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)
+## [報告合作夥伴中心的問題](report-problems-with-partner-center.md)
+## [代表客戶回報問題](report-problems-on-behalf-of-a-customer.md)
 ## [使用 API 取得自動化服務通知](get-automated-service-notifications-with-our-apis.md)
 
 # [為客戶提供支援](customer-support.md)

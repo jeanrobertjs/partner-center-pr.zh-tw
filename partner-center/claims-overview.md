@@ -8,10 +8,10 @@ ms.author: labrenne
 keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
 ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430107"
 ---
 # <a name="incentives-co-op-claims-overview"></a>獎勵合作宣告概觀
@@ -32,12 +32,12 @@ ms.locfileid: "59430107"
 >[!NOTE]
 >Microsoft 保留要求原始執行證明 (POE) 文件的權利。 請在活動日期後 24 個月內保留所有原始文件。 
 
-|**動作**   |**請閱讀本文**   |
+|**若要這樣做**   |**請閱讀本**   |
 |-----------------|:--------------------------------------|
-|提交宣告，並包含正確的文件|[建立和管理獎勵計畫活動宣告](create-incentives-claims.md)|
-|提交宣告後，管理其他文件要求|[建立和管理獎勵計畫活動宣告](create-incentives-claims.md)  |
-|確定您知道活動宣告的核心要求|[了解獎勵宣告核心要求](core-requirements.md)   |
-|了解完整的獎勵計畫詳細資料|[合作夥伴獎勵合作指南](https://assets.microsoft.com/coop-guidebook.pdf)
+|提交宣告，並包含正確的文件|[建立和管理的獎勵計畫活動宣告](create-incentives-claims.md)|
+|提交宣告後，管理其他文件要求|[建立和管理的獎勵計畫活動宣告](create-incentives-claims.md)  |
+|確定您知道活動宣告的核心要求|[了解獎勵宣告核心需求](core-requirements.md)   |
+|了解完整的獎勵計畫詳細資料|[合作夥伴獎勵 Co-op 指南](https://assets.microsoft.com/coop-guidebook.pdf)
 |提交 OSA 銷售費用宣告或 ISV 營收關聯宣告 |[提交您的 OSA 宣告在合作夥伴中心](submit-osa-claim.md)|
                                                                                  
                                    

@@ -9,10 +9,10 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430177"
 ---
 # <a name="manage-your-partner-center-account"></a>管理您的合作夥伴中心帳戶
@@ -31,7 +31,7 @@ ms.locfileid: "59430177"
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>可協助您管理合作夥伴中心帳戶的資源
 
-|**動作**   |**請閱讀本文**   |
+|**若要這樣做**   |**請閱讀本**   |
 |-----------------------|:-----------------------|
 |確定您公司的設定檔案是最新的   |[更新您的合作夥伴設定檔](update-your-partner-profile.md)|
 |公司必須能在合作夥伴中心內的每個人都必須被指派角色。 每個角色都有其適用的特定權限與工作。|[建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)|

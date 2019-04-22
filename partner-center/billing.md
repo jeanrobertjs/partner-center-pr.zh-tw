@@ -9,10 +9,10 @@ ms.author: evansma
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
 ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430117"
 ---
 # <a name="billing"></a>帳單
@@ -38,11 +38,11 @@ ms.locfileid: "59430117"
 -   將包含所有費用的單一帳單傳送給客戶。
 
 ## <a name="billing-resources"></a>帳單資源
-|**如需相關資訊**   |**請閱讀本文**    |
+|**如需有關資訊**   |**請閱讀本**    |
 |:-----------------------------|:-----------------|
 |帳單、付款、發票等基本知識   |[帳單基本知識](billing-basics.md)
-|許多新的計費功能，例如年度計費   |[新計費功能的常見問題集](faq-about-new-billing-features.md)|
-|類型的計費   |[了解計費合作夥伴中心中的類型](billing-different-types.md)   |
+|許多新的計費功能，例如年度計費   |[新的計費功能的相關常見問題集](faq-about-new-billing-features.md)|
+|類型的計費   |[了解合作夥伴中心的帳單類型](billing-different-types.md)   |
 |閱讀帳單的要訣   |[閱讀您的帳單](read-your-bill.md)   |
 |如何閱讀和使用對帳檔案   |[使用對帳檔案](use-the-reconciliation-files.md)|
 |一般帳單案例 (可在[新計費功能的常見問題集](faq-about-new-billing-features.md)中尋找其他帳單案例)|[常見帳單案例](common-billing-scenarios.md)|

@@ -8,10 +8,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430197"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
@@ -88,7 +88,7 @@ ms.locfileid: "59430197"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>資料行</strong></td>
 <td><strong>描述</strong></td>
 <td><strong>範例值</strong></td>
 </tr>
@@ -257,7 +257,7 @@ ms.locfileid: "59430197"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>資料行</strong></td>
 <td><strong>描述</strong></td>
 <td><strong>範例值</strong></td>
 </tr>
@@ -918,13 +918,13 @@ ms.locfileid: "59430197"
 <tbody>
 <tr>
 <td>
-<p><strong>發票費用描述</strong></p>
+<p><strong>發票費用的描述</strong></p>
 </td>
 <td>
-<p><strong>對帳檔案費用描述（ChargeType 欄）</strong></p>
+<p><strong>對帳檔案費用描述 （ChargeType 資料行）</strong></p>
 </td>
 <td>
-<p><strong>這項費用是什麼？</strong></p>
+<p><strong>此費用是什麼？</strong></p>
 </td>
 <td>
 <p><strong>如何將這些 ChargeTypes 對應到發票？</strong></p>
@@ -932,7 +932,7 @@ ms.locfileid: "59430197"
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>授權型費用</strong></p>
+<p><strong>以授權為基礎的費用</strong></p>
 </td>
 <td>
 <p>啟用費用</p>
@@ -1041,7 +1041,7 @@ ms.locfileid: "59430197"
 </tr>
 <tr>
 <td>
-<p><strong>點數</strong></p>
+<p><strong>信用額度</strong></p>
 </td>
 <td>
 <p>明細項目位移</p>
@@ -1056,7 +1056,7 @@ ms.locfileid: "59430197"
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>用量型折扣</strong></p>
+<p><strong>基於使用方式的折扣</strong></p>
 </td>
 <td>
 <p>啟用折扣</p>
@@ -1097,10 +1097,10 @@ ms.locfileid: "59430197"
 
 <tr>
 <td>
-<p><strong>授權型折扣</strong></p>
+<p><strong>以授權為基礎的折扣</strong></p>
 </td>
 <td>
-<p><em>可套用至多個費用類型</em></p>
+<p><em>可套用至多個收費類型</em></p>
 </td>
 <td>
 <p></p>
@@ -1114,8 +1114,8 @@ ms.locfileid: "59430197"
 <p><strong>稅金</strong>&nbsp;或&nbsp;<strong>加值稅</strong></p>
 </td>
 <td>
-<p><em>可套用至多個費用類型</em></p>
-<p><em>例外狀況：&quot;位移明細項目&quot;已經包含稅金。 請參閱上面的「點數」。</em></p>
+<p><em>可套用至多個收費類型</em></p>
+<p><em>例外狀況：&quot;位移明細項目&quot;已經包含稅金。請參閱上面的信用額度。</em></p>
 </td>
 <td>
 <p>稅金或加值稅 (VAT)</p>

@@ -8,13 +8,13 @@ ms.author: labrenne
 keywords: 教育訓練憑券，軟體保證、 訓練、 驗證憑券，保留憑券
 ms.localizationpriority: medium
 ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58863986"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>常見問題集：使用憑證驗證及兌換的工具 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>常見問題集：使用憑券驗證及兌換工具 
 
 **適用於**
 
@@ -36,7 +36,7 @@ ms.locfileid: "58863986"
 - 請連絡[PMC 支援小組](mailto:proghelp@microsoft.com)。 
 
 
-**我的公司從 PMC 移轉到合作夥伴中心。 我需要採取任何動作特有 VVR 中運作？** 
+**我的公司從 PMC 移轉到合作夥伴中心。我需要採取任何動作特有 VVR 中運作？** 
 
 - 您可以在合作夥伴中心內使用 VVR。  若要使用 VVR，MPN 合作夥伴系統管理員可以登入合作夥伴中心使用其公司帳戶電子郵件。 如果您想要新增新的使用者，全域系統管理員可以執行這項操作。 如果您需要存取合作夥伴中心，請移至**存取管理**，選取**使用者**，並篩選出**MPN 管理員**的**全域系統管理員**。這會讓您公司的 MPN 和全域管理員的清單。  
 

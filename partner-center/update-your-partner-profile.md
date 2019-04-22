@@ -8,10 +8,10 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: ff8f149adda67ae911870ead8f3c03ab35f5f1be
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430097"
 ---
 # <a name="update-your-partner-profile"></a>更新您的合作夥伴設定檔
@@ -25,7 +25,7 @@ ms.locfileid: "59430097"
 2.  在 \[支援\] 區段中，選取 \[更新\]。
 3.  如果您的任何客戶打電話給 Microsoft 尋求支援，Microsoft 會請他們轉向您在支援設定檔中列出的網站、電子郵件與電話連絡人資訊。
 
-**回報免稅**
+**檔案稅務豁免**
 
 -   決定您是否適用免稅。如果適用，請在您新增任何客戶或訂閱之前提出申請。 請參閱[稅金與免稅](tax-and-tax-exemptions.md)。
 
