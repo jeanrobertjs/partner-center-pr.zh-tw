@@ -6,11 +6,11 @@ description: 使用與其他的 CSP 轉銷商以提供服務給同一位客戶�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 751dee92243e5956849cf07dcdc680566660c5f3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583861"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132041"
 ---
 # <a name="work-with-other-partners"></a>與其他合作夥伴合作
 
@@ -23,6 +23,6 @@ ms.locfileid: "57583861"
 
 您仍然可以在合作夥伴中心內使用的多通路和 multipartner 支援此客戶銷售您的服務和解決方案。
 
--   [Multipartner](multipartner.md)
--   [Multichannel](multichannel.md)
+-   [多重合作夥伴](multipartner.md)
+-   [多重通路](multichannel.md)
 -   [要求與客戶建立經銷商關係](request-a-relationship-with-a-customer.md)

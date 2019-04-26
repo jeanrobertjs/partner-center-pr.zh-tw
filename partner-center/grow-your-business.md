@@ -1,18 +1,18 @@
 ---
 title: 拓展您的 Microsoft 合作夥伴業務 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 拓展 Microsoft 合作夥伴業務的相關資源。 包含如何透過 Microsoft 獲得業務潛在客戶 (推薦)。
 keywords: 推薦, 回應推薦, 潛在客戶, 業務潛在客戶, 行銷設定檔, 商務設定檔, 拓展您的業務, 業務機會, 專長認證, 銀級會員, 金級會員, 試用供應項目, 市場擴張, 國内雲
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 896d2214f9d036919298a847ce3f31f53f7a21ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 77146f87bb46a4d86ffd9966ed5c5ec860e0cdda
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586801"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135628"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>拓展您的 Microsoft 合作夥伴業務 
 
@@ -38,7 +38,7 @@ Microsoft 提供許多資源，協助您拓展合作夥伴業務。 了解 Micro
 | 提供 Microsoft 產品的試用訂閱給您的客戶 | 請閱讀[為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)以了解如何使用試用訂閱來提升目前客戶群的銷售量。| 雲端解決方案提供者合作夥伴 |
 | 提供 Microsoft 訂閱的促銷價格給您的客戶 | Microsoft 有時會在授權型訂閱上提供促銷，可讓您將結餘部分退還給客戶，並拓展業務。 請閱讀[提供 Microsoft 訂閱的促銷價格給您的客戶](promotions.md)以深入了解。 | 雲端解決方案提供者合作夥伴 |
 | 在其他市場銷售 | 雲端解決方案提供者銷售通路可以在許多國家/地區進行銷售。 請參閱[雲端解決方案提供者市場](agreements.md)以查看清單。 如需雲端解決方案提供者通路的簡介，請參閱[雲端解決方案提供者概觀](csp-overview.md)。  | 雲端解決方案提供者合作夥伴 |
-銷售給特色產業，例如非營利組織及教育機構|[銷售給特定的產業](get-special-pricing-for-offers.md)|雲端解決方案提供者合作夥伴|
+銷售給特色產業，例如非營利組織及教育機構|[銷售到特色產業](get-special-pricing-for-offers.md)|雲端解決方案提供者合作夥伴|
 |透過獎勵合作計畫中提供的眾多活動，拓展您的業務。 透過合作夥伴中心活動的檔案宣告。| [建立和管理獎勵宣告](create-incentives-claims.md)|雲端解決方案提供者合作夥伴|
-|販售 Azure Marketplace 產品的訂用帳戶|[販售 Azure Marketplace 產品的訂用帳戶](sell-marketplace-products.md)|雲端解決方案提供者合作夥伴|
+|銷售 Azure Marketplace 產品的訂閱|[銷售 Azure Marketplace 產品的訂閱](sell-marketplace-products.md)|雲端解決方案提供者合作夥伴|
 |是貴公司銷售和管理 Azure 超級明星嗎？ 套用至註冊 Azure 專家 Microsoft 服務提供者方案|[Azure 專家 Microsoft 服務提供者方案](azure-expert-msp.md)|雲端解決方案提供者合作夥伴|

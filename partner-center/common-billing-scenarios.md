@@ -1,19 +1,19 @@
 ---
 title: 常見帳單案例 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 這個主題將說明在您新增新訂閱、調整訂閱中的授權數目，或取消訂閱後帳單上應該會看見的項目。 針對用量型和授權型訂閱會有不同的影響。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 計費、 付款、 訂單、 使用量、 授權為基礎的計費、 週年日、 詞彙、 取消、 更新、 價格公式，對帳檔案和偵察檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f7820219110bfdbe153d8467da91e1d66d82341
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2a619356577345923cd78499d2ae5a1f3c6c1614
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585701"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135318"
 ---
 # <a name="common-billing-scenarios"></a>常見帳單案例
 

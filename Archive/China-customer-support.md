@@ -6,11 +6,11 @@ description: 最佳作法和您的客戶提供支援的需求。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: adce46be7073164bd285146bf8058bfa41a32709
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585781"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132538"
 ---
 # <a name="customer-support"></a>客戶支援
 
@@ -48,8 +48,8 @@ ms.locfileid: "57585781"
 
 **另請參閱**
 
--   [提供的技術支援](provide-technical-support.md)
--   [提供計費支援](provide-billing-support.md)
+-   [提供技術支援](provide-technical-support.md)
+-   [提供帳單支援](provide-billing-support.md)
 -   [客戶自我支援](customer-self-support.md)
 
  

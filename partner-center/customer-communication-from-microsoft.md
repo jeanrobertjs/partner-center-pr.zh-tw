@@ -1,19 +1,19 @@
 ---
 title: Microsoft 的客戶通訊 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 在一般情況下，我們希望與客戶的所有通訊交流都是來自「雲端解決方案提供者」合作夥伴。
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 通訊, 客戶通訊, 與 Microsoft 對話
 ms.localizationpriority: medium
-ms.openlocfilehash: fbb5e9fab5ae9a92218988f0ff1465443d9a4eac
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 8dc78c78418c3d111ad83bc4a5ef5e304a0b90e7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586671"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134698"
 ---
 # <a name="customer-communication-from-microsoft"></a>Microsoft 的客戶通訊
 

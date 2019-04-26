@@ -1,18 +1,18 @@
 ---
 title: 要求與客戶建立關係 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 要求關係是用於多重合作夥伴和多重通路案例。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585191"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133978"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作夥伴中心中與客戶保持聯繫
 
@@ -61,7 +61,7 @@ ms.locfileid: "57585191"
 | 在適用於美國政府的 Microsoft 雲端合作夥伴中心內的客戶 | Microsoft Office 系統管理入口網站 | Microsoft Office 系統管理入口網站 |
 |
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 - [指派支援連絡人](assign-support-contacts.md)
 - [移除與客戶的關聯性](remove-a-relationship.md)

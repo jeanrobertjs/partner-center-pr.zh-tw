@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: 獎勵宣告、 co-op 宣告、 co-op 資金，OSA、 ISV、 營收關聯、 網域名稱，目錄識別碼
 ms.localizationpriority: medium
 ms.openlocfilehash: 1a267de71c050ede872feaf6e1b24588fba74792
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430637"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135648"
 ---
 #<a name="find-your-customers-domain-name-and-directory-id"></a>尋找您的客戶的網域名稱和目錄識別碼
 

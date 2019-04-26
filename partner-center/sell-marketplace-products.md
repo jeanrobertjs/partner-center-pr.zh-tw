@@ -8,11 +8,11 @@ ms.author: jenhayes
 keywords: 訂用帳戶，Marketplace 中，第三方 ISV
 ms.localizationpriority: medium
 ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: 41b6e677db10ef8e5d12f9240d3450f085ee6d91
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "60124269"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133828"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>銷售 Azure Marketplace 產品的訂閱
 

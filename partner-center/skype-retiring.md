@@ -1,19 +1,19 @@
 ---
 title: 將商務用 Skype Online 方案 1 訂閱移轉至較新的 Office 365 版本 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 轉換客戶即將過期的 Skype for Business Online 方案 1 訂用帳戶支援的 SKU 選項。 我們建議您將客戶移至新的訂用帳戶，訂用帳戶的每年的結束日期之前。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 商務用 Skype 方案, 淘汰 Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e71e6b05b5ea489b2b6b486f388f5c575dfd02c5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586101"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133914"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>將商務用 Skype Online 方案 1 訂閱移轉至較新的 Office 365 版本
 

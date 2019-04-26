@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: 訓練、 憑單工具、 驗證憑券，軟體保證的宣告，DP SATV
 ms.localizationpriority: medium
 ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587831"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132648"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>使用合作夥伴中心的憑券驗證及兌換工具來驗證、保留和兌換憑券 
 

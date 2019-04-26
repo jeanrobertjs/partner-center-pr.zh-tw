@@ -6,11 +6,11 @@ description: 如何建立使用者帳戶需要合作夥伴中心的存取權的�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: a96c7fedacbb177c93ae19c5ff4f1a241905be4b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584441"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132370"
 ---
 # <a name="create-user-accounts-and-set-permissions"></a>建立使用者帳戶與設定權限
 

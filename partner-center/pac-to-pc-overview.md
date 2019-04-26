@@ -1,18 +1,18 @@
 ---
 title: 準備從合作夥伴系統管理中心移往合作夥伴中心 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Office 365 合作夥伴系統管理中心功能即將移轉到合作夥伴中心。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC、 Office 365 Advisor、 顧問、 同步發行合作夥伴，PAC 淘汰，PAC 淘汰
 ms.localizationpriority: medium
-ms.openlocfilehash: d96eca0fcaccc58745f77963e664dc830fcbfe97
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 738e8a87ae75c61c32f571db1c5af529c3d3d216
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587421"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134208"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作夥伴系統管理中心會移至合作夥伴中心
 

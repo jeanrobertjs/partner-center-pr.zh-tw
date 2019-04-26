@@ -1,19 +1,19 @@
 ---
 title: 客戶帳戶的使用者管理工作 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 在您為客戶購買新的訂閱之後，您就可以指派授權給特定使用者。
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 客戶管理帳戶，建立帳戶、 授權、 指派授權、 管理使用者、 密碼、 重設密碼、 變更密碼
 ms.localizationpriority: medium
-ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586751"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134868"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>客戶帳戶的使用者管理工作
 
@@ -93,7 +93,7 @@ ms.locfileid: "57586751"
 ## <a name="related-topics"></a>相關主題
 
 
-[指派或撤銷授權給多個使用者](bulk-license-provisioning-for-multiple-users.md)
+[指派或撤銷多個使用者的授權](bulk-license-provisioning-for-multiple-users.md)
 
 [建立針對客戶帳戶的多個使用者](adding-multiple-users-to-a-customer-account.md)
 

@@ -1,7 +1,7 @@
 ---
 title: 在 CSP 中與間接提供者建立合作關係 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 身為雲端解決方案提供者間接經銷商，您與間接提供者 (也稱為代理商) 合作，而後者與 Microsoft 有直接關係，而且可以提供客戶支援與帳單服務。
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: 間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 88b3bbccc6716696e3ad26034ca794459839b975
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587781"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134439"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接提供者成為合作夥伴
 
@@ -71,7 +71,7 @@ ms.locfileid: "57587781"
 
 6.  輸入您的 Partner Membership Center 帳戶密碼，然後選取 **\[登入\]**。
 
-7.  選取 MPN ID 連結至講義、會員權益和專長認證的組織設定檔，因此我們可以將此資訊移到您的合作夥伴中心帳戶。 選取 \[繼續\]。
+7.  選取 MPN ID 連結至講義、會員權益和專長認證的組織設定檔，因此我們可以將此資訊移到您的合作夥伴中心帳戶。 選取 **繼續**。
 
 如果在此頁面上未列出您想要使用 MPN ID，選取 **\[取消\]**，並以您想要使用的組織設定檔的使用者名稱和密碼，再試一次登入。 
 > [!IMPORTANT]  

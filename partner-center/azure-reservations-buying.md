@@ -1,19 +1,19 @@
 ---
 title: 代表您的客戶購買 Microsoft Azure Reservations | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 您可以購買 Azure 保留的項目代表您的客戶在合作夥伴中心。
 author: LauraBrenner
 ms.author: v-petand
 keywords: azure, 保留區, 管理, 計費, 購買
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8ee2fcf44d66001d3c8a7323467bda22bc5b2b6b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bf9d3bf1869a151172931f100cf10b28a7d75f27
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584711"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134678"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>購買 Microsoft Azure 保留項目代表您的客戶在合作夥伴中心 
 
@@ -103,7 +103,7 @@ ms.locfileid: "57584711"
 
     b. 選擇**預約**從產品**型別**清單。
 
-    c. 選擇的客戶想從保留的項目類型**保留項目型別**清單。
+    c.  選擇的客戶想從保留的項目類型**保留項目型別**清單。
 
 4. Azure Reservations 必須關聯至有效的 Azure 訂閱。 選擇您想要新增 Azure 保留項目要從客戶的訂用帳戶**客戶訂用帳戶**清單。 
 

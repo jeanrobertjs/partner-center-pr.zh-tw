@@ -1,19 +1,19 @@
 ---
 title: Microsoft Azure VM 調整大小的最大保留使用情況 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 代表您的客戶購買 Microsoft Azure Reservations 時，您需要選擇符合客戶運算需求的虛擬機器 (VM) 大小。
 author: LauraBrenner
 ms.author: v-petand
 keywords: azure, 保留區, vm, 管理, 使用率, 調整大小
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cbe24b3da0b9cadf1ed9e8d9f06b5b575bf16d22
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9a398b73cf00bd71130d25f0ec94a33b457e216b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586961"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135514"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率 
 
@@ -108,7 +108,7 @@ ms.locfileid: "57586961"
     
     b.  如果保留區使用率是 0%，表示折扣不適用於任何虛擬機器。 
     
-    c.  如果保留區使用率介於 1% 和 99% 之間，表示有未使用的權益。 
+    c.   如果保留區使用率介於 1% 和 99% 之間，表示有未使用的權益。 
 
 5.  若要避免發生這種情形，請在購買之前正確判斷支援客戶運算需求的 VM 大小。
 

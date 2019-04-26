@@ -1,18 +1,18 @@
 ---
 title: 適用於 Power BI 的合作夥伴中心分析應用程式 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 使用適用於 Power BI 的合作夥伴中心分析應用程式 (適用於雲端解決方案提供者中的直接合作夥伴)。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 59e5ce944429a74ab9090952eb877187b169ce08
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 085fcb059a11b487c69ba64d9c411b173ed48c6b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587481"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134568"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>使用適用於 Microsoft Power BI 的合作夥伴中心分析應用程式來檢視業務資料
 
@@ -160,7 +160,7 @@ ms.locfileid: "57587481"
 
 - **所選時段的估計 Azure 資源的使用量成本**:根據針對每個計量的資源，在每個使用中的最新費率卡片的估計的成本會依過去的 60 天內的所選時段的訂用帳戶。 
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 [合作夥伴中心分析 Power BI 應用程式概觀](power-bi-app-for-direct-partners.md)
 

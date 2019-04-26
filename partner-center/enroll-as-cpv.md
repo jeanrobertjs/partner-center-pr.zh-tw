@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: 控制面板廠商、 註冊 CPV 應用程式、 管理 CPV 應用程式
 ms.localizationpriority: medium
 ms.openlocfilehash: 7d00cfc7addf120a3b42597cda3758597533dd5e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586051"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135558"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>與控制項面板供應商在合作夥伴中心註冊
 
@@ -27,7 +27,7 @@ ms.locfileid: "57586051"
 檢閱[Microsoft 控制項面板廠商協議](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>在合作夥伴中心內的工作
+## <a name="working-in-partner-center"></a>合作夥伴中心內的工作
 一旦您已在合作夥伴中心 CPV 體驗中註冊，並接受 CPV 協議，您可以：
 
 - 管理 （新增至 Azure 入口網站的應用程式註冊和取消註冊在合作夥伴中心內的應用程式） 的多租用戶應用程式。

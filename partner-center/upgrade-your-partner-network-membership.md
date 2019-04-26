@@ -1,18 +1,18 @@
 ---
 title: 升級您的 Microsoft 合作夥伴網路會員資格 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 當您升級 Microsoft 合作夥伴網路會員資格時，有資格獲得專屬會員資格權益。 了解如何尋找並購買可用的優惠。
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5322b85cf8fb57d1c8cc203d39a3412f3e119772
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c7d6639ef747c0089e89565680e96a22408770cb
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587671"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132858"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升級您的 Microsoft 合作夥伴網路會員資格
 

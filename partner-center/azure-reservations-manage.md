@@ -1,19 +1,19 @@
 ---
 title: 代表您的客戶管理 Azure Reservations | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 若要管理您客戶的 Azure 保留的項目在購買後，您將選取的客戶和您想要管理在合作夥伴中心內的保留項目，並接著在 Azure 入口網站中的保留項目中進行變更。
 author: LauraBrenner
 ms.author: v-petand
 keywords: azure 中，保留項目，管理、 計費、 購買、 取消、 exchange、 提前解約金
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: de1846b6259764b40059ece1d311e5f63587a525
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584501"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134788"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表您的客戶管理 Microsoft Azure Reservations
 
@@ -35,7 +35,7 @@ ms.locfileid: "57584501"
     |:-----------------------------|:-----------------|
     | **概觀**   | 檢視客戶保留區的詳細資料，包括到期日期、範圍和使用率資料。 **注意** 選擇 **\[退款\]** 可建立按比例計算的退款支援要求。 選取 **\[交換\]** 可建立交換未使用的保留區期限的支援要求。  
     | **存取控制 (IAM)**   | 管理客戶保留區資訊的存取權。|
-    | **組態**   | 變更保留區的範圍和/或保留區相關聯的 Azure 訂閱。    |
+    | **設定**   | 變更保留區的範圍和/或保留區相關聯的 Azure 訂閱。    |
     | **屬性**   | 檢視保留區的屬性，並將保留區識別碼和保留區訂單識別碼複製到剪貼簿。 **注意** 當您代表客戶要求支援時，支援人員可能會請您提供保留區識別碼和保留區訂單識別碼。    |
     | **新的支援要求**    | 向 Microsoft 支援服務要求協助。   |
  

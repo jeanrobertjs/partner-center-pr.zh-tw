@@ -6,11 +6,11 @@ description: 您可以預期當您註冊在 21Vianet 中國雲端解決方案提
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 915db47a21e2fd4f3f484c7bfc82eb3fb35ae1f0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584421"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132178"
 ---
 # <a name="enroll-in-the-21vianet-china-csp-reseller-program"></a>21Vianet 中國 CSP 轉銷商程式註冊
 
@@ -37,7 +37,7 @@ ms.locfileid: "57584421"
 
 2. 使用您組織的工作或學校帳戶的全域管理員認證登入，或選取**建立一個**來建立新的工作或學校帳戶。
 
-3. 在 **建立合作夥伴中心帳戶**頁面中填入您的組織詳細資料，然後輸入您想要具有合作夥伴中心全域系統管理員權限且可存取您組織中人員的詳細資料。 選取 \[繼續\]。
+3. 在 **建立合作夥伴中心帳戶**頁面中填入您的組織詳細資料，然後輸入您想要具有合作夥伴中心全域系統管理員權限且可存取您組織中人員的詳細資料。 選取 **繼續**。
 
     >**注意**<br>您所建立的第一個合作夥伴中心帳戶將會是全域系統管理員帳戶。 全域系統管理員在合作夥伴中心中的所有系統管理功能的存取，因此只有系統管理員可以指派其他管理員角色。 雖然您可以將一個以上的全域系統管理員在您的組織，我們建議只在公司內幾位人員擁有此角色，以降低企業風險。
     

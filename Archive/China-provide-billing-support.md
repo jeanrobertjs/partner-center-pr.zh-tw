@@ -6,11 +6,11 @@ description: 您與您的客戶之間擁有帳單關係，且為您客戶的任�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: a345a5594fd0f8cc58910863a7162b96eec37f17
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585761"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132448"
 ---
 # <a name="provide-billing-support"></a>提供帳單支援
 
@@ -31,7 +31,7 @@ ms.locfileid: "57585761"
 
 **另請參閱**
 
--   [非付款、 詐騙或不當使用](non-payment-fraud-or-misuse.md)
--   [提供的技術支援](provide-technical-support.md)
+-   [未付款、詐騙或濫用](non-payment-fraud-or-misuse.md)
+-   [提供技術支援](provide-technical-support.md)
 -   [客戶支援](customer-support.md)
 

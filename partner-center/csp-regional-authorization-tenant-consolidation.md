@@ -1,19 +1,19 @@
 ---
 title: 雲端解決方案提供者地區授權租用戶彙總 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 請依照下列指示合併不同國家/地區的租用戶。
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 移轉客戶, 佈建, 租用戶帳戶, 合併租用戶
 ms.localizationpriority: medium
-ms.openlocfilehash: 183b5f518a57fdaf27badce5927a2ea09a5ec89c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c2226fea4523b5f34a2cb1b5fcfcde88048dda82
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587551"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134768"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>雲端解決方案提供者地區授權租用戶彙總
 

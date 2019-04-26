@@ -6,11 +6,11 @@ description: 您須承擔因客戶以詐騙方式購買和/或已購買服務客
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d63f909e8728296eed88543988f595b62e8dc3a7
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583851"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132548"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未付款、詐騙或濫用
 
@@ -46,7 +46,7 @@ ms.locfileid: "57583851"
 
 **另請參閱**
 
--   [提供計費支援](provide-billing-support.md)
+-   [提供帳單支援](provide-billing-support.md)
 -   [客戶支援](customer-support.md) 
 
  

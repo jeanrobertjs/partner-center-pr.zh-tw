@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: Azure，訂用帳戶，VM，保留，保留執行個體
 ms.localizationpriority: medium
 ms.openlocfilehash: 15de1f8ce78eca7eec34113eaf1115fa8c441edf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586401"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135398"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,7 +24,7 @@ ms.locfileid: "57586401"
  
 ## <a name="what-are-azure-reservations"></a>Azure 保留項目有哪些？
 
-Azure 保留的項目可協助您節省成本，藉由預先支付一年或三年的虛擬機器，SQL Database 的計算容量、 Azure Cosmos DB 的輸送量或其他 Azure 資源。 預先支付費用，可讓您獲得您所使用的資源上的折扣。 保留項目可以大幅減少您的虛擬機器，SQL database 計算，Azure Cosmos DB，和其他資源的成本高達 72%，相較於隨用隨付價格。 保留項目提供折扣價格計費，並不會影響您資源的執行階段狀態。如需詳細資訊，請參閱[什麼是 Azure 保留項目？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Azure 保留的項目可協助您節省成本，藉由預先支付一年或三年的虛擬機器，SQL Database 的計算容量、 Azure Cosmos DB 的輸送量或其他 Azure 資源。 預先付款可讓您獲得所用資源的折扣。 相較於隨付隨用價格，保留區可將虛擬機器、SQL Database 計算、Azure Cosmos DB 和其他資源的成本大幅降低至最多 72%。 保留項目提供折扣價格計費，並不會影響您資源的執行階段狀態。如需詳細資訊，請參閱[什麼是 Azure 保留項目？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>客戶購買保留的原因是？
 
@@ -47,7 +47,7 @@ Azure 保留的項目可協助您節省成本，藉由預先支付一年或三�
 - [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
 - [SQL 受管理的執行個體](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
 
-## <a name="getting-started"></a>開始使用
+## <a name="getting-started"></a>使用者入門
 
 若想了解如何針對您的客戶定位 Azure Reservations 以及盡快開始營運，建議採用下列方式來檢視整備材料：
 
@@ -65,11 +65,11 @@ Azure 保留的項目可協助您節省成本，藉由預先支付一年或三�
 
 **銷售的完備性**
 
-- [Azure 保留項目和主訂閱與 Azure Hybrid Benefit 概觀 （更新）](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
-- [銷售的工作表](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [夥伴常見問題集 （更新） 的 Azure 保留項目](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Azure 保留的項目和 SQL DB 的夥伴常見問題集](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Azure 的概觀 （新） 中的 SQL DB](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Azure Reservations 和伺服器訂閱搭配 Azure Hybrid Benefit 概觀 (更新版)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [銷售資料表](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+- [Azure Reservations 合作夥伴常見問題集 (更新版)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Azure Reservations 和 SQL DB 合作夥伴常見問題集](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Azure 中的 SQL DB 概觀 (新增)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Azure 定價概觀](https://azure.microsoft.com/pricing/#explore-cost)
 - [Azure 定價計算機](https://azure.microsoft.com/pricing/calculator/)
 - Azure 保留的項目價格清單-請參閱 Microsoft Azure 保留執行個體價格清單在合作夥伴中心[定價和供應項目](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)頁面。
@@ -86,12 +86,12 @@ Azure 保留的項目可協助您節省成本，藉由預先支付一年或三�
 **操作**
 
 - [現代商務作業指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（更新）：完整指南涵蓋索引鍵原則和作業的層面，例如協議，排序透過合作夥伴中心、 發票、 價格清單詳細資料、 獎勵，對帳檔案、 API 和 SDK、 沙箱和 Azure 合作夥伴共用服務。
-- [現代的供應項目國家/地區可用性和客戶貨幣矩陣](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [新式優惠國家/地區可用性和客戶貨幣矩陣](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [銷售 Microsoft Azure 保留的執行個體](https://go.microsoft.com/fwlink/?linkid=872806)
-- [購買 Microsoft Azure 保留您的客戶代表](https://go.microsoft.com/fwlink/?linkid=872807)
+- [代表您的客戶購買 Microsoft Azure Reservations](https://go.microsoft.com/fwlink/?linkid=872807)
 - [管理 Azure 的保留項目代表您的客戶](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Azure 保留的計費](https://go.microsoft.com/fwlink/?linkid=872809)
-- [VM 調整大小的最大保留使用情況](https://go.microsoft.com/fwlink/?linkid=872810)
+- [調整 VM 大小以提供最大保留區使用率](https://go.microsoft.com/fwlink/?linkid=872810)
 - [合作夥伴中心 API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 ## <a name="azure-hybrid-benefit"></a>Azure Hybrid Benefit

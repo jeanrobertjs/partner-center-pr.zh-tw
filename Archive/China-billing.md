@@ -6,11 +6,11 @@ description: 說明中國轉銷商的計費方式為提供給其客戶的服務�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: dc47dbe46be30b2306e242f14b98b19435264863
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584311"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62131378"
 ---
 # <a name="billing"></a>帳單
 
@@ -66,8 +66,8 @@ ms.locfileid: "57584311"
 </table>
 
 **另請參閱** 
--   [讀取您的帳單](read-your-bill.md)
--   [使用的對帳檔案](use-the-reconciliation-files.md)
--   [非付款、 詐騙或不當使用](non-payment-fraud-or-misuse.md)
+-   [閱讀您的帳單](read-your-bill.md)
+-   [使用對帳檔案](use-the-reconciliation-files.md)
+-   [未付款、詐騙或濫用](non-payment-fraud-or-misuse.md)
 -   [中國 CSP 定價與優惠](see-offers-and-pricing.md)
 

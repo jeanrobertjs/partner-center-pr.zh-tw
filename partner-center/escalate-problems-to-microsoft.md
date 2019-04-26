@@ -1,19 +1,19 @@
 ---
 title: 向上呈報問題給 Microsoft | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 我們預期您將會為客戶解決問題。 不過，有數個類別，您將需要遞交給 Microsoft，以修正問題。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0c1fc091212d70bf18337a9e17cc8f83cb61d4ae
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2dbec40da4b230a3a7d822c18ab3fbb02406f0ff
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586431"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135668"
 ---
 # <a name="escalate-problems-to-microsoft"></a>向上呈報問題給 Microsoft
 

@@ -1,19 +1,19 @@
 ---
 title: Microsoft 合作夥伴網路會員資格 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 了解成為 Microsoft 合作夥伴可獲得的權益。 Microsoft 合作夥伴網路提供下列選項讓您的商務，您最廣泛的產業，以及計劃中的產品上市，，及銷售您的解決方案。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格, 銀級, 金級, 專長認證
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584101"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134338"
 ---
 # <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
 
@@ -73,5 +73,5 @@ Microsoft 合作夥伴網路中將提供三種類型的成員資格，如下所�
 - [管理您的 MPN 權益在合作夥伴中心](manage-your-partner-network-benefits.md)
 - [核心需求](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 - [Microsoft 合作夥伴業務成長](grow-your-business.md)

@@ -1,17 +1,17 @@
 ---
 title: 成為貴公司的全域系統管理員 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 若要執行的許多工作在合作夥伴中心，您需要驗證您的網域擁有權。 在合作夥伴中心內的許多工作需要全域管理員。如果您的公司還沒有其中一個，您可能會變成其中一個。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 網域驗證的網域，請確認網域、 全域管理員、 使用者角色、 權限
-ms.openlocfilehash: bfce394c6ea098bb55a698efb3a2ac33816bd1e0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584111"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135408"
 ---
 # <a name="verify-your-domain-ownership"></a>確認您網域的擁有權
 

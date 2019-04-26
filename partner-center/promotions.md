@@ -1,21 +1,21 @@
 ---
 title: 使用促銷吸引新客戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 身為雲端解決方案提供者計畫的 Microsoft 合作夥伴，您可以用促銷定價購買訂閱，再將省下的金額回饋給您的客戶。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eb925008e19a1512cfb43b340d4ecfa6c16f0e0d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587431"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134658"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促銷吸引新客戶  
 
-**適用於：合作夥伴中心**
+適用於：**合作夥伴中心**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 

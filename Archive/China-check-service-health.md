@@ -6,11 +6,11 @@ description: 當客戶遇到服務發生問題時，您可以先做的其中一�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d2f17918f6679cbfb6c299dccec2f84855f1140d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584141"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62131998"
 ---
 # <a name="check-service-health"></a>檢查服務健康狀況
 

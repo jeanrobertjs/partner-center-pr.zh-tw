@@ -1,19 +1,19 @@
 ---
 title: 閱讀您的帳單 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 您的發票是目前每個月期間 (在程式、產品以及客戶) 的所有費用摘要。 即在合作夥伴中心。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9754127cf02d8c8a1098d4a3045b8960978483cc
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584541"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133958"
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -138,7 +138,7 @@ ms.locfileid: "57584541"
 
 |**欄位** |**定義**|
 |:----------------|:-----------------------------|
-|日期 |購買日期。 |
+|date |購買日期。 |
 |描述 |產品名稱。 |
 |數量 |購買的產品 (例如保留區) 數目。 |
 |單價 |產品 (例如保留區) 的單價。 |

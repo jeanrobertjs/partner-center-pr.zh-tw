@@ -10,11 +10,11 @@ fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
 ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587101"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134620"
 ---
 # <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>轉換到合作夥伴中心您合作夥伴的成員資格帳戶從 Partner Membership Center
 
@@ -56,7 +56,7 @@ ms.locfileid: "57587101"
 
   連接至您商務設定檔，以確保合作夥伴大學的持續的存取，並獲得專長認證的員工的學習認證。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 您已成功轉換您的帳戶，從 PMC 之後，請檢閱這些文章，以更熟悉合作夥伴中心。
 

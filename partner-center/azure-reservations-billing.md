@@ -1,19 +1,19 @@
 ---
 title: Azure Reservations 帳單 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Azure 保留的計費的相關資訊。
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure RI, azure 保留的執行個體, 保留區, vm, 管理, 帳單, 購買
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b32c0da58cefea764f7f0cb3adb6d3a13faa46b5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586901"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135418"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure 保留的 VM 執行個體帳單
 
@@ -58,7 +58,7 @@ ms.locfileid: "57586901"
 
 |**欄位** |**定義**|
 |:----------------|:-----------------------------|
-|日期 |購買日期。 |
+|date |購買日期。 |
 |描述 |產品名稱。 |
 |數量 |購買的產品 (例如保留區) 數目。 |
 |單價 |產品 (例如保留區) 的單價。 |

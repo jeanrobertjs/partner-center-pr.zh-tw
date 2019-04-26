@@ -1,17 +1,17 @@
 ---
 title: 將授權型服務客戶移轉到合作夥伴中心上的雲端解決方案提供者計畫 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 將客戶及其訂閱從其他管道或其他合作夥伴移動到雲端解決方案提供者計畫。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7277802d5e2aec6118a8334520be89602f15632a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b4e1e64eefeef3ac0bd70bb3eb300fe3caddf8f3
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587771"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132918"
 ---
 # <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>將授權型服務客戶從其他管道移轉到雲端解決方案提供者計畫，或從一個合作夥伴移動到另一個
 

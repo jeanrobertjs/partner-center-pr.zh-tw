@@ -1,17 +1,17 @@
 ---
 title: 合作夥伴獎勵現在位於合作夥伴中心 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 獎勵計畫可鼓勵合作夥伴開發新的行銷技術、提供訓練以及其他更多功能
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eb1e6dcfb32970a634a393d8ce33c1a6128458e5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587511"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134170"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>合作夥伴獎勵現在位於合作夥伴中心 
 
@@ -43,7 +43,7 @@ ms.locfileid: "57587511"
 
 **另請參閱**
 
-[建立使用者帳戶，並設定權限](create-user-accounts-and-set-permissions.md)
+[建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)
 
 [您變更暫時密碼](change-your-temporary-password.md)
 

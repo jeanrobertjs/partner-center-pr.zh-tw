@@ -1,18 +1,18 @@
 ---
 title: 購買或續約 Microsoft 行動套件 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 了解如何取得 Microsoft 行動套件，無論是首次購買還是續約。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 行動套件, MAPS, 續約 MAPS, 續約行動套件, 取得行動套件
 ms.localizationpriority: medium
-ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 552e288bb983b940d8211328553e6b33be242cb8
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587881"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134298"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>首次購買或續約 Microsoft 行動套件訂閱
 

@@ -9,11 +9,11 @@ Keywords: Azure 的銷售、 專業的程式、 合作夥伴計劃
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 4ad3ba4a5f8646b70ff2c8bd8aee950ff5c30339
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584211"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134548"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Azure 專家受控服務提供者方案
 

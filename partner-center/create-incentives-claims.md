@@ -1,19 +1,19 @@
 ---
 title: 建立和管理的獎勵宣告 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 從合作夥伴中心起始獎勵 co-op 宣告。 您可以在歷程記錄中查看在建置宣告過程中加入的所有活動。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c48761825888e646b689328772de400181d9a362
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: adccedd89123a2dbe40500cba11c63f832e6c8f5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586411"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134958"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>建立和管理獎勵宣告
 

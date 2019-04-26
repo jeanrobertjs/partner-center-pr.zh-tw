@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 供應項目，更新供應項目，新的 Dynamics 365 Sku
 ms.openlocfilehash: e5128abe71cfab4e2cdabb0cafcd5fd7df56b116
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586941"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134398"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>將 Dynamics 365 和 Customer Engagement Plan 從基本 （合格的供應項目） 移轉至較新版本
 
@@ -94,7 +94,7 @@ ms.locfileid: "57586941"
 2. 選取 \[使用者和授權\]。
 3. 若要重新指派授權給使用者時，選取的使用者，然後按**管理授權**。 
 4. 在 **管理授權** 頁面上，清除 Dynamics 365 for Sales / 客戶業務開發計劃 （限定優惠） 的 basic 授權核取方塊，然後選取 訂用帳戶客戶移至新的服務方案。 
-5. 選取 \[送出\]。 您將會針對每個需要新授權的使用者來這麼做。 
+5. 選取 **送出**。 您將會針對每個需要新授權的使用者來這麼做。 
 
 授權移動到新的訂用帳戶之後，您可以取消舊訂用帳戶。 
 

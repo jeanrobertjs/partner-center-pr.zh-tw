@@ -1,18 +1,18 @@
 ---
 title: 提供支援給您的客戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 合作夥伴應接受客戶提出的支援要求、盡其所能診斷問題，接著在基準支援界限範圍內解決問題。
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5050e4269de15d1f0fabe37e297e440fcfbd73d8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3e3a2eabdb02c41fe44750c967e7cfde3578fd29
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586111"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135478"
 ---
 # <a name="providing-support-to-your-customers"></a>提供支援給您的客戶
 

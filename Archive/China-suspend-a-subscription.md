@@ -6,11 +6,11 @@ description: 您可以暫停或取消訂用帳戶，如果要求是由客戶，�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 389d92017aaca0e6cf4cce73e6a71e9aa90ac6bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584341"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132108"
 ---
 # <a name="suspend-a-subscription"></a>暫停訂閱
 
@@ -22,7 +22,7 @@ ms.locfileid: "57584341"
 
 當您暫停客戶的訂用帳戶時，則客戶的使用者不能登入，或使用服務。 系統管理員仍然可以登入並存取資料。
 
-**暫止訂用帳戶**
+**暫停訂閱**
 
 1.  從 **儀表板** 功能表上，選取 **客戶**，然後從清單中選擇客戶。
 2.  選擇您要管理的訂閱。
@@ -31,6 +31,6 @@ ms.locfileid: "57584341"
 
 **另請參閱**
 
--   [非付款、 詐騙或不當使用](non-payment-fraud-or-misuse.md)
--   [提供計費支援](provide-billing-support.md)
+-   [未付款、詐騙或濫用](non-payment-fraud-or-misuse.md)
+-   [提供帳單支援](provide-billing-support.md)
 -   [客戶支援](customer-support.md)

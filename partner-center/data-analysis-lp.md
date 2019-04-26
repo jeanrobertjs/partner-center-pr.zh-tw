@@ -1,18 +1,18 @@
 ---
 title: 合作夥伴中心的資料與分析 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 使用合作夥伴中心的資料功能，讓您更加了解本身的業務
 author: LauraBrenner
 ms.author: labrenne
 keywords: 資訊, 分析, 資料分析, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bc863943e968bb66ec1090751d1e2a38e3f5d66
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9c706ce831b6f47a939c6cf958a91abcfad2afd5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587071"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135598"
 ---
 # <a name="get-data-and-analyze-your-business"></a>取得資料並分析您的業務 
 
@@ -36,7 +36,7 @@ ms.locfileid: "57587071"
 
 |**若要取得的資料**   |**下載此應用程式**   |**請閱讀本**   | **適用於**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|您的客戶如何使用他們購買的授權   |部署和使用方式資料，從合作夥伴中心 = > 產品分析   |[增加採用和滿意度](increasing-adoption-and-satisfaction.md)|雲端解決方案提供者合作夥伴|
+|您的客戶如何使用他們購買的授權   |部署和使用方式資料，從合作夥伴中心 = > 產品分析   |[提高採用率與滿意度](increasing-adoption-and-satisfaction.md)|雲端解決方案提供者合作夥伴|
 |客戶有關訂閱的活動   |活動記錄   |[檢視客戶活動記錄](activity-logs.md)|雲端解決方案提供者合作夥伴   |
 |客戶群、使用率、Azure 使用量等方面的成長   |適用於 Power BI 的合作夥伴中心應用程式   |[Power BI （in CSP 直接協力廠商） 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners.md)|雲端解決方案提供者直接合作夥伴|
 

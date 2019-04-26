@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: 部署前，規劃、 軟體保證
 ms.localizationpriority: medium
 ms.openlocfilehash: 222ba9b7fe526021bf06f4fda7f72b4703ba73c8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587921"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133838"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作夥伴中心的軟體保證規劃服務
 

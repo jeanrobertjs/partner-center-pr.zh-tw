@@ -1,18 +1,18 @@
 ---
 title: 憑單驗證工具常見問題集 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 驗證並保留在合作夥伴中心內的憑券
 author: LauraBrenner
 ms.author: labrenne
 keywords: 教育訓練憑券，軟體保證、 訓練、 驗證憑券，保留憑券
 ms.localizationpriority: medium
-ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "58863986"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132580"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>常見問題集：使用憑券驗證及兌換工具 
 

@@ -1,19 +1,19 @@
 ---
 title: 帳單概觀 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 基本計費案例，以及授權和使用方式為基礎的計費之間的差異的詳細資訊
 author: LauraBrenner
 ms.author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 917b04e9aba40aaf8dbfa27960e7baed7f39819d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: cd1488fbe107363ca924823cdd526005f5a3f21c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584671"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135388"
 ---
 # <a name="billing-overview"></a>帳單概觀
 

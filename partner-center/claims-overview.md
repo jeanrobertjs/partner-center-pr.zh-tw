@@ -1,18 +1,18 @@
 ---
 title: 獎勵 co-op 宣告 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 提交獎勵宣告前，無需先讓您的活動計畫通過審查。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
-ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430107"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135348"
 ---
 # <a name="incentives-co-op-claims-overview"></a>獎勵合作宣告概觀
 
@@ -38,6 +38,6 @@ ms.locfileid: "59430107"
 |提交宣告後，管理其他文件要求|[建立和管理的獎勵計畫活動宣告](create-incentives-claims.md)  |
 |確定您知道活動宣告的核心要求|[了解獎勵宣告核心需求](core-requirements.md)   |
 |了解完整的獎勵計畫詳細資料|[合作夥伴獎勵 Co-op 指南](https://assets.microsoft.com/coop-guidebook.pdf)
-|提交 OSA 銷售費用宣告或 ISV 營收關聯宣告 |[提交您的 OSA 宣告在合作夥伴中心](submit-osa-claim.md)|
+|提交 OSA 銷售費用宣告或 ISV 營收關聯宣告 |[在合作夥伴中心提交您的 OSA 宣告](submit-osa-claim.md)|
                                                                                  
                                    

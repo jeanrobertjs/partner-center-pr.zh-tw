@@ -6,11 +6,11 @@ description: 客戶建立新的訂用帳戶之後，您可以建立使用者帳�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: c79e2dd52440f19bc09d530a98448f0f778ef771
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584011"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132098"
 ---
 # <a name="assign-licenses-to-users"></a>指派授權給使用者
 

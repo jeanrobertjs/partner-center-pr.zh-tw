@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587611"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133851"
 ---
 # <a name="participate-in-software-assurance-programs"></a>參與軟體保證計劃
 
@@ -20,7 +20,7 @@ ms.locfileid: "57587611"
 |**若要了解**   |**請閱讀本**   |
 |--------------------------|:------------------|
 |軟體保證的訓練憑券 (SATV) 程式中註冊|[在合作夥伴中心內的軟體保證的訓練憑券 (SATV) 程式](software-assurance-satv.md)|
-|使用憑證驗證及兌換的工具|[在合作夥伴中心內使用憑券驗證及兌換的工具，來驗證、 保留及兌換憑券](voucher-validation-tool.md)|
+|使用憑券驗證及兌換工具|[使用合作夥伴中心的憑券驗證及兌換工具來驗證、保留和兌換憑券](voucher-validation-tool.md)|
 |規劃服務的軟體保證中註冊|[軟體保證計劃服務在合作夥伴中心](software-assurance-dps.md) 
 
 

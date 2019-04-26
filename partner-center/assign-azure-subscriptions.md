@@ -1,18 +1,18 @@
 ---
 title: 在合作夥伴中心指派 Azure 訂閱 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 現在您可以在合作夥伴中心指派 Azure 訂閱給您的客戶。您也可以讓客戶自行管理訂閱
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Azure 訂閱, 訂閱, 指派訂閱, 管理 azure 訂閱
 ms.localizationpriority: medium
-ms.openlocfilehash: 974589437392ceb77e90e6cfbd382a4676180545
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: fb5c5ee43e2d79cb2cf24226d3799f858c16d737
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586371"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134858"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>在合作夥伴中心指派 Azure 訂用帳戶
 

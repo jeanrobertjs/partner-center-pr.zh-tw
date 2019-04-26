@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: 獎勵宣告、 co-op 宣告、 co-op 資金，OSA、 ISV、 營收關聯
 ms.localizationpriority: medium
 ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
-ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "59619304"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133920"
 ---
 # <a name="submit-your-osa-claims-in-partner-center"></a>在合作夥伴中心提交您的 OSA 宣告
 

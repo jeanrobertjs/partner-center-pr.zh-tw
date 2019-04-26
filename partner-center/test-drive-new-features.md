@@ -1,17 +1,17 @@
 ---
 title: 測試新的合作夥伴中心功能
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 在發行之前測試新的合作夥伴中心功能，並讓我們知道您的想法。 協助打造合作夥伴中心的未來！
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9bcf606a18d93acd532a9a3225ab01f1ba2f23ef
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 95e27b6f52e3a01030569416a7f715e072fd5de7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585881"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134004"
 ---
 # <a name="test-drive-new-partner-center-features"></a>測試新的合作夥伴中心功能
 

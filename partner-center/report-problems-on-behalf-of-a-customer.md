@@ -9,11 +9,11 @@ ms.author: evansma
 Keywords: 服務要求，服務票證的支援，支援權利、 aobo、 Azure aobo
 ms.localizationpriority: medium
 ms.openlocfilehash: af024782202bc2127b76277b29049e3d34f17215
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584491"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134058"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 

@@ -1,19 +1,19 @@
 ---
 title: 轉移 Azure 訂閱 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 客戶可以變更雲端解決方案提供者計畫中要針對 Microsoft Azure 服務使用的合作夥伴。 不過，這是需要合作夥伴和客戶雙方手動操作的程序。
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: f9df7ac6c1e30f9e0d9d62c5e0c18aae529c472a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2298763cd01ebc2f1b3849db27363b0a39eb78bf
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584351"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133853"
 ---
 # <a name="transfer-azure-subscriptions"></a>轉移 Azure 訂閱 
 

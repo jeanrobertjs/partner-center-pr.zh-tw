@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 94eb23f854a85fa08ed01a0ccdaff8e546911d78
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132938"
+---
 # <a name="youve-added-your-first-readme-file"></a>您已新增您的第一個讀我檔案 ！
 README.md 檔案被要快速引導讀者您的專案可以執行的動作。  Markdown 的新手嗎？ [深入了解](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
@@ -19,7 +27,7 @@ README.md 檔案被要快速引導讀者您的專案可以執行的動作。  Ma
 
 建立提取要求的第一次嗎？  [深入了解](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
 
-### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>恭喜！ 您已經完成程式碼中樞 grand 教學課程 ！
+### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>恭喜您！ 您已經完成程式碼中樞 grand 教學課程 ！
 
 # <a name="next-steps"></a>後續步驟
 

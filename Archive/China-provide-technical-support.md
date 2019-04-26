@@ -6,11 +6,11 @@ description: 中國雲端解決方案提供者轉售商可以提供給客戶的�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d3e32af7f96f2261e3e03550dd5519258a58dec6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584291"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132628"
 ---
 # <a name="provide-technical-support"></a>提供技術支援
 
@@ -51,7 +51,7 @@ ms.locfileid: "57584291"
  
 **另請參閱**
 
--   [提供計費支援](provide-billing-support.md)
+-   [提供帳單支援](provide-billing-support.md)
 -   [客戶自我支援](customer-self-support.md)
 -   [客戶支援](customer-support.md)
 

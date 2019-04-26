@@ -1,17 +1,17 @@
 ---
 title: Microsoft Cloud for US Government 適用的合作夥伴中心常見問題集 | Microsoft Cloud for US Government 適用的合作夥伴中心常見問題集
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 運用常見問題集可深入了解 Microsoft Cloud for US Government 適用的雲端解決方案提供者 (CSP) 計畫。 您也可以連絡客戶經理以取得其他資訊。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3738ea042532e4479f60203b3ca58cd902a29435
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 1f8d5f39c2ac00049c9e63de21f18afa6bed8b18
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586141"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135438"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 適用的合作夥伴中心常見問題集
 
@@ -35,11 +35,11 @@ ms.locfileid: "57586141"
 
 **位於客戶的定價與 CSP 商業相同嗎？**
 
-不。 定價將反映提供 Microsoft Cloud for US Government 適用之獨特價值的額外成本。
+資料分割 定價將反映提供 Microsoft Cloud for US Government 適用之獨特價值的額外成本。
 
 **是夥伴折扣模型相同？**
 
-是。 美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫的合作夥伴折扣模式與 CSP Commercial 的合作夥伴折扣模式相同。
+是的。 美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫的合作夥伴折扣模式與 CSP Commercial 的合作夥伴折扣模式相同。
 
 **CSP 商業是現有的協力廠商程式。何 CSP 計劃針對 Microsoft Government 雲端不同？**
 
@@ -97,15 +97,15 @@ Microsoft Cloud 代理商合約 (MCDA) 授與代理商透過雲端解決方案�
 
 **我現有的合作夥伴。我要銷售適用於美國政府的 Microsoft 雲端做什麼？**
 
-合作夥伴必須上線到 Microsoft Cloud for US Government 雲端解決方案提供者計畫，才能符合法規及合規性需求  (Microsoft Cloud for US Government 上線與 CSP Commercial 上線是分開進行的)。上線之後，您就可以建立客戶，並交易 Microsoft Cloud for US Government 所提供的方案。 如果您要運用 API，請參閱[針對 Microsoft 國家/地區雲端的合作夥伴中心進行開發](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) (英文)。
+合作夥伴必須上線到 Microsoft Cloud for US Government 雲端解決方案提供者計畫，才能符合法規及合規性需求  (美國政府適用的 Microsoft Cloud 上線與 CSP Commercial 上線是分開進行的)。上線之後，您就可以建立客戶，並交易美國政府適用的 Microsoft Cloud 所提供的方案。 如果您要運用 API，請參閱[針對 Microsoft 國家/地區雲端的合作夥伴中心進行開發](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) (英文)。
 
 **是否有任何差異合作夥伴獎勵？**
 
-不。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的合作夥伴獎勵，與 CSP Commercial 的合作夥伴獎勵相同。 若要深入了解合作夥伴獎勵，請登入 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/partner-incentives)。
+資料分割 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的合作夥伴獎勵，與 CSP Commercial 的合作夥伴獎勵相同。 若要深入了解合作夥伴獎勵，請登入 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/partner-incentives)。
 
 **有任何帳單的變更嗎？**
 
-不。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的計費條件及需求，與 CSP Commercial 的計費條件及需求相同。 若要深入了解計費，請檢閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/cloud-solution-provider/resources)上的資源。
+資料分割 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的計費條件及需求，與 CSP Commercial 的計費條件及需求相同。 若要深入了解計費，請檢閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/cloud-solution-provider/resources)上的資源。
 
 **對於裝載於商業資料中心的資料，是否可以將適用於美國政府的 Microsoft 雲端？**
 
@@ -116,7 +116,7 @@ Microsoft Cloud 代理商合約 (MCDA) 授與代理商透過雲端解決方案�
 
 **什麼是適用於 Azure 的美國政府的 Microsoft 雲端？**
 
-Azure Government 雲端提供根據安全性、隱私權與控制、合規性及透明度等基本原則所建置的雲端平台。 公共部門實體得到實際隔離的 Microsoft Azure 執行個體，這個執行個體會為所有依其架構建置的系統和應用程式，部署對美國政府至關重要的世界級安全性與合規性服務。 這些服務包括 FedRAMP 和 DoD 合規性認證、CJIS 州級別合約、發行 HIPAA 商業夥伴合約 (Business Associate Agreement) 的功能，以及對 IRS 1075 的支援。 Azure Government 由經過篩選的美方人員經營，支援多個在內部部署或雲端中建置和部署解決方案的混合式案例。 公共部門實體還可以充分利用超大規模雲端服務的即時延展性與保證執行時間。
+Azure Government 雲端提供根據安全性、隱私權與控制、合規性及透明度等基本原則所建置的雲端平台。 公共部門實體得到實際隔離的 Microsoft Azure 執行個體，這個執行個體會為所有依其架構建置的系統和應用程式，部署對美國政府至關重要的世界級安全性與合規性服務。 這些服務包括 FedRAMP 和 DoD 合規性認證、CJIS 國家等級協定、發行 HIPAA 商業夥伴合約 (Business Associate Agreement) 的功能，以及對 IRS 1075 的支援。 Azure Government 由經過篩選的美方人員經營，支援多個在內部部署或雲端中建置和部署解決方案的混合式案例。 公共部門實體還可以充分利用超大規模雲端服務的即時延展性與保證執行時間。
 
 **適用於美國政府的 Microsoft 雲端的 CSP 程式是否提供所有 Azure 服務？**
 

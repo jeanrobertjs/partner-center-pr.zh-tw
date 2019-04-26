@@ -1,17 +1,17 @@
 ---
 title: 即時資料報告取代部分獎勵計畫的每月報告 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: OSA 銷售與線上服務使用量獎勵計畫現在可以取得即時資料報告。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 37458d9c6343fc27d3745a478c24c581eb06c03c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 13e904e229ccaadd11e13a278f23ea1aa5088f71
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583841"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134468"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>即時資料報告取代部分獎勵計畫的每月報告
 

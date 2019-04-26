@@ -1,18 +1,18 @@
 ---
 title: 管理您的客戶清單 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 客戶記錄是您在合作夥伴中心最重要的資訊資產之一。
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a7f334b95f148ca13659a5101293c1e5e9bd9622
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 34adc4f39e98b2d8d033c792367c5c062f985ed2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584321"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133988"
 ---
 # <a name="manage-your-customer-list"></a>管理您的客戶清單
 

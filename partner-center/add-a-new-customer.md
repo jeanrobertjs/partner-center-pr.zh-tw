@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
 ms.openlocfilehash: b086796f6907b4ff4705b7c2fe1965b7d2adceff
-ms.sourcegitcommit: 3441bb8085f14f4242d5c640d45eab00f751bf23
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "58343399"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134478"
 ---
 # <a name="add-a-new-customer"></a>加入新的客戶
 

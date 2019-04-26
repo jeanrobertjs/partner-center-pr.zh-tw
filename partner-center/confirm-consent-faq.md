@@ -1,18 +1,18 @@
 ---
 title: Microsoft Cloud 合約客戶接受確認常見問題集 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 客戶接受度確認的常見問題集
 author: LauraBrenner
 ms.author: v-petand
 keywords: 客戶、 客戶、 同意，常見問題集、 MCA、 Microsoft 雲端協議
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f95de539e056c086e921d7b4eda62f3cbffa30e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587401"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135008"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Microsoft Cloud 合約客戶接受確認常見問題集
 
@@ -57,7 +57,7 @@ Microsoft 會驗證提供的客戶電子郵件地址是正確格式。 是夥伴
 
 **Microsoft 為什麼需要確認客戶已接受 「 Microsoft 雲端合約的合作夥伴？** 
 
-Microsoft Cloud 合約會用來保護夥伴、 客戶和 Microsoft 提供客戶的使用權利、 條款和條件，授與 Microsoft 雲端產品和服務的訂單。 
+Microsoft Cloud 合約提供對 Microsoft Cloud 產品與服務訂單認可的客戶使用權、條款及條件，以保護合作夥伴、客戶和 Microsoft。 
 
 正確執行的 Microsoft 雲端合約會用來保護我們的合作夥伴、 客戶和 Microsoft 確保許多重要的主題，包括相互對齊，但不是限於安全性、 隱私權和資料保護。 確認處理程序可確保透明度和對齊，並可讓 Microsoft 更妥善地協助客戶需要立即回應法規的查詢。
 
@@ -91,7 +91,7 @@ Microsoft Cloud 合約會用來保護夥伴、 客戶和 Microsoft 提供客戶�
 
 **我可以確認獨立於其新購買的現有客戶接受或基座新增項目嗎？**
 
-是。 所有 Microsoft 雲端合約所涵蓋的客戶，可以都確認客戶接受度。
+是的。 所有 Microsoft 雲端合約所涵蓋的客戶，可以都確認客戶接受度。
 
 **如有多個 CSP 合作夥伴的客戶需求有哪些？**
 
@@ -135,7 +135,7 @@ Microsoft 的 CSP 計劃的合作夥伴，您必須負責 Microsoft 雲端協議
 
 **新 |轉銷商可以提供代表客戶同意嗎？**
 
-不。
+資料分割
 
 **一旦確認客戶可接受，我需要重新確認其客戶未來？**
 

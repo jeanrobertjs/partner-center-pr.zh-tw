@@ -8,12 +8,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b3b3f5fe29830e786206e31927d015acc0ec7a7d
-ms.sourcegitcommit: 319b6f8850d95e2b10e6367312f9365e079a1c88
-ms.translationtype: MT
+ms.openlocfilehash: f1bbc53a1fa923e67c370e908fc209147a3eb69c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "59533846"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135080"
 ---
 # <a name="consolidate-your-company-accounts"></a>合併您的公司帳戶
 
@@ -35,4 +35,4 @@ ms.locfileid: "59533846"
 
 在合作夥伴中心位置的所有帳戶都會都合併到一個帳戶，因為的優點與專長認證將會都合併以及。 
 
-如需 PMC 和合作夥伴中心之間的差異資訊，請閱讀[從 PMC 移至合作夥伴中心](pmc-pc-map.md)
+如需 PMC 和合作夥伴中心之間的差異資訊，請閱讀[從 PMC 移至合作夥伴中心](pmc-to-partner-center.md)

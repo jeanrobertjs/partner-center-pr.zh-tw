@@ -1,18 +1,18 @@
 ---
 title: 合作夥伴貢獻 - 隨時掌握效能指標 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 使用合作夥伴貢獻資料來了解如何增加並對您的業務
 author: LauraBrenner
 ms.author: labrenne
 keywords: 業務資料
 ms.localizationpriority: medium
-ms.openlocfilehash: 765f37a031098d65460e2cc603eb3d4efb8e4ea3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e6281e31e0049cb865e212485b6f5cf030516135
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587361"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134173"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>合作夥伴貢獻：隨時掌握效能指標
 
@@ -62,7 +62,7 @@ ms.locfileid: "57587361"
 1. 我為何看不到合作夥伴貢獻頁面？
     - 合作夥伴貢獻目前僅適用於銷售搭配 MPN 或雲端解決方案提供者帳戶的 Dynamics 365 的合作夥伴。 中國和德國地區尚未啟用此功能。
 2. 我是 Dynamics 365 合作夥伴，為何看不到合作夥伴貢獻資料？
-    - 您可能不具備 MPN 或雲端解決方案提供者帳戶角色。 例如：Advisor DAP 不尚未啟用。  
+    - 您可能不具備 MPN 或雲端解決方案提供者帳戶角色。 例如: Advisor DAP 不尚未啟用。  
     - 您可能不具備組織中的適當使用者角色，因此無法檢視這個頁面。 請連絡您的全域系統管理員。
     - 貴組織位於中國或德國。
 

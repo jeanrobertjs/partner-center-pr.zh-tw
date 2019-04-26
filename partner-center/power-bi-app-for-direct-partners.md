@@ -1,19 +1,19 @@
 ---
 title: 適用於 Power BI 的合作夥伴中心分析應用程式 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 使用適用於 Power BI 的合作夥伴中心分析應用程式，以視覺化方式呈現業務資料。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f111fd4f3f75acac025021c24a71f4778dd165c0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 5156e58fe79551c5dec55558822b5f6021a837ca
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587121"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134012"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>適用於 Power BI 的合作夥伴中心分析應用程式 (雲端解決方案提供者中的直接合作夥伴)
 
@@ -46,7 +46,7 @@ ms.locfileid: "57587121"
 | --- | ---------- |
 | 應用程式的費用是多少？ | 應用程式本身是免費的。 若要預覽應用程式，您可以[註冊免費的 Power BI 服務](https://go.microsoft.com/fwlink/p/?linkid=845347)，並用來自訂儀表板及報告。 若要讓公司其他人員使用應用程式，您必須擁有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 的使用中訂閱。 |
 | 誰可以連線到合作夥伴中心分析應用程式？ | 這個版本的應用程式是專為雲端解決方案提供者程式中的直接合作夥伴 (第 1 層) 設計的。 如果您在業務上與 Microsoft 及客戶直接往來，即是直接合作夥伴。 若要安裝應用程式，您必須是貴公司帳戶的全域管理員、系統管理代理人或帳單系統管理員。 |
-| 我是間接提供者；可以使用此應用程式嗎？ | 是。 您的全域管理員，系統管理代理人或帳單系統管理員可以安裝應用程式，並查看您的直接客戶的相關資料。 未來發行的版本可能會包含也能讓您查看間接經銷商相關資料的功能。 |
+| 我是間接提供者；可以使用此應用程式嗎？ | 是的。 您的全域管理員，系統管理代理人或帳單系統管理員可以安裝應用程式，並查看您的直接客戶的相關資料。 未來發行的版本可能會包含也能讓您查看間接經銷商相關資料的功能。 |
 | 如何得悉未來發行的版本？ | 公告和預覽版本會透過合作夥伴中心早期採用者計畫來發佈。 如果您尚未加入計畫，請立即到以下網址註冊：[https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program)。 您也可以透過早期採用者計畫分享您的意見反應。 |
 | 誰可以在應用程式中自訂儀表板和報告？ | 只有全域管理員、系統管理員代理人或帳單系統管理員，才可以在 Power BI Web 介面中自訂儀表板或建立新報告。 |
 | 誰可以在應用程式中檢視儀表板和報告？ | 安裝應用程式的全域管理員、系統管理員代理人或帳單系統管理員，可以和任何擁有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 使用中訂閱的使用者分享應用程式的資料。 |

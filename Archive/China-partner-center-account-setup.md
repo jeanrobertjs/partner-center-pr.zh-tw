@@ -6,11 +6,11 @@ description: 設定您的合作夥伴中心帳戶。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 75be66bc5f5a6b8b5d37f1c8dd26655d7807e419
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586171"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132408"
 ---
 # <a name="manage-your-partner-center-account"></a>管理您的合作夥伴中心帳戶 
 
@@ -24,9 +24,9 @@ ms.locfileid: "57586171"
 
 啟動驗證或更新您的夥伴設定檔再建立使用者帳戶，並將權限指派給您的員工需要合作夥伴中心上完成工作。 請務必為您想要擁有完整存取所有的合作夥伴中心功能和系統管理工作的員工建立全域系統管理員使用者帳戶。 全域系統管理員可以建立其他使用者帳戶、 指派使用者角色和權限，以及建立和管理客戶帳戶，以及執行其他工作。    
 
--   [更新您的夥伴設定檔](update-your-partner-profile.md)
--   [建立使用者帳戶，並設定權限](create-user-accounts-and-set-permissions.md)
--   [使用者自助式密碼復原或重設](reset-a-user-password.md)
+-   [更新您的合作夥伴設定檔](update-your-partner-profile.md)
+-   [建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)
+-   [使用者自助密碼復原或重設](reset-a-user-password.md)
 -   [請參閱優惠和定價](see-offers-and-pricing.md)
 -   [自訂型錄](customize-the-catalog.md)
 

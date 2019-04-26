@@ -1,18 +1,18 @@
 ---
 title: 銷售到特色產業 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Microsoft 提供了特殊、 降低定價的客戶，包括教育客戶、 非營利的客戶，以及政府使用者選取的群組。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585751"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135658"
 ---
 # <a name="sell-to-specialized-industries"></a>銷售到特色產業
 
@@ -27,8 +27,8 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 |**優惠價格**   |**必要的轉銷商限定性條件**   |**客戶所需的限定性條件**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |教育   |成為[授權教育版賣家](https://www.mepn.com)。   | 必須是[合格教育版使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|政府   |若要銷售 Azure，請使用 [Microsoft 政府雲端驗證表單](https://azuregov.microsoft.com/csp)註冊 若要銷售授權型訂閱給政府機構，沒有要求資格。|   無|
-|非營利事業  |無<br>必須有非營利 Azure Active Directory 租用戶。<br>深入了解[非營利特別優惠](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)。   |透過 [Microsoft 非營利計畫](https://nonprofit.microsoft.com/#/register)註冊以便符合資格。   |
+|政府   |若要銷售 Azure，請使用 [Microsoft 政府雲端驗證表單](https://azuregov.microsoft.com/csp)註冊 若要銷售授權型訂閱給政府機構，沒有要求資格。|   None|
+|非營利事業  |None<br>必須有非營利 Azure Active Directory 租用戶。<br>深入了解[非營利特別優惠](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)。   |透過 [Microsoft 非營利計畫](https://nonprofit.microsoft.com/#/register)註冊以便符合資格。   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>檢查您的經銷商資格
@@ -47,9 +47,9 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 一旦您與您的客戶符合特殊優惠計畫的資格，請依照步驟來[新增訂閱](create-a-new-subscription.md)。 在 **\[新訂閱]** 頁面的 **\[類別目錄\]** 區段中，選取特色產業以查看您可以銷售的特別優惠。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
-[銷售 Minecraft:教育版向教育客戶的訂用帳戶](minecraft-subscriptions.md)
+[銷售 Minecraft：教育版向教育客戶的訂用帳戶](minecraft-subscriptions.md)
 
 
  

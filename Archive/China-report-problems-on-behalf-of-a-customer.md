@@ -6,11 +6,11 @@ description: 如果您的客戶發生服務問題，您無法解決，且符合 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d5c4703423360d228a810ee739dc1916ca056a58
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585801"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132618"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 
@@ -34,7 +34,7 @@ ms.locfileid: "57585801"
 **另請參閱**
 
 -   [客戶自我支援](customer-self-support.md)
--   [提供的技術支援](provide-technical-support.md)
--   [檢查服務健全狀況](check-service-health.md)
--   [提供計費支援](provide-billing-support.md)
+-   [提供技術支援](provide-technical-support.md)
+-   [檢查服務健康狀況](check-service-health.md)
+-   [提供帳單支援](provide-billing-support.md)
 -   [客戶支援](customer-support.md)

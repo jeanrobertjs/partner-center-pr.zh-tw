@@ -1,18 +1,18 @@
 ---
 title: 適用於在 Microsoft 國內雲銷售 |合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 雲端解決方案提供者計畫中的 Microsoft 合作夥伴可以向註冊受支援國內雲的客戶進行銷售。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 國內雲, Microsoft Cloud 德國, 美國政府適用的 Microsoft Cloud, 21Vianet, Microsoft Cloud 中國
 ms.localizationpriority: medium
-ms.openlocfilehash: 851b8695b6cb409ef9f70f8b2acf2504bc7b16f5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: ea4461e187490565172733207dc16c5328ee5ee7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584231"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134818"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>適用於在 Microsoft 國内雲銷售
 

@@ -1,17 +1,17 @@
 ---
 title: Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理 | Microsoft Cloud 德國合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 為遵守用來約束個人資料收集和使用行為的國內、地方和業界特定相關規定，Microsoft Cloud 德國合作夥伴中心不提供使用者管理功能。 不過，您可以在 Microsoft Cloud 德國 Azure 入口網站中新增及管理使用者。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e408345f1d2169d84dcb206fa276166512829c3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587031"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132688"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理
 
@@ -52,6 +52,6 @@ ms.locfileid: "57587031"
 
 -  [Microsoft Azure Germany](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
 
--  [Microsoft Cloud germany 的合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)
+-  [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)
 
 

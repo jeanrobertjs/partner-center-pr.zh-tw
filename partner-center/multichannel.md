@@ -1,18 +1,18 @@
 ---
 title: 多通路 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 有時候客戶可能會想雇用您來佈建及支援他們在其他地方購買的訂閱。
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3a3149adf746e199cf5b82e590997cc4e311db5d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587081"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134278"
 ---
 # <a name="multi-channel-support"></a>多通路支援
 
@@ -52,7 +52,7 @@ ms.locfileid: "57587081"
 > [!IMPORTANT]  
 > CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 透過一般的溝通管道，包括合作夥伴中心，將會公告任何功能版本的公告。 
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 [與其他合作夥伴合作](work-with-other-partners.md)
 
