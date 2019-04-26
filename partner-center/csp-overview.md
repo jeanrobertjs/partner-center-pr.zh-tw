@@ -1,18 +1,18 @@
 ---
 title: 雲端解決方案提供者計畫 - 銷售隨選雲端解決方案 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 雲端解決方案提供者計畫可協助透過新客戶與新專業拓展您的企業。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, CSP, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 過雲端解決方案提供者銷售, 直接合作夥伴, 間接雲端解決方案提供者合作夥伴, 間接雲端解決方案提供者經銷商, 直接雲端解決方案提供者, 間接雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 散發者, 雲端解決方案提供者計畫
 ms.localizationpriority: medium
-ms.openlocfilehash: 1840d87626bef935347218b44d44c3d44607722d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584191"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134748"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>雲端解決方案提供者計畫 - 銷售炙手可熱的雲端解決方案 
 
@@ -68,13 +68,13 @@ ms.locfileid: "57584191"
 
 您可以銷售一系列完整的 [Microsoft 雲端服務](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及經常變動的多種其他優惠。 若要查看 CSP 提供對於目前的月份，登入合作夥伴中心，然後移至[**定價和供應項目**](https://partnercenter.microsoft.com/pcv/sales)頁面。
 
-## <a name="see-also"></a>請參閱 
+## <a name="see-also"></a>另請參閱 
 
 
 |**若要了解這**   |**請閱讀本**   |
 |:---------------------------|:--------------------|
 |每個雲端解決方案提供者模型的需求   | [雲端解決方案提供者方案](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |在 Microsoft 國内雲銷售   | [套用到在 Microsoft 的國家/地區雲端銷售](csp-national-clouds-overview.md)|
-|Microsoft Cloud 合約客戶範本   |[依地區和語言的 Microsoft 雲端協議](agreements.md)|
+|Microsoft Cloud 合約客戶範本   |[依地區和語言的 Microsoft Cloud 合約](agreements.md)|
 |在合作夥伴中心上的間接提供者工作  |[與雲端解決方案提供者程式中的間接轉售商合作](indirect-provider-tasks-in-partner-center.md)|
 |間接轉銷商在合作夥伴中心上的工作   |[與雲端解決方案提供者程式中的間接提供者合作](indirect-reseller-tasks-in-partner-center.md)|
