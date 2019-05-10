@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
+ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134589"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "65035521"
 ---
 # <a name="welcome-to-partner-center"></a>歡迎來到合作夥伴中心
 
@@ -85,9 +85,9 @@ Microsoft 合作夥伴中心是管理您與 Microsoft 端對端關係的單一�
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>軟體保證計畫</h3>
-                        <p>您現在可以註冊合作夥伴中心的軟體保證訓練並部署服務。</p></a>
+                    <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
+                        <h3>從 PMC 移至電腦</h3>
+                        <p>了解如何準備您的公司以移至合作夥伴中心</p></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ Microsoft 合作夥伴中心是管理您與 Microsoft 端對端關係的單一�
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>憑券驗證及兌換工具</h3>
-                        <p>宣告和兌換支援客戶商務和開發需求的憑券。</p></a>
+                    <div class="cardText"><a href="/partner-center/Azure-expert-msp">
+                        <h3>Azure 專家管理服務提供者計畫</h3>
+                        <p>貴公司是銷售和支援 Azure 的超級明星嗎？ 請參閱關於註冊 Azure 專家 MSP 計畫</p></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ Microsoft 合作夥伴中心是管理您與 Microsoft 端對端關係的單一�
                     </div>
                     <div class="cardText">
                         <h3>註冊</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">建立帳戶</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">管理您的租用戶和位置</a></p>
+                        <p><a href="/partner-center/manage-locations">管理您的位置</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">管理您的租用戶</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ Microsoft 合作夥伴中心是管理您與 Microsoft 端對端關係的單一�
                     </div>
                     <div class="cardText">
                         <h3>與客戶保持聯繫</h3>
-                        <p><a href="/partner-center/customer-accounts">客戶帳戶</a><br /><a href="/partner-center/customer-subscriptions">銷售訂閱</a><br /><a href="/partner-center/assign-licenses-to-users">管理授權</a><br /><a href="/partner-center/billing">帳單</a></p>
+                        <p><a href="/partner-center/csp-offers">為客戶購買產品</a><br /><a href="/partner-center/customer-subscriptions">銷售訂閱</a><br /><a href="/partner-center/assign-licenses-to-users">管理授權</a><br /><a href="/partner-center/billing">帳單</a></p>
                     </div>
                 </div>
             </div>

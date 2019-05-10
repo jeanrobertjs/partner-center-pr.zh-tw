@@ -2,6 +2,11 @@
 
 # [合作夥伴網路會員資格](mpn-overview.md)
 ## [建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)
+## 從 PMC 移到合作夥伴中心
+### [從 PMC 移到合作夥伴中心指南](guide-to-migration.md)
+### [快速檢視 PMC 和電腦之間的差異](move-pmc-pc-map.md)
+### [從多家公司移到合作夥伴中心指南](move-multiple-companies.md)
+### [合併您的公司](consolidate-accounts.md)
 ## 會員優惠
 ### [行動寶盒](mpn-get-action-pack.md)
 ### [續訂您的優惠方案](renew-mpn-offers.md)
@@ -46,7 +51,7 @@
 ## [獎勵宣告](claims-overview.md)
 ### [建立和管理獎勵宣告](create-incentives-claims.md)
 ### [獎勵宣告的核心要求](core-requirements.md)
-### [獎勵宣告付款概觀](incentives-payouts.md)
+### [了解您的獎勵支出](understand-incentive-payouts.md)
 ### [在合作夥伴中心提交您的 OSA 宣告](submit-osa-claim.md)
 
 
@@ -58,7 +63,6 @@
 ## [使用對帳檔案](use-the-reconciliation-files.md)
 ## [稅金與免稅](tax-and-tax-exemptions.md)
 ## [組織加值稅資訊](organization-tax-info.md)
-## [雲端解決方案提供者帳戶信用額度](account-credit-limit.md)
 ## [為客戶設定 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)
 ## [常見帳單案例](common-billing-scenarios.md)
 ## [未付款、詐騙或濫用](non-payment--fraud--or-misuse.md)
