@@ -17,6 +17,9 @@
 ### [使用合作夥伴中心的憑券驗證及兌換工具來驗證、保留和兌換憑券](voucher-validation-tool.md)
 ### [常見問題集：使用憑券驗證及兌換工具](vvr-faq.md)
 ### [合作夥伴中心的軟體保證規劃服務](software-assurance-dps.md)
+## 發票和稅金
+### [Microsoft 合作夥伴網路中的發票和稅金](mpn-view-print-maps-invoice.md)
+
 
 # [雲端解決方案提供者](csp-overview.md)
 ## [註冊雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
