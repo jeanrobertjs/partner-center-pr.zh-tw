@@ -1,18 +1,18 @@
 ---
 title: 拓展您的 Microsoft 合作夥伴業務 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/23/2019
 description: 拓展 Microsoft 合作夥伴業務的相關資源。 包含如何透過 Microsoft 獲得業務潛在客戶 (推薦)。
 keywords: 推薦, 回應推薦, 潛在客戶, 業務潛在客戶, 行銷設定檔, 商務設定檔, 拓展您的業務, 業務機會, 專長認證, 銀級會員, 金級會員, 試用供應項目, 市場擴張, 國内雲
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 77146f87bb46a4d86ffd9966ed5c5ec860e0cdda
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 9117b1ba43d809eb1e1c51b6ba28ac52a73ddd18
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135628"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176174"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>拓展您的 Microsoft 合作夥伴業務 
 
@@ -33,7 +33,7 @@ Microsoft 提供許多資源，協助您拓展合作夥伴業務。 了解 Micro
 
 |  **若要這樣做**  |  **閱讀本文以了解如何**  |  **適用於**  |
 |--------------|-----------|--------------
-| 取得和管理業務潛在客戶 | 第一步是[建立商務設定檔](create-a-marketing-profile.md)，讓客戶搜尋解決方案提供者時可以找到您，接著再閱讀[在合作夥伴中心管理業務潛在客戶](responding-to-referrals.md)。 | 所有網路合作夥伴 |
+| 取得和管理業務潛在客戶 | 著手[建立商務設定檔](create-a-marketing-profile.md)讓搜尋解決方案提供者，並接著閱讀時，客戶可以找到您[轉介回應](responding-to-referrals.md)。 | 所有網路合作夥伴 |
 | 獲得銀級或金級合作夥伴狀態 | 閱讀 Microsoft 合作夥伴網路網站上的[專長認證合作夥伴](https://partner.microsoft.com/membership/competencies)，以了解如何符合銀級或金級會員資格的資格。 當您準備好將您的專長認證資訊移到合作夥伴中心，請閱讀[在合作夥伴中心管理您的專長認證](competencies.md)。 | 所有網路合作夥伴 |
 | 提供 Microsoft 產品的試用訂閱給您的客戶 | 請閱讀[為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)以了解如何使用試用訂閱來提升目前客戶群的銷售量。| 雲端解決方案提供者合作夥伴 |
 | 提供 Microsoft 訂閱的促銷價格給您的客戶 | Microsoft 有時會在授權型訂閱上提供促銷，可讓您將結餘部分退還給客戶，並拓展業務。 請閱讀[提供 Microsoft 訂閱的促銷價格給您的客戶](promotions.md)以深入了解。 | 雲端解決方案提供者合作夥伴 |

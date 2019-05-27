@@ -1,18 +1,18 @@
 ---
 title: 銷售到特色產業 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/14/2019
 Description: Microsoft 提供了特殊、 降低定價的客戶，包括教育客戶、 非營利的客戶，以及政府使用者選取的群組。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c7a6ae484ee250b6f1afa67ab7ac2703874b35bf
+ms.sourcegitcommit: d73afa31cc486b11e22314faa254aa50ed4f8d3b
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135658"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "65623806"
 ---
 # <a name="sell-to-specialized-industries"></a>銷售到特色產業
 
@@ -32,6 +32,8 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 
 ## <a name="check-your-reseller-qualifications"></a>檢查您的經銷商資格
+
+下列步驟只適用於間接提供者，並直接帳單合作夥伴。 間接轉銷商必須與為合格的教育使用者提供學術價格的供應項目間接提供者連接。 
 
 1.  在合作夥伴儀表板中，選取視窗右上角的齒輪圖示以開啟 **\[帳戶設定\]**。
 2.  在您的 **\[合作夥伴設定檔\]** 中，於 **\[計畫資訊\]** 區段，尋找 **\[經銷商資格\]**。

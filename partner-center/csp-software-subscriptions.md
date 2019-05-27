@@ -1,25 +1,25 @@
 ---
 title: 透過雲端解決方案提供者銷售軟體訂閱 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/13/2019
 description: 您現在可以運用 Azure Hybrid Benefit，透過 Microsoft 合作夥伴中心和 Azure 入口網站，代表商業客戶取得、佈建和管理 Azure 保留的執行個體和伺服器訂閱。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者, CSP, 雲端式服務, Azure, Azure RI, Windows Server, SQL Server, 軟體訂閱
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134738"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176184"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>透過雲端解決方案提供者銷售軟體訂閱
 
-帶入 Microsoft CSP 方案的 Azure 保留的項目和 Windows Server 和 SQL Server 訂閱，Microsoft 更可讓合作夥伴解決快速成長的更多符合成本效益的解決方案，以支援高度可預測的客戶需求和永續性雲端工作負載。 
+有了 Azure 保留的項目和主訂閱 （Windows Server 和 SQL Server 的訂用帳戶），CSP 程式可以在合作夥伴更好的地址快速成長的客戶需求的更多符合成本效益的解決方案，以支援高度可預測且持續性雲端工作負載。 
 
-您現在可以取得、 佈建，及管理 Azure 保留的項目和主訂閱，代表商業客戶透過 Microsoft 合作夥伴中心和 Azure 入口網站，利用 Azure Hybrid Benefit。 
+您現在可以取得、 佈建，和管理 Azure 保留的項目和主訂閱，代表透過合作夥伴中心和 Azure 入口網站的商業客戶利用 Azure Hybrid Benefit。 
 
 Azure Hybrid Benefit 可協助您從您的 Windows Server 授權獲得更多價值，並可節省高達 40% 的虛擬機器。 您可以與軟體保證所涵蓋的 Windows Server Datacenter 和 Standard 版本資料中心授權搭配使用權益。 依據版本，您可以轉換或重複使用您的授權在 Azure 中執行 Windows Server 虛擬機器，並支付較低的基礎計算費率 （Linux 虛擬機器費率計費，例如）。
 
@@ -59,6 +59,16 @@ Azure Hybrid Benefit 可協助您從您的 Windows Server 授權獲得更多價�
 
 >[!NOTE]
 >此連結會在兩個星期後或 50 次下載後到期 (視何者先發生)。 連結過期之後，請回到此頁面並再次選取 **\[取得金鑰和下載項目\]** 以再啟用另外兩週或 50 次下載。 您可以依需求執行此動作任意次數。 
+
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>檢視軟體金鑰的存取和下載軟體的活動
+基於稽核或合規性考量，您可能需要檢查已存取伺服器的訂用帳戶軟體金鑰，或下載伺服器的訂用帳戶軟體的使用者清單。 您可以使用下列程序來存取這項資訊。 
+
+>[!NOTE]
+>您必須是全域管理員、 帳戶管理員、 轉介系統管理員或行銷內容的系統管理員若要查看這些活動記錄檔。 
+
+1.  在合作夥伴中心，請從右上角選取齒輪圖示。 
+2.  在功能表中，選取**活動記錄**。
+3.  輸入您想要查看的活動的日期範圍。 活動記錄檔會顯示一份已存取軟體金鑰，或您所指定之時間內下載軟體的使用者。 
 
 ## <a name="cancel-a-purchase"></a>取消購買
 
