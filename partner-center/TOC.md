@@ -2,6 +2,7 @@
 
 # [合作夥伴網路會員資格](mpn-overview.md)
 ## [建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)
+## [合作夥伴中心的帳戶架構](account-structure.md)
 ## 從 PMC 移到合作夥伴中心
 ### [從 PMC 移到合作夥伴中心指南](guide-to-migration.md)
 ### [快速檢視 PMC 和電腦之間的差異](move-pmc-pc-map.md)
@@ -67,6 +68,7 @@
 ## [閱讀您的帳單](read-your-bill.md)
 ## [使用對帳檔案](use-the-reconciliation-files.md)
 ## [稅金與免稅](tax-and-tax-exemptions.md)
+## [請確認已計入扣繳稅](withholding-tax-credit-form.md)
 ## [組織加值稅資訊](organization-tax-info.md)
 ## [為客戶設定 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)
 ## [常見帳單案例](common-billing-scenarios.md)
