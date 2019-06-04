@@ -7,6 +7,7 @@
 ### [快速檢視 PMC 和電腦之間的差異](move-pmc-pc-map.md)
 ### [從多家公司移到合作夥伴中心指南](move-multiple-companies.md)
 ### [合併您的公司](consolidate-accounts.md)
+
 ## 會員優惠
 ### [行動寶盒](mpn-get-action-pack.md)
 ### [續訂您的優惠方案](renew-mpn-offers.md)
@@ -36,6 +37,7 @@
 
 # [管理您的合作夥伴中心帳戶](partner-center-account-setup.md)
 ## [工作帳戶與合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)
+## [合作夥伴中心的帳戶架構](account-structure.md)
 ## [更新您的合作夥伴設定檔](update-your-partner-profile.md)
 ## [位置](manage-locations.md)
 ## [還原暫時停用的合作夥伴中心帳戶](suspended-partner-center-account.md)
