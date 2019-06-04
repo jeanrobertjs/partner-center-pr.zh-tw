@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3dff4e418b65475a5919cafc58783858f6db320a
-ms.sourcegitcommit: 499ea19037fab7bfd8c284761ddcdf1df45ea796
+ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
+ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "66447950"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "66458888"
 ---
 # <a name="the-account-structure-in-partner-center"></a>在合作夥伴中心帳戶結構
 
@@ -34,6 +34,8 @@ ms.locfileid: "66447950"
 - 檢視從夥伴設定夥伴位置帳戶清單-> 位置。
 - 位置的所有帳戶都會在相同的層級，並在 主要的通用帳戶。
 - 帳戶系統管理員可以新增或移除的位置。
+
+![帳戶結構](images/accountstructure.png)
 
 如需有關管理位置的詳細資訊，請參閱[管理您的夥伴帳戶：位置](manage-locations.md)。 
 
