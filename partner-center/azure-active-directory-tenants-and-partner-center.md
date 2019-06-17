@@ -9,12 +9,12 @@ Keywords: 工作帳戶、 電子郵件、 租用戶的 Azure 租用戶，請建�
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 079f927c3acd8f773680bfa9f4e47592f68a24f9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f668ea5ebdb97d2cf02febb94584b6cf707e3bca
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134720"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131701"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>您的公司工作帳戶與合作夥伴中心  
 
@@ -26,23 +26,32 @@ ms.locfileid: "62134720"
 
 我們需要將您公司的工作帳戶連結至新的合作夥伴中心帳戶，讓您的帳戶使用者可以使用他們的工作帳戶使用者名稱和密碼來登入合作夥伴中心。
 
-如果您的公司已經有工作帳戶，就可以將其連結至您的合作夥伴中心帳戶。 
+## <a name="the-work-account-email-address"></a>工作帳戶的電子郵件地址
+
+您的工作帳戶或公司電子郵件是由貴公司提供給您的電子郵件地址。 工作帳戶電子郵件的格式通常是you@yourcompany.com。 個人電子郵件地址，例如 Hotmail，Gmail 等不是公司電子郵件，並不適用於您的合作夥伴中心帳戶。 
+
+如果您有一個以上有效的工作電子郵件地址，使用您公司總部，而不是區域的部門相關聯的比方說，使用 contoso.com 電子郵件，而不是 contoso.uk 位址。
 
 > [!NOTE]  
->  您決定使用現有的工作帳戶之前，請考慮在帳戶中的使用者人數的相關需要合作夥伴中心。 如果您不需要處理在合作夥伴中心帳戶中擁有使用者，請考慮建立新帳戶，只需要在合作夥伴中心內的使用者。
+>  您決定使用現有的工作帳戶之前，將關於帳戶中的幾個使用者需要在合作夥伴中心。 如果您不需要處理在合作夥伴中心帳戶中擁有使用者，請考慮建立新帳戶，只需要在合作夥伴中心內的使用者。
 
-如果貴公司還沒有工作帳戶，您可以在註冊過程中建立一個帳戶。 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>不確定您的公司是否已經有工作帳戶？
 
 如果不確定您的公司是否有工作帳戶，請依照下列步驟檢查。 請注意，如果您有使用中的 Microsoft Azure 或 Office 365 訂用帳戶，就已經擁有工作帳戶。
+
 1.  登入 Azure 管理入口網站： https://ms.portal.azure.com
 2.  從功能表選取 [Azure Active Directory]，然後選取 [網域名稱]。
 3.  如果您已經有工作帳戶，將會列出您的網域名稱。
 
-## <a name="using-an-existing-work-account"></a>使用現有的工作帳戶
+如果貴公司還沒有工作帳戶，您可以在註冊過程中建立一個帳戶。
 
-如果您想要使用現有的工作帳戶但無法登入時，請在下面圖表中尋找最符合您的情形的案例，並依照建議的步驟進行。 
+下圖提供數個典型的案例的步驟：
+
+- 判斷是否有工作帳戶 
+- 判斷如何登入您的工作帳戶 
+- 判斷您是否需要建立新的工作帳戶
+
 
 ![您有工作帳戶嗎？還是您需要建立一個？](images/onboardingAADFlow.png)
 

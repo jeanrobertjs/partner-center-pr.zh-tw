@@ -1,20 +1,20 @@
 ---
-title: 重設使用者密碼 | 合作夥伴中心
+title: 重設使用者密碼，或更新您自己的密碼 |合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/15/2019
 description: 如果使用者忘記密碼，您可以指派臨時密碼給他們。 他們下次登入合作夥伴中心時可以使用臨時密碼。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: efb357b1b9157155fdf5cf7f9ee59afa2c8b9abc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 83d7417dcd71323822d066faca6c193ca5ef2e58
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133917"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145342"
 ---
-# <a name="reset-a-user-password"></a>重設使用者密碼
+# <a name="reset-a-user-password-or-update-your-own-password"></a>重設使用者密碼，或更新您自己的密碼
 
 **適用於**
 
@@ -36,7 +36,7 @@ ms.locfileid: "62133917"
 
 **重設自己的密碼**
 
-1.  登入合作夥伴中心。 然後，在畫面頂端選取您的名稱，再選取 \[我的設定檔\]。
+1.  登入合作夥伴中心。 然後，在畫面頂端選取您的名稱，再選取 \[我的設定檔\]。 
 
 2.  您可以看到自己的角色，以及變更您的密碼的指示。
 

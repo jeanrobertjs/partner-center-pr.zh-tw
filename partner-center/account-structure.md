@@ -1,18 +1,18 @@
 ---
 title: 在合作夥伴中心帳戶結構 |合作夥伴中心
 ms.topic: article
-ms.date: 05/31/2019
+ms.date: 06/13/2019
 description: 您的公司在合作夥伴中心內有兩種帳戶層級。
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
-ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
+ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "66458888"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131713"
 ---
 # <a name="the-account-structure-in-partner-center"></a>在合作夥伴中心帳戶結構
 
@@ -28,7 +28,7 @@ ms.locfileid: "66458888"
 
 ### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>第二個層級的帳戶是稱為 「 夥伴位置帳戶 (PLA) 的位置帳戶。
 
-您 PGA 可能有其下的其他商務位置。 每個位置都有它自己的 MPN 識別碼。  您使用雲端解決方案提供者程式，例如交易式商務位置 MPN 識別碼在獎勵的程式中，註冊將 DPOR，新增並收取費用。 
+您 PGA 可能有其下的其他商務位置。 每個位置都有自己的 MPN 識別碼或夥伴位置帳戶 (PLA)。 您可以使用位置的 MPN 識別碼交易式商務和獎勵的程式中的註冊。
 
 - 每個夥伴位置帳戶可以有它自己的法律的地址和主要連絡人。 使用通用的帳戶或其他位置，位置也可以共用的合法的位址。
 - 檢視從夥伴設定夥伴位置帳戶清單-> 位置。

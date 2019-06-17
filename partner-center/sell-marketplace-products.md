@@ -1,18 +1,18 @@
 ---
 title: 販售 Azure Marketplace 產品的訂用帳戶 |合作夥伴中心
 ms.topic: article
-ms.date: 04/04/2019
+ms.date: 06/10/2019
 description: 您可以使用合作夥伴中心來銷售您的客戶訂用帳戶軟體即服務 (SaaS) 產品發佈至 Azure Marketplace，獨立軟體廠商 (Isv)。
 author: JnHs
 ms.author: jenhayes
 keywords: 訂用帳戶，Marketplace 中，第三方 ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d870bfef7d967e8f5b890fadfe86f527e558cda5
+ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133828"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67045079"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>銷售 Azure Marketplace 產品的訂閱
 
@@ -46,6 +46,9 @@ ms.locfileid: "62133828"
 > 您也可以使用[合作夥伴中心 Api](https://docs.microsoft.com/partner-center/develop/)建立 Azure Marketplace 訂用帳戶，為您的客戶。 如需詳細資訊，請參閱 <<c0> [ 建立適用於 Azure Marketplace 產品的訂用帳戶](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)。
 
 使用 Azure Marketplace 產品的訂用帳戶，您可以選擇[取消訂用帳戶](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription)取消期限 （每月訂閱或年度訂閱為 14 天 24 小時） 內。 您也可以[選擇是否要自動續約訂用帳戶](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription)。
+
+> [!NOTE]
+> 針對[Azure Marketplace 產品](sell-marketplace-products.md)，管理透過獨立軟體廠商 (ISV) 發佈產品授權指派及啟用。
 
 ## <a name="access-billing-info-for-marketplace-products"></a>存取適用於 Marketplace 產品的計費資訊
 
