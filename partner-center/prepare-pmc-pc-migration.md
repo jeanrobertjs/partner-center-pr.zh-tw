@@ -6,12 +6,12 @@ description: 您會將您的企業從 PMC 合作夥伴中心之前，仔細考�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 68761169088d8590b3330d72927d38ba2ab77a77
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131988"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145349"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備您的移動從夥伴成員資格中心 (PMC) 到合作夥伴中心
 
@@ -113,6 +113,14 @@ MPN 的全域管理員或進行移轉的主要程式連絡人中，除了在 PMC
  **將我們移動之後變更我的權益 （包括雲端優點、 技術支援、 軟體的權益，Visual Studio）？**
 
  不會變更您符合資格的權益。 如果您發現不一致的地方，請連絡[支援](https://partner.microsoft.com/support)。
+
+ **會接受我們具有 Visual Studio 權益配置的 Microsoft 帳戶嗎？**
+
+ 是的。 將接受 Wisual Studio 權益配置給 Msa，並將其保留。 它們也會保留在合作夥伴中心內的更新之後。 不過，如果您移除 MSA 配置一次移轉在合作夥伴中心內，無法將它新增回合作夥伴中心。
+
+MPN 系統管理員可以新增工作帳戶，在公司 Azure AD 租用戶中的 Visual Studio 權益配置。
+
+多個 AAD 租用戶時都已關聯到相同的合作夥伴中心帳戶中，所有租用戶的全域管理員可以在所有這些租用戶新增使用者到 Visual Studio 權益和 Azure 使用量為基礎的配置。 
 
  **我們如何應該管理我們 MCP 關聯和我們的合作夥伴大學存取？**
 
