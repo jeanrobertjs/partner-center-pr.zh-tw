@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 會員資格權益, 成員資格
 ms.localizationpriority: medium
-ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: fe70af06cf6cea16f5d1f934733a588db9b7546e
+ms.sourcegitcommit: 2ab34b5d432b427f2fc2dba04019255122502eba
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134388"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67198311"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
@@ -35,7 +35,7 @@ ms.locfileid: "62134388"
 
 權益套件包括內部使用權限權益、雲端服務、Visual Studio 訂閱和支援等各項配置。 您可以在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/internal-use-software)網站找到行動套件訂閱的詳細資料。  
 
-若要檢視和管理您的會員權益權益，請前往您的 [**\[權益\]** 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits) (需要登入)。
+若要檢視和管理您的會員權益權益，請前往您的 [ **\[權益\]** 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits) (需要登入)。
 
 #### <a name="manage-software-benefits"></a>管理軟體權益
 
@@ -49,7 +49,7 @@ ms.locfileid: "62134388"
 
     b. 選取您想要顯示產品的語言。
 
-    c.  選取您要安裝軟體的電腦作業系統 (OS) 類型。
+    c. 選取您要安裝軟體的電腦作業系統 (OS) 類型。
 
     d. 跟隨連結以下載並安裝軟體安裝套件。
 
@@ -71,7 +71,7 @@ ms.locfileid: "62134388"
 
 2. 尋找您要開始使用的訂閱，然後選取資料列最右邊的向下箭頭，即可展開訂閱的詳細資料。 
 
-3. 若要啟用 Visual Studio 訂閱，請從清單選取使用者，然後選取 **\[指派使用者\]**。 
+3. 若要啟用 Visual Studio 訂閱，請從清單選取使用者，然後選取 **\[指派使用者\]** 。 
 
 > [!IMPORTANT]  
 > 若想要指派的使用者不在清單中，您可以在 **\[帳戶設定\]** 中[新增使用者](create-user-accounts-and-set-permissions.md)。
@@ -96,10 +96,14 @@ ms.locfileid: "62134388"
     
     做為保護措施，我們將會透過電子郵件將存取 Microsoft 產品支援的指示傳送到此電子郵件地址，除了使用者的合作夥伴中心帳戶電子郵件。 請注意，可能需要數天來啟用這個權益及透過電子郵件傳送指示給受指派的使用者。    
     
-    c.   完成輸入其他電子郵件地址後，選取 **\[指派使用者\]**。 
+    c.  完成輸入其他電子郵件地址後，選取 **\[指派使用者\]** 。 
 
 4. 在雲端和混合式解決方案的售前、設計、部署及應用程式開發階段，您可以使用您的技術售前協助或諮詢時數權益來請求技術協助。 若要請求協助，請填寫[要求表單](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-)，然後選取 **\[提交要求\]**。
+)，然後選取 **\[提交要求\]** 。
+
+## <a name="cancel-a-membership-benefit"></a>取消成員資格的權益
+
+為了取消一項優點，並收到退款，您必須購買的 30 天內提出要求，並不啟用軟體權益。 要求透過服務要求取消。
 
 
 #### <a name="see-also"></a>另請參閱

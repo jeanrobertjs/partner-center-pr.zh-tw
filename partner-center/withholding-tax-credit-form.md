@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 扣繳稅扣、 稅務信用額度、 德國信用額度的稅單、 表單稅扣
 ms.localizationpriority: medium
-ms.openlocfilehash: 35ed5d1a5da2699df9660bcce1806772fd75a6a0
-ms.sourcegitcommit: ece130080e67ce92bfc86b3892e33320cb13e49b
+ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
+ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "66410970"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67207580"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>請確定帳戶內沖銷扣繳稅金
 
@@ -49,7 +49,8 @@ ms.locfileid: "66410970"
 2. 選取 **合作夥伴的支援要求**。
 3. 選取 **新要求**，然後在 **詳細資料**，選取**協助夥伴的發票、 付款或對帳檔案。**
 4. 當您提交服務要求時請務必附加的信用額度的稅單和數位稅務憑證複本。
-5. 我們會直接以電子郵件或電話連絡您。
+5. 如果您提交 non-alpha Non-english 稅務透過憑證的英文服務要求，翻譯稅務憑證的需要。
+6. 我們會直接以電子郵件或電話連絡您。
 
 使用**發票支付付款**方法，一旦有收到稅務憑證，且已驗證成功，您發票上的所剩餘額會清除在大約一週的時間。 
 

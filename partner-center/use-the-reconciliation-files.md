@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
+ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132778"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67193416"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -33,12 +33,16 @@ ms.locfileid: "62132778"
 
 <li>在 [文字轉換為資料行精靈，選取<strong>分隔的檔案類型</strong>，然後選取<strong>下一步]</strong>。</li> 
 
-<li>在 [分隔符號] 欄位中，選取<strong>逗號</strong>。 如果<strong> 索引標籤</strong>是已選取，您可以將它保留。 選取 <strong>\[下一步\]</strong>。</li>
+<li>在 [分隔符號] 欄位中，選取<strong>逗號</strong>。 如果 <strong>索引標籤</strong>是已選取，您可以將它保留。 選取 <strong>\[下一步\]</strong>。</li>
 
 <li>在 資料行的資料格式 欄位中，選取<strong>日期：MDY</strong>，然後選取<strong>下一步</strong>。</li> 
 
 <li>在 [資料行的資料格式] 欄位中，選取<strong>文字</strong>的所有 amount 資料行，然後選取<strong>完成</strong>。</li>
 </ol>
+
+## <a name="downloading-a-large-recon-file"></a>下載大型的偵察檔案
+
+偵察檔案可以變得非常大，而且有時候很難進行下載。 為了下載大型的偵察檔案的 PowerShell 指令碼，請參閱[取得發票明細項目](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items)。
 
 ## <a href="" id="itemizebypartner"></a>由合作夥伴條列
 
@@ -204,7 +208,7 @@ ms.locfileid: "62132778"
 <td>11</td>
 </tr>
 <tr class="even">
-<td>貨幣</td>
+<td>Currency</td>
 <td><p>貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。</p></td>
 <td>EUR</td>
 </tr>
@@ -408,7 +412,7 @@ ms.locfileid: "62132778"
 <td>$0.93</td>
 </tr>
 <tr class="odd">
-<td>貨幣</td>
+<td>Currency</td>
 <td><p>貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。</p></td>
 <td>EUR</td>
 </tr>
@@ -489,7 +493,7 @@ ms.locfileid: "62132778"
 </colgroup>
 <thead>
 <tr class="header">
-<th>Column</th>
+<th>「資料行」</th>
 <th>描述</th>
 </tr>
 </thead>
@@ -652,7 +656,7 @@ ms.locfileid: "62132778"
 </tr>
 
 <tr class="even">
-<td>貨幣</td>
+<td>Currency</td>
 <td><p>貨幣類型。 每一帳單實體都只有一種貨幣。 檢查是否與您的第一張發票相符，然後在進行任何重大帳單平台更新之後檢查。</p></td>
 </tr>
 
@@ -674,7 +678,7 @@ ms.locfileid: "62132778"
 </colgroup>
 <thead>
 <tr class="header">
-<th>Column</th>
+<th>「資料行」</th>
 <th>描述</th>
 </tr>
 </thead>
@@ -1017,6 +1021,8 @@ ms.locfileid: "62132778"
 <p>從啟用到計費期間結束時按比例計算的費用</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2">
 <p><strong>使用量費用</strong></p>
@@ -1039,6 +1045,7 @@ ms.locfileid: "62132778"
 <p>目前計費期間的存取用量費用</p>
 </td>
 </tr>
+
 <tr>
 <td>
 <p><strong>信用額度</strong></p>
