@@ -2,8 +2,9 @@
 
 # [合作夥伴網路會員資格](mpn-overview.md)
 ## [建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)
-## [合作夥伴中心的帳戶架構](account-structure.md)
+## [如何取得公司電子郵件地址](buy-email-domain.md)
 ## 從 PMC 移到合作夥伴中心
+### [準備從 Partner Membership Center 移至合作夥伴中心](prepare-pmc-pc-migration.md)
 ### [從 PMC 移到合作夥伴中心指南](guide-to-migration.md)
 ### [快速檢視 PMC 和電腦之間的差異](move-pmc-pc-map.md)
 ### [從多家公司移到合作夥伴中心指南](move-multiple-companies.md)
@@ -39,6 +40,7 @@
 # [管理您的合作夥伴中心帳戶](partner-center-account-setup.md)
 ## [工作帳戶與合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)
 ## [合作夥伴中心的帳戶架構](account-structure.md)
+## [確認您的帳戶資訊](verification-responses.md)
 ## [更新您的合作夥伴設定檔](update-your-partner-profile.md)
 ## [位置](manage-locations.md)
 ## [還原暫時停用的合作夥伴中心帳戶](suspended-partner-center-account.md)
