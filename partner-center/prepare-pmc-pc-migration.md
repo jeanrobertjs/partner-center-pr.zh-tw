@@ -6,12 +6,12 @@ description: 您會將您的企業從 PMC 合作夥伴中心之前，仔細考�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
+ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157332"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "67279880"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備您的移動從夥伴成員資格中心 (PMC) 到合作夥伴中心
 
@@ -136,17 +136,22 @@ MPN 的全域管理員或進行移轉的主要程式連絡人中，除了在 PMC
 
  是的是協力廠商的記錄不會變更。 深入了解[將您的合作夥伴識別碼連結至您的客戶](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)。
 
-**是否有影響獎勵？**
+**因為移至合作夥伴中心是否有影響獎勵？**
 
-不會有不會影響到獎勵。 此外，如果您的業務有多個帳戶在 PMC 中，當您移到合作夥伴中心這些帳戶會合併成通用帳戶，是不會影響到記錄為基礎的獎勵的夥伴。
+否，會影響到獎勵您已移動您的帳戶，但沒有合併位置。 如果您的業務有多個帳戶在 PMC 中，當您移到合作夥伴中心您決定要彙總成通用帳戶，會不會遺失獎勵，但有可能會延遲獎勵的支付額。 如果您不會移動所有 PMC 帳戶涉及獎勵程式中，您可能會停止贏得獎勵繫結至這些帳戶。
+
 
 **在合作夥伴中心內的獎勵的使用者角色有哪些？** 
 
 在合作夥伴中心內的獎勵角色是以位置為基礎，並包含獎勵系統管理員和獎勵使用者。 如需有關這些角色可以做什麼的詳細資訊，請參閱 <<c0> [ 指派使用者角色和權限](permissions-overview.md)。
 
-**可以在全域和位置的層級管理獎勵？**
+**可以在全域和位置的層級指派獎勵使用者嗎？**
 
  是的。 您可以指派做為所有位置而言的獎勵管理員獎勵系統管理員，或每個位置可以有它自己的獎勵管理員。
+
+ **可以在全域或位置的層級付費獎勵？**
+
+ 只有在位置層級是付費的獎勵。
 
 **關於轉介，幾個商務設定檔可以我們建立？**
 
