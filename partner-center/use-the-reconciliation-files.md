@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
-ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
+ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67193416"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "67343462"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -1022,6 +1022,61 @@ ms.locfileid: "67193416"
 </td>
 </tr>
 
+
+
+<tr>
+<td rowspan="5">
+<p><strong>一次性費用</strong></p>
+
+</td>
+<td>
+<p>新的</p>
+</td>
+<td>
+<p>建立新的採購單時，使用</p>
+</td>
+
+<p></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>addQuantity</p>
+</td>
+<td>
+<p>用於原始的購買和新的數量的退款之後增加</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>removeQuantity</p>
+</td>
+<td>
+<p>用於退還原始的購買和新的數量減少之後</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>取消</p>
+</td>
+<td>
+<p>已取消訂用帳戶時使用</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>轉換</p>
+</td>
+<td>
+<p>升級授權，但是的基座數目會維持不變時使用</p>
+</td>
+</tr>
 
 <tr>
 <td rowspan="2">
