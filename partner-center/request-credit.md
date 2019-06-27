@@ -7,12 +7,12 @@ ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 97b8120be91bbeb058597854a7114e98d2e3d0ae
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67333985"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407866"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>向 Microsoft 要求的 SLA 信用額度 
 
@@ -34,7 +34,7 @@ ms.locfileid: "67333985"
 
 - 受影響的訂用帳戶購買透過 CSP 嗎？ 是/否
 
-在 Microsoft 365 系統管理中心的 [服務健全狀況] 頁面中找到 （例如 EX25194) 中斷事件識別碼。 事件編號被加 2 字母的縮寫，表示服務的影響，例如：
+在 Microsoft 365 系統管理中心的 [服務健全狀況] 頁面上找到 （例如 EX25194) 中斷事件識別碼。 事件編號被加 2 字母的縮寫，表示服務的影響，例如：
 
 EX - Exchange Online
 
@@ -51,6 +51,17 @@ SP - SharePoint Online
 YA - Yammer Enterprise
 
 每月-入口網站錯誤
+
+## <a name="submit-a-request"></a>提交要求
+
+提交您的信用額度要求在合作夥伴中心。
+
+1. 從合作夥伴中心儀表板，選取**支援**從左側的導覽。
+
+2. 選取 **合作夥伴的支援要求**，然後選取**CSP 為客戶、 訂單和客戶的訂用帳戶/服務信用額度要求**。
+
+3. 提交您的 SLA 信用額度要求。
+
 
 
 

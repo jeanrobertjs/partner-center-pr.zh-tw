@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 權限, 系統管理員, 代理人
 ms.localizationpriority: medium
-ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
+ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133898"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67396733"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
 
@@ -24,7 +24,7 @@ ms.locfileid: "62133898"
 您決定您的使用者需要合作夥伴中心的角色和權限給他們的存取類型。 開始參與您的業務相關的角色。 例如，如果您的企業雲端解決方案提供者 (CSP) 的企業，您將不只有標準的 Azure AD 租用戶全域管理員，例如管理角色，但需要角色專屬 CSP 計劃。 每個程式都有特定的角色。
 
 >[!Note]
-> Azure Active Directory (AAD) 租用戶角色包含全域管理員、 使用者管理員和 CSP 的角色。 非 AAD 角色包括 MPN 管理、 商務設定檔管理員、 轉介系統管理員、 獎勵的系統管理員，以及獎勵的使用者。 
+> Azure Active Directory (AAD) 租用戶角色包含全域管理員、 使用者管理員和 CSP 的角色。 非 AAD 角色是那些未管理的租用戶的角色，其中包括 MPN 管理、 商務設定檔管理員、 轉介系統管理員、 獎勵的系統管理員，以及獎勵的使用者。 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>管理在合作夥伴中心內的商業交易 (Azure AD 和 CSP 角色)
 
@@ -52,6 +52,7 @@ ms.locfileid: "62133898"
 |銷售代理人 | • 客戶管理
 ||• 加入合作夥伴中心的裝置清單
 ||• 訂用帳戶管理
+||• 檢視價格列出，並提供
 ||• 檢視支援票證
 ||• 要求與客戶之間的關係
 ||• 管理潛在客戶
@@ -71,7 +72,18 @@ CPVs 開發以供雲端解決方案提供者 (CSP) 合作夥伴，使其能夠�
 |全域系統管理員| 檢視及管理您的 CPV 設定檔|
 ||檢視及管理任何您需要 CPV 功能的存取權的使用者|
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>管理 MPN 成員資格和您的公司 （非 AAD 角色）
+### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>（必須新增至 AAD 租用戶） 的來賓使用者
+
+|**來賓使用者**   | **角色**|
+|---------------------------|:--------------------|
+||MPN 合作夥伴系統管理員|
+||帳戶系統管理員|
+||獎勵系統管理員|
+||商務設定檔系統管理員|
+||轉介系統管理員|
+
+
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>管理 MPN 成員資格和您的公司 (非 AAD 角色： 這些角色管理公司業務，而不是租用戶)
 
 |**角色** | **您可以執行**|
 |----------------------------|:----------------------------|
@@ -92,28 +104,19 @@ CPVs 開發以供雲端解決方案提供者 (CSP) 合作夥伴，使其能夠�
 ||• 指派角色給非 AAD 角色的租用戶中使用者 
 ||• 註冊到程式的位置
 
-## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>（必須新增至 AAD 租用戶） 的來賓使用者
 
-|**來賓使用者**   | **角色**|
-|---------------------------|:--------------------|
-||MPN 合作夥伴系統管理員|
-||帳戶系統管理員|
-||獎勵系統管理員|
-||商務設定檔系統管理員|
-||轉介系統管理員|
-
-
-## <a name="manage-referrals-non-aad-roles"></a>管理轉介 （非 AAD 角色）
+## <a name="manage-referrals"></a>管理推薦 
 
 |**角色**|**您可以執行**|
 |-----------------------------|:------------------------|
 |轉介系統管理員       |• 檢視中，建立和管理商務設定檔
 ||• 接收及管理轉介
-||• 檢視中，建立和管理協力廠商服務要求|
-|商務設定檔系統管理員   |•View，建立和管理商務設定檔 
+||• 檢視中，建立和管理共同銷售轉介|
+||• 檢視中，建立和管理協力廠商服務要求
+|商務設定檔系統管理員   |• 檢視中，建立和管理商務設定檔 
 ||• 檢視中，建立和管理協力廠商服務要求|
 
-## <a name="manage-incentives--non-aad-roles"></a>管理獎勵 （非 AAD 角色）
+## <a name="manage-incentives"></a>管理獎勵 
 
 |**角色** | **您可以執行**|
 |------------------------------|:-------------------------|
