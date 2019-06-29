@@ -6,12 +6,12 @@ description: 您會將您的企業從 PMC 合作夥伴中心之前，仔細考�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
-ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
+ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "67279880"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468030"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備您的移動從夥伴成員資格中心 (PMC) 到合作夥伴中心
 
@@ -58,9 +58,11 @@ Azure 工作帳戶是您公司在 Azure 公用雲端的專用且隔離的虛擬�
 
 MPN 的全域系統管理員移到合作夥伴中心時角色稱為 MPN 夥伴系統管理員具有不同的權限和工作合作夥伴中心全域系統管理員。如需有關角色和在合作夥伴中心內的權限的詳細資訊，請參閱[指派的使用者角色和權限](permissions-overview.md)
 
-**在合作夥伴中心內的使用者角色**
+**包括在合作夥伴中心內的來賓使用者角色的使用者角色**
 
 合作夥伴中心有不同類型的角色，視需要完成的工作類型而定。 有 Azure AD 角色，例如全域系統管理員角色。 某些角色僅供程式，例如雲端服務提供者方案的獎勵，且有專屬於 MPN 的角色。 若要了解所有合作夥伴中心角色，請閱讀[指派使用者角色和權限](permissions-overview.md)。
+
+
 
 **角色發生什麼事我的使用者當他們從 PMC 將移到合作夥伴中心？**
 
@@ -84,6 +86,9 @@ MPN 的全域管理員或進行移轉的主要程式連絡人中，除了在 PMC
 是，在合作夥伴中心中，您可以連結多個 Azure AD 租用戶單一合作夥伴中心帳戶。
 深入瞭解。 
 
+**有多個 Azure AD 租用戶加入單一的合作夥伴中心帳戶的限制嗎？**
+
+如果已在現有的合作夥伴中心帳戶相關聯的 Azure AD 租用戶，它不能使用多租用戶功能的新合作夥伴中心帳戶相關聯。 將它的另一個方法是，Azure AD 租用戶僅能關聯到一個合作夥伴中心帳戶，但合作夥伴中心帳戶可以有多個與其相關聯的租用戶。
 
 ## <a name="microsoft-partner-network-mpn-membership-migration"></a>Microsoft 合作夥伴網路 (MPN) 成員資格移轉 
 
