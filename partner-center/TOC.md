@@ -48,6 +48,7 @@
 ## [指派使用者角色和權限](permissions-overview.md)
 ## [確認網域的擁有權](become-global-admin.md)
 ## [重設使用者密碼](reset-a-user-password.md)
+## [重設我的密碼](reset-my-pasword.md)
 ## [新增 Azure 合作夥伴共用服務](shared-services.md)
 ## [定價與方案](pricing-and-offers.md)
 ## [自訂型錄](customize-the-catalog.md)
@@ -71,6 +72,7 @@
 ## [使用對帳檔案](use-the-reconciliation-files.md)
 ## [稅金與免稅](tax-and-tax-exemptions.md)
 ## [請確認已計入扣繳稅](withholding-tax-credit-form.md)
+## [向 Microsoft 要求 SLA 信用額度](request-credit.md)
 ## [組織加值稅資訊](organization-tax-info.md)
 ## [為客戶設定 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)
 ## [常見帳單案例](common-billing-scenarios.md)
@@ -137,4 +139,8 @@
 ## [客戶自我支援](customer-self-support.md)
 ## [向上呈報問題給 Microsoft](escalate-problems-to-microsoft.md)
 
+# 安全性
+## [合作夥伴安全性需求](partner-security-requirements.md)
 
+# 教學課程
+## [實作合作夥伴安全性需求](tutorials/partner-security-requirements.yml)
