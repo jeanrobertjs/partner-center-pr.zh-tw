@@ -1,18 +1,18 @@
 ---
 title: Azure 保留的 VM 執行個體 (RI) + Azure 伺服器訂閱 | 合作夥伴中心
 ms.topic: article
-ms.date: 6/5/2019
+ms.date: 7/2/2019
 description: 透過將 Azure RI 與伺服器訂閱引進雲端解決方案提供者計畫，我們得以用更理想的方式協助合作夥伴，以更具成本效益的解決方案支援高度可預測的持續性雲端工作負載，解決快速成長的客戶需求。 雲端解決方案提供者計畫可讓合作夥伴透過 Microsoft 合作夥伴中心和 Azure 入口網站，代表商業客戶取得、佈建和管理 Azure RI 與伺服器訂閱。
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure，訂用帳戶，VM，保留，保留執行個體
 ms.localizationpriority: medium
-ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
-ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
+ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "66736066"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "67509952"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -45,6 +45,7 @@ Azure 保留的項目可協助您節省成本，藉由預先支付一年或三�
 -   SQL 受管理的執行個體
 -   Azure Cosmos DB
 -   Azure SQL 資料倉儲
+-   應用程式服務
 
 #### <a name="server-subscriptions"></a>伺服器訂閱
 -   Windows Server
@@ -54,6 +55,10 @@ Azure 保留的項目可協助您節省成本，藉由預先支付一年或三�
 #### <a name="linux-isv-annual-subscriptions"></a>Linux ISV 的年度訂用帳戶
 -   SUSE Linux
 -   Red Hat Enterprise Linux
+-   Azure 的 Red Hat OpenShift
+
+#### <a name="isv-annual-subscriptions"></a>ISV 的年度訂用帳戶
+-   Azure 的 VMware 解決方案由 CloudSimple
 
 ## <a name="getting-started"></a>使用者入門
 
@@ -119,4 +124,4 @@ Azure 保留的項目可協助您節省成本，藉由預先支付一年或三�
 
 請參閱 [Azure Hybrid Benefit 常見問題集](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
-* 實際的節費可能依有所不同區域、 執行個體類型或使用方式。
+\* 實際的節費可能依有所不同區域、 執行個體類型或使用方式。
