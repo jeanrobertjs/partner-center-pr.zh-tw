@@ -1,24 +1,21 @@
 ---
 title: 銀級及金級會員資格的 Microsoft 專長認證要求條件 | 合作夥伴中心
 ms.topic: article
-ms.date: 12/5/2018
+ms.date: 5/7/2019
 description: 了解取得金級及銀級會員資格等級的專長認證要求條件。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: 專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格
+keywords: 專長認證、 銀級成員資格、 金級的成員資格、 mpn、 地圖、 熟練的速度，Microsoft 合作夥伴網路、 網路的成員資格，進階特製化
 ms.localizationpriority: medium
-ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 480f14df79f5899a24b23947528b44a7aa3b73ba
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134408"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549524"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>金會員及銀會員資格的 Microsoft 專長認證要求條件
 
-**適用於**
-
-- 合作夥伴中心
 
 證明您在一個或多個特殊業務領域中提供高品質解決方案方面卓有建樹的專長。 Microsoft 專長認證是設計來讓您做好滿足客戶需求的準備，以及協助您吸引正在尋找 Microsoft 認證解決方案提供者的新客戶。 加入 Microsoft 合作夥伴菁英層，從同儕中脫穎而出。
 
@@ -26,32 +23,10 @@ ms.locfileid: "62134408"
 
 - 贏得**金級會員資格**可證明您在特定 Microsoft 解決方案領域中的能力一流
 
-深入了解 Silver 和 Gold 的成員資格，在下列領域的專業知識，即可贏得的必要條件：
+深入了解[獲得 Silver 和 Gold 的成員資格的必要條件](https://partner.microsoft.com/membership/competencies)
 
-<!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
+深入了解[發票與專長認證的稅金](mpn-view-print-maps-invoice.md)
 
-[ISV competency](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016,  Dynamics 365, Office 365, Windows Server 2019, System Center 2016|
+## <a name="advanced-specializations"></a>進階的特製化
 
--->
-
-| 專長認證  | 技術 |
-|   ------------------   |   -------   |
-| [應用程式開發專長認證](https://partner.microsoft.com/membership/application-development-competency) | HTML5、C#、ASP.NET、UWP、Microsoft Azure 應用程式 |
-| [應用程式整合專長認證](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server、SQL 伺服器/資料庫、C#、Azure、BizTalk Server 2013|
-| [雲端商務應用程式的專長認證](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/Enterprise/Operations/AX、SQL 資料庫 |
-| [雲端客戶關係管理專長認證](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365/Dynamics CRM |
-| [雲端平台專長認證](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure、Azure 上的 Linux |
-| [雲端生產力專長認證](https://partner.microsoft.com/membership/cloud-productivity-competency)| Microsoft Office 365 服務 (Exchange Online、SharePoint Online、商務用 Skype 或 Yammer)|
-| [共同作業和內容的專長認證](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365、SharePoint Server 2016、應用程式建置商 |
-| [通訊專長認證](https://partner.microsoft.com/membership/communications-competency)| 商務用 Skype、商務用 Skype 2015 企業語音 |
-| [資料分析能力](https://partner.microsoft.com/membership/data-analytics-competency)| SQL 資料庫、Azure、Microsoft R Server、Microsoft HD Insight、Power BI |
-| [資料平台專長認證](https://partner.microsoft.com/membership/data-platform-competency)| SQL 資料庫、SQL Server 2016、Azure 資料倉儲、Azure 資料服務、Transact-SQL |
-| [資料中心專長認證](https://partner.microsoft.com/membership/datacenter-competency)| System Center 2012、Windows Server 虛擬化與 Hyper-V、Windows Server 2012/2016 |
-| [DevOps 專長認證](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio、Visual Studio Team Foundation Server (TFS) 2012、軟體生命週期、Scrum 認證 |
-| [企業行動力管理專長認證](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| 企業行動力 + 安全性 (EMS)、Microsoft Intune、Azure 資訊保護、Azure Active Directory Premium (AADP)、行動裝置管理、身分識別及存取管理、資訊保護、雲端應用程式安全性 |
-| [企業資源規劃專長認證](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365、企業資源規劃 (ERP)、SQL Server 2012 資料庫  |
-| [訊息的專長認證](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
-| [專案和 Portfolio 管理專長認證](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project、專案與組合管理 (PPM)、SharePoint Server 2016|
-| [小型和中型市場的雲端解決方案專長認證](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
-| [Windows 與裝置的專長認證](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10、Windows 10 IoT、通用 Windows 平台、Surface Hub、Office 365、商務用 Skype 2015、企業部署 |
-|
+超過您使用進階的特製化的金級專長認證。 這些可讓您展示產品、 方案 區域中或服務中經過實證，可驗證的專業知識。 客戶將能夠看到您進階的特製化，在您的商務設定檔和您金級專長認證合作夥伴目錄上。 若要接收的進階的特製化的標記，業務必須完全符合一組已發行的準則，並由 Microsoft 進行驗證。 [進一步瞭解](https://partner.microsoft.com/en-us/membership/competencies#tab-content-2)。 

@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC 中，移轉，將移至合作夥伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 1712587f834958a2dd3450d940e8778a2f16d12d
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: 3056bd4094bc6e3a69081ff262fc96782ce57a1f
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157346"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549517"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>將從 PMC 移到合作夥伴中心
 
@@ -64,7 +64,7 @@ ms.locfileid: "67157346"
 |-----------------|:-----------------|
 |Visual Studio 權益，對 MSA 的配置|將接受配置給 Msa 的 visual Studio 權益，並將其保留。|
 ||Visual studio 的 MSA 配置將會保留在合作夥伴中心內的更新之後。|
-||在合作夥伴中心，合作夥伴可以新增工作帳戶和 MSA 是來自相同的租用戶，該合作夥伴是 MPN 的 Azure AD 租用戶系統管理員的來賓使用者帳戶。 如果夥伴是多個 Azure AD 租用戶的全域系統管理員，而且所有這些租用戶都已關聯到相同的合作夥伴中心帳戶，可以在所有這些租用戶新增使用者的 Visual Studio 權益和 Azure 使用量為基礎的配置來允許夥伴。雖然來賓使用者可以藉由 MPN 系統管理員或全域管理員指派給使用量為基礎的 Visual Studio 訂用帳戶，但來賓使用者無法登入合作夥伴中心使用其 MSA。 Azure 和 Visual Studio 來驗證，並使用其指派的權益，可以不過，來賓使用者登入。 |
+||在合作夥伴中心，合作夥伴可以新增工作帳戶和 MSA 是來自相同的租用戶，該合作夥伴是 MPN 的 Azure AD 租用戶系統管理員的來賓使用者帳戶。 如果夥伴是多個 Azure AD 租用戶的全域系統管理員，而且所有這些租用戶都已關聯到相同的合作夥伴中心帳戶，可以在所有這些租用戶新增使用者的 Visual Studio 權益和 Azure 使用量為基礎的配置來允許夥伴。 雖然來賓使用者可以藉由 MPN 系統管理員或全域管理員指派給使用量為基礎的 Visual Studio 訂用帳戶，但來賓使用者無法登入合作夥伴中心使用其 MSA。 Azure 和 Visual Studio 來驗證，並使用其指派的權益，可以不過，來賓使用者登入。 |
 
 ## <a name="programs-now-located-and-managed-in-partner-center"></a>現在位於，並在合作夥伴中心內受管理的程式 
 

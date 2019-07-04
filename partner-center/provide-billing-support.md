@@ -7,12 +7,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fdc7bdf8dc79bba7e3328fb19a4bdbd9a78d904b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133968"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549509"
 ---
 # <a name="provide-billing-support"></a>提供帳單支援
 
@@ -33,6 +33,9 @@ ms.locfileid: "62133968"
 在雲端解決方案提供者模型中交易的合作夥伴是其客戶信賴的顧問，擁有端對端關係，包括在客戶有疑問或問題時提供支援。 透過支援接觸點，合作夥伴可以深入了解客戶及其業務，找出能驅動價值的新服務和解決方案。
 
 為了滿足支援需求，合作夥伴可能會轉售來自其他實體的支援、可能將全部或部分的支援結構外包出去，及/或可能會設定結構來直接提供支援。  合作夥伴可能會對全部或部分提供給客戶的支援收取費用。 合作夥伴應該清楚地告訴客戶他們將提供的支援、服務時間和連絡方法，以及定價 (如果收取支援費用)。 
+
+>[!Note]
+>如果您不是 CSP，而且有關於客戶帳單的問題，請參閱適當的產品或服務的特定網站。
 
 合作夥伴應接受客戶提出的支援要求、盡其所能診斷問題，接著在基準支援界限範圍內解決問題。 如果合作夥伴無法解決問題，他們可以透過下列支援媒介，將問題向上呈報給 Microsoft：
 
