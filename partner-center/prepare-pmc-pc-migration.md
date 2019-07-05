@@ -6,12 +6,12 @@ description: 您會將您的企業從 PMC 合作夥伴中心之前，仔細考�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
+ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468030"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "67563035"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備您的移動從夥伴成員資格中心 (PMC) 到合作夥伴中心
 
@@ -132,6 +132,11 @@ MPN 的全域管理員或進行移轉的主要程式連絡人中，除了在 PMC
  **我們如何應該管理我們 MCP 關聯和我們的合作夥伴大學存取？**
 
  不沒有為所移動的 PMC MCP 關聯的任何變更。 不過，任何新的新員工之後您將移至合作夥伴中心, 必須在合作夥伴中心產生關聯。 所有您合作夥伴大學的權限的現有使用者將會保留，但是任何新的員工應該移至[訓練中心](https://partner.microsoft.com/training)如需有關如何存取合作夥伴大學資訊。
+
+ **一旦將移至合作夥伴中心如何檢視 MCP 資訊？**
+
+選取 **專長認證**從左側導覽中的儀表板上。 從**專長認證**就能夠將報表下載為技能的頁面。 技術報表會列出您已取得技能與專長認證並在合作夥伴中心內的程式相關的使用者。 如果您的使用者獲得技能，但這些技能與專長認證的正朝著無關，它們不會列在報表中。
+
 
  **為使用在合作夥伴中心內的客戶參考嗎？**
 
