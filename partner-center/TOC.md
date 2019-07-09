@@ -120,6 +120,7 @@
 ## [取得您客戶 Azure 訂閱使用狀況的相關資料](analyze-azure-usage.md)
 ## [分析間接經銷商績效](analyze-indirect-resellers.md)
 ## [分析訂閱與授權](analyze-subscriptions-licenses.md)
+## [Microsoft Learn 分析](ms-learn-analytics.md)
 
 # [與其他合作夥伴合作](work-with-other-partners.md)
 ## [在合作夥伴中心的間接提供者工作](indirect-provider-tasks-in-partner-center.md)
