@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 教育訓練憑券，軟體保證、 訓練、 驗證憑券，保留憑券
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132580"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674223"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>常見問題集：使用憑券驗證及兌換工具 
 
@@ -51,6 +51,9 @@ ms.locfileid: "62132580"
 **我的公司要如何存取 VVR 工具？**
 
 - 若要存取 VVR 工具，您的公司需要 SATV 程式或 SA DPS 程式中註冊。
+
+閱讀更詳細的常見問題集[憑券驗證工具工作流程](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)。
+
 如需如何註冊 SATV 資訊，請閱讀[在合作夥伴中心內的軟體保證的訓練憑券 (SATV) 程式](software-assurance-satv.md)。
- <!--
-For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
+
+如何註冊軟體保證 DPS 程式中的資訊，請參閱[在合作夥伴中心內的軟體保證程式](software-assurance-dps.md)。

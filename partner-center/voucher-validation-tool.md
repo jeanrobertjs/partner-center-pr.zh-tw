@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 訓練、 憑單工具、 驗證憑券，軟體保證的宣告，DP SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ab74a3264ebf7461919072b7fd367f7619252b10
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132648"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674266"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>使用合作夥伴中心的憑券驗證及兌換工具來驗證、保留和兌換憑券 
 
@@ -23,6 +23,15 @@ ms.locfileid: "62132648"
 身為合格軟體保證合作夥伴，用於定型或部署規劃服務，Microsoft 會補償您提供這些服務給企業客戶，但是也會取得具備軟體保證的憑券。
 
 當客戶收到的憑券時，您需要驗證，並保留它。 您可能完成此工作的憑券驗證和贖回 (VVR) 工具中在過去。 今天，我們會結合到一個站台 – 合作夥伴中心 – 所有的工具和站台，包括 [VVR] 工具中，用來瀏覽有協力廠商如何與 Microsoft 的商務目標是要讓工作有效率且更有效率。
+
+本文件提供如何驗證和保留的憑券的概觀。 如需完整的憑券驗證工作流程和原則的完整詳細資料，閱讀： 
+
+- [軟體保證的訓練憑券工作流程](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+
+- [軟體保證訓練憑單常見問題集](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 
+
+- [軟體保證的訓練憑券原則](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) 
+
 
 ## <a name="validate-and-reserve-a-voucher"></a>驗證並保留憑券
 

@@ -1,19 +1,19 @@
 ---
 title: 建立使用者帳戶與設定權限 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: 系統管理員能為每個需要存取合作夥伴中心的合作夥伴員工建立使用者帳戶。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 角色、 權限，新增使用者、 指派角色、 管理、 代理程式，
 ms.localizationpriority: medium
-ms.openlocfilehash: 3829a18a78cb50797b7ca2bfd862c82d93d92248
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: de8b4e793f50d00a1d528d44b8dece7b9f7c9263
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134978"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674228"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>建立使用者帳戶和指派權限
 
@@ -24,11 +24,11 @@ ms.locfileid: "62134978"
 
 1. 從**設定**圖示，在頂端的 「 合作夥伴中心 」 中，選取**使用者管理**。
 
-2.  選取 **\[新增使用者\]**。
+2.  選取 **\[新增使用者\]** 。
 
 3.  輸入使用者的全名和唯一電子郵件地址。
 
-4.  選取您要指派給使用者的代理人類型及/或系統管理員類型。 合作夥伴中心存取權是以角色為基礎，讓您可以指派權限，自訂使用者檢視，只顯示使用者完成特定工作所需的功能。  若使用者想要角色指派，他們可以移至 **\[使用者管理\]** 並篩選帳戶系統管理員，找到要連絡的帳戶系統管理員。
+4.  選取您要指派給使用者的代理人類型及/或系統管理員類型。 合作夥伴中心存取權是以角色為基礎，讓您可以指派權限，自訂使用者檢視，只顯示使用者完成特定工作所需的功能。  如果使用者想要的角色指派，讓他們能夠找到前往連絡全域管理員**使用者管理**篩選的全域管理員。
 
 5.  選取 **\[新增\]** 建立使用者帳戶。 在下一頁，確認使用者的詳細資料。
 
@@ -39,6 +39,11 @@ ms.locfileid: "62134978"
 
 > [!NOTE]  
 >  如果您的全域管理員已離開您的組織或轉任其他角色，而您需要新增新的全域管理員時，您必須在 [MPN 入口網站](https://partner.microsoft.com/support)登錄服務要求。 如果要求者可以提供必要的個人身分識別資訊並提供關於您組織的其他資訊，支援專員可能會要求將某個使用者的權限提高至全域管理員。
+
+### <a name="find-your-global-admin"></a>尋找您的全域系統管理員
+
+有時可能需要變更其角色的使用者，或新的使用者可能會想要的特定角色指派。  
+若要尋找的全域的系統管理員，可以變更角色，或將角色指派給新的使用者，從**設定圖示**頂端的 「 合作夥伴中心 」 中，選取**使用者管理**和篩選器上的全域管理員。 
 
 ## <a name="assign-user-roles"></a>指派使用者角色
 
@@ -72,12 +77,16 @@ ms.locfileid: "62134978"
 
 如需角色的特定資訊以及每個角色可以執行哪些任務的相關資訊，請參閱[指派使用者權限](permissions-overview.md)。
 
+## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>在合作夥伴中心內的使用者的 Microsoft 了解帳戶產生關聯
 
+若要能夠看到訓練和學習您的使用者進行針對專長認證的途徑，他們必須將他們的合作夥伴中心帳戶其 MCP ID 產生關聯。 以全域系統管理員，當您加入新的使用者，請務必提醒他們將其帳戶其 MCP ID 產生關聯。 
 
-### <a name="find-your-global-admin"></a>尋找您的全域系統管理員
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>如何建立您的 MCP 識別碼，以您的合作夥伴中心帳戶的關聯
 
-有時可能需要變更其角色的使用者，或新的使用者可能會想要的特定角色指派。  
-若要尋找的全域的系統管理員，可以變更角色，或將角色指派給新的使用者，從**設定圖示**頂端的 「 合作夥伴中心 」 中，選取**使用者管理**和篩選器上的全域管理員。 
+1. 在合作夥伴中心儀表板中，選取**您的帳戶**中的儀表板，然後選取右上角的圖示**我的設定檔**。
+
+2. 底下**學習**您將能夠讓您的 Microsoft Learning 帳戶產生關聯，並同時連線到合作夥伴大學的 您的 Microsoft 帳戶。
+
 
 
 

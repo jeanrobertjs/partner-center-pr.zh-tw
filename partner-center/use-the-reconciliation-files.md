@@ -1,18 +1,18 @@
 ---
 title: 使用對帳檔案 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: 在計費週期中的每個收費詳細的明細項目檢視，請從合作夥伴中心下載的對帳檔案。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
-ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
+ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
+ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67343462"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67694930"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -834,10 +834,6 @@ ms.locfileid: "67343462"
 <td><p>您所使用的 Azure 平台服務。</p></td>
 </tr>
 
-<tr class="odd">
-<td>資源群組</td>
-<td><p>已部署的計量執行所在的資源群組。</p></td>
-</tr>
 
 <tr class="even">
 <td>資源 URI</td>
@@ -892,11 +888,6 @@ ms.locfileid: "67343462"
 <tr class="even">
 <td>服務資訊 2</td>
 <td><p>舊版欄位，可擷取選擇性服務特定中繼資料。</p></td>
-</tr>
-
-<tr class="odd">
-<td>Tags</td>
-<td><p>您指派給以順序為帳單記錄分組計量的標籤。 例如，您可以使用標記根據使用計量的部門散發成本。</p></td>
 </tr>
 
 <tr class="even">

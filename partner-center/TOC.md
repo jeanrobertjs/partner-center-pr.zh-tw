@@ -46,6 +46,7 @@
 ## [還原暫時停用的合作夥伴中心帳戶](suspended-partner-center-account.md)
 ## [建立使用者帳戶](create-user-accounts-and-set-permissions.md)
 ## [指派使用者角色和權限](permissions-overview.md)
+## [將 Microsoft Learn 帳戶關聯至合作夥伴中心](ms-learn-associate.md)
 ## [確認網域的擁有權](become-global-admin.md)
 ## [重設使用者密碼](reset-a-user-password.md)
 ## [重設我的密碼](reset-my-pasword.md)
@@ -116,7 +117,7 @@
 # 合作夥伴中心資料和分析
 ## [取得並分析您的商務資料](data-analysis-lp.md)
 ## [適用於 Microsoft Power BI 的合作夥伴分析應用程式](power-bi-app-for-direct-partners.md)
-## [合作夥伴貢獻：隨時掌握效能指標](partner-contributions.md)
+## [合作夥伴貢獻指標](partner-contribution-indicators.md)
 ## [取得您客戶 Azure 訂閱使用狀況的相關資料](analyze-azure-usage.md)
 ## [分析間接經銷商績效](analyze-indirect-resellers.md)
 ## [分析訂閱與授權](analyze-subscriptions-licenses.md)

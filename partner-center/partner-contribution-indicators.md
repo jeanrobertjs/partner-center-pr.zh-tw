@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6064b31744ff432dc97887eec22dce142c223f7
-ms.sourcegitcommit: bd83621eb29fafbda341ad41814a9ae5c1e78b00
+ms.openlocfilehash: 579676ccd7331011a0613825028dee070539d414
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "67622556"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674269"
 ---
 ## <a name="partner-contribution-indicators"></a>夥伴參與指標
 
@@ -56,9 +56,9 @@ PCI 使用 100 點小數位數，來提供與 Dynamics 365 customer engagement �
 |新的大型 deploments|20|針對**Customer Engagement**，如果任何付費的訂用帳戶超出 250 過去的 12 個月內的每月作用中使用者臨界值，相關聯的夥伴取得信用額度的所有客戶業務開發生產執行個體 （組織） 下該租用戶。 針對**Finance and Operations**，如果有任何付費的訂用帳戶超出臨界 100 每月作用中使用者過去的 12 個月內、 相關聯的夥伴取得信用額度，針對所有財務和作業的生產環境執行個體 （組織）在該租用戶。 在訂用帳戶層級會計算每月作用中的使用者，並視為只有付費的訂用帳戶。 每月作用中的使用者會計算每個月的結尾。 訂用帳戶會被視為已超出每月作用中使用者臨界值，如果時間低於指定的臨界值 13 個月前，而且至少一次在過去的 12 個月超出臨界值。 當租用戶都有多個訂用帳戶，每個不同的夥伴，與相關聯所有合作夥伴都取得信用額度在租用戶，在適用的產品類別目錄下的所有生產執行個體，只要其相關聯的付費訂用帳戶跨所需每月作用中使用者的臨界值。|行尾的 12 個月|
 |每月作用中使用者成長|25|比較目前的計數，每月作用中的使用者與每月作用中使用者的計數 13 個月前。 在訂用帳戶層級會計算每月作用中的使用者，並視為只有付費的訂用帳戶。 每月作用中的使用者會計算每個月的結尾。 針對**Customer Engagement**、 開發的市場夥伴必須至少 250 每月作用中使用者的基準的生產環境，和新興市場夥伴至少 150 套的每月作用中使用者，跨整個客戶基底 13 個月前有資格的任何點。 針對**Finance and Operations**、 開發的市場夥伴必須有至少 100 每月作用中使用者的基準在實際執行環境，和新興市場夥伴至少 50 個每月作用中的使用者跨越整個客戶基底 13 個月前有資格的任何點。|行尾的 12 個月|
 
-## <a name="customer-to-partner-association"></a>客戶與合作夥伴的關聯
+## <a name="customer-to-partner-association"></a>客戶對夥伴關聯
 
-您會收到新的淨收益的信用額度，Net 客戶新增，新的大型部署，以及針對特定的客戶，計量的定義，範圍內的每月作用中使用者成長如果且只有在您已索取協力電腦的記錄 (CPOR) 或數位記錄合作夥伴 （DPOR) 付費的訂用帳戶屬於客戶的租用戶。
+您收到新的淨收益的信用額度，Net 客戶新增，新的大型部署，以及針對特定的客戶，計量的定義，範圍內的每月作用中使用者成長，才宣告協力電腦的記錄 (CPOR) 或數位合作夥伴 (DPOR)付費訂用帳戶屬於客戶的租用戶。
 
 合作夥伴會變成 CPOR，如果他們已經建立與客戶訂用帳戶層級透過 Dynamics 365 線上解決方案 Advisor (OSA) 獎勵的關聯。
 
