@@ -1,53 +1,41 @@
 ---
-title: 分析您的商務設定檔有效性 | 合作夥伴中心
+title: 分析您的商務設定檔 |合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
-description: 透過合作夥伴中心評估、交涉和回應轉介。
-author: LauraBrenner
-ms.author: labrenne
-robots: noindex,nofollow
+ms.date: 07/12/2019
+description: 瞭解您要如何掌握目標客戶的注意力並產生參考。
+author: JnHs
+ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134908"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854491"
 ---
-# <a name="analyze-the-effectiveness-of-your-business-profile"></a>分析您的商務設定檔有效性
+# <a name="analyze-your-business-profile"></a>分析您的商務設定檔
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
 **適用於**
 
--  合作夥伴中心
+- 合作夥伴中心
 
-取得報告來看看您吸引目標客戶注意及產生轉介的效果如何。
+[合作夥伴中心] 的 [**商務設定檔深入**解析] 頁面可讓您查看您的目標客戶與產生參考的關注程度。
 
-張貼貴公司的[商務設定檔](create-a-marketing-profile.md)之後，您將會開始取得關於多少客戶尋找您的設定檔、他們為深入了解而點閱的頻率，以及他們向您傳送資訊要求 (RFI) 的頻率的資料。 
+若要查看您的參考深入解析資料, 請從 合作夥伴中心 功能表移至 **參考 > 商務設定檔深入**解析。 您的資料會顯示設定檔績效、分析趨勢，以及辨識需要有所動作的區域。
 
-當您開始[回應這些轉介](responding-to-referrals.md)時，將會開始取得關於這些 RFI 中有多少會轉變成贏利的商務交易的資料。
+在靠近 [**商務設定檔深入**解析] 頁面頂端的地方, 您可以選取要顯示資料的時間週期。 預設選項是 [ **30D** (30 天)], 但您可以選擇將資料顯示為3或6個月的時間。 包含所有區域的資料。
 
-改進您的商務設定檔以產生更多潛在客戶和更具關聯性的潛在客戶時，請使用這些報告。 您的資料會顯示設定檔績效、分析趨勢，以及辨識需要有所動作的區域。 從合作夥伴中心 功能表中，移至**轉介 > 行銷頁面**。
+在您張貼公司的[商務設定檔](create-a-marketing-profile.md)之後, 您將會開始查看有多少客戶找到您的設定檔、按一下以深入瞭解的頻率, 以及他們傳送資訊要求的頻率 (RFIs)。 請在調整您的商務設定檔時使用此資料, 以產生更多潛在客戶和更多相關的潛在客戶。
 
-這些報告顯示所有地區的商務設定檔績效。 報告顯示過去 90 天以週為單位分組的資料。
+[**設定檔效能摘要**] 圖表包含所選時段的下列資訊:
 
-*  **趨勢**:顯示過去 90 天、 週分組。 下列計量在過去 90 天的每週資料以及與上一期的變動百分比：
+- **搜尋結果**:客戶用來尋找您的商務設定檔之搜尋詞彙的相關資訊。
+- **頁面流覽**:客戶查看您的商務設定檔的總次數。
+- **連絡人按一下**:客戶從 [[尋找解決方案提供者](https://www.microsoft.com/solution-providers/home)] 頁面選取您的商務設定檔的總次數。
+- 已**產生的參考**:客戶選取您的商務設定檔之後, 傳送給您的參考總數。
 
-   * **行銷頁面檢視**:人檢視您的商務設定檔的次數
-   * **請連絡 button 按一下動作**:人員選取您的商務設定檔，從次數**尋找合作夥伴**頁面。 這可能無法反映人們繼續跟進建立資訊要求 (RFI) 的次數。
-   * **接受 RFI**:數目乘以您[接受客戶推薦](responding-to-referrals.md)他們傳送要求的資訊 (RFI) 之後。
-
-
-*  **頁面檢視**:顯示過去 90 天的每週的趨勢資料。
-   *  **客戶的行銷頁面檢視**
-   *  **客戶提交的 RFIs**
-
-查看客戶用來尋找您的設定檔的搜尋字詞。 這些報告顯示過去 90 天的每週資料。
-
-*  **關鍵字** (整體排名最前面的搜尋關鍵字) 
-*  **產業**
-*  **Product**
-*  **服務類型**
-
+> [!TIP]
+> 當您開始[回應這些參考](responding-to-referrals.md)時, 請務必查看 [[參考深入](referral-insights.md)解析] 頁面, 以查看有關您的參考如何執行的詳細資料。
