@@ -1,53 +1,41 @@
 ---
-title: 分析您的商務設定檔有效性 | 合作夥伴中心
+title: 分析您的商務設定檔 |合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
-description: 透過合作夥伴中心評估、交涉和回應轉介。
-author: LauraBrenner
-ms.author: labrenne
-robots: noindex,nofollow
+ms.date: 07/12/2019
+description: 瞭解您要如何掌握目標客戶的注意力並產生參考。
+author: JnHs
+ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134908"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854491"
 ---
-# <a name="analyze-the-effectiveness-of-your-business-profile"></a><span data-ttu-id="f6dc9-103">分析您的商務設定檔有效性</span><span class="sxs-lookup"><span data-stu-id="f6dc9-103">Analyze the effectiveness of your business profile</span></span>
+# <a name="analyze-your-business-profile"></a><span data-ttu-id="a8929-103">分析您的商務設定檔</span><span class="sxs-lookup"><span data-stu-id="a8929-103">Analyze your business profile</span></span>
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-<span data-ttu-id="f6dc9-104">**適用於**</span><span class="sxs-lookup"><span data-stu-id="f6dc9-104">**Applies to**</span></span>
+<span data-ttu-id="a8929-104">**適用於**</span><span class="sxs-lookup"><span data-stu-id="a8929-104">**Applies to**</span></span>
 
--  <span data-ttu-id="f6dc9-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="f6dc9-105">Partner Center</span></span>
+- <span data-ttu-id="a8929-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="a8929-105">Partner Center</span></span>
 
-<span data-ttu-id="f6dc9-106">取得報告來看看您吸引目標客戶注意及產生轉介的效果如何。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-106">Get reports to show how well you’re capturing the attention of your target customers and generating referrals.</span></span>
+<span data-ttu-id="a8929-106">[合作夥伴中心] 的 [**商務設定檔深入**解析] 頁面可讓您查看您的目標客戶與產生參考的關注程度。</span><span class="sxs-lookup"><span data-stu-id="a8929-106">The **Business profile insights** page in Partner Center lets you see how well you're capturing the attention of your target customers and generating referrals.</span></span>
 
-<span data-ttu-id="f6dc9-107">張貼貴公司的[商務設定檔](create-a-marketing-profile.md)之後，您將會開始取得關於多少客戶尋找您的設定檔、他們為深入了解而點閱的頻率，以及他們向您傳送資訊要求 (RFI) 的頻率的資料。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-107">After you post your company’s [business profile](create-a-marketing-profile.md), you’ll start to get data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs).</span></span> 
+<span data-ttu-id="a8929-107">若要查看您的參考深入解析資料, 請從 合作夥伴中心 功能表移至 **參考 > 商務設定檔深入**解析。</span><span class="sxs-lookup"><span data-stu-id="a8929-107">To see your referral insights data, from the Partner Center menu, go to **Referrals > Business profile insights**.</span></span> <span data-ttu-id="a8929-108">您的資料會顯示設定檔績效、分析趨勢，以及辨識需要有所動作的區域。</span><span class="sxs-lookup"><span data-stu-id="a8929-108">Your data shows profile performance, analyzes trends and identifies areas that require action.</span></span>
 
-<span data-ttu-id="f6dc9-108">當您開始[回應這些轉介](responding-to-referrals.md)時，將會開始取得關於這些 RFI 中有多少會轉變成贏利的商務交易的資料。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-108">As you start to [respond to these referrals](responding-to-referrals.md), you’ll start to get data on how many of these RFIs are turning into winning business deals.</span></span>
+<span data-ttu-id="a8929-109">在靠近 [**商務設定檔深入**解析] 頁面頂端的地方, 您可以選取要顯示資料的時間週期。</span><span class="sxs-lookup"><span data-stu-id="a8929-109">Near the top of the **Business profile insights** page, you can select the time period for which you want to show data.</span></span> <span data-ttu-id="a8929-110">預設選項是 [ **30D** (30 天)], 但您可以選擇將資料顯示為3或6個月的時間。</span><span class="sxs-lookup"><span data-stu-id="a8929-110">The default selection is **30D** (30 days), but you can choose to show data for a period of 3 or 6 months instead.</span></span> <span data-ttu-id="a8929-111">包含所有區域的資料。</span><span class="sxs-lookup"><span data-stu-id="a8929-111">Data for all regions is included.</span></span>
 
-<span data-ttu-id="f6dc9-109">改進您的商務設定檔以產生更多潛在客戶和更具關聯性的潛在客戶時，請使用這些報告。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-109">Use these reports when refining your business profiles to generate more leads, and more relevant leads.</span></span> <span data-ttu-id="f6dc9-110">您的資料會顯示設定檔績效、分析趨勢，以及辨識需要有所動作的區域。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-110">Your data shows profile performance, analyzes trends and identifies areas that require action.</span></span> <span data-ttu-id="f6dc9-111">從合作夥伴中心 功能表中，移至**轉介 > 行銷頁面**。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-111">From the Partner Center menu, go to **Referrals > Marketing pages**.</span></span>
+<span data-ttu-id="a8929-112">在您張貼公司的[商務設定檔](create-a-marketing-profile.md)之後, 您將會開始查看有多少客戶找到您的設定檔、按一下以深入瞭解的頻率, 以及他們傳送資訊要求的頻率 (RFIs)。</span><span class="sxs-lookup"><span data-stu-id="a8929-112">After you post your company’s [business profile](create-a-marketing-profile.md), you’ll start to see data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs).</span></span> <span data-ttu-id="a8929-113">請在調整您的商務設定檔時使用此資料, 以產生更多潛在客戶和更多相關的潛在客戶。</span><span class="sxs-lookup"><span data-stu-id="a8929-113">Use this data when refining your business profiles to generate more leads, and more relevant leads.</span></span>
 
-<span data-ttu-id="f6dc9-112">這些報告顯示所有地區的商務設定檔績效。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-112">These reports show the performance for business profiles for all regions.</span></span> <span data-ttu-id="f6dc9-113">報告顯示過去 90 天以週為單位分組的資料。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-113">The reports show data for the last 90 days, grouped by weeks.</span></span>
+<span data-ttu-id="a8929-114">[**設定檔效能摘要**] 圖表包含所選時段的下列資訊:</span><span class="sxs-lookup"><span data-stu-id="a8929-114">The **Profile performance summary** chart includes the following info for the selected time period:</span></span>
 
-*  <span data-ttu-id="f6dc9-114">**趨勢**:顯示過去 90 天、 週分組。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-114">**Trends**: Shows the last 90 days, grouped by weeks.</span></span> <span data-ttu-id="f6dc9-115">下列計量在過去 90 天的每週資料以及與上一期的變動百分比：</span><span class="sxs-lookup"><span data-stu-id="f6dc9-115">weekly data for the last 90 days and % change from previous period of the following metrics:</span></span>
+- <span data-ttu-id="a8929-115">**搜尋結果**:客戶用來尋找您的商務設定檔之搜尋詞彙的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="a8929-115">**Search results**: Info about the search terms that customers are using to find your business profile.</span></span>
+- <span data-ttu-id="a8929-116">**頁面流覽**:客戶查看您的商務設定檔的總次數。</span><span class="sxs-lookup"><span data-stu-id="a8929-116">**Page views**: The total number of times that customers viewed your business profile.</span></span>
+- <span data-ttu-id="a8929-117">**連絡人按一下**:客戶從 [[尋找解決方案提供者](https://www.microsoft.com/solution-providers/home)] 頁面選取您的商務設定檔的總次數。</span><span class="sxs-lookup"><span data-stu-id="a8929-117">**Contact clicks**: The total number of times that customers selected your business profile from the [Find a solution provider](https://www.microsoft.com/solution-providers/home) page.</span></span>
+- <span data-ttu-id="a8929-118">已**產生的參考**:客戶選取您的商務設定檔之後, 傳送給您的參考總數。</span><span class="sxs-lookup"><span data-stu-id="a8929-118">**Referrals generated**: The total number of referrals sent to you after a customer selected your business profile.</span></span>
 
-   * <span data-ttu-id="f6dc9-116">**行銷頁面檢視**:人檢視您的商務設定檔的次數</span><span class="sxs-lookup"><span data-stu-id="f6dc9-116">**Marketing page views**: How many times people viewed your business profile</span></span>
-   * <span data-ttu-id="f6dc9-117">**請連絡 button 按一下動作**:人員選取您的商務設定檔，從次數**尋找合作夥伴**頁面。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-117">**Contact button clicks**: Number of times people selected your business profile from the **Find a Partner** page.</span></span> <span data-ttu-id="f6dc9-118">這可能無法反映人們繼續跟進建立資訊要求 (RFI) 的次數。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-118">This may not reflect how many times people followed through to create a request for information (RFI).</span></span>
-   * <span data-ttu-id="f6dc9-119">**接受 RFI**:數目乘以您[接受客戶推薦](responding-to-referrals.md)他們傳送要求的資訊 (RFI) 之後。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-119">**RFI is accepted**: Number of times you [accepted customer referrals](responding-to-referrals.md) after they sent a request for information (RFI).</span></span>
-
-
-*  <span data-ttu-id="f6dc9-120">**頁面檢視**:顯示過去 90 天的每週的趨勢資料。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-120">**Page views**: Shows weekly trend data for the last 90 days.</span></span>
-   *  <span data-ttu-id="f6dc9-121">**客戶的行銷頁面檢視**</span><span class="sxs-lookup"><span data-stu-id="f6dc9-121">**Marketing page views by customers**</span></span>
-   *  <span data-ttu-id="f6dc9-122">**客戶提交的 RFIs**</span><span class="sxs-lookup"><span data-stu-id="f6dc9-122">**RFIs submitted by customers**</span></span>
-
-<span data-ttu-id="f6dc9-123">查看客戶用來尋找您的設定檔的搜尋字詞。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-123">See the search terms that customers are using to find your profile.</span></span> <span data-ttu-id="f6dc9-124">這些報告顯示過去 90 天的每週資料。</span><span class="sxs-lookup"><span data-stu-id="f6dc9-124">These reports show weekly data for the last 90 days.</span></span>
-
-*  <span data-ttu-id="f6dc9-125">**關鍵字** (整體排名最前面的搜尋關鍵字)</span><span class="sxs-lookup"><span data-stu-id="f6dc9-125">**Keywords** (Top overall search keywords)</span></span> 
-*  <span data-ttu-id="f6dc9-126">**產業**</span><span class="sxs-lookup"><span data-stu-id="f6dc9-126">**Industry**</span></span>
-*  <span data-ttu-id="f6dc9-127">**Product**</span><span class="sxs-lookup"><span data-stu-id="f6dc9-127">**Product**</span></span>
-*  <span data-ttu-id="f6dc9-128">**服務類型**</span><span class="sxs-lookup"><span data-stu-id="f6dc9-128">**Service type**</span></span>
-
+> [!TIP]
+> <span data-ttu-id="a8929-119">當您開始[回應這些參考](responding-to-referrals.md)時, 請務必查看 [[參考深入](referral-insights.md)解析] 頁面, 以查看有關您的參考如何執行的詳細資料。</span><span class="sxs-lookup"><span data-stu-id="a8929-119">As you start to [respond to these referrals](responding-to-referrals.md), be sure to review the [Referral insights page](referral-insights.md) to see more details on how your referrals are performing.</span></span>
