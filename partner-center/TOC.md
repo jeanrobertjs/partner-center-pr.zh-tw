@@ -107,6 +107,7 @@
 ### [調整 VM 大小以提供最大保留區使用率](azure-usage.md)
 ### [代表您的客戶購買 Microsoft Azure Reservations](azure-reservations-buying.md)
 ### [代表您的客戶管理 Microsoft Azure Reservations](azure-reservations-manage.md)
+### [Azure 保留的 VM 執行個體 (RI) + 伺服器訂閱](azure-ri-server-subscriptions.md)
 ## [軟體訂閱](csp-software-subscriptions.md)
 ## [線上服務 (訂閱)](customer-subscriptions.md)
 ### [建立、暫停或取消客戶訂閱](create-a-new-subscription.md)
