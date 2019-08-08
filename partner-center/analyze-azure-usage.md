@@ -1,24 +1,25 @@
 ---
 title: 分析 Azure 使用狀況 | 合作夥伴中心
-ms.date: 07/12/2018
-Description: 您可以使用合作夥伴中心，取得有關您客戶的 Azure 訂用帳戶的使用量資料。
-Author: Xansky
-ms.author: mhopkins
+ms.date: 08/02/2019
+Description: 使用合作夥伴中心取得客戶 Azure 訂用帳戶使用方式的相關資料。
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9bd76a51664b18a8b3cea1e4163415480186fd86
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62131869"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68781978"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>取得您客戶 Azure 訂閱使用狀況的相關資料 
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>取得您客戶 Azure 訂閱使用狀況的相關資料
 
-**適用於**
+適用於：
+
 - 合作夥伴中心
 
 資料推動業務決策。 使用 **\[Azure 使用狀況\]** 頁面上的計量，找出您的成功之處、您客戶的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。
@@ -28,24 +29,33 @@ ms.locfileid: "62131869"
 
 我們正在追蹤下列計量︰
 
-**摘要**  
- - **Azure 訂用帳戶總計銷售**:在指定的時段內進行銷售的訂用帳戶數目  
- - **客戶使用**:使用指定的時段內的 Azure 使用量的客戶數目  
- - **沒有使用方式的客戶**:不在指定的時段內的 Azure 使用量的客戶數目  
+## <a name="summary"></a>總結
 
-**類別目錄中的前 5 名客戶**  
- -  指定分類中的前 5 名客戶  
+- **銷售的 Azure**訂用帳戶總數:在指定的時段內銷售的訂用帳戶數目  
+- **使用的客戶**:在指定的時段內具有 Azure 使用量的客戶數目  
+- **不使用的客戶**:在指定的時間週期內沒有 Azure 使用量的客戶數目  
 
-**訂用帳戶，而不需要使用方式**  
- -  在指定的時段中不具 Azure 使用量的特定訂閱清單  
+## <a name="top-5-customers-in-category"></a>分類中的前 5 名客戶
 
-**Azure 訂用帳戶客戶流失**  
- - **作用中訂用帳戶**:依日期的作用中訂用帳戶的計數  
- - **訂用帳戶取消佈建**:訂用帳戶取消佈建，或已暫止依日期的計數  
+- 指定分類中的前 5 名客戶  
 
-**客戶計數**
- - 在指定的時段中獲得的新客戶  
+## <a name="azure-subscriptions-at-risk"></a>有風險的 Azure 訂用帳戶
 
-**Azure 訂用帳戶保留**  
- - 已續約的訂閱數。   
-  
+本節指出 Azure 訂用帳戶的預測流失風險。 合作夥伴可以使用這項資訊來與客戶互動, 並將流失降到最低
+
+## <a name="subscriptions-without-usage"></a>不具使用量的訂閱
+
+- 指定時段內沒有 Azure 使用量的特定訂用帳戶清單  
+
+## <a name="azure-subscription-churn"></a>Azure 訂閱流失
+
+- **有效訂閱**:使用中訂閱的計數 (依日期)  
+- **取消布建訂閱**:依日期取消布建或暫停的訂閱計數  
+
+## <a name="customer-count"></a>客戶計數
+
+- 在指定的時段中獲得的新客戶  
+
+## <a name="azure-subscription-retention"></a>Azure 訂閱保留
+
+- 已續約的訂閱數。

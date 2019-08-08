@@ -6,12 +6,12 @@ description: 將您的企業從 PMC 移至合作夥伴中心之前應考慮的�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854524"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820578"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備從合作夥伴成員資格中心 (PMC) 移至合作夥伴中心
 
@@ -29,7 +29,7 @@ Azure 工作帳戶是您公司在 Azure 公用雲端的專用且隔離的虛擬�
 - 您的公司帳戶:john@contoso.com
 - 您的個人帳戶:John@outlook.com
 
-您的公司電子郵件是 Azure active directory 租使用者的一部分。 若要在合作夥伴中心擁有帳戶, 您需要有 AAD 租使用者。 如需 Azure Active Directory 的詳細資訊, 請參閱[在 Azure AD 中建立目錄](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
+您的公司電子郵件是 Azure active directory 租使用者的一部分。 若要在合作夥伴中心擁有帳戶, 您需要有 AAD 租使用者。 如需 Azure Active Directory 的詳細資訊, 請參閱[在 Azure AD 中建立目錄](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
 
 **當您從 PMC 移至合作夥伴中心時, 如果您有與 Microsoft 的 AAD 租使用者 (例如 Office 365), 而且您的 CSP 業務也有租使用者, 您應該使用哪一個帳戶登入合作夥伴中心？**
 
@@ -66,7 +66,7 @@ PMC 中的 MPN 全域管理員角色可以執行下列動作:
 
 **當我的使用者角色從 PMC 移到合作夥伴中心時, 會發生什麼事？**
 
-除了進行遷移的 MPN 全域管理員或主要程式連絡人以外, PMC 中的所有使用者都會失去其系統管理員角色。 完成遷移的個人將需要在合作夥伴中心指派角色。 合作夥伴中心的角色與 PMC 中的角色不同。 閱讀 [指派使用者角色和許可權] (許可權-overview.md, 並[從 PMC 移至合作夥伴中心](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles), 以取得合作夥伴中心的使用者角色的詳細資訊。
+除了進行遷移的 MPN 全域管理員或主要程式連絡人以外, PMC 中的所有使用者都會失去其系統管理員角色。 完成遷移的個人將需要在合作夥伴中心指派角色。 合作夥伴中心的角色與 PMC 中的角色不同。 閱讀 [指派使用者角色和許可權] (許可權-overview.md, 並[從 PMC 移至合作夥伴中心](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles), 以取得合作夥伴中心的使用者角色的詳細資訊。
 
 
 **我的公司設定檔與我的商務設定檔之間有何差異？**
@@ -135,7 +135,7 @@ Microsoft 會自動遷移目前的專長認證、權益、位置資訊、獎勵�
 
  **當我移到合作夥伴中心後, 如何? 看到 MCP 資訊？**
 
-從 [儀表板] 的左側導覽中選取 [**職稱**]。 在 [  專長認證] 頁面上, 您可以下載技能報告。 技能報告將會列出已取得合作夥伴中心之專長和計畫相關技能的使用者。 如果您的使用者已獲得技能, 但那些技能與您正在努力的專長無關, 則不會列在報表中。
+從 [儀表板] 的左側導覽中選取 [**職稱**]。 在 [專長認證] 頁面上, 您可以下載技能報告。 技能報告將會列出已取得合作夥伴中心之專長和計畫相關技能的使用者。 如果您的使用者已獲得技能, 但那些技能與您正在努力的專長無關, 則不會列在報表中。
 
 
  **合作夥伴中心是否使用客戶參考？**

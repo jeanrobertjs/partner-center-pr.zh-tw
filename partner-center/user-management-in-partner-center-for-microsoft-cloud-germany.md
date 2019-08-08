@@ -6,12 +6,12 @@ description: 為遵守用來約束個人資料收集和使用行為的國內、�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132688"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820538"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理
 
@@ -40,17 +40,17 @@ ms.locfileid: "62132688"
 成功登入 Microsoft Cloud 德國 Azure 入口網站後，請開啟 Azure Active Directory (Azure AD) 概觀頁面，然後按照下列主題中的指示進行：
 
 > [!NOTE]  
-> 選取下列連結會帶您到不同的網站。 
+> 選取下列連結會將您帶到不同的網站。 
 
--  [將使用者新增至 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [將新的使用者新增至 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [將使用者指派給 Azure Active Directory 中的系統管理員角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [在 Azure Active Directory 中將使用者指派給系統管理員角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [重設 Azure Active Directory 中使用者的密碼](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [在 Azure Active Directory 中重設使用者的密碼](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**相關的主題**
+**相關主題**
 
--  [Microsoft Azure Germany](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
+-  [Microsoft Azure 德國](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)
 

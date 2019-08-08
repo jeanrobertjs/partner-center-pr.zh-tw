@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7777b281948f560666be154e4618b788782a474f
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
+ms.openlocfilehash: 099f38fa6acf523f7627434c7b320c37b46e63e1
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376436"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820498"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作夥伴中心中與客戶保持聯繫
 
@@ -24,7 +24,7 @@ ms.locfileid: "68376436"
 
 如果您想要與客戶建立轉銷商關係, 而且只管理您布建的 Azure 訂用帳戶, 則不需要取得系統管理員許可權。
 
-請注意, 在 Microsoft Cloud 適用于美國政府或 Microsoft Cloud 德國的合作夥伴, 無法使用 [不要求許可權] 選項。 若要深入瞭解, 請參閱[客戶將系統管理許可權委派給合作夥伴](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)。
+請注意, 在 Microsoft Cloud 適用于美國政府或 Microsoft Cloud 德國的合作夥伴, 無法使用 [不要求許可權] 選項。 若要深入瞭解, 請參閱[客戶將系統管理許可權委派給合作夥伴](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)。
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀請客戶與您建立經銷商關係

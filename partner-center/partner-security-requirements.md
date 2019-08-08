@@ -1,18 +1,18 @@
 ---
 title: 合作夥伴安全性需求 |合作夥伴中心
 ms.topic: article
-ms.date: 07/18/2019
+ms.date: 08/05/2019
 description: 瞭解參與雲端解決方案提供者計畫之顧問和合作夥伴的安全性需求。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者方案, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
-ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+ms.openlocfilehash: 39081f42c326665bdc30bf25df302d9ae00d9723
+ms.sourcegitcommit: fe21430f96e203d279714623888224662d2782a2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "68313930"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68787250"
 ---
 # <a name="partner-security-requirements"></a>合作夥伴安全性需求
 
@@ -57,9 +57,22 @@ ms.locfileid: "68313930"
 
 當您強制執行 MFA 舊版驗證時, 將會封鎖使用 IMAP、POP3、SMTP 等通訊協定, 因為這些通訊協定不支援 MFA。 若要解決這項限制, 可使用稱為「[應用程式密碼](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)」的功能, 以確保應用程式或裝置仍然可以進行驗證。 您應該參閱使用[這裡](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)記載的應用程式密碼的考慮, 以判斷它們是否可以在您的環境中使用。
 
+#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>您是否有使用者使用與合作夥伴租使用者相關聯的授權所提供的 Office 365？
+
+在執行任何解決方案之前, 建議您先判斷合作夥伴租使用者中的使用者使用的 Microsoft Office 版本為何。 在採取任何動作之前, 請先參閱[Office 365 部署的多重要素驗證規劃](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)。 您的使用者可能會遇到 Outlook 之類應用程式的連線問題。 強制執行 MFA 之前, 請務必確定正在使用 Outlook 2013 SP1 或更新版本, 且您的組織已啟用新式驗證。 如需詳細資訊, 請參閱[在 Exchange Online 中啟用新式驗證](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
+
+若要為執行 Windows 且已安裝 Microsoft Office 2013 的任何裝置啟用新式驗證, 您將需要建立兩個登錄機碼。 請參閱[在 Windows 裝置上啟用 Office 2013 的新式驗證](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)。
+
+> [!IMPORTANT]
+> 如果您已為使用者啟用 Azure AD MFA, 而且有任何執行 Office 2013 的裝置未啟用新式驗證, 他們就必須在這些裝置上使用應用程式密碼。 如需有關應用程式密碼的詳細資訊, 以及其使用時機和時機, 請參閱:[使用 Azure 多重要素驗證的應用程式密碼](https://go.microsoft.com/fwlink/p/?LinkId=528178)。
+
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>是否有原則防止任何使用者在工作時使用其行動裝置？
 
-請務必找出任何公司原則, 以防止員工在工作時使用行動裝置, 因為它會影響您所執行的 MFA 解決方案。 有 MFA 解決方案 (例如透過[基準原則](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)的執行所提供), 只允許使用驗證器應用程式進行驗證。 如果您的組織有防止使用行動裝置的原則, 則您應該考慮為受影響的使用者購買[Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/) , 或者可以執行協力廠商解決方案, 以提供最適當的驗證件.
+請務必找出任何公司原則, 以防止員工在工作時使用行動裝置, 因為它會影響您所執行的 MFA 解決方案。 有 MFA 解決方案, 例如透過執行[基準保護原則](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)所提供的解決方案, 只允許使用驗證器應用程式進行驗證。 如果您的組織有防止使用行動裝置的原則, 則您應該考慮下列其中一個選項
+
+- 部署可安裝驗證器應用程式的虛擬化 Android 裝置
+- 執行協力廠商解決方案, 以針對合作夥伴租使用者中提供最適當驗證選項的每位使用者強制執行 MFA
+- 為受影響的使用者購買[Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/)授權
 
 #### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>您有哪些自動化或整合可以利用使用者認證進行驗證？
 
@@ -204,8 +217,31 @@ ms.locfileid: "68313930"
 
 ### <a name="exchange-online-powershell"></a>Exchange Online PowerShell
 
-啟用 MFA 後, 合作夥伴將無法利用其委派的系統管理許可權與 Exchange Online PowerShell 來對其客戶執行動作。 如需此限制的詳細資訊, 請參閱[使用多重要素驗證連接到 Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) 。
+強制執行 MFA 時, 合作夥伴將無法利用其委派的系統管理許可權與 Exchange Online PowerShell 來對客戶執行動作。 如需此限制的詳細資訊, 請參閱[使用多重要素驗證連接到 Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) 。
+
+若要解決這項限制, 您可以建立新的帳戶, 而不要使用它來執行互動式驗證。 建議您利用[Azure AD PowerShell](https://docs.microsoft.com/powershell/module/azuread/)來建立新帳戶, 並執行初始設定。 下列 PowerShell 可以用來建立及設定帳戶
+
+```powershell
+Import-Module AzureAD
+Connect-AzureAD
+
+$PasswordProfile = New-Object -TypeName Microsoft.Open.AzureAD.Model.PasswordProfile
+
+$PasswordProfile.Password = "Password"
+$PasswordProfile.ForceChangePasswordNextLogin = $false
+
+$user = New-AzureADUser -DisplayName "New User" -PasswordProfile $PasswordProfile -UserPrincipalName "NewUser@contoso.com" -AccountEnabled $true
+
+# Uncomment the following two lines if you want the account to have Admin Agent privileges
+# $adminAgentsGroup = Get-AzureADGroup -Filter "DisplayName eq 'AdminAgents'"
+# Add-AzureADGroupMember -ObjectId $adminAgentsGroup.ObjectId -RefObjectId $user.ObjectId
+```
+
+下次透過 PowerShell 連線到 Exchange Online 時, 請使用此帳戶, 它會如預期般運作。
+
+> [!IMPORTANT]
+> 能夠讓合作夥伴利用其委派的系統管理許可權, 搭配 Exchange Online PowerShell 對客戶執行動作, 而在執行 MFA 時, 將會在未來推出。 在那之前, 您應該先利用這方面的工作。
 
 ## <a name="resources-and-support"></a>資源與支援
 
-透過[合作夥伴中心安全性指引群組的社區](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance), 您可以找到其他資源, 並瞭解近期的活動, 例如技術辦公時間。 若要深入瞭解需求, 請參閱[常見問題](http://assetsprod.microsoft.com/security-requirements-faq.pdf)檔。
+透過[合作夥伴中心安全性指引群組的社區](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance), 您可以找到其他資源, 並瞭解近期的活動, 例如技術辦公時間。 若要深入瞭解需求, 請參閱[常見問題](partner-security-requirements-faq.md)檔。

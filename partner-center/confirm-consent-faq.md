@@ -2,17 +2,17 @@
 title: Microsoft Cloud 合約客戶接受確認常見問題集 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
-Description: 客戶接受度確認的常見問題集
+Description: 客戶接受確認的常見問題
 author: LauraBrenner
-ms.author: v-petand
-keywords: 客戶、 客戶、 同意，常見問題集、 MCA、 Microsoft 雲端協議
+ms.author: labrenne
+keywords: 客戶、客戶、同意、常見問題、MCA、Microsoft Cloud 合約
 ms.localizationpriority: medium
-ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c6681b4b979352b58258837d85d8c88543d16ed0
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135008"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820459"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Microsoft Cloud 合約客戶接受確認常見問題集
 
@@ -20,185 +20,185 @@ ms.locfileid: "62135008"
 
 -   [原則](#policyfaq)
 
--   [Technical](#technicalfaq)
+-   [提供技術支援](#technicalfaq)
 
 -   [其他資源](#additionalresourcesfaq)
 
 
-## <a href="" id="processfaq"></a>Process
+## <a href="" id="processfaq"></a>流程
 
-**新的程序來確認 Microsoft 雲端合約的客戶接受度為何？**
+**確認客戶接受 Microsoft Cloud 合約的新程式為何？**
 
-Microsoft 致力於協助客戶與合作夥伴持續符合規範。 Microsoft 的雲端解決方案提供者 (CSP) 計劃的合作夥伴，您有責任檢閱 Microsoft 的條款和條件，包括 Microsoft 產品和服務與客戶的可接受的使用。 若要更妥善地協助滿足合規性需求的合作夥伴，並確保透明度，我們啟用新的處理序需要 CSP 合作夥伴，以確認他們的客戶已接受的 Microsoft 雲端合約條款。 截至 2018 年 8 月 7 日，我們引進了新的欄位，在夥伴中心儀表板使用者介面也針對合作夥伴中心 API 合作夥伴提供這項資訊。 一開始會選擇性的以提供這項確認，不過它會為需要自 2018 年 11 月 7 日起。 
+Microsoft 致力於協助客戶與合作夥伴持續符合規範。 身為 Microsoft 雲端解決方案提供者 (CSP) 計畫的合作夥伴, 您必須負責審查 Microsoft 的條款及條件, 包括可接受的 Microsoft 產品和服務使用。 為了進一步協助合作夥伴符合合規性需求, 並確保透明度, 我們會啟用新的程式, 要求 CSP 合作夥伴確認其客戶已接受 Microsoft Cloud 合約條款。 從2018年8月7日起, 我們在合作夥伴中心儀表板使用者介面中引進了新的欄位, 並為合作夥伴提供這項資訊的合作夥伴中心 API。 一開始, 您可以選擇是否要提供這種確認, 但從2018年11月7日起將會需要。 
 
-**這項需求時開始生效？**
+**這項需求何時會生效？**
 
-合作夥伴在 2018 年 8 月 7 日此功能上線後即可開始確認接受合約。 從 2018 年 11 月 7 日，夥伴中心儀表板使用者必須確認所有新的交易上的 Microsoft 雲端合約的客戶接受度。 於 2019 年 3 月 22 日合作夥伴中心 API 的使用者必須執行相同的動作。 API 使用者期限已延長能夠進行這些額外的時間為技術實作。
+合作夥伴在 2018 年 8 月 7 日此功能上線後即可開始確認接受合約。 自2018年11月7日起, 合作夥伴中心儀表板使用者必須確認客戶接受所有新交易的 Microsoft Cloud 合約。 2019年3月22日, 合作夥伴中心 API 使用者必須執行相同的動作。 應用程式開發介面使用者的期限已延長, 讓他們有更多時間來執行技術。
 
-**新 |Microsoft 是否可以驗證合作夥伴所提供的客戶資訊的準確性？**
+**新增 |Microsoft 是否會驗證合作夥伴提供的客戶資訊是否正確？**
 
-Microsoft 會驗證提供的客戶電子郵件地址是正確格式。 是夥伴的責任，來提供精確的資訊，並修正任何發現不正確的資訊。 
+Microsoft 會驗證所提供的客戶電子郵件地址格式是否正確。 合作夥伴必須負責提供正確的資訊, 並更正任何發現不正確的資訊。 
 
-**新 |如何可以合作夥伴證明客戶的必須接受 Microsoft 雲端合約，是否已簽署，記載，數位化，或在紙張上？**
+**新增 |合作夥伴如何證明客戶接受 Microsoft Cloud 合約、是否已簽署、記載、數位化或在紙張上？**
 
-合作夥伴負責確保客戶已接受的 Microsoft 雲端合約條款並管理他們自己的處理程序和記錄。 使用夥伴中心儀表板或合作夥伴中心 API 的程序，夥伴已確認客戶已接受 Microsoft 雲端合約的條款。
+合作夥伴必須負責確保客戶已接受 Microsoft Cloud 合約的條款, 以及管理自己的程式和記錄。 藉由使用合作夥伴中心儀表板或合作夥伴中心 API 程式, 合作夥伴會確認客戶已接受 Microsoft Cloud 合約的條款。
 
-**新 |如何將 Microsoft 檢查，確認處理序已完成的客戶？**
+**新增 |Microsoft 會如何檢查客戶的確認程式是否已完成？**
 
-自 11 月 7 2018 日起，當 CSP 合作夥伴會起始交易夥伴中心儀表板會使用新的或現有的客戶，Microsoft 的系統會自動檢查客戶確認資訊是否有在合作夥伴中心儀表板。 如果沒有，交易將無法完成。 
+自2018年11月7日起, 當 CSP 合作夥伴使用合作夥伴中心儀表板為新的或現有的客戶起始交易時, Microsoft 的系統會自動檢查合作夥伴中心是否有客戶確認資訊儀錶. 如果沒有，交易將無法完成。 
 
-從 3 月 22，2019，當 CSP 合作夥伴會起始交易，新的或現有的客戶，使用合作夥伴中心 API，Microsoft 的系統會自動檢查客戶確認資訊是否存在。 如果沒有，交易將無法完成。 
+自2019年3月22日起, 當 CSP 合作夥伴使用合作夥伴中心 API 為新的或現有的客戶起始交易時, Microsoft 的系統會自動檢查客戶確認資訊是否存在。 如果沒有，交易將無法完成。 
 
-**新 |通知會傳送確認處理程序中提供的電子郵件地址的客戶？**
+**新增 |是否將通知傳送給在確認程式中提供電子郵件地址的客戶？**
 
-沒有通知的處理序。
+沒有任何通知進程。
 
-## <a href="" id="policyfaq"></a>原則
+## <a href="" id="policyfaq"></a>策略
 
-**Microsoft 為什麼需要確認客戶已接受 「 Microsoft 雲端合約的合作夥伴？** 
+**為什麼 Microsoft 要求合作夥伴確認客戶已接受 Microsoft Cloud 合約？** 
 
 Microsoft Cloud 合約提供對 Microsoft Cloud 產品與服務訂單認可的客戶使用權、條款及條件，以保護合作夥伴、客戶和 Microsoft。 
 
-正確執行的 Microsoft 雲端合約會用來保護我們的合作夥伴、 客戶和 Microsoft 確保許多重要的主題，包括相互對齊，但不是限於安全性、 隱私權和資料保護。 確認處理程序可確保透明度和對齊，並可讓 Microsoft 更妥善地協助客戶需要立即回應法規的查詢。
+適當地執行 Microsoft Cloud 合約可確保我們的合作夥伴、客戶和 Microsoft 藉由確認許多重要主題的相互一致, 包括但不限於安全性、隱私權和資料保護。 確認程式可確保透明度和對齊, 並可讓 Microsoft 更進一步協助需要立即回應法規查詢的客戶。
 
-**客戶資訊，才能完成補償程序？**
+**完成確認程式需要哪些客戶資訊？**
 需要與接受此合約之人員相關的下列資訊：
 -   接受合約的日期
 -   名字和姓氏
 -   電子郵件地址
 -   電話號碼 (選用) 
 
-**新 |我們不符合到期日時，發生什麼事？**
+**新增 |如果我們不符合到期日, 會發生什麼事？**
 
-合作夥伴在 2018 年 8 月 7 日此功能上線後即可開始確認接受合約。 從 2018 年 11 月 7 日，夥伴中心儀表板使用者必須確認所有新的交易上的 Microsoft 雲端合約的客戶接受度。 於 2019 年 3 月 22 日合作夥伴中心 API 的使用者必須執行相同的動作。
+合作夥伴在 2018 年 8 月 7 日此功能上線後即可開始確認接受合約。 自2018年11月7日起, 合作夥伴中心儀表板使用者必須確認客戶接受所有新交易的 Microsoft Cloud 合約。 2019年3月22日, 合作夥伴中心 API 使用者必須執行相同的動作。
 
-在強制執行的時間，直到確認客戶接受度不會允許新購買的基座計數上現有的訂用帳戶現有的客戶或變更。 對於新客戶，除非確認接受合約，否則不允許進行交易。 自動續約不受此要求條件影響。
+在強制執行時, 將不會允許現有客戶的新購買或現有訂用帳戶的基座變更, 直到客戶接受獲得確認為止。 對於新客戶，除非確認接受合約，否則不允許進行交易。 自動續約不受此要求條件影響。
 
-**若要將這項需求套用在哪些區域？**
+**這項需求適用于哪些區域？**
 
-需要 Microsoft 公用雲端下的所有地區的 Microsoft 雲端合約的客戶接受度的確認。 國内雲 (包括 Microsoft Cloud for US Government 和 Microsoft Cloud Germany) 不支援客戶接受合約確認。
+Microsoft 公用雲端下的所有區域都需要確認客戶接受 Microsoft Cloud 合約。 國内雲 (包括 Microsoft Cloud for US Government 和 Microsoft Cloud Germany) 不支援客戶接受合約確認。
 
-**哪些合作夥伴負責確認 Microsoft 雲端合約的客戶接受度？**
+**哪些合作夥伴負責確認客戶接受 Microsoft Cloud 合約？**
 
-自 2018 年 11 月 7 日，雲端服務提供者 (CSP) 間接提供者和 CSP 直接帳單合作夥伴都負責確認客戶接受度，且可能會使用合作夥伴中心 API 或夥伴中心儀表板來執行這項操作。 間接提供者可能需要先從其間接轉售商收集所需的資訊，然後將它提供給 Microsoft 透過合作夥伴中心 API 或夥伴中心儀表板。 並以契約方式，它是間接提供者可與 Microsoft，以確保其 CSP 轉銷商的客戶必須接受 Microsoft 雲端協議合約的繫結的人員。 
+自2018年11月7日起, 雲端服務提供者 (CSP) 間接提供者和 CSP 直接帳單合作夥伴同時負責確認客戶的接受度, 並可使用合作夥伴中心 API 或合作夥伴中心儀表板來執行這項操作。 間接提供者可能需要先從其間接轉銷商收集必要的資訊, 然後透過合作夥伴中心 API 或合作夥伴中心儀表板, 將其提供給 Microsoft。 依履約, 這是與 Microsoft 有系結合約的間接提供者, 可確保其 CSP 轉銷商的客戶已接受 Microsoft Cloud 合約。 
 
-**哪些客戶案例需要確認的 Microsoft 雲端合約的客戶接受度？**
+**哪些客戶案例需要確認客戶接受 Microsoft Cloud 合約？**
 
-當 CSP 合作夥伴想要讓下列交易時，必須確認的 Microsoft 雲端合約接受：
-1.  新的客戶完成新的購買項目
-2.  現有客戶完成新的購買項目
-3.  現有客戶現有的訂用帳戶更新基座數目
+當 CSP 合作夥伴想要進行下列交易時, 必須確認接受 Microsoft Cloud 合約:
+1.  新客戶完成新購買
+2.  現有的客戶完成新購買
+3.  現有的客戶將基座計數更新為現有的訂用帳戶
 
-**我可以確認獨立於其新購買的現有客戶接受或基座新增項目嗎？**
+**我可以確認現有客戶的接受與新購買或基座增加嗎？**
 
-是的。 所有 Microsoft 雲端合約所涵蓋的客戶，可以都確認客戶接受度。
+是的。 客戶接受可針對 Microsoft Cloud 合約所涵蓋的所有客戶進行確認。
 
-**如有多個 CSP 合作夥伴的客戶需求有哪些？**
+**具有多個 CSP 合作夥伴的客戶需求有哪些？**
 
 確認接受合約是由合作夥伴進行確認。 如果客戶會與多個雲端解決方案提供者合作夥伴進行交易，則每個合作夥伴都需確認接受合約。
 
-**我是 CSP 間接轉售商使用 CSP 間接提供者。我的責任是什麼？**
+**我是 CSP 間接轉銷商, 使用 CSP 間接提供者。我的責任為何？**
 
-並以契約方式，它是間接提供者可與 Microsoft 做出可以確保終端客戶已接受 Microsoft 雲端協議合約的繫結的人員。 不過，間接提供者可能會與間接經銷商另行安排收集客戶接受合約。 在此情況下，間接提供者將需要先向間接經銷商收集必要的客戶接受合約資訊，然後透過合作夥伴中心 API 或合作夥伴中心儀表板將這些資訊提供給 Microsoft。 您可以在間接提供者提出要求時立即提供所需資訊給他們，以支援此程序。
+依履約, 這是與 Microsoft 有系結合約的間接提供者, 可確保客戶已接受 Microsoft Cloud 合約。 不過，間接提供者可能會與間接經銷商另行安排收集客戶接受合約。 在此情況下，間接提供者將需要先向間接經銷商收集必要的客戶接受合約資訊，然後透過合作夥伴中心 API 或合作夥伴中心儀表板將這些資訊提供給 Microsoft。 您可以在間接提供者提出要求時立即提供所需資訊給他們，以支援此程序。
 
-**我是 CSP 間接提供者。我需要準備我 CSP 間接轉售商與協調嗎？**
+**我是 CSP 間接提供者。我是否需要與我的 CSP 間接轉銷商協調以進行準備？**
 
 我們建議需要向其間接經銷商收集必要客戶接受合約資訊的間接提供者，立即向其間接經銷商傳達此項要求，來協調這項資訊的交付和接受。
 
-**我如何可以解釋為我的客戶，他們應該確認他們必須接受 Microsoft 雲端合約？**
+**如何向我的客戶說明, 他們應該確認他們接受 Microsoft Cloud 合約嗎？**
 
-Microsoft 雲端協議的正確執行會用來保護 Microsoft、 合作夥伴和客戶確保在許多重要的主題，包括相互對齊，但不是限於安全性、 隱私權和資料保護。 確認處理程序可確保透明度和對齊，並可讓 Microsoft 更妥善地協助客戶需要立即回應法規的查詢。
+適當執行 Microsoft Cloud 合約可確保 Microsoft、其合作夥伴和客戶的相互一致, 包括但不限於安全性、隱私權和資料保護等許多重要主題。 確認程式可確保透明度和對齊, 並可讓 Microsoft 更進一步協助需要立即回應法規查詢的客戶。
 
-**新 |如果客戶可搭配單一 CSP 間接提供者，但交易都已完成，但多個 CSP 間接轉售商，沒有每個 CSP 間接轉售商必須為提供 CSP 間接提供者確認資訊嗎？**
+**新增 |如果客戶使用單一 CSP 間接提供者, 但使用多個 CSP 間接轉銷商完成交易, 則每個 CSP 間接轉銷商是否需要提供 CSP 間接提供者與確認資訊？**
 
-CSP 間接提供者會負責提供給 Microsoft，Microsoft 雲端合約客戶接受度的確認。 每個客戶帳戶，只有一個確認可以記錄在夥伴中心儀表板一次。 
+CSP 間接提供者會負責提供向 Microsoft 接受之 Microsoft Cloud 合約的確認。 針對每個客戶帳戶, 合作夥伴中心儀表板一次只能記錄一項確認。 
 
-CSP 間接提供者會負責確認負責同意 Microsoft 雲端合約的客戶連絡人姓名已經所以不管是他們與交易的 CSP 間接轉售商的數目。
+CSP 間接提供者會負責確認負責同意 Microsoft Cloud 合約的客戶聯絡人是否已完成這項作業, 而不論他們使用的 CSP 間接轉銷商人數為何。
 
-**新 |誰應該是確認客戶組織內部的 Microsoft 雲端合約接受獲授權的人？**
+**新增 |誰應該是已獲授權的人員, 才能確認是否接受客戶組織內的 Microsoft Cloud 合約？**
 
-是夥伴的責任，若要取得從客戶組織內部人員的 Microsoft 雲端合約的客戶接受度。 是要判斷誰獲得授權提供接受客戶的責任。 
+合作夥伴必須負責從客戶組織內的人員取得 Microsoft Cloud 合約的客戶接受。 客戶必須負責判斷誰已獲授權可提供接受。 
 
-**新 |哪個版本的 Microsoft 雲端合約會負責確認客戶接受度的合作夥伴？合作夥伴需要指出哪一個版本的 Microsoft 雲端合約已接受客戶嗎？**
+**新增 |哪個版本的 Microsoft Cloud 合約是負責確認客戶接受的夥伴？合作夥伴是否需要指出客戶已接受哪個版本的 Microsoft Cloud 合約？**
 
-合作夥伴負責進行新的客戶使用的 CSP 交易時，使用最新的 Microsoft 雲端協議。 合作夥伴必須確認接受最新的 Microsoft 雲端合約時續訂、 變更或完成新的交易，與現有的客戶。 
+在與新客戶進行 CSP 交易時, 合作夥伴會負責使用最新的 Microsoft Cloud 合約。 當您更新、變更或完成現有客戶的新交易時, 合作夥伴必須確認接受最新的 Microsoft Cloud 合約。 
 
-在更新之前，會更新 Microsoft 雲端協議的情況下，合作夥伴不需要讓客戶重新立即取得 Microsoft 雲端合約的客戶接受度但必須重新確認先前的 Microsoft 雲端協議的同意若要續約。 不過，您可能想要讓客戶接受新的條款，再更新各項，在 Microsoft 雲端協議中善用全新和改進的條款。
+在更新之前, Microsoft Cloud 合約會更新, 合作夥伴不需要讓客戶立即重新取得 Microsoft Cloud 合約的客戶接受, 但必須先確認同意 Microsoft Cloud 合約更新。 不過, 您可能會想要讓客戶在續約之前接受新的條款, 以利用 Microsoft Cloud 合約中的新功能和改良的條款。
 
-**新 |我是 CSP 間接轉售商。如果我在我的公司記錄中記錄的 Microsoft 雲端合約的客戶接受度，請需要也提供這項資訊透過合作夥伴中心儀表板或合作夥伴中心 API？**
+**新增 |我是 CSP 間接轉銷商。如果我記錄客戶接受我的公司記錄中的 Microsoft Cloud 合約, 是否也需要透過合作夥伴中心儀表板或合作夥伴中心 API 提供這項資訊？**
 
-並以契約方式，它是間接提供者可與 Microsoft 做出可以確保終端客戶已接受 Microsoft 雲端協議合約的繫結的人員。 不過，間接提供者可能會與間接經銷商另行安排收集客戶接受合約。 在此情況下，間接提供者將需要先向間接經銷商收集必要的客戶接受合約資訊，然後透過合作夥伴中心 API 或合作夥伴中心儀表板將這些資訊提供給 Microsoft。
+依履約, 這是與 Microsoft 有系結合約的間接提供者, 可確保客戶已接受 Microsoft Cloud 合約。 不過，間接提供者可能會與間接經銷商另行安排收集客戶接受合約。 在此情況下，間接提供者將需要先向間接經銷商收集必要的客戶接受合約資訊，然後透過合作夥伴中心 API 或合作夥伴中心儀表板將這些資訊提供給 Microsoft。
 
-**新 |如果我的客戶不一致的 Microsoft 雲端合約條款？**
+**新增 |如果我的客戶不同意 Microsoft Cloud 合約的條款, 該怎麼辦？**
 
-Microsoft 的 CSP 計劃的合作夥伴，您必須負責 Microsoft 雲端協議之前下訂單的客戶接受度項目。 這不是新的需求。 因為任何原因，如果客戶不會再同意與 Microsoft 雲端協議，然後合作夥伴必須取消此客戶相關聯的訂用帳戶。
+身為 Microsoft 的 CSP 計畫合作夥伴, 您必須負責客戶在下訂單之前接受 Microsoft Cloud 合約。 這不是新的需求。 基於任何原因, 如果客戶不再同意 Microsoft Cloud 合約, 則合作夥伴必須取消與此客戶相關聯的訂用帳戶。
 
-**新 |轉銷商可以提供代表客戶同意嗎？**
+**新增 |轉銷商可以代表客戶提供同意嗎？**
 
 資料分割
 
-**一旦確認客戶可接受，我需要重新確認其客戶未來？**
+**當我確認客戶已提供接受之後, 我是否需要在未來為客戶重新確認？**
 
-一次確認客戶已接受 Microsoft 雲端協議，，這項資訊會保留在合作夥伴中心內的客戶帳戶 區段中，而且不需要再次確認的時間期間，顯示所涵蓋的客戶接受度項目的合約條款。 您只必須重新確認接受之前放置新的訂單。
+一旦您確認客戶已接受 Microsoft Cloud 合約, 這項資訊就會保留在合作夥伴中心的客戶帳戶區段中, 而且不需要在客戶涵蓋的持續時間內重新確認接受合約條款。 在放置新訂單之前, 您必須先重新確認接受。
 
-在更新之前，會更新 Microsoft 雲端協議的情況下，合作夥伴不需要讓客戶重新立即取得 Microsoft 雲端合約的客戶接受度但必須重新確認先前的 Microsoft 雲端協議的同意若要續約。 不過，您可能想要讓客戶接受新的條款，再更新各項，在 Microsoft 雲端協議中善用全新和改進的條款。
+在更新之前, Microsoft Cloud 合約會更新, 合作夥伴不需要讓客戶立即重新取得 Microsoft Cloud 合約的客戶接受, 但必須先確認同意 Microsoft Cloud 合約更新。 不過, 您可能會想要讓客戶在續約之前接受新的條款, 以利用 Microsoft Cloud 合約中的新功能和改良的條款。
 
-**新 |我不知道如何讓 Microsoft 一般客戶的直接連絡資訊。Microsoft 將如何使用這項資訊？**
+**新增 |我不熟悉提供 Microsoft my 客戶的直接連絡人資訊。Microsoft 將如何使用此資訊？**
 
-合作夥伴建立客戶租用戶，時，才能為客戶提供主要的連絡資訊。 每個線上服務條款中，Microsoft 會處理只能在文件的指示，從客戶的個人資料。
+當合作夥伴建立客戶租使用者時, 必須提供客戶的主要連絡人資訊。 根據線上服務條款, 「Microsoft 只會處理來自客戶的記載指示」的個人資料。
 
-## <a href="" id="technicalfaq"></a>技術
+## <a href="" id="technicalfaq"></a>提供技術支援
 
-**合作夥伴如何確認客戶接受度及提供給 Microsoft？若要支援此處理序可使用哪些工具？**
+**合作夥伴如何確認客戶接受, 並將其提供給 Microsoft？有哪些工具可支援此程式？**
 
-有兩種方法，可自 2018 年 8 月 7 日起可協助合作夥伴： 
+從2018年8月7日開始, 有兩種方法可協助合作夥伴: 
 1.  合作夥伴可以使用合作夥伴中心 API，透過程式設計方式來確認客戶接受合約條款。 
-2.  合作夥伴可以使用夥伴中心儀表板，以確認客戶接受度。
+2.  合作夥伴可以使用合作夥伴中心儀表板來確認客戶接受度。
 
-**新 |我會使用合作夥伴中心 API 的 CSP 合作夥伴。API 變更我需要考慮嗎？** 
+**新增 |我是使用合作夥伴中心 API 的 CSP 合作夥伴。我需要考慮哪些 API 變更？** 
 
-在此情況下，帳戶的 API 變更如下：
+在此情況下, 的 API 會變更為的帳戶:
 
--   [https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent) 
+-   [https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent) 
 
--   [https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
+-   [https://docs.microsoft.com/partner-center/develop/get-agreement-metadata](https://docs.microsoft.com/partner-center/develop/get-agreement-metadata)
 
--   [https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
+-   [https://docs.microsoft.com/partner-center/develop/confirm-customer-consent](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
 
-**如果我無法實作合作夥伴中心 API 嗎？**
+**如果我在執行合作夥伴中心 API 時遇到困難, 該怎麼辦？**
 
 您可以透過合作夥伴中心儀表板手動確認接受合約。
 
-**新 |使用夥伴中心儀表板或合作夥伴中心 API 替代方案，我可以大量上傳具有客戶確認資訊的檔案改為？**
+**新增 |除了使用合作夥伴中心儀表板或合作夥伴中心 API 之外, 我可以改以客戶確認資訊來大量上傳檔案嗎？**
 
-在此階段中，夥伴中心儀表板和合作夥伴中心 API 是提供 Microsoft 雲端合約的客戶接受度的確認唯一接受的方法。
+目前, 合作夥伴中心儀表板和合作夥伴中心 API 是唯一接受的方法, 可讓客戶接受 Microsoft Cloud 合約的確認。
 
-**新 |我是使用第三方平台或 「 中介軟體，「 執行功能來連接公司的系統與合作夥伴中心的合作夥伴。我要做什麼？**
+**新增 |我是使用協力廠商平臺或「中介軟體」的合作夥伴, 其會執行將公司系統與合作夥伴中心連接的功能。我需要做什麼？**
 
-建議使用整合合作夥伴中心 API 的平台的合作夥伴將訪問直接有關其計劃和時間表的提供者整合的合作夥伴中心 API 功能，能夠自動化客戶確認程序。
+我們建議使用整合合作夥伴中心 API 之平臺的合作夥伴直接與提供者交談, 以整合合作夥伴中心 API 功能來自動化客戶確認流程。
 
-**新 |您可以提供 API 流程範例匯入客戶的完整名稱、 電子郵件地址和 Microsoft 雲端合約已被接受的日期？**
+**新增 |您可以提供 API 流程範例來匯入客戶的完整名稱、電子郵件地址, 以及接受 Microsoft Cloud 合約的日期嗎？**
 
-檢閱詳細資訊和範例的合作夥伴中心 API 文件建議夥伴。
+建議合作夥伴參閱合作夥伴中心 API 檔, 以取得詳細資料和範例。
 
-**新 |如何取得最新的 Microsoft 雲端合約，顯示給客戶，並確認記錄中使用我的 API 程序的一部分？**
+**新增 |如何? 取得最新的 Microsoft Cloud 合約以向客戶顯示, 並在我的 API 程式中使用於確認記錄中嗎？**
 
-目前的合作夥伴中心 API 非常基本，不提供協力廠商，以程式設計方式擷取一份 Microsoft 雲端協議，也不會擷取版本的 Microsoft 雲端合約接受者客戶確認的一部分。 
+目前的合作夥伴中心 API 非常基本, 並不會提供合作夥伴以程式設計方式取得 Microsoft Cloud 合約的複本, 也不會在確認時, 捕捉客戶所接受的 Microsoft Cloud 合約版本。 
 
-**新 |使用合作夥伴中心 API，此程序需要使用者識別碼參數。下訂單時透過不與 Azure AD 整合的第三方平台如何管理這項需求？**
+**新增 |針對此程式使用合作夥伴中心 API 需要 userID 參數。當訂單是透過未與 Azure AD 整合的協力廠商平臺進行時, 如何? 管理這項需求嗎？**
 
-使用者識別碼在此情況下會識別在合作夥伴租用戶提供的客戶同意確認員工。 如果員工沒有對應的 Azure AD 使用者帳戶在合作夥伴的租用戶，則建議您針對該用途指定的特定使用者帳戶，並建立程序，以分別擷取的員工提供身分識別確認。 
+在此情況下, userID 會識別合作夥伴租使用者下提供客戶同意確認的員工。 如果員工在合作夥伴的租使用者下沒有對應的 Azure AD 使用者帳戶, 則建議您為該用途指定特定的使用者帳戶, 並建立一個程式來個別捕捉提供確認. 
 
-**新 |Microsoft 為什麼需要確認 Microsoft 雲端協議，而不是直接從客戶的客戶同意合作夥伴？**
+**新增 |為什麼 Microsoft 要求合作夥伴確認客戶同意 Microsoft Cloud 合約, 而不是直接從客戶處取得？**
 
-從 CSP 夥伴，不會直接向 Microsoft 購買的客戶。 使用服務，Microsoft 提供，Microsoft 提供的名詞，Microsoft 雲端協議中所述。 Microsoft Cloud 轉銷商合約需要檢閱並接受 Microsoft 雲端協議之前下訂單的客戶必須的 CSP 合作夥伴。 
+客戶是從 CSP 合作夥伴購買, 而不是直接向 Microsoft 購買。 若使用 Microsoft 提供的服務, Microsoft 會提供 Microsoft Cloud 合約中記載的條款。 Microsoft Cloud 轉銷商合約要求 CSP 合作夥伴必須先審查並接受 Microsoft Cloud 合約, 然後再訂購訂單。 
 
-**新 |我使用 API 和夥伴中心儀表板的 web 使用者介面來確認 Microsoft Cloud 合約的客戶接受度。在 2018 年 11 月 7 日之後, 我有哪些選項，確認客戶接受度？**
+**新增 |我同時使用 API 和合作夥伴中心儀表板 web 使用者介面來確認 Microsoft Cloud 合約客戶接受。2018年11月7日之後, 我可以選擇哪些選項來確認客戶接受？**
 
-這兩種方法可用且可接受的確認 Microsoft Cloud 合約客戶接受度。 使用夥伴中心儀表板的交易，必須要有從 2018 年 11 月 7 日開始的確認。 使用合作夥伴中心 API 交易，必須要有開始於 2019 年 3 月 22 日的確認。
+這兩個選項都可以使用, 並可接受確認 Microsoft Cloud 合約客戶接受。 使用合作夥伴中心儀表板的交易將需要自2018年11月7日起的確認。 使用合作夥伴中心 API 的交易將需要自2019年3月22日起的確認。
 
 ## <a href="" id="additionalresourcesfaq"></a>其他資源
 
-若要深入了解如何確認 Microsoft Cloud 合約客戶的接受，請參閱[確認 Microsoft 雲端合約的客戶接受度](https://docs.microsoft.com/en-us/partner-center/confirm-consent)。
+若要深入瞭解如何確認客戶接受 Microsoft Cloud 合約, 請參閱[確認客戶接受 Microsoft Cloud 合約](https://docs.microsoft.com/partner-center/confirm-consent)。
 
-若要尋找所有支援的語言特定地區的 Microsoft 雲端合約客戶的範本，請參閱[根據地區和語言的 Microsoft 雲端協議](agreements.md)。
+若要尋找所有支援語言的區域特定 Microsoft Cloud 合約客戶範本, 請參閱[依區域和語言 Microsoft Cloud 協定](agreements.md)。

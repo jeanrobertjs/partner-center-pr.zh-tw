@@ -6,12 +6,12 @@ description: 與 CSP 中的其他合作夥伴合作，以符合共同客戶的�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c8fbd890ff6fe048ab2f9d7ca49bfd27946540f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132958"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820541"
 ---
 # <a name="work-with-other-partners"></a>與其他合作夥伴合作
 
@@ -52,4 +52,4 @@ Microsoft 雲端解決方案提供者 (CSP) 計畫提供機會，讓合作夥伴
 多通路支援也適用於 Microsoft 國內雲供應項目。
 
 > [!IMPORTANT]  
-> CSP 計劃中的夥伴無法轉售線上服務給 CSP 計劃中的另一個夥伴目前。 Microsoft 會持續檢閱的原則和所有程式功能。 任何消息功能版本或原則的變更將透過一般的通訊管道，包括宣布[合作夥伴中心公告](https://partner.microsoft.com/en-us/pcv/announcements)。
+> CSP 計畫中的合作夥伴目前無法將線上服務轉售給 CSP 計畫中的另一個合作夥伴。 Microsoft 會持續審查所有程式的原則和功能。 關於功能版本或原則變更的任何新聞, 都將透過一般的通道 (包括[合作夥伴中心公告](https://partner.microsoft.com/pcv/announcements)) 來宣告。

@@ -1,26 +1,26 @@
 ---
-title: 軟體保證程式 |合作夥伴中心
+title: 軟體保證計畫 |合作夥伴中心
 ms.topic: article
-ms.date: 01/14/19
-description: 註冊及管理在合作夥伴中心內的軟體保證應用程式
+ms.date: 01/14/2019
+description: 在合作夥伴中心註冊及管理軟體保證程式
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ad6ac1d360e958ae75b3c14467928d77ec1b547d
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133851"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708860"
 ---
-# <a name="participate-in-software-assurance-programs"></a>參與軟體保證計劃
+# <a name="participate-in-software-assurance-programs"></a>參與軟體保證計畫
 
-參與軟體保證程式，包括軟體保證的訓練憑券 (SATV) 和規劃服務，提供您拓展您的業務與 Microsoft 企業客戶的機會。 身為軟體保證的教育訓練憑券合作夥伴，Microsoft 將彌補貴用戶提供由 Microsoft 專家所開發的指導、 技術的課堂訓練課程。 身為規劃服務合作夥伴，Microsoft 會補償您導致計劃合作的預先定義的實作。 透過這兩個方案中，您可以取得來設定您的業務競爭中顯得與眾不同、 成為受信任的顧問，以及後續的服務提供給客戶的機會。 在程式和管理相關的軟體保證憑券註冊是透過合作夥伴中心。
+參與軟體保證方案, 包括軟體保證訓練券 (SATV) 和規劃服務, 可讓您有機會與 Microsoft 企業客戶拓展業務。 身為軟體保證訓練券合作夥伴, Microsoft 將會補償您提供由 Microsoft 專家開發的講師指導、技術課堂訓練。 身為規劃服務合作夥伴, Microsoft 將會補償您的領導預先定義的執行規劃。 透過這兩個程式, 您可以在競爭對手以外設定您的業務, 成為受信任的顧問, 並為您的客戶提供後續服務。 相關軟體保證券的程式和管理註冊是透過合作夥伴中心完成。
 
-|**若要了解**   |**請閱讀本**   |
+|**深入瞭解**   |**閱讀此**   |
 |--------------------------|:------------------|
-|軟體保證的訓練憑券 (SATV) 程式中註冊|[在合作夥伴中心內的軟體保證的訓練憑券 (SATV) 程式](software-assurance-satv.md)|
+|在軟體保證訓練券 (SATV) 計畫中註冊|[合作夥伴中心的軟體保證訓練券 (SATV) 計畫](software-assurance-satv.md)|
 |使用憑券驗證及兌換工具|[使用合作夥伴中心的憑券驗證及兌換工具來驗證、保留和兌換憑券](voucher-validation-tool.md)|
-|規劃服務的軟體保證中註冊|[軟體保證計劃服務在合作夥伴中心](software-assurance-dps.md) 
+|在軟體保證規劃服務中註冊|[合作夥伴中心的軟體保證規劃服務](software-assurance-dps.md) 
 
 

@@ -1,18 +1,18 @@
 ---
 title: 從 PMC 移至合作夥伴中心 |合作夥伴中心
 ms.topic: article
-ms.date: 06/14/19
+ms.date: 06/14/2019
 description: 瞭解 PMC 與合作夥伴中心之間的差異和相似性
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 遷移, 移至合作夥伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 82909b8d44f1a325c01f5c1a8813570245d14f0e
-ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
+ms.openlocfilehash: fa5944a2f0fd70ec6337f3858199cdeb586fb39a
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "67818717"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708872"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>從 PMC 移至合作夥伴中心
 

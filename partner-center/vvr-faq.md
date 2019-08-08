@@ -1,18 +1,18 @@
 ---
-title: 憑單驗證工具常見問題集 |合作夥伴中心
+title: 憑證驗證工具常見問題 |合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
-description: 驗證並保留在合作夥伴中心內的憑券
+description: 在合作夥伴中心驗證及保留憑證
 author: LauraBrenner
 ms.author: labrenne
-keywords: 教育訓練憑券，軟體保證、 訓練、 驗證憑券，保留憑券
+keywords: 訓練券、軟體保證、訓練、驗證券、保留憑證
 ms.localizationpriority: medium
-ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.openlocfilehash: ce1908e74169c3de4d2cd6d2d43ece379bf9d439
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674223"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820506"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>常見問題集：使用憑券驗證及兌換工具 
 
@@ -20,40 +20,40 @@ ms.locfileid: "67674223"
 
 - 合作夥伴中心
 
-憑券驗證及兌換的工具已移至[合作夥伴中心](https://partner.microsoft.com/en-us/pcv/dashboard/overview)。 以下是一些最常見的問題合作夥伴所擁有。 
+憑證驗證和兌換工具已移至[合作夥伴中心](https://partner.microsoft.com/pcv/dashboard/overview)。 以下是一些合作夥伴最常遇到的問題。 
 
-**已移轉到合作夥伴中心的合作夥伴**
+**已遷移至合作夥伴中心的合作夥伴**
 
- 從 2019 年 3 月 31 日，所有夥伴將會都需要管理他們的憑券，在合作夥伴中心。 MPN 系統管理員可以存取 VVR。 若要使用 VVR，MPN 合作夥伴系統管理員可以登入合作夥伴中心使用其公司帳戶電子郵件。 如果您不知道您公司的 MPN 系統管理員，要求您公司的主要 VVR 程式連絡人。  如果您需要存取合作夥伴中心，請移至**存取管理**，選取**使用者**，並篩選出**MPN 管理員**。 這會讓您公司的 MPN 系統管理員的清單。  
+ 自2019年3月31日起, 所有合作夥伴都必須在合作夥伴中心管理其券。 只有 MPN 管理員可以存取 VVR。 若要使用 VVR, MPN 合作夥伴系統管理員可以使用其工作帳戶電子郵件登入合作夥伴中心。 如果您不知道貴公司的 MPN 管理員, 請詢問您公司的主要 VVR 計畫連絡人。  如果您具有合作夥伴中心的存取權, 請移至 [**存取管理**], 選取 [**使用者**], 然後篩選 [ **MPN 管理員**]。 這會提供您公司 MPN 管理員的清單。  
 
-**適用於合作夥伴仍是在[Partner Membership Center](https://partner.microsoft.com/)**
+**針對仍在[合作夥伴成員資格中心](https://partner.microsoft.com/)的合作夥伴**
 
-啟動 2019 年 3 月 31 日，所有夥伴會都管理其憑券在合作夥伴中心。 MPN 系統管理員可以存取 VVR。 若要使用 VVR 工具在合作夥伴中心，您的公司必須完成從 PMC 移轉到合作夥伴中心。 一旦完成移轉後，若要使用 VVR，MPN 合作夥伴系統管理員可以登入合作夥伴中心，請使用其公司帳戶電子郵件。 如果您不知道您公司的系統管理員，請連絡主要 VVR 程式連絡人，為您的公司。  
-
-
-**我的公司移轉自 PMC 中，但我們尚未使用 DPS/SATV 程式過去 18 個月。**
-
-- 請連絡[PMC 支援小組](mailto:proghelp@microsoft.com)。 
+自2019年3月31日起, 所有合作夥伴將會在合作夥伴中心管理其券。 只有 MPN 管理員可以存取 VVR。 若要在合作夥伴中心使用 VVR 工具, 您的公司必須完成從 PMC 到合作夥伴中心的遷移。 完成遷移之後, 若要使用 VVR, MPN 合作夥伴系統管理員可以使用其工作帳戶電子郵件登入合作夥伴中心。 如果您不知道貴公司的系統管理員, 請洽詢您公司的主要 VVR 計畫連絡人。  
 
 
-**我的公司從 PMC 移轉到合作夥伴中心。我需要採取任何動作特有 VVR 中運作？** 
+**我的公司已從 PMC 遷移, 但過去18個月內尚未使用 DPS/SATV 程式。**
 
-- 您可以在合作夥伴中心內使用 VVR。  若要使用 VVR，MPN 合作夥伴系統管理員可以登入合作夥伴中心使用其公司帳戶電子郵件。 如果您想要新增新的使用者，全域系統管理員可以執行這項操作。 如果您需要存取合作夥伴中心，請移至**存取管理**，選取**使用者**，並篩選出**MPN 管理員**的**全域系統管理員**。這會讓您公司的 MPN 和全域管理員的清單。  
+- 請洽詢[PMC 支援小組](mailto:proghelp@microsoft.com)。 
 
-**我想要能夠存取 VVR 少數使用者**
 
-- MPN 系統管理員可以存取 VVR。 合作夥伴中心存取取決於角色和權限。 您的 MPN 系統管理員或全域管理員可以決定誰使用 VVR 藉由將這些權限授予需要能夠在工具中的使用者。
+**我的公司已從 PMC 遷移至合作夥伴中心。我是否需要在 VVR 中進行任何特定工作？** 
+
+- 您將能夠在合作夥伴中心使用 VVR。  若要使用 VVR, MPN 合作夥伴系統管理員可以使用其工作帳戶電子郵件登入合作夥伴中心。 如果您想要新增新的使用者, 全域管理員可以執行此動作。 如果您具有合作夥伴中心的存取權, 請移至 [**存取管理**], 選取 [**使用者**], 然後篩選 [**全域管理員**] 的 [ **MPN 管理員**]。這會提供您公司 MPN 和全域管理員的清單。  
+
+**我希望只有少數使用者能夠存取 VVR**
+
+- 只有 MPN 管理員可以存取 VVR。 合作夥伴中心的存取權取決於角色和許可權。 您的 MPN 管理員或全域管理員可以將這些許可權授與需要在工具中工作的使用者, 藉此判斷誰使用 VVR。
 
 **我想要從 VVR 存取晶片入口網站**
 
-- 合作夥伴中心會要求您使用工作帳戶 (AAD) 的登入。  晶片目前使用個人帳戶 （MSA 或 Live ID） 登入。  瀏覽時從在合作夥伴中心 VVR 晶片，您必須登入使用 MSA 或已向晶片的 Live ID 的晶片。
+- 合作夥伴中心會要求您使用公司帳戶 (AAD) 登入。  晶片目前使用個人帳戶進行登入 (MSA 或 Live ID)。  從合作夥伴中心的 VVR 流覽到晶片時, 您必須使用已向晶片註冊的 MSA 或 Live ID 來登入晶片。
 
-**我的公司要如何存取 VVR 工具？**
+**我的公司可以如何存取 VVR 工具？**
 
-- 若要存取 VVR 工具，您的公司需要 SATV 程式或 SA DPS 程式中註冊。
+- 若要存取 VVR 工具, 您的公司必須註冊 SATV 方案或 SA DPS 程式。
 
-閱讀更詳細的常見問題集[憑券驗證工具工作流程](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)。
+閱讀有關「[憑證驗證工具」工作流程](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)的更詳細常見問題。
 
-如需如何註冊 SATV 資訊，請閱讀[在合作夥伴中心內的軟體保證的訓練憑券 (SATV) 程式](software-assurance-satv.md)。
+如需如何在 SATV 中註冊的相關資訊, 請閱讀[合作夥伴中心的軟體保證訓練憑證 (SATV) 計畫](software-assurance-satv.md)。
 
-如何註冊軟體保證 DPS 程式中的資訊，請參閱[在合作夥伴中心內的軟體保證程式](software-assurance-dps.md)。
+如需如何註冊軟體保證 DPS 程式的相關資訊, 請參閱[合作夥伴中心的軟體保證程式](software-assurance-dps.md)。

@@ -5,14 +5,14 @@ ms.date: 5/7/2019
 description: 了解取得金級及銀級會員資格等級的專長認證要求條件。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: 專長認證、 銀級成員資格、 金級的成員資格、 mpn、 地圖、 熟練的速度，Microsoft 合作夥伴網路、 網路的成員資格，進階特製化
+keywords: 專長認證, 銀成員資格, 金級成員資格, mpn, 地圖, 專長, Microsoft 合作夥伴網路, 網路成員資格, advanced 特殊化
 ms.localizationpriority: medium
-ms.openlocfilehash: 480f14df79f5899a24b23947528b44a7aa3b73ba
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.openlocfilehash: efc69215010e1ad32ae63c81556979f18f157f07
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549524"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820648"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>金會員及銀會員資格的 Microsoft 專長認證要求條件
 
@@ -23,10 +23,10 @@ ms.locfileid: "67549524"
 
 - 贏得**金級會員資格**可證明您在特定 Microsoft 解決方案領域中的能力一流
 
-深入了解[獲得 Silver 和 Gold 的成員資格的必要條件](https://partner.microsoft.com/membership/competencies)
+瞭解[獲得銀級和金級成員資格所需的內容](https://partner.microsoft.com/membership/competencies)
 
-深入了解[發票與專長認證的稅金](mpn-view-print-maps-invoice.md)
+瞭解專長認證[的發票和稅金](mpn-view-print-maps-invoice.md)
 
-## <a name="advanced-specializations"></a>進階的特製化
+## <a name="advanced-specializations"></a>Advanced 特殊化
 
-超過您使用進階的特製化的金級專長認證。 這些可讓您展示產品、 方案 區域中或服務中經過實證，可驗證的專業知識。 客戶將能夠看到您進階的特製化，在您的商務設定檔和您金級專長認證合作夥伴目錄上。 若要接收的進階的特製化的標記，業務必須完全符合一組已發行的準則，並由 Microsoft 進行驗證。 [進一步瞭解](https://partner.microsoft.com/en-us/membership/competencies#tab-content-2)。 
+透過先進的特製化, 超越您的金級專長認證。 這些方法可讓您在產品、解決方案區域或服務中展示經過證實、可驗證的專業知識。 客戶將能夠在合作夥伴目錄的商務設定檔中, 看到您的黃金專長認證和您的先進特製化。 若要收到先進的特製化標記, 您的企業必須完全符合一組已發佈的準則, 並由 Microsoft 進行驗證。 [進一步瞭解](https://partner.microsoft.com/membership/competencies#tab-content-2)。 

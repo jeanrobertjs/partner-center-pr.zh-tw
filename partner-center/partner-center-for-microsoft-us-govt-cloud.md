@@ -6,12 +6,12 @@ description: 美國政府適用的 Microsoft Cloud 合作夥伴中心是一個�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c689e1b8f76b27c27a9e1d94315082fa98ebd3cc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 971591037f37242550029b0eb908a076559359a9
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134218"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820604"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 適用的合作夥伴中心
 
@@ -19,17 +19,17 @@ ms.locfileid: "62134218"
 
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>適用於美國政府的 Microsoft 雲端：符合資料保護需求 
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>適用于美國政府的 Microsoft Cloud:符合資料保護需求 
 
 美國政府適用的 Microsoft Cloud 針對美國政府從頭開始設計，可讓美國聯邦、州、地方或部落實體選用 Microsoft 的各種雲端運算服務。 為了完善處理公共部門客戶的特定需求，Microsoft 對資料中心挹注了大量投資，並致力於遵循美國聯邦及州政府的資料保護政策、命令與規定。 美國政府適用的 Microsoft Cloud 合作夥伴中心可讓合作夥伴向這些客戶轉售 Microsoft 雲端服務。
 
 注意，某些在合作夥伴中心提供的功能可能無法在美國政府適用的 Microsoft Cloud 合作夥伴中心使用。
 
-美國政府適用的 Microsoft Cloud 提供不同的 [Microsoft Azure](https://azure.microsoft.com/en-us/overview/clouds/government/) 執行個體，這個執行個體符合政府安全性、隱私權及法務遵循規定的資料保護需求。 
+美國政府適用的 Microsoft Cloud 提供不同的 [Microsoft Azure](https://azure.microsoft.com/overview/clouds/government/) 執行個體，這個執行個體符合政府安全性、隱私權及法務遵循規定的資料保護需求。 
 
 如需詳細資訊，請參閱[美國政府適用的 Microsoft Cloud 資料工作表](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)。
 
-## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>適用於美國政府的 Microsoft 雲端合作夥伴中心：我們的政府機構銷售雲端解決方案
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>適用于美國政府的 Microsoft Cloud 合作夥伴中心:將雲端解決方案銷售給美國政府機構
 
 註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者 (CSP) 計畫後，您需要透過合作夥伴中心向美國政府客戶銷售雲端特定解決方案和服務。 
 

@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fda8724b389913e49e01d64941622cf366516bf6
-ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
+ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "67818973"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820561"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -42,7 +42,7 @@ ms.locfileid: "67818973"
 
 ## <a name="downloading-a-large-recon-file"></a>下載大型偵察檔案
 
-偵察檔案可能會變得非常大, 有時很難以下載。 如需可協助下載大型偵察檔案的 PowerShell 腳本, 請參閱[取得發票明細專案](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items)。
+偵察檔案可能會變得非常大, 有時很難以下載。 如需可協助下載大型偵察檔案的 PowerShell 腳本, 請參閱[取得發票明細專案](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items)。
 
 ## <a href="" id="itemizebypartner"></a>依合作夥伴的列舉
 
@@ -93,7 +93,7 @@ ms.locfileid: "67818973"
 <tbody>
 <tr class="odd">
 <td><strong>排</strong></td>
-<td><strong>說明</strong></td>
+<td><strong>描述</strong></td>
 <td><strong>範例值</strong></td>
 </tr>
 <tr class="even">
