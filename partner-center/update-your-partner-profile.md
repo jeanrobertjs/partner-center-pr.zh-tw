@@ -1,54 +1,60 @@
 ---
-title: 更新您的合作夥伴設定檔 | 合作夥伴中心
-description: 當您第一次以系統管理員身分登入時，請確定支援詳細資料正確、回報免稅 (若適用)，並檢閱設定檔中的連絡人資訊。
+title: 確認您的合作夥伴設定檔 | 合作夥伴中心
+description: 當您第一次以系統管理員身分登入時，請確定支援詳細資料正確、回報免稅 (若適用)，並複查設定檔中的連絡人資訊。
 MS.Topic: article
-Date: 02/19/2019
+Date: 08/06/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
-author: MaggiePucciEvans
-ms.author: evansma
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e6089d022fb60b848124d1a1a1057e81024585
-ms.sourcegitcommit: 1201c95758188d9cc52aabdf5e1993ba6cc5402a
-ms.translationtype: MT
+ms.openlocfilehash: 6a8e8e85650306c67130fcd91dcbdb40f2d9498b
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "68642326"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860960"
 ---
-# <a name="update-your-partner-profile"></a><span data-ttu-id="50840-103">更新您的合作夥伴設定檔</span><span class="sxs-lookup"><span data-stu-id="50840-103">Update your partner profile</span></span>
+# <a name="verify-your-partner-profile"></a><span data-ttu-id="a22a8-103">確認您的合作夥伴設定檔</span><span class="sxs-lookup"><span data-stu-id="a22a8-103">Verify your partner profile</span></span>
 
+<span data-ttu-id="a22a8-104">第一次以全域管理員身分登入合作夥伴中心時，請確定您的所有公司詳細資料 (例如主要連絡人、法定公司名稱和位址，以及計畫資訊) 都已正確新增。</span><span class="sxs-lookup"><span data-stu-id="a22a8-104">The first time you sign into Partner Center as  global admin, make sure all your company details such as primary contact, legal business name and address, and program information is correctly added.</span></span> <span data-ttu-id="a22a8-105">如果您的公司有多個位置，請複查您的位置資料的正確性。</span><span class="sxs-lookup"><span data-stu-id="a22a8-105">If your company has more than one location, review your location data for accuracy.</span></span> <span data-ttu-id="a22a8-106">身為全域管理員、帳單管理員或系統管理代理人，您也可以查看並更新您的帳單和稅務資訊。</span><span class="sxs-lookup"><span data-stu-id="a22a8-106">As global admin, billing admin, or admin agent, you will also be able to see and update your billing and tax information.</span></span> 
 
-<span data-ttu-id="50840-104">當您第一次以系統管理員身分登入合作夥伴中心時，請確定支援詳細資料正確、回報免稅 (若適用)，並檢閱設定檔中的連絡人資訊。</span><span class="sxs-lookup"><span data-stu-id="50840-104">The first time you sign into Partner Center as an admin, make sure your support details are correct, file tax exemptions if appropriate, and review the contact information in your profiles.</span></span> <span data-ttu-id="50840-105">如果您的組織有一個以上的位置, 請檢查您的位置資料的正確性。</span><span class="sxs-lookup"><span data-stu-id="50840-105">If your organization has more than one location, review your location data for accuracy.</span></span>
+<span data-ttu-id="a22a8-107">**確認您的合作夥伴設定檔資訊**</span><span class="sxs-lookup"><span data-stu-id="a22a8-107">**Verify your partner profile information**</span></span>
 
-<span data-ttu-id="50840-106">**更新您的支援詳細資料**</span><span class="sxs-lookup"><span data-stu-id="50840-106">**Update your support details**</span></span>
+<span data-ttu-id="a22a8-108">您的夥伴設定檔包含您的法定公司資訊、主要連絡人姓名和電子郵件、公司參與的計畫，以及您的其他公司 (如果相關)，現在已合併在您的法定公司下。</span><span class="sxs-lookup"><span data-stu-id="a22a8-108">Your partner profile consists of your legal business information, primary contact name and email, the programs which your company participates in, and if relevant, your other companies that are now merged under your legal business.</span></span>
 
-1.  <span data-ttu-id="50840-107">移至 [**設定**], 然後選取 [**合作夥伴設定檔**]。</span><span class="sxs-lookup"><span data-stu-id="50840-107">Go to **Settings** and select **Partner profile**.</span></span>
-2.  <span data-ttu-id="50840-108">在 \[支援\]  區段中，選取 \[更新\]  。</span><span class="sxs-lookup"><span data-stu-id="50840-108">In the **Support** section, select **Update**.</span></span>
-3.  <span data-ttu-id="50840-109">如果您的任何客戶打電話給 Microsoft 尋求支援，Microsoft 會請他們轉向您在支援設定檔中列出的網站、電子郵件與電話連絡人資訊。</span><span class="sxs-lookup"><span data-stu-id="50840-109">If any of your customers call Microsoft looking for support, Microsoft will point them back to the website, email, and phone contact info that you list in your support profile.</span></span>
+1.  <span data-ttu-id="a22a8-109">移至 [設定]  ，然後選取 [合作夥伴設定檔]  。</span><span class="sxs-lookup"><span data-stu-id="a22a8-109">Go to **Settings** and select **Partner profile**.</span></span>
 
-<span data-ttu-id="50840-110">**檔稅金豁免**</span><span class="sxs-lookup"><span data-stu-id="50840-110">**File tax exemptions**</span></span>
+2.  <span data-ttu-id="a22a8-110">複查您的**法定公司設定檔**、**主要連絡人資訊**以及您的**計畫資訊**。</span><span class="sxs-lookup"><span data-stu-id="a22a8-110">Review your **Legal business profile**, **Primary contact info**, and your **Program info**.</span></span>
 
--   <span data-ttu-id="50840-111">決定您是否適用免稅。如果適用，請在您新增任何客戶或訂閱之前提出申請。</span><span class="sxs-lookup"><span data-stu-id="50840-111">Decide whether tax exemptions apply to you, and if so file them before you add any customers or subscriptions.</span></span> <span data-ttu-id="50840-112">請參閱[稅金與免稅](tax-and-tax-exemptions.md)。</span><span class="sxs-lookup"><span data-stu-id="50840-112">See [Tax and tax exemptions](tax-and-tax-exemptions.md).</span></span>
+<span data-ttu-id="a22a8-111">如果您已經將其他公司合併在您的法定公司下，您也可以在此頁面上複查其資訊。</span><span class="sxs-lookup"><span data-stu-id="a22a8-111">If you have merged your other companies under your legal business, you can review their information as well on this page.</span></span>
 
-<span data-ttu-id="50840-113">**驗證您的設定檔資訊**</span><span class="sxs-lookup"><span data-stu-id="50840-113">**Verify your profile information**</span></span>
+## <a name="update-your-legal-address"></a><span data-ttu-id="a22a8-112">更新您的法定地址</span><span class="sxs-lookup"><span data-stu-id="a22a8-112">Update your legal address</span></span>
 
-1.  <span data-ttu-id="50840-114">移至 [**設定**], 然後選取 [**合作夥伴設定檔**]。</span><span class="sxs-lookup"><span data-stu-id="50840-114">Go to **Settings** and select **Partner profile**.</span></span> 
-2.  <span data-ttu-id="50840-115">檢閱您的 \[合作夥伴設定檔\]  、\[合作夥伴帳單設定檔\]  與 \[組織設定檔\]  。</span><span class="sxs-lookup"><span data-stu-id="50840-115">Review your **Partner profile**, **Partner billing profile**, and **Organizational profile**.</span></span>
+<span data-ttu-id="a22a8-113">您現在可以在合作夥伴中心上更新您的法定地址。</span><span class="sxs-lookup"><span data-stu-id="a22a8-113">You can now update your legal address on Partner Center.</span></span>
 
-## <a name="manage-your-partner-profile"></a><span data-ttu-id="50840-116">管理您的夥伴設定檔</span><span class="sxs-lookup"><span data-stu-id="50840-116">Manage your Partner profile</span></span> 
+1. <span data-ttu-id="a22a8-114">移至 [設定]  ，然後選取 [合作夥伴設定檔]  。</span><span class="sxs-lookup"><span data-stu-id="a22a8-114">Go to **Settings** and select **Partner profile**.</span></span> 
 
-<span data-ttu-id="50840-117">您現在可以在合作夥伴中心更新您的合法位址。</span><span class="sxs-lookup"><span data-stu-id="50840-117">You can now update your legal address on Partner Center.</span></span>
-
-1. <span data-ttu-id="50840-118">移至 [**設定**] nd [選取**夥伴設定檔**]。</span><span class="sxs-lookup"><span data-stu-id="50840-118">Go to **Settings** nd select **Partner profile**.</span></span> 
-2. <span data-ttu-id="50840-119">選取 [合法位址] 旁的 [**更新**]。</span><span class="sxs-lookup"><span data-stu-id="50840-119">Select **Update** next to Legal address.</span></span> 
+2. <span data-ttu-id="a22a8-115">選取法定地址旁的 [更新]  。</span><span class="sxs-lookup"><span data-stu-id="a22a8-115">Select **Update** next to Legal address.</span></span> 
 
 >[!Important]
-><span data-ttu-id="50840-120">您無法變更與您的法律位址相關聯的國家/地區。您的法律位址國家/地區系結至您的租使用者和服務。</span><span class="sxs-lookup"><span data-stu-id="50840-120">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services.</span></span> <span data-ttu-id="50840-121">如需詳細資訊, 請參閱[變更您的法律位址](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="50840-121">For details, read [Change your legal address](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span></span>
+><span data-ttu-id="a22a8-116">您無法變更與您的法定地址相關聯的國家/地區。您的法定地址國家/地區會繫結至您的租用戶和服務，以及您執行業務所使用的貨幣。</span><span class="sxs-lookup"><span data-stu-id="a22a8-116">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services as well as the currency you do business with.</span></span> 
 
-3. <span data-ttu-id="50840-122">當您選取 [**提交**] 時, 將會重新評估您的合法身分識別, 而且您會收到另一封電子郵件, 您必須接受。</span><span class="sxs-lookup"><span data-stu-id="50840-122">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
+3. <span data-ttu-id="a22a8-117">當您選取 [提交]  時，將會重新評估您的合法身分識別，而且您會收到您必須接受的另一封電子郵件。</span><span class="sxs-lookup"><span data-stu-id="a22a8-117">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
 
+## <a name="update-legal-business"></a><span data-ttu-id="a22a8-118">更新法定公司</span><span class="sxs-lookup"><span data-stu-id="a22a8-118">Update legal business</span></span>
 
+<span data-ttu-id="a22a8-119">如果您在從 Partner Membership Center 移轉到合作夥伴中心期間，將錯誤的公司識別為法定公司，您可以將其變更為正確的公司。</span><span class="sxs-lookup"><span data-stu-id="a22a8-119">If, during your migration from Partner Membership Center to Partner Center, the wrong business was identified as the legal business, you can change it to the correct business.</span></span>
+
+1. <span data-ttu-id="a22a8-120">從 [帳戶設定]  移至 [位置]  ，並確定您想要作為您的法定公司的公司在清單中。</span><span class="sxs-lookup"><span data-stu-id="a22a8-120">From **Account settings** go to **Locations** and make sure the business you want as your legal business is in the list.</span></span> <span data-ttu-id="a22a8-121">如果沒有，您可以將它新增。</span><span class="sxs-lookup"><span data-stu-id="a22a8-121">If it isn't, you can add it.</span></span> <span data-ttu-id="a22a8-122">選取 [新增位置]  。</span><span class="sxs-lookup"><span data-stu-id="a22a8-122">Select **Add location**.</span></span>
+
+2.  <span data-ttu-id="a22a8-123">接著，移至 [合作夥伴設定檔]  ，然後選取 [更新法定公司設定檔]  。</span><span class="sxs-lookup"><span data-stu-id="a22a8-123">Next go to **Partner profile** and select **Update legal business profile**.</span></span>
+
+3.  <span data-ttu-id="a22a8-124">選取您想要用來作為法定公司的位置和公司，然後選取 [儲存]  。</span><span class="sxs-lookup"><span data-stu-id="a22a8-124">Select the location and business you want to use as your legal business and then select **Save**.</span></span>
+
+## <a name="update-your-billing-address"></a><span data-ttu-id="a22a8-125">更新帳單地址</span><span class="sxs-lookup"><span data-stu-id="a22a8-125">Update your billing address</span></span>
+
+<span data-ttu-id="a22a8-126">如果您是全域管理員、帳單管理員或系統管理代理人，您可以在 [帳單設定檔]  中變更出現在發票上的地址。</span><span class="sxs-lookup"><span data-stu-id="a22a8-126">If you are the global admin, billing admin, or admin agent, you can change the address that appears on your invoice in your **Billing profile**.</span></span> <span data-ttu-id="a22a8-127">不過，因為發票系統的限制，您無法變更發票上的公司名稱。</span><span class="sxs-lookup"><span data-stu-id="a22a8-127">You can't, however, change the company name on your invoice because of a limitation with the invoice system.</span></span>
 
  
-
 
 
