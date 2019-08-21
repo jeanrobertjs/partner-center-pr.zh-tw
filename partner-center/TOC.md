@@ -115,7 +115,7 @@
 ### [建立、暫停或取消客戶訂閱](create-a-new-subscription.md)
 ### [使用促銷吸引新客戶](promotions.md)
 ### [為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)
-### [銷售 Azure Marketplace 產品的訂閱](sell-marketplace-products.md)
+### [銷售商業 Marketplace 產品的訂閱](sell-marketplace-products.md)
 ### [在合作夥伴中心指派 Azure 訂閱](assign-azure-subscriptions.md)
 ### [指派授權給使用者](assign-licenses-to-users.md)
 ### [將授權或服務新增到現有的訂閱](add-licenses-or-services-to-an-existing-subscription.md)
