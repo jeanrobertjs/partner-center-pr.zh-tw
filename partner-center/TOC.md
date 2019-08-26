@@ -4,6 +4,8 @@
 ## [建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)
 ## [如何取得公司電子郵件地址](buy-email-domain.md)
 ## [合作夥伴系統管理中心即將移轉到合作夥伴中心](pac-to-pc-overview.md)
+### [從合作夥伴系統管理中心 (PAC) 移轉到合作夥伴中心](moving-from-pac-to-pc.md)
+## [Office 365 合作夥伴系統管理中心合作夥伴：您的企業營運已移轉到合作夥伴中心](o365-partner-admin-center-to-partner-center.md)
 ## 從 Partner Membership Center 移至合作夥伴中心
 ### [準備從 Partner Membership Center 移至合作夥伴中心](prepare-pmc-pc-migration.md)
 ### [從 PMC 移到合作夥伴中心指南](guide-to-migration.md)
@@ -24,6 +26,7 @@
 ### [合作夥伴中心的軟體保證規劃服務](software-assurance-dps.md)
 ## 發票和稅金
 ### [Microsoft 合作夥伴網路中的發票和稅金](mpn-view-print-maps-invoice.md)
+## [測試新功能](test-drive-new-features.md)
 
 
 # [雲端解決方案提供者](csp-overview.md)
@@ -77,6 +80,7 @@
 ### [獎勵宣告的核心要求](core-requirements.md)
 ### [了解您的獎勵支出](understand-incentive-payouts.md)
 ### [在合作夥伴中心提交您的 OSA 宣告](submit-osa-claim.md)
+### [尋找客戶的網域名稱與目錄識別碼以獲得獎勵宣告](find-customer-domain-name.md)
 
 
 # [帳單與稅金](billing.md)
@@ -100,6 +104,7 @@
 ## [移除與客戶的經銷商關係](remove-a-relationship.md)
 ## [客戶委派或撤銷對合作夥伴的管理權限](customers_revoke_admin_privileges.md) 
 ## [查看您的客戶清單](see-your-customer-list.md)
+## [檢視客戶活動記錄](activity-logs.md)
 ## [更新客戶帳戶資訊](update-customer-account-info.md)
 ## [為客戶建立多個使用者](adding-multiple-users-to-a-customer-account.md)
 ## [指派支援連絡人](assign-support-contacts.md)
