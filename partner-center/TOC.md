@@ -72,6 +72,7 @@
 ## [推薦](referrals.md)
 ### [建立商務設定檔](create-a-marketing-profile.md)
 ### [回應推薦](responding-to-referrals.md)
+### [註冊您的交易](register-deals.md)
 ### [與 Microsoft 合作銷售](co-sell-with-microsoft.md)
 ### [取得推薦深入解析](referral-insights.md)
 ### [分析您的商務設定檔](analyze-your-marketing-profile.md)
@@ -96,7 +97,6 @@
 ## [為客戶設定 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)
 ## [常見帳單案例](common-billing-scenarios.md)
 ## [未付款、詐騙或濫用](non-payment--fraud--or-misuse.md)
-## [PSTN 服務](o365-e5-in-csp-advisory.md)
 
 # [與客戶保持聯繫](customer-accounts.md)
 ## [加入新的客戶](add-a-new-customer.md)
