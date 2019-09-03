@@ -1,19 +1,19 @@
 ---
-title: Office 365 合作夥伴系統管理中心客戶：您的企業營運已移轉到合作夥伴中心 | 合作夥伴中心
+title: Office 365 合作夥伴系統管理中心合作夥伴：您的企業營運已移轉到合作夥伴中心 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
-description: 將企業營運移轉到合作夥伴中心的 Office 365 合作夥伴系統管理中心客戶的重要考量
+ms.date: 08/22/2019
+description: Office 365 合作夥伴系統管理中心合作夥伴在移轉到合作夥伴中心時的重要考量
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fb32c86c623044dc42a2ba746a4efe0aca568e04
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 601563734a460be31cfba9beaa7d5d447769a730
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134258"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993965"
 ---
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 夥伴系統管理員中心客戶：準備好將商務作業移到合作夥伴中心
+# <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 合作夥伴系統管理中心合作夥伴：準備好將商務營運移至合作夥伴中心
 
 **適用於** 
 
@@ -30,19 +30,17 @@ ms.locfileid: "62134258"
 
 目前同時支援這兩個網站，因此在轉換到新網站的期間，您暫時還可以使用 Office 365 合作夥伴系統管理中心。 您在其中一個位置進行的任何變更，在兩個位置都會出現。
 
-希望您會喜歡這個全新體驗！
-
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>在合作夥伴中心尋找 Office 365 合作夥伴系統管理中心功能
 
 在合作夥伴中心完成工作的方式跟您過去在 Office 365 合作夥伴系統管理中心不一樣。 以下是在合作夥伴中心完成工作的方式。
 
 | Office 365 合作夥伴系統管理中心功能                       | 在合作夥伴中心的哪裡？ | 
 |   -----------------------------------------------  | -------------- |
-| 建置您的業務：建立購買優惠 | 與您的提供者合作，向客戶銷售優惠方案 |
-| 建置您的業務：要求委派的系統管理員權限 | 合作夥伴中心：客戶 > 要求轉銷商關係 |
-| 建置您的業務：建立試用邀請 | 無法使用。 您仍然可以使用 Office 365 合作夥伴系統管理中心進行此工作 |
-| 服務要求：用戶端清單：Office 365 系統管理中心 | 合作夥伴中心：客戶 > 管理服務 |
-| 服務要求：用戶端清單：服務要求 | 合作夥伴中心：服務要求 > 客戶提出的要求 |
-| 服務要求：加上旗標 | Dasbhoard:客戶： 選取 公司名稱旁邊的星號 |
-| [服務要求] > [用戶端管理] > [系統管理，代表 (AOBO)] | 合作夥伴中心：客戶 > 選取客戶 > 選取訂用帳戶 > 選取指定的產品的轉銷商 |
+| 建立業務：建立購買優惠 | 與您的提供者合作，向客戶銷售優惠方案 |
+| 建立業務：要求委派的系統管理員權限 | 合作夥伴中心：[客戶] > [要求建立經銷商關係] |
+| 建立業務：建立試用邀請 | 無法使用。 您仍然可以使用 Office 365 合作夥伴系統管理中心進行此工作 |
+| 服務要求：客戶清單：Office 365 系統管理中心 | 合作夥伴中心：[客戶] > [管理服務] |
+| 服務要求：客戶清單：服務要求 | 合作夥伴中心：[服務要求] > [客戶要求] |
+| 服務要求：已標幟 | 儀表板：客戶：選取公司名稱旁邊的星星 |
+| [服務要求] > [用戶端管理] > [系統管理，代表 (AOBO)] | 合作夥伴中心：[客戶] > 選取客戶 > 選取訂用帳戶 > 選取指定的產品轉銷商 |
 
