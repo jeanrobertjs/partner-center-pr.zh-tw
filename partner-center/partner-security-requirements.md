@@ -1,18 +1,18 @@
 ---
 title: 合作夥伴安全性需求 | 合作夥伴中心
 ms.topic: article
-ms.date: 08/05/2019
+ms.date: 08/30/2019
 description: 瞭解參與雲端解決方案提供者計畫之顧問和合作夥伴的安全性需求。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: 40f5ac3e1481c0b630fc7e22e680409b1ca80926
-ms.sourcegitcommit: a5d5bd83e20649e9f02d2d82d682f87bb28a0265
+ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68912628"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215647"
 ---
 # <a name="partner-security-requirements"></a>合作夥伴安全性需求
 
@@ -142,7 +142,7 @@ ms.locfileid: "68912628"
 
 1. 以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入  **Azure 入口網站** 。
 2. 瀏覽至 [Azure Active Directory]   >  [條件式存取]  。
-3. 在原則清單中，選取 [基準原則: 要求系統管理員使用 MFA]  。
+3. 在原則清單中，選取 [基準原則:  要求系統管理員使用 MFA]。
 4. 將 [啟用原則]  設定為 [立即使用原則]  。
 5. 按一下 [儲存] **** 。
 
@@ -156,13 +156,13 @@ ms.locfileid: "68912628"
 
 使用者保護基準原則會保護目錄中的所有使用者。 啟用此原則會要求所有使用者都必須在 14 天內註冊 Azure MFA。 註冊之後，只有在有風險的登入嘗試時，才會提示使用者進行 MFA。 遭盜用的使用者帳戶會遭到封鎖，直到重設密碼和風險解除為止。
 
-原則 [基準原則: 使用者保護]  已預先設定，當您瀏覽至 Azure 入口網站中的 [條件式存取] 刀鋒視窗時，將顯示在頂端。
+原則 [基準原則:  使用者保護] 已預先設定，當您瀏覽至 Azure 入口網站中的 [條件式存取] 刀鋒視窗時，將顯示在頂端。
 
 若要啟用此原則並保護您的使用者：
 
 1. 以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入  **Azure 入口網站** 。
 2. 瀏覽至 [Azure Active Directory]   >  [條件式存取]  。
-3. 在原則清單中，選取 [基準原則: 使用者保護 (預覽)]  。
+3. 在原則清單中，選取 [基準原則:  終端使用者保護 (預覽)]。
 4. 將 [啟用原則]  設定為 [立即使用原則]  。
 5. 按一下 [儲存] **** 。
 
