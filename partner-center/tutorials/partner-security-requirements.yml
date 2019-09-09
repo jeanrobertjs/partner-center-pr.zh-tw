@@ -1,8 +1,8 @@
 ### YamlMime:Tutorial
-title: <span data-ttu-id="2c1bc-101">實施合作夥伴安全性需求</span><span class="sxs-lookup"><span data-stu-id="2c1bc-101">Implementing the partner security requirements</span></span>
+title: <span data-ttu-id="d818f-101">實作合作夥伴安全性需求</span><span class="sxs-lookup"><span data-stu-id="d818f-101">Implementing the partner security requirements</span></span>
 metadata:
-  title: 實施合作夥伴安全性需求
-  description: 在本教學課程中, 您將瞭解合作夥伴的安全性需求, 以及如何滿足這些需求。
+  title: 實作合作夥伴安全性需求
+  description: 在本教學課程中，您將瞭解合作夥伴的安全性需求，以及如何滿足這些需求。
   audience: Partners
   level: Beginner
   ms.date: 06/24/2019
@@ -10,98 +10,98 @@ metadata:
   ms.custom: mvc
   ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
   ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/18/2019
   ms.locfileid: "68313954"
 items:
-- title: <span data-ttu-id="2c1bc-104">簡介</span><span class="sxs-lookup"><span data-stu-id="2c1bc-104">Introduction</span></span>
+- title: <span data-ttu-id="d818f-104">簡介</span><span class="sxs-lookup"><span data-stu-id="d818f-104">Introduction</span></span>
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="2c1bc-105">客戶和合作夥伴的安全性和隱私權是 Microsoft 的首要優先考慮。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="2c1bc-106">我們會持續看到更複雜的安全性攻擊, 主要與遭入侵的身分識別有關。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="2c1bc-107">由於預防性控制項在整體防禦策略中扮演重要角色來對抗安全性攻擊, 因此我們將開始強制執行一組強制的安全性需求, 以協助保護合作夥伴及其客戶。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
+    <span data-ttu-id="d818f-105">確保客戶及合作夥伴的安全性和隱私權是 Microsoft 最為優先的工作。</span><span class="sxs-lookup"><span data-stu-id="d818f-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="d818f-106">我們持續看到更多更為複雜的安全性攻擊，這些攻擊主要與身分識別遭到入侵有關。</span><span class="sxs-lookup"><span data-stu-id="d818f-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="d818f-107">由於預防性控制項在對抗安全性攻擊的整體防禦策略中扮演重要角色，我們將會開始強制執行一組強制的安全性需求，以協助保護合作夥伴與其客戶。</span><span class="sxs-lookup"><span data-stu-id="d818f-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
 
 
-    <span data-ttu-id="2c1bc-108">在本教學課程中, 您將深入瞭解合作夥伴的安全性需求、如何滿足這些需求, 以及對合作夥伴目錄中的使用者所造成的影響。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
-- title: <span data-ttu-id="2c1bc-109">合作夥伴的安全性需求為何？</span><span class="sxs-lookup"><span data-stu-id="2c1bc-109">What are the partner security requirements?</span></span>
+    <span data-ttu-id="d818f-108">在本教學課程中，您將深入了解合作夥伴的安全性需求、如何滿足這些需求，以及對合作夥伴目錄中的使用者所造成的影響。</span><span class="sxs-lookup"><span data-stu-id="d818f-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
+- title: <span data-ttu-id="d818f-109">合作夥伴的安全性需求為何？</span><span class="sxs-lookup"><span data-stu-id="d818f-109">What are the partner security requirements?</span></span>
   durationInMinutes: 1
   content: >
-    <span data-ttu-id="2c1bc-110">所有參與雲端解決方案提供者計畫、控制台廠商和 Advisor 合作夥伴的合作夥伴, 都必須針對其合作夥伴租使用者中的每位使用者強制執行多重要素驗證 (MFA)。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="2c1bc-111">這可以藉由啟用兩個[Azure Active Directory 基準原則](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)來完成。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="2c1bc-112">基準原則是一組預先定義的原則, 可協助組織抵禦許多常見的攻擊。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="2c1bc-113">這些常見的攻擊可能包括密碼噴灑、重新執行和網路釣魚。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="2c1bc-114">基準原則適用于所有版本的 Azure Active Directory。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="2c1bc-115">Microsoft 將這些基準保護原則提供給所有人, 因為以身分識別為基礎的攻擊已在過去幾年的增加。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
+    <span data-ttu-id="d818f-110">所有參與雲端解決方案提供者方案的合作夥伴、控制台廠商和 Advisor 合作夥伴，都必須針對其合作夥伴租用戶中的每位使用者強制執行多重要素驗證 (MFA)。</span><span class="sxs-lookup"><span data-stu-id="d818f-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="d818f-111">這可藉由啟用兩個 [Azure Active Directory 基準原則](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)來完成。</span><span class="sxs-lookup"><span data-stu-id="d818f-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="d818f-112">基準原則是一組預先定義的原則，可協助組織抵禦許多常見的攻擊。</span><span class="sxs-lookup"><span data-stu-id="d818f-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="d818f-113">這些常見的攻擊可能包括密碼噴灑、重播和網路釣魚。</span><span class="sxs-lookup"><span data-stu-id="d818f-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="d818f-114">基準保護原則適用於所有版本的 Azure Active Directory。</span><span class="sxs-lookup"><span data-stu-id="d818f-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="d818f-115">Microsoft 將這些基準保護原則提供給所有人使用的原因，是因為以身分識別為基礎的攻擊在過去幾年一直持續攀升。</span><span class="sxs-lookup"><span data-stu-id="d818f-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
 
 
-    <span data-ttu-id="2c1bc-116">下表說明應啟用的兩個基準原則。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-116">The two baseline policies that should be enabled are described in the table below.</span></span>
+    <span data-ttu-id="d818f-116">下表說明應啟用的兩個基準原則。</span><span class="sxs-lookup"><span data-stu-id="d818f-116">The two baseline policies that should be enabled are described in the table below.</span></span>
 
 
-    |<span data-ttu-id="2c1bc-117">**原則**</span><span class="sxs-lookup"><span data-stu-id="2c1bc-117">**Policy**</span></span>| |
+    |<span data-ttu-id="d818f-117">**原則**</span><span class="sxs-lookup"><span data-stu-id="d818f-117">**Policy**</span></span>| |
 
     |-----|-----|
 
-    |<span data-ttu-id="2c1bc-118">**需要系統管理員的 MFA**</span><span class="sxs-lookup"><span data-stu-id="2c1bc-118">**Require MFA for admins**</span></span>|<span data-ttu-id="2c1bc-119">啟用 [需要 MFA for admins] 原則時, 系統管理員角色中的使用者將需要使用驗證器應用程式註冊 MFA。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="2c1bc-120">一旦完成 MFA 註冊, 系統管理員就必須在每次登入時執行 MFA。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
+    |<span data-ttu-id="d818f-118">**要求系統管理員使用 MFA**</span><span class="sxs-lookup"><span data-stu-id="d818f-118">**Require MFA for admins**</span></span>|<span data-ttu-id="d818f-119">啟用 [要求系統管理員使用 MFA] 原則時，將要求系統管理員角色中的使用者使用 Authenticator 應用程式來註冊使用 MFA。</span><span class="sxs-lookup"><span data-stu-id="d818f-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="d818f-120">完成 MFA 註冊後，管理員每次登入時都必須執行 MFA。</span><span class="sxs-lookup"><span data-stu-id="d818f-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
 
-    |<span data-ttu-id="2c1bc-121">**終端使用者保護**</span><span class="sxs-lookup"><span data-stu-id="2c1bc-121">**End user protection**</span></span>|<span data-ttu-id="2c1bc-122">終端使用者保護是以風險為基礎的 MFA 基準原則, 可保護目錄中的所有使用者。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="2c1bc-123">若要啟用此原則, 所有使用者都必須使用驗證器應用程式註冊 MFA。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="2c1bc-124">使用者可以略過14天的 MFA 登錄提示, 在這之後, 他們將會遭到封鎖而無法登入, 直到他們註冊 MFA 為止。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="2c1bc-125">註冊 MFA 之後, 只有在有風險的登入嘗試時, 才會提示使用者進行 MFA。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="2c1bc-126">遭盜用的使用者帳戶會遭到封鎖, 直到重設其密碼且已關閉風險事件為止。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
+    |<span data-ttu-id="d818f-121">**使用者保護**</span><span class="sxs-lookup"><span data-stu-id="d818f-121">**End user protection**</span></span>|<span data-ttu-id="d818f-122">使用者保護是以風險為基礎的 MFA 基準原則，可保護目錄中的所有使用者。</span><span class="sxs-lookup"><span data-stu-id="d818f-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="d818f-123">啟用此原則會要求所有使用者都必須使用驗證器應用程式註冊 MFA。</span><span class="sxs-lookup"><span data-stu-id="d818f-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="d818f-124">使用者可以略過 MFA 註冊提示 14 天，在這之後，他們將會遭到封鎖而無法登入，直到他們註冊 MFA 為止。</span><span class="sxs-lookup"><span data-stu-id="d818f-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="d818f-125">註冊 MFA 之後，只有在有風險的登入嘗試時，才會提示使用者進行 MFA。</span><span class="sxs-lookup"><span data-stu-id="d818f-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="d818f-126">遭盜用的使用者帳戶會遭到封鎖，直到重設其密碼且風險事件已解除為止。</span><span class="sxs-lookup"><span data-stu-id="d818f-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
 
 
-    <span data-ttu-id="2c1bc-127">啟用這些原則時, 每個使用者都可以使用 Azure MFA, 而不需要額外費用。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="2c1bc-128">如果您使用協力廠商解決方案, 則在存取 Microsoft 商業雲端服務時, 您必須為每位使用者強制執行 MFA。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
+    <span data-ttu-id="d818f-127">啟用這些原則時，每個使用者都能夠利用 Azure MFA 來進行驗證，而不需要額外付費。</span><span class="sxs-lookup"><span data-stu-id="d818f-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="d818f-128">如果您使用第三方解決方案，則在存取 Microsoft 商業雲端服務時，您必須為每位使用者強制執行 MFA。</span><span class="sxs-lookup"><span data-stu-id="d818f-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="2c1bc-129">由於會針對合作夥伴目錄中的每個使用者強制執行 MFA, 因此會影響任何利用使用者認證的自動化或整合。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="2c1bc-130">若要解決這種影響, 您必須修改自動化或整合連接到 Microsoft 商業雲端服務的方式。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="2c1bc-131">如果您要連接的服務支援以權杖為基礎的驗證, 則建議您執行安全的[應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
-- title: <span data-ttu-id="2c1bc-132">如何? 啟用 [要求系統管理員使用 MFA] 基準原則？</span><span class="sxs-lookup"><span data-stu-id="2c1bc-132">How do I enable the Require MFA for admins baseline policy?</span></span>
+    > <span data-ttu-id="d818f-129">由於會針對合作夥伴目錄中的每個使用者強制執行 MFA，因此會影響任何利用使用者認證的自動化或整合作業。</span><span class="sxs-lookup"><span data-stu-id="d818f-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="d818f-130">若要解決這種影響，您必須修改自動化或整合連線到 Microsoft 商業雲端服務的方式。</span><span class="sxs-lookup"><span data-stu-id="d818f-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="d818f-131">如果您要連線的服務支援以權杖為基礎的驗證，則建議您實作[安全的應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)。</span><span class="sxs-lookup"><span data-stu-id="d818f-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
+- title: <span data-ttu-id="d818f-132">如何啟用「要求系統管理員使用 MFA」基準原則？</span><span class="sxs-lookup"><span data-stu-id="d818f-132">How do I enable the Require MFA for admins baseline policy?</span></span>
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="2c1bc-133">系統管理員基準原則的 [*需要 mfa* ] 需要下列目錄角色的 mfa, 視為最具許可權的 Azure AD 角色:</span><span class="sxs-lookup"><span data-stu-id="2c1bc-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
+    <span data-ttu-id="d818f-133">[要求管理員使用 MFA] 基準原則需要下列目錄角色的 MFA，它們被視為最具特殊權限的 Azure AD 角色：</span><span class="sxs-lookup"><span data-stu-id="d818f-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
 
 
-    - <span data-ttu-id="2c1bc-134">全域管理員</span><span class="sxs-lookup"><span data-stu-id="2c1bc-134">Global administrator</span></span>
+    - <span data-ttu-id="d818f-134">全域管理員</span><span class="sxs-lookup"><span data-stu-id="d818f-134">Global administrator</span></span>
 
-    - <span data-ttu-id="2c1bc-135">SharePoint 管理員</span><span class="sxs-lookup"><span data-stu-id="2c1bc-135">SharePoint administrator</span></span>
+    - <span data-ttu-id="d818f-135">SharePoint 管理員</span><span class="sxs-lookup"><span data-stu-id="d818f-135">SharePoint administrator</span></span>
 
-    - <span data-ttu-id="2c1bc-136">Exchange 系統管理員</span><span class="sxs-lookup"><span data-stu-id="2c1bc-136">Exchange administrator</span></span>
+    - <span data-ttu-id="d818f-136">Exchange 系統管理員</span><span class="sxs-lookup"><span data-stu-id="d818f-136">Exchange administrator</span></span>
 
-    - <span data-ttu-id="2c1bc-137">條件式存取管理員</span><span class="sxs-lookup"><span data-stu-id="2c1bc-137">Conditional access administrator</span></span>
+    - <span data-ttu-id="d818f-137">條件式存取管理員</span><span class="sxs-lookup"><span data-stu-id="d818f-137">Conditional access administrator</span></span>
 
-    - <span data-ttu-id="2c1bc-138">安全性系統管理員</span><span class="sxs-lookup"><span data-stu-id="2c1bc-138">Security administrator</span></span>
+    - <span data-ttu-id="d818f-138">安全性系統管理員</span><span class="sxs-lookup"><span data-stu-id="d818f-138">Security administrator</span></span>
 
-    - <span data-ttu-id="2c1bc-139">服務台管理員/密碼管理員</span><span class="sxs-lookup"><span data-stu-id="2c1bc-139">Helpdesk administrator / Password administrator</span></span>
+    - <span data-ttu-id="d818f-139">服務台管理員/密碼管理員</span><span class="sxs-lookup"><span data-stu-id="d818f-139">Helpdesk administrator / Password administrator</span></span>
 
-    - <span data-ttu-id="2c1bc-140">計費管理員</span><span class="sxs-lookup"><span data-stu-id="2c1bc-140">Billing administrator</span></span>
+    - <span data-ttu-id="d818f-140">計費管理員</span><span class="sxs-lookup"><span data-stu-id="d818f-140">Billing administrator</span></span>
 
-    - <span data-ttu-id="2c1bc-141">使用者系統管理員</span><span class="sxs-lookup"><span data-stu-id="2c1bc-141">User administrator</span></span>
-
-
-    <span data-ttu-id="2c1bc-142">啟用 [需要 MFA for admins] 原則時, 必須使用驗證器應用程式註冊 MFA, 以上九個系統管理員角色才會需要。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="2c1bc-143">MFA 註冊完成後, 系統管理員每次登入時都必須執行 MFA。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
+    - <span data-ttu-id="d818f-141">使用者管理員</span><span class="sxs-lookup"><span data-stu-id="d818f-141">User administrator</span></span>
 
 
-    <span data-ttu-id="2c1bc-144">如果您的組織在腳本或程式碼中使用這些帳戶, 請考慮將它們取代為 [受控](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)識別。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
+    <span data-ttu-id="d818f-142">啟用 [要求系統管理員使用 MFA] 原則時，需要以上九個系統管理員角色，才能使用 Authenticator 應用程式來註冊使用 MFA。</span><span class="sxs-lookup"><span data-stu-id="d818f-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="d818f-143">完成 MFA 註冊後，管理員每次登入時都必須執行 MFA。</span><span class="sxs-lookup"><span data-stu-id="d818f-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
 
 
-    <span data-ttu-id="2c1bc-145">若要啟用此原則並保護您的系統管理員:</span><span class="sxs-lookup"><span data-stu-id="2c1bc-145">To enable this policy and protect your administrators:</span></span>
+    <span data-ttu-id="d818f-144">如果您的組織在指令碼或程式碼中使用這些帳戶，請考慮將它們取代為 [受管理的身分識別](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)。</span><span class="sxs-lookup"><span data-stu-id="d818f-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
 
 
-    1. <span data-ttu-id="2c1bc-146">以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入 **Azure 入口網站** 。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    <span data-ttu-id="d818f-145">若要啟用此原則並保護您的系統管理員：</span><span class="sxs-lookup"><span data-stu-id="d818f-145">To enable this policy and protect your administrators:</span></span>
 
-    2. <span data-ttu-id="2c1bc-147">流覽至**Azure Active Directory**  > **條件式存取**。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
 
-    3. <span data-ttu-id="2c1bc-148">在原則清單中, 選取 **[基準原則]:需要系統管理員**的 MFA。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
+    1. <span data-ttu-id="d818f-146">以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入  **Azure 入口網站** 。</span><span class="sxs-lookup"><span data-stu-id="d818f-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
 
-    4. <span data-ttu-id="2c1bc-149">將 [**啟用原則**] 設定為**立即使用原則**。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-149">Set **Enable policy** to **Use policy immediately**.</span></span>
+    2. <span data-ttu-id="d818f-147">瀏覽至 [Azure Active Directory]  >  [條件式存取]。</span><span class="sxs-lookup"><span data-stu-id="d818f-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
 
-    5. <span data-ttu-id="2c1bc-150">按一下 [ **儲存**]。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-150">Click **Save**.</span></span>
+    3. <span data-ttu-id="d818f-148">在原則清單中，選取 [基準原則:要求系統管理員使用 MFA]。</span><span class="sxs-lookup"><span data-stu-id="d818f-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
+
+    4. <span data-ttu-id="d818f-149">將 [啟用原則] 設定為 [立即使用原則]。</span><span class="sxs-lookup"><span data-stu-id="d818f-149">Set **Enable policy** to **Use policy immediately**.</span></span>
+
+    5. <span data-ttu-id="d818f-150">按一下 [儲存] \*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="d818f-150">Click **Save**.</span></span>
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="2c1bc-151">啟用此原則之前, 請確定您的使用者未使用舊版驗證通訊協定。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-151">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="2c1bc-152">請參閱下列[文章:使用條件式存取](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)來封鎖 Azure AD 的舊版驗證以取得詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-152">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > <span data-ttu-id="d818f-151">啟用此原則之前，請確定您的使用者未使用舊版驗證通訊協定。</span><span class="sxs-lookup"><span data-stu-id="d818f-151">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="d818f-152">請參閱[如何：使用條件式存取封鎖 Azure AD 的舊版驗證](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)，以取得詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="d818f-152">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="2c1bc-153">有一個已知的問題, 這會影響您在強制執行 MFA 時, 利用委派的系統管理許可權來連線至 Exchange Online PowerShell 的能力。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-153">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="2c1bc-154">如需詳細資訊, 請參閱[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-154">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
+    > <span data-ttu-id="d818f-153">有一個已知的問題，會影響強制執行 MFA 時，您運用委派系統管理權限連線到 Exchange Online PowerShell 的能力。</span><span class="sxs-lookup"><span data-stu-id="d818f-153">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="d818f-154">如需詳細資訊，請參閱 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)。</span><span class="sxs-lookup"><span data-stu-id="d818f-154">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
 
 
-    <span data-ttu-id="2c1bc-155">當您啟用 [*要求系統管理員使用 MFA* ] 基準原則之後, 身為上述管理員角色成員的使用者在登入時會遇到新的體驗。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-155">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="2c1bc-156">下圖是受此原則影響的使用者將會遇到的情況</span><span class="sxs-lookup"><span data-stu-id="2c1bc-156">The following figures are what users impacted by this policy will experience</span></span>
+    <span data-ttu-id="d818f-155">在您啟用 [要求系統管理員使用 MFA] 基準原則後，身為上述管理員角色成員的使用者會在登入時遇到新的體驗。</span><span class="sxs-lookup"><span data-stu-id="d818f-155">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="d818f-156">下圖是受此原則影響的使用者將會遇到的情況</span><span class="sxs-lookup"><span data-stu-id="d818f-156">The following figures are what users impacted by this policy will experience</span></span>
 
-      ![提示取得詳細資訊](../images/security/baseline-require-more-info.png)
+      ![提示要求詳細資訊](../images/security/baseline-require-more-info.png)
 
       ![其他安全性驗證](../images/security/baseline-security-verification-setup.png)
 
@@ -111,43 +111,43 @@ items:
 
       ![已驗證其他安全性驗證](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="2c1bc-162">使用者完成上述動作之後, 他們就能夠登入他們嘗試存取的 Microsoft 雲端服務。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-162">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
-- title: <span data-ttu-id="2c1bc-163">如何? 啟用使用者保護基準原則？</span><span class="sxs-lookup"><span data-stu-id="2c1bc-163">How do I enable the End user protection baseline policy?</span></span>
+    <span data-ttu-id="d818f-162">使用者完成上述動作之後，他們就能夠登入其嘗試存取的 Microsoft 雲端服務。</span><span class="sxs-lookup"><span data-stu-id="d818f-162">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
+- title: <span data-ttu-id="d818f-163">如何啟用「使用者保護」基準原則？</span><span class="sxs-lookup"><span data-stu-id="d818f-163">How do I enable the End user protection baseline policy?</span></span>
   durationInMinutes: 5
   content: >-
-    <span data-ttu-id="2c1bc-164">使用者保護基準原則會保護目錄中的所有使用者。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-164">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="2c1bc-165">若要啟用此原則, 所有使用者都必須在14天內註冊 Azure MFA。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-165">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="2c1bc-166">註冊之後, 只有在有風險的登入嘗試時, 才會提示使用者進行 MFA, 未來合作夥伴租使用者的此行為將會變更。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-166">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="2c1bc-167">遭盜用的使用者帳戶會遭到封鎖, 直到重設密碼和風險關閉為止。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-167">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
+    <span data-ttu-id="d818f-164">使用者保護基準原則會保護目錄中的所有使用者。</span><span class="sxs-lookup"><span data-stu-id="d818f-164">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="d818f-165">啟用此原則會要求所有使用者都必須在 14 天內註冊 Azure MFA。</span><span class="sxs-lookup"><span data-stu-id="d818f-165">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="d818f-166">註冊之後，只有在有風險的登入嘗試時間，才會提示使用者進行 MFA，合作夥伴租用戶的此種行為未來將會改變。</span><span class="sxs-lookup"><span data-stu-id="d818f-166">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="d818f-167">遭盜用的使用者帳戶會遭到封鎖，直到重設密碼和風險解除為止。</span><span class="sxs-lookup"><span data-stu-id="d818f-167">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
 
 
-    <span data-ttu-id="2c1bc-168">原則**基準原則:使用者保護**已預先設定, 當您流覽至 Azure 入口網站中的 [條件式存取] 分頁時, 將會顯示在頂端。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-168">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
+    <span data-ttu-id="d818f-168">原則 [基準原則:使用者保護] 已預先設定，當您瀏覽至 Azure 入口網站中的 [條件式存取] 刀鋒視窗時，將顯示在頂端。</span><span class="sxs-lookup"><span data-stu-id="d818f-168">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
 
 
-    <span data-ttu-id="2c1bc-169">若要啟用此原則並保護您的使用者:</span><span class="sxs-lookup"><span data-stu-id="2c1bc-169">To enable this policy and protect your users:</span></span>
+    <span data-ttu-id="d818f-169">若要啟用此原則並保護您的使用者：</span><span class="sxs-lookup"><span data-stu-id="d818f-169">To enable this policy and protect your users:</span></span>
 
 
-    1. <span data-ttu-id="2c1bc-170">以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入 **Azure 入口網站** 。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-170">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    1. <span data-ttu-id="d818f-170">以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入  **Azure 入口網站** 。</span><span class="sxs-lookup"><span data-stu-id="d818f-170">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
 
-    2. <span data-ttu-id="2c1bc-171">流覽至**Azure Active Directory**  > **條件式存取**。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-171">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+    2. <span data-ttu-id="d818f-171">瀏覽至 [Azure Active Directory]  >  [條件式存取]。</span><span class="sxs-lookup"><span data-stu-id="d818f-171">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
 
-    3. <span data-ttu-id="2c1bc-172">在原則清單中, 選取 **[基準原則]:終端使用者保護 (預覽)**。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-172">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
+    3. <span data-ttu-id="d818f-172">在原則清單中，選取 [基準原則:終端使用者保護 (預覽)]。</span><span class="sxs-lookup"><span data-stu-id="d818f-172">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
 
-    4. <span data-ttu-id="2c1bc-173">將 [**啟用原則**] 設定為**立即使用原則**。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-173">Set **Enable policy** to **Use policy immediately**.</span></span>
+    4. <span data-ttu-id="d818f-173">將 [啟用原則] 設定為 [立即使用原則]。</span><span class="sxs-lookup"><span data-stu-id="d818f-173">Set **Enable policy** to **Use policy immediately**.</span></span>
 
-    5. <span data-ttu-id="2c1bc-174">按一下 [ **儲存**]。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-174">Click **Save**.</span></span>
+    5. <span data-ttu-id="d818f-174">按一下 [儲存] \*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="d818f-174">Click **Save**.</span></span>
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="2c1bc-175">啟用此原則之前, 請確定您的使用者未使用舊版驗證通訊協定。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-175">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="2c1bc-176">請參閱下列[文章:使用條件式存取](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)來封鎖 Azure AD 的舊版驗證以取得詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-176">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > <span data-ttu-id="d818f-175">啟用此原則之前，請確定您的使用者未使用舊版驗證通訊協定。</span><span class="sxs-lookup"><span data-stu-id="d818f-175">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="d818f-176">請參閱[如何：使用條件式存取封鎖 Azure AD 的舊版驗證](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)，以取得詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="d818f-176">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="2c1bc-177">有一個已知的問題, 這會影響您在強制執行 MFA 時, 利用委派的系統管理許可權來連線至 Exchange Online PowerShell 的能力。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-177">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="2c1bc-178">如需詳細資訊, 請參閱[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-178">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
+    > <span data-ttu-id="d818f-177">有一個已知的問題，會影響強制執行 MFA 時，您運用委派系統管理權限連線到 Exchange Online PowerShell 的能力。</span><span class="sxs-lookup"><span data-stu-id="d818f-177">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="d818f-178">如需詳細資訊，請參閱 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)。</span><span class="sxs-lookup"><span data-stu-id="d818f-178">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
 
 
-    <span data-ttu-id="2c1bc-179">當您啟用*使用者保護*基準原則之後, 所有使用者在登入時都會遇到新的體驗。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-179">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="2c1bc-180">下圖是使用者將體驗的內容</span><span class="sxs-lookup"><span data-stu-id="2c1bc-180">The following figures are what users will experience</span></span>
+    <span data-ttu-id="d818f-179">一旦啟用「終端使用者保護」基準原則，所有使用者都會在登入時遇到新的體驗。</span><span class="sxs-lookup"><span data-stu-id="d818f-179">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="d818f-180">下圖是使用者將會體驗的情況</span><span class="sxs-lookup"><span data-stu-id="d818f-180">The following figures are what users will experience</span></span>
 
-      ![提示取得詳細資訊](../images/security/baseline-require-more-info.png)
+      ![提示要求詳細資訊](../images/security/baseline-require-more-info.png)
 
       ![其他安全性驗證](../images/security/baseline-security-verification-setup.png)
 
@@ -157,4 +157,4 @@ items:
 
       ![已驗證其他安全性驗證](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="2c1bc-186">使用者完成上述動作之後, 他們就能夠登入他們嘗試存取的 Microsoft 雲端服務。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-186">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="2c1bc-187">請注意, 在強制執行合作夥伴的安全性需求之前, 系統將只會根據風險提示 MFA 的使用者, 而不受 [*需要 mfa for admins* ] 基準原則的限制。</span><span class="sxs-lookup"><span data-stu-id="2c1bc-187">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>
+    <span data-ttu-id="d818f-186">使用者完成上述動作之後，他們就能夠登入其嘗試存取的 Microsoft 雲端服務。</span><span class="sxs-lookup"><span data-stu-id="d818f-186">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="d818f-187">請注意，在強制執行合作夥伴安全性需求之前，系統只會根據風險提示不受 [要求系統管理員使用 MFA] 基準原則限制的使用者進行 MFA。</span><span class="sxs-lookup"><span data-stu-id="d818f-187">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>
