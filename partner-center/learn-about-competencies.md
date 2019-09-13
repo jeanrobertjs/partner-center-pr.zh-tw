@@ -9,7 +9,7 @@ keywords: 專長認證, 銀成員資格, 金級成員資格, mpn, 地圖, 專長
 ms.localizationpriority: medium
 ms.openlocfilehash: efc69215010e1ad32ae63c81556979f18f157f07
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820648"

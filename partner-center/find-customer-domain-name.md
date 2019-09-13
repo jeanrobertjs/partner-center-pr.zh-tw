@@ -9,7 +9,7 @@ keywords: 獎勵索賠, 共同作業索賠, 共同作業資金, OSA, ISV, 收入
 ms.localizationpriority: medium
 ms.openlocfilehash: 2c8982fa25fb1eea4f0ec73e4a9102215f356816
 ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/22/2019
 ms.locfileid: "68376413"

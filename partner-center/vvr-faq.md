@@ -9,7 +9,7 @@ keywords: 訓練券、軟體保證、訓練、驗證券、保留憑證
 ms.localizationpriority: medium
 ms.openlocfilehash: ce1908e74169c3de4d2cd6d2d43ece379bf9d439
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820506"

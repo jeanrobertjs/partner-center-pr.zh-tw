@@ -10,7 +10,7 @@ Keywords: 客戶管理帳戶，建立帳戶、 授權、 指派授權、 管理�
 ms.localizationpriority: medium
 ms.openlocfilehash: fa8aabcc668630906fa2c9b3a88abbaee8a89693
 ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/13/2019
 ms.locfileid: "67044995"
