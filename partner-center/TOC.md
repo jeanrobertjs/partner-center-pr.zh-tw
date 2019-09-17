@@ -171,6 +171,7 @@
 # 安全性
 ## [合作夥伴安全性需求](partner-security-requirements.md)
 ## [合作夥伴安全性需求常見問題集](partner-security-requirements-faq.md)
+## [合作夥伴安全性合規性狀態](partner-security-compliance.md)
 
 # 教學課程
 ## [實作合作夥伴安全性需求](tutorials/partner-security-requirements.yml)
