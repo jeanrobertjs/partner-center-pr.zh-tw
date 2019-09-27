@@ -3,18 +3,18 @@ layout: LandingPage
 hide_bc: true
 title: 從這裡獲得合作夥伴中心的相關協助
 ms.topic: landing-page
-ms.date: 01/29/2019
+ms.date: 10/01/2019
 description: 合作夥伴中心可協助您在 Microsoft 雲端解決方案提供者 (CSP) 計畫中拓展業務。 設定您的帳戶、與客戶保持聯繫、購買行動寶盒訂閱，以及在雲端解決方案提供者與 MPN 計畫中尋找合作夥伴的更多資訊。 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
-ms.localizationpriority: medium
-ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
-ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
+ms.localizationpriority: high
+ms.openlocfilehash: f94ef72fc69cd4fe29cd27c2dc4bab11ab5e64c3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "65035521"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318879"
 ---
 # <a name="welcome-to-partner-center"></a>歡迎來到合作夥伴中心
 
@@ -87,7 +87,7 @@ Microsoft 合作夥伴中心是管理您與 Microsoft 端對端關係的單一�
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
                         <h3>從 PMC 移至電腦</h3>
-                        <p>了解如何準備您的公司以移至合作夥伴中心</p></a>
+                        <p>準備您的公司以移至合作夥伴中心</p></a>
                     </div>
                 </div>
             </div>
