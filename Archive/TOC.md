@@ -7,7 +7,7 @@
 ### [更新您的合作夥伴設定檔](update-your-partner-profile.md)
 ### [建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)
 ### [使用者自助密碼復原或重設](reset-a-user-password.md)
-### [請參閱定價與方案](see-offers-and-pricing.md)
+### [請參閱定價與供應項目](see-offers-and-pricing.md)
 ### [自訂型錄](customize-the-catalog.md)
 ## [帳單](billing.md)
 ### [閱讀您的帳單](read-your-bill.md)

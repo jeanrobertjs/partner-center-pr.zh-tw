@@ -53,7 +53,7 @@ ms.locfileid: "70259919"
 
 ## <a name="pricing"></a>定價
 
-從您的 [合作夥伴中心]  功能表的 [定價與方案]  頁面，下載授權型、用量型和一次性購買的定價詳細資料。
+從您的 [合作夥伴中心]  功能表的 [定價與供應項目]  頁面，下載授權型、用量型和一次性購買的定價詳細資料。
 
 授權型價目表每個月會更新一次，Microsoft 會公佈新價格 30 天，新價格才會生效。 授權型服務的範例包括 Office 365、企業行動力套件及 Microsoft Dynamics CRM。 
 
@@ -67,6 +67,6 @@ ms.locfileid: "70259919"
 
 身為 CSP 中的合作夥伴，您可以銷售各種類型的 Microsoft 產品、服務和解決方案，包括 Office 365、企業行動力套件、Microsoft Dynamics 與 Microsoft Azure。 如需有關在這些產品系列中有哪些供應項目可銷售的詳細資訊，請參閱 [定價與方案]  頁面 (從 [合作夥伴中心]  功能表存取) 的 CSP 供應項目矩陣。 本文件每個月會更新一次。
 
-針對使用 CREST 使用量記錄 API 的 CSP 合作夥伴，Microsoft 也會在 [定價與方案]  頁面發佈一份清單，列出 CSP 中的 Azure 服務。
+針對使用 CREST 使用量記錄 API 的 CSP 合作夥伴，Microsoft 也會在 [定價與供應項目]  頁面發佈一份清單，列出 CSP 中的 Azure 服務。
 
 若要了解由獨立軟體廠商 (ISV) 發佈的 Azure Marketplace 供應項目，請從左導覽瀏覽至 [Marketplace]  頁面。 目前只有 SaaS (軟體即服務) 類型的產品是可以從合作夥伴中心購買的。 您必須瀏覽 Azure 入口網站才能取得其他類型的 Azure Marketplace 供應項目。

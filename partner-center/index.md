@@ -79,7 +79,7 @@ Microsoft 合作夥伴中心是管理您與 Microsoft 端對端關係的單一�
 </ul>
 
 <h2>新功能</h2>
-<p>獲得新功能、權益、優惠方案和商機的最新資訊來拓展您的業務。</p>
+<p>獲得新功能、權益、供應項目方案和商機的最新資訊來拓展您的業務。</p>
 <ul id="products1" class="cardsZ cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
