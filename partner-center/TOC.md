@@ -13,9 +13,9 @@
 ### [從多家公司移到合作夥伴中心指南](move-multiple-companies.md)
 ### [合併您的公司](consolidate-accounts.md)
 
-## 會員優惠
+## 會員供應項目
 ### [行動寶盒](mpn-get-action-pack.md)
-### [續訂您的優惠方案](renew-mpn-offers.md)
+### [續訂您的供應項目方案](renew-mpn-offers.md)
 ## [專長認證](learn-about-competencies.md)
 ## [Azure 專家管理服務提供者計畫](azure-expert-msp.md)
 ## [權益](manage-your-partner-network-benefits.md)
@@ -66,7 +66,7 @@
 ## [重設使用者密碼](reset-a-user-password.md)
 ## [重設我的密碼](reset-my-pasword.md)
 ## [新增 Azure 合作夥伴共用服務](shared-services.md)
-## [定價與方案](pricing-and-offers.md)
+## [定價與供應項目](pricing-and-offers.md)
 ## [自訂型錄](customize-the-catalog.md)
 
 # [拓展您的業務](grow-your-business.md)
@@ -132,7 +132,7 @@
 ### [銷售到特色產業](Get-special-pricing-for-offers.md)
 ### [提高採用率與滿意度](increasing-adoption-and-satisfaction.md)
 ### [透過 Windows Autopilot 簡化裝置設定](autopilot.md)
-##  將優惠方案升級或轉移至較新版本
+##  將供應項目方案升級或轉移至較新版本
 ### [將 Dynamics AX 訂閱升級至 Dynamics 365](manual-subscription-migration.md)
 ### [將 Dynamics 365 商務版方案移轉至較新版本](migrate-dynamics-365-to-new.md)
 ### [將 Office 365 企業版 E4 訂閱遷移至新版 Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
