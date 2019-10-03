@@ -28,7 +28,6 @@
 ### [Microsoft 合作夥伴網路中的發票和稅金](mpn-view-print-maps-invoice.md)
 ## [測試新功能](test-drive-new-features.md)
 
-
 # [雲端解決方案提供者](csp-overview.md)
 ## [註冊雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
 ## [雲端解決方案提供者合作夥伴的 Microsoft 合作夥伴合約](microsoft-partner-agreement.md)
@@ -39,7 +38,6 @@
 ## [CSP 地區市場及貨幣](regional-authorization-overview.md)
 ## [確認客戶接受 Microsoft Cloud 合約](confirm-consent.md)
 ## [確認客戶接受 Microsoft 客戶合約 (預覽)](confirm-customer-agreement.md)
-
 
 ## [適用於銷售 (sell-in) 國家/地區雲](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
@@ -84,7 +82,6 @@
 ### [了解您的獎勵支出](understand-incentive-payouts.md)
 ### [在合作夥伴中心提交您的 OSA 宣告](submit-osa-claim.md)
 ### [尋找客戶的網域名稱與目錄識別碼以獲得獎勵宣告](find-customer-domain-name.md)
-
 
 # [帳單與稅金](billing.md)
 ## [帳單常見問題集](faq-about-new-billing-features.md)
@@ -169,10 +166,10 @@
 ## [客戶自我支援](customer-self-support.md)
 ## [向上呈報問題給 Microsoft](escalate-problems-to-microsoft.md)
 
-# 安全性
-## [合作夥伴安全性需求](partner-security-requirements.md)
-## [合作夥伴安全性需求常見問題集](partner-security-requirements-faq.md)
-## [合作夥伴安全性合規性狀態](partner-security-compliance.md)
+# 安全性需求
+## [概觀](partner-security-requirements.md)
+## [合規性狀態](partner-security-compliance.md)
+## [常見問題集](partner-security-requirements-faq.md)
 
 # 教學課程
 ## [實作合作夥伴安全性需求](tutorials/partner-security-requirements.yml)
