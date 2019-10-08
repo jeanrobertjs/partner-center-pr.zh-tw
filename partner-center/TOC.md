@@ -78,10 +78,12 @@
 ## [獎勵宣告](claims-overview.md)
 ### [建立和管理獎勵宣告](create-incentives-claims.md)
 ### [獎勵宣告的核心要求](core-requirements.md)
+
+
 ### [瞭解您的支出資訊](incentives-unified-user-guide.md)
-### [了解您的獎勵支出](understand-incentive-payouts.md)
-### [在合作夥伴中心提交您的 OSA 宣告](submit-osa-claim.md)
-### [尋找客戶的網域名稱與目錄識別碼以獲得獎勵宣告](find-customer-domain-name.md)
+
+### [存取您的獎勵支出頁面](incentives-unified-user-guide.md)
+
 
 # [帳單與稅金](billing.md)
 ## [帳單常見問題集](faq-about-new-billing-features.md)
@@ -168,7 +170,7 @@
 
 # 安全性需求
 ## [概觀](partner-security-requirements.md)
-## [合規性狀態](partner-security-compliance.md)
+## [需求狀態](partner-security-compliance.md)
 ## [常見問題集](partner-security-requirements-faq.md)
 
 # 教學課程
