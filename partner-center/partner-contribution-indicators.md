@@ -1,22 +1,22 @@
 ---
 title: 合作夥伴貢獻指標 | 合作夥伴中心
 ms.topic: article
-ms.date: 07/17/2019
+ms.date: 10/04/2019
 description: 顯示您公司的「Dynamics 365 客戶參與」或「Dynamics 365 財務與營運」之情況的資料
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, performance, customer success, measurements, Dynamics 365, 績效, 客戶成功, 測量
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 8a54db5e03c2cc683c913781427bc3d4ebac1af8
-ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.openlocfilehash: c0c8f9f721aa0cadfc311ecec5eb6349576fb26a
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "68313957"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997826"
 ---
-## <a name="partner-contribution-indicators"></a>合作夥伴貢獻指標
+# <a name="partner-contribution-indicators"></a>合作夥伴貢獻指標
 
 合作夥伴貢獻指標 (PCI) 是您使用 Dynamics 365 的績效、能力和客戶成功的一組整體量值。
 
