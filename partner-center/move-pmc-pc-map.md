@@ -7,18 +7,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259923"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921479"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>從 PMC 移到合作夥伴中心
 
 我們引進了能作為互動中心點的單一網站 (合作夥伴中心)，來使您能夠更輕鬆地與我們合作。 您可以在合作夥伴中心的儀表板中，執行先前在 Partner Membership Center (PMC) 中所進行的所有動作。 
 
-您也可以完成更多其他工作，而且完全不需要離開這個單一網站。 不過，某些術語和功能看起來可能會有所不同。 為了減輕關於功能位置及內容的任何初始顧慮，請進行儀表板的網站導覽。
+您也可以完成更多其他工作，而且完全不需要離開這個單一網站。 不過，某些術語和功能看起來可能會有所不同。 若要減輕任何關於何處和專案的初步考慮，請務必流覽儀表板的網站。
 
 此表格顯示 PMC 和合作夥伴中心之間的一些差異。
 
@@ -63,7 +63,7 @@ ms.locfileid: "70259923"
 
 |**PMC**   |**合作夥伴中心**   |
 |-------------------------|:-------------------|
-|您可以將相同的 MCP 識別碼與多家公司產生關聯。| 只有一個 MCP 識別碼可與單一合作夥伴中心帳戶相關聯。 您必須手動建立關聯。 從合作夥伴中心儀表板，選取儀表板右上角的 [您的帳戶]  圖示，然後選取 [我的設定檔]  。 在 [您的學習]  之下，您將能夠關聯 Microsoft Learning 帳戶，也可以將您的 Microsoft 帳戶連線到 Partner University。
+|您可以將相同的 MCP 識別碼與多家公司產生關聯。| 只有一個 MCP 識別碼可與單一合作夥伴中心帳戶相關聯。 您必須手動建立關聯。 從合作夥伴中心儀表板，選取儀表板右上角的 [您的帳戶] 圖示，然後選取 [我的設定檔]。 在 [您的學習] 之下，您將能夠關聯 Microsoft Learning 帳戶，也可以將您的 Microsoft 帳戶連線到 Partner University。
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio 權益及 MSA
 
@@ -77,9 +77,9 @@ ms.locfileid: "70259923"
 
 |**PMC**   |**合作夥伴中心**|
 |----------------------|:-----------------------------|
-|PDD  |優點|
+|PDD  |權益|
 |CHIP、ICP、PIE | 獎勵|
-||轉介|
+||推薦|
 |合作夥伴見解| 分析|
 |憑券驗證及兌換工具| 憑券驗證及兌換工具|
 |           |雲端解決方案提供者計畫|

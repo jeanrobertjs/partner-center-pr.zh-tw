@@ -7,12 +7,12 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 71dce0a25d025a167e223f0b1cbc86c6f0262a84
-ms.sourcegitcommit: df8e92aa233bd7d0cecb300cafc2306d4d52dc2b
-ms.translationtype: HT
+ms.openlocfilehash: 3eb6879e1681ec46d445b6f5ea3791ae8f022ad4
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "70737616"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921483"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>雲端解決方案提供者合作夥伴的 Microsoft 合作夥伴合約 
 
@@ -21,6 +21,11 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份簡單、�
 雲端解決方案提供者計畫合作夥伴 (包括間接提供者、間接轉銷商和直接帳單合作夥伴) 都能夠在合作夥伴中心完成線上簽章。 在政府雲端中操作的直接帳單和間接提供者合作夥伴也可以在合作夥伴中心內簽署 MPA。
 
 您必須在 2020 年 1 月 31 日前簽署 Microsoft 合作夥伴合約，才能繼續參與雲端解決方案提供者計畫。 合作夥伴中心會提醒您，您現在可以輕鬆地在合作夥伴中心內簽署合約。 
+
+## <a name="microsoft-customer-agreement"></a>Microsoft 客戶合約
+
+在 CSP 中，客戶必須接受 Microsoft 客戶合約（MCuA），才能透過 Azure 方案購買 Azure 服務，以及在2020年1月31日之後購買的所有其他供應專案。 閱讀[確認客戶接受 Microsoft 客戶合約（預覽）](confirm-customer-agreement.md)
+ 
 
 
 

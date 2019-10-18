@@ -1,26 +1,26 @@
 ---
-title: 建立您的 Microsoft 了解 MCP 識別碼至您的合作夥伴中心帳戶的關聯 |合作夥伴中心
+title: 將您的 Microsoft Learn MCP 識別碼關聯至您的合作夥伴中心帳戶 |合作夥伴中心
 ms.topic: article
-ms.date: 07/08/2019
-description: 當您可以在合作夥伴中心帳戶時，您需要更新您的設定檔產生關聯，您的 MCP 識別碼。
+ms.date: 10/04/2019
+description: 當您在合作夥伴中心取得帳戶時，您必須將您的 MCP 識別碼建立關聯，以更新您的設定檔。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: 角色、 權限，新增使用者、 指派角色、 管理、 代理程式，MCP 識別碼，Microsoft 了解
+Keywords: 角色、許可權、新增使用者、指派角色、系統管理員、代理程式、MCP 識別碼、Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: e3e339e5d19e7abacce2993f1bf11602774c9b9c
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: HT
+ms.openlocfilehash: 46f0efc83736d80265620304cf9b07e63d8b5213
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67675328"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997753"
 ---
-## <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Microsoft 了解在合作夥伴中心帳戶建立關聯
+# <a name="associate-your-microsoft-learn-account-in-partner-center"></a>在合作夥伴中心建立 Microsoft Learn 帳戶的關聯
 
-為了讓您的公司能夠將訓練與學習路徑，請參閱您已針對專長認證，您需要將您的合作夥伴中心帳戶您 MCP ID 產生關聯。 您之後執行這項手動您加入合作夥伴中心的使用者。
+為了讓您的公司能夠查看您對專長認證所採取的訓練和學習途徑，您需要將您的 MCP ID 關聯至您的合作夥伴中心帳戶。 新增為合作夥伴中心使用者之後，您可以手動執行此動作。
 
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>如何建立您的 MCP 識別碼，以您的合作夥伴中心帳戶的關聯
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>如何將您的 MCP 識別碼關聯至合作夥伴中心帳戶
 
-1. 在合作夥伴中心儀表板中，選取**您的帳戶**中的儀表板，然後選取右上角的圖示**我的設定檔**。
+1. 從合作夥伴中心儀表板，選取儀表板右上角的 [您的帳戶] 圖示，然後選取 [我的設定檔]。
 
-2. 底下**學習**您將能夠讓您的 Microsoft Learning 帳戶產生關聯，並同時連線到合作夥伴大學的 您的 Microsoft 帳戶。
+2. 在 [您的學習] 之下，您將能夠關聯 Microsoft Learning 帳戶，也可以將您的 Microsoft 帳戶連線到 Partner University。

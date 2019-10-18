@@ -1,71 +1,71 @@
 ---
-title: 請確定帳戶內沖銷扣繳稅 |合作夥伴中心
+title: 請確定您已支付預繳稅金 |合作夥伴中心
 ms.topic: article
 ms.date: 05/28/2019
-description: 您需要扣繳稅金信用額度表單和扣繳稅憑證，即可開啟 服務要求。
+description: 您將需要使用您的預繳稅點數表和預繳稅金憑證來開啟服務要求。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
-keywords: 扣繳稅扣、 稅務信用額度、 德國信用額度的稅單、 表單稅扣
+keywords: 預繳稅金、稅務點數、德文稅點數表、表單稅務點數
 ms.localizationpriority: medium
-ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
-ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
-ms.translationtype: HT
+ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67207580"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921468"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>請確定帳戶內沖銷扣繳稅金
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>請確定您已為預繳稅金貸記
 
 >[!Note]
->本主題說明如何開啟適用於德國使用全域扣繳稅或扣繳稅表單的服務要求。
+>本主題說明如何使用國際預繳稅金表單或德國的預繳稅金形式開啟服務要求。
 
-為了讓您的帳戶以給予的扣繳稅金，您需要完成扣繳稅信用額度表單。 表單提供 Microsoft 與發票、 付費給 Microsoft 的數量、 扣繳稅金額、 扣繳稅百分比、 的付款方式，已付費的 Microsoft 以外的公司。  
+為了讓您的帳戶支付預繳稅金，您必須完成預繳稅金的信用額度表單。 此表單會為 Microsoft 提供發票、支付給 Microsoft 的金額、預繳稅金、預繳稅金百分比、付款類型，以及在 Microsoft 以外付費的公司。  
 
-## <a name="global-withholding-tax-credit-form"></a>全域扣繳稅信用額度表單
+## <a name="global-withholding-tax-credit-form"></a>全域預繳稅金信用額度表單
 
-填妥這[表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311)完全並將它包含以及當您提交您的要求在合作夥伴中心內收到來自您本機的稅務機關扣繳稅憑證數位複本。
+完整填寫此[表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311)，並將它與您在合作夥伴中心提交要求時，從當地稅務機構收到的預繳稅金憑證的數位複本一起加入。
 >[!IMPORTANT]
->扣繳稅憑證中的總計必須符合預扣稅金點數格式支援的詳細資料。 除非收到這種數位複製以及扣繳稅憑證，不會給予您的帳戶。
+>預繳稅金憑證中的總計必須符合 [預繳稅金] 格式的支援詳細資料。 除非我們收到此表單以及預繳稅金憑證的數位複製，否則不會將您的帳戶貸記。
 
-### <a name="before-opening-the-service-request"></a>然後再開啟服務要求：
+### <a name="before-opening-the-service-request"></a>開啟服務要求之前：
 
-- 確定這份表單包含您的公司名稱和國家/地區，且表單是帶正負號和日期正確。 以下是稅務信用額度表單：針對[德國](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)並[其他所有國家/地區](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311)。
+- 請確定表單包含您的公司名稱和國家/地區、預繳稅金憑證編號，且表單已簽署且正確。 以下是適用于[德國](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)和[所有其他國家/地區](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311)的稅務點數形式：。
 
-- 正確記錄根據當地稅授權單位資訊的適當預扣稅金量 %。
+- 根據當地稅務機關的資訊，準確地記錄適當的預繳稅金金額%。
 
-- 請務必上稅單信用額度的總數量比對從您提交的發票總計。 
+- 請確定稅額信用額度表單的總金額符合您所提交發票的總計。 
 
-- 一次此資訊已準備好，您會建立服務要求。
+- 備妥此資訊後，請建立服務要求。
 
 ## <a name="cloud-solution-provider-partners"></a>雲端解決方案提供者合作夥伴
 
 >[!Note]
->這項資訊適用於直接帳單合作夥伴和間接提供者。 間接轉銷商應透過其間接提供者來運作。
+>這份資訊僅適用于直接帳單合作夥伴和間接提供者。 間接轉銷商應透過其間接提供者來工作。
 
-### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>如何提交稅單信用額度和憑證
+### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>如何提交稅務點數表單和憑證
 
-1. 選取 **問號** **（？）** uppor 右下角的 在合作夥伴中心儀表板中。
-2. 選取 **合作夥伴的支援要求**。
-3. 選取 **新要求**，然後在 **詳細資料**，選取**協助夥伴的發票、 付款或對帳檔案。**
-4. 當您提交服務要求時請務必附加的信用額度的稅單和數位稅務憑證複本。
-5. 如果您提交 non-alpha Non-english 稅務透過憑證的英文服務要求，翻譯稅務憑證的需要。
-6. 我們會直接以電子郵件或電話連絡您。
+1. 在 [合作夥伴中心] 中，選取儀表板 uppor 右上角的**問號** **（？）** 。
+2. 選取 [**合作夥伴支援要求**]。
+3. 選取 [**新增要求**]，然後在 [**詳細資料**] 底下，選取 [**合作夥伴發票]、[付款] 或 [對帳**檔案]
+4. 當您提交服務要求時，請務必附加稅務憑證的稅額和數位複本。
+5. 如果您是透過英文服務要求提交非英文的稅務憑證，就需要稅務憑證的翻譯。
+6. 我們會透過電子郵件或電話直接與您聯繫。
 
-使用**發票支付付款**方法，一旦有收到稅務憑證，且已驗證成功，您發票上的所剩餘額會清除在大約一週的時間。 
+使用**發票付款付款條件**，一旦收到稅務憑證並成功驗證之後，您發票上的剩餘餘額將會在大約一周內清除。 
 
-稅務憑證應該是只有 Microsoft 發票。 如果您有其他憑證所包含的公司，請指定數量，使得我們可以在我們的內部處理中排除量，但仍有完整的可見性的總憑證所包含的項目。 
+稅務憑證應僅適用于 Microsoft 發票。 如果您有其他公司包含憑證，請指定可在我們的內部處理中排除數量的金額，但仍能完整看到憑證包含的內容。 
 
-## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>完成德國的扣繳稅點數形式的指示
+## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>針對德國的預繳稅金信用額度填寫的指示
 
-填寫[扣繳稅信用額度表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)完全，然後連同您的要求在合作夥伴中心或您的 Azure/O365/CRM/Intune 入口網站中提交時扣繳稅憑證的掃描電子檔複本。 
+在合作夥伴中心或您的 Azure/O365/CRM/Intune 入口網站提交要求時，完整填寫[預繳稅點數表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)，並將其連同預繳稅金憑證的掃描複本一起傳送。 
 
-此外，郵件將扣繳稅憑證的紙本文件：
+此外，將預繳稅金憑證的 hardcopies 郵寄到：
 
-ATTN:EOC 稅務小組 Marianne Gannon
+ATTN： EOC 稅務團隊 Marianne Gannon
 
-Microsoft EMEA 作業中心
+Microsoft EMEA 營運中心
 
-Microsoft 一應俱全，南部郡商務 Park
+一個 Microsoft 地點，南部市公司公園
 
-Leopardstown, Dublin 18, Ireland
+Leopardstown，都柏林18，愛爾蘭

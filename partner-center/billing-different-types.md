@@ -1,19 +1,19 @@
 ---
 title: 了解合作夥伴中心的計費類型 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 10/04/2019
 Description: 不同計費類型、計費週期和計費日期的資訊
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 計費, 付款, 訂單, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38ad28fb74968d351d6031e21446f02d22f7e4fa
-ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
-ms.translationtype: HT
+ms.openlocfilehash: 28a5405a033061e5665d0f1e5f937cd3951f09b9
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70134615"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997843"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>了解合作夥伴中心的帳單類型
 
@@ -44,8 +44,8 @@ ms.locfileid: "70134615"
 
 |**計費體驗**|**產品類型**|**帳單日期**|**計費週期**|**計費貨幣**|**目前的活動可供使用嗎？**|
 |:----------------|:--------------|:--------------|:--------------|:--------------|:--------------|
-|以授權為基礎和以使用量為基礎之訂用帳戶的週期性費用 |[線上服務目錄](https://partner.microsoft.com/commerce/preferredoffers/list)中的所有產品。 範例包括 Office 365、Microsoft 365、Azure Active Directory、Azure (隨用隨付)、Dynamics 365、PowerBI Pro |您建立合作夥伴中心帳戶時選取的日期 |計費日期的前一個月。 |您所在國家/地區的貨幣。 例如，如果貴公司位於英國，我們會以英鎊 (GBP) 向您收費。 如果貴公司位於印度，我們會以印度盧比 (INR) 向您收費。  |否 |
-|Microsoft 和第三方 ISV 產品的週期性和一次性費用 |Microsoft 和第三方 ISV 提供的所有 SaaS 訂用帳戶、Azure 保留和軟體 (永久和訂用帳戶型) 產品。 查看 [Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)中的可用產品。 範例包括 SUSE Linux 軟體 (軟體訂用帳戶)、Windows Server 2019 Essentials (永久軟體)、Azure ISV SaaS 產品訂用帳戶。 |每個月的 8 號 |從每個日曆月份的第一天到最後一天 |您客戶所在國家/地區的貨幣。 這表示您將收到個別的發票和對帳檔案，其以您在計費週期每個售貨客戶的國家/地區貨幣計價。 |是 |
+|以授權為基礎和以使用量為基礎之訂用帳戶的週期性費用 |[線上服務目錄](https://partner.microsoft.com/commerce/preferredoffers/list)中的所有產品。 範例包括 Office 365、Microsoft 365、Azure Active Directory、Azure (隨用隨付)、Dynamics 365、PowerBI Pro |您建立合作夥伴中心帳戶時選取的日期 |計費日期的前一個月。 |您所在國家/地區的貨幣。 例如，如果貴公司位於英國，我們會以英鎊 (GBP) 向您收費。 如果貴公司位於印度，我們會以印度盧比 (INR) 向您收費。  |無 |
+|Microsoft 和第三方 ISV 產品的週期性和一次性費用 |Microsoft 和第三方 ISV 提供的所有 SaaS 訂用帳戶、Azure 保留和軟體 (永久和訂用帳戶型) 產品。 查看 [Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)中的可用產品。 範例包括 SUSE Linux 軟體 (軟體訂用帳戶)、Windows Server 2019 Essentials (永久軟體)、Azure ISV SaaS 產品訂用帳戶。 |每個月的 8 號 |從每個日曆月份的第一天到最後一天 |您客戶所在國家/地區的貨幣。 這表示您將收到個別的發票和對帳檔案，其以您在計費週期每個售貨客戶的國家/地區貨幣計價。 |[是] |
 
 ## <a name="billing-scenarios-for-one-time-and-recurring-purchases"></a>一次性和週期性購買的計費案例
 ### <a name="scenario-1--purchase-a-subscription-and-then-add-a-seat-on-the-same-day"></a>案例 1 – 購買一個訂用帳戶，然後在同一天新增一個基座
@@ -148,8 +148,8 @@ ms.locfileid: "70134615"
 
 |**購買日期**   |**SKU**   |**收費開始**   |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|6/10/2019 (您有 1 份授權) |銀級     |6/10/2019   |6/10/2019         |$20        |1         |$20            |新的      |
-|6/10/2019 (您有 1 份授權) |銀級    | 6/10/2019    |6/10/2019        |$20        |1       | $-20       |轉換           |
+|6/10/2019 (您有 1 份授權) |銀會員     |6/10/2019   |6/10/2019         |$20        |1         |$20            |新的      |
+|6/10/2019 (您有 1 份授權) |銀會員    | 6/10/2019    |6/10/2019        |$20        |1       | $-20       |轉換           |
 |6/10/2019 (您有 1 份授權) |銅級    | 6/10/2019    |6/10/2019        |$10        |1       | $10       |轉換           |
 
 ### <a name="scenario-8--purchase-and-cancel-a-custom-meter-saas-subscription-from-the-azure-portal-on-the-same-day"></a>案例 8 – 在同一天從 Azure 入口網站購買並取消一個自訂計量 SaaS 訂用帳戶 
@@ -160,3 +160,23 @@ ms.locfileid: "70134615"
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
 |6/10/2019 (您有 1 份授權) |銅級     |6/10/2019   |6/10/2019         |$10        |1         |$10            |新的      |
 |6/10/2019 (您有 0 份授權) |銅級    | 6/10/2019    |6/10/2019        |$10        |1       | $-10       |CancelImmediate  |
+
+## <a name="billing-under-the-azure-plan"></a>Azure 方案下的帳單
+
+- **發票日期**：在合作夥伴中心儀表板/API 中，將于第8（UTC 午夜）提供發票和對帳檔案。
+
+- **發票計費週期**：發票計費週期會對應到日曆月份，例如 10/1-10/31、11/1-11/30）。
+
+- **收費服務期間**：費用會與日曆月份一致。 例如，如果計費的合作夥伴透過10/15 上的 Azure 方案新增 Azure 服務，而客戶開始在10/15 上使用 Azure 服務，則計費的合作夥伴會收到11/8 的發票/偵察，以供服務期間的客戶耗用量 10/15-10/31。 將于12/8 產生的下個月發票包含服務期間 11/1-11/31 的所有費用。
+
+- **發票付款期限**：淨60天。
+
+- **發票貨幣**：合作夥伴會繼續以客戶的 country's 指派貨幣來計費。 例如，如果計費的夥伴與英國、挪威和德國的客戶為愛爾蘭，則計費的夥伴將會收到 GBP、NOK 和 EUR 發票/偵察。
+
+- **合作夥伴獎勵**：從發票月份的結尾支付45天的費用。
+
+如需 Azure 方案的詳細資訊，請參閱：
+
+- [Azure 方案-總覽](azure-plan-get-started.md)
+
+- [Azure 方案-計費](azure-plan-billing.md)
