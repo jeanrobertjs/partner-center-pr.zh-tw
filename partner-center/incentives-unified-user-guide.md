@@ -1,18 +1,18 @@
 ---
 title: 存取您的獎勵支出頁面 |合作夥伴中心
 ms.topic: article
-ms.date: 09/19/19
+ms.date: 10/17/2019
 description: 瞭解您的支出資訊
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 獎勵，支出
 ms.localizationpriority: medium
-ms.openlocfilehash: b2cf78be2a15db74e1f68224076f43872f997466
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-ms.translationtype: HT
+ms.openlocfilehash: 97d43b2d42ace1c4ef289efbfb6ff34df53cba20
+ms.sourcegitcommit: ccb08d947ab6b488d02f9bcbb6c550b0d5f0de9f
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425117"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "72584241"
 ---
 # <a name="access-your-incentives-payouts-page"></a>存取您的獎勵支出頁面
 
@@ -22,4 +22,4 @@ ms.locfileid: "72425117"
 
 - 如 Microsoft 合作夥伴網路（MPN）獎勵支出，請參閱 MPN 獎勵檔中的「[查看您的獎勵付款資訊](understand-incentive-payouts.md)」。
 
-- 如需獨立軟體廠商（Isv）的商業 Marketplace 費用，請參閱取得付費。
+- 即將加入獨立軟體廠商（Isv）之商用 Marketplace 費用的相關資訊。
