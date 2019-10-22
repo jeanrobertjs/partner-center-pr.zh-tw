@@ -1,18 +1,18 @@
 ---
 title: 合作夥伴安全性需求常見問題集 | 合作夥伴中心
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/27/2019
 description: 關於合作夥伴安全性需求的常見問題集
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
-ms.localizationpriority: medium
-ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
+ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215661"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "71678297"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
 
@@ -145,6 +145,9 @@ MFA 是一種安全性機制，可以透過一個以上的必要安全性和驗�
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>如果我已經有 MFA 解決方案，需要採取哪些動作？
 
 透過這些安全性需求，合作夥伴租用戶中的使用者在存取 Microsoft 商業雲端服務時，必須使用 MFA 進行驗證。 您可以使用協力廠商解決方案來滿足這些需求。 Microsoft 已不再針對獨立身分識別提供者提供驗證測試，以確認與 Azure Active Directory 之間的相容性。 如果您想要測試您產品的互通性，請參閱這些[指導方針](https://www.microsoft.com/download/details.aspx?id=56843) \(英文\)。
+
+> [!IMPORTANT]
+> 如果您使用第三方解決方案，請務必確認解決方案是否發出包含 MFA 值的驗證方法參考 (AMR) 宣告。 請參閱[測試合作夥伴安全性需求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)，以取得驗證第三方解決方案如何發出預期宣告的詳細資訊。
 
 ### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>我可以使用哪些驗證方法來驗證 MFA？
 
@@ -314,6 +317,18 @@ CPV 必須在與其註冊為 CPV 時所關聯的租用戶中建立 Azure Active 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>身為 CPV，我是否可以運用僅限應用程式驗證樣式來取得存取權杖？
 
 否。控制台廠商合作夥伴並無法運用僅限應用程式驗證樣式來代表合作夥伴要求存取權杖。 他們應該實作安全應用程式模型，這能運用應用程式 + 使用者驗證樣式。
+
+## <a name="enforcement"></a>強制執行
+
+### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>我正在使用第三方 MFA 解決方案，但是被封鎖，我該怎麼做？
+
+為了驗證存取資源的帳戶是否受到多重要素驗證的挑戰，我們會檢查[驗證方法參考](https://tools.ietf.org/html/rfc8176)宣告，以查看是否已列出 MFA。 有些第三方解決方案不會發出此宣告，或不包含 MFA 值。 如果遺漏宣告，或未列出 MFA 值，則無法判斷驗證的帳戶是否已挑戰多重要素驗證。 您必須與第三方解決方案的廠商合作，以判斷需要採取哪些動作，解決方案才會發出驗證方法參考宣告。
+
+如果您不確定您的第三方解決方案是否發出預期宣告，請參閱[測試合作夥伴安全性需求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0)。
+
+### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA 阻止我使用 AOBO 來支援我的客戶，我該怎麼做？
+
+合作夥伴安全性需求的技術強制會檢查已驗證的帳戶是否已挑戰多重要素驗證。 如果帳戶尚未進行，則系統會將您重新導向至登入頁面，然後再次提示您進行驗證。 如果您的網域未加入同盟，則在成功驗證之後，系統會提示您設定多重要素驗證。 完成後，您就可以使用 AOBO 來管理您的客戶。 如果您的網域已加入同盟，則您必須確保帳戶會受到多重要素驗證的挑戰。
 
 ## <a name="key-resources"></a>主要資源
 

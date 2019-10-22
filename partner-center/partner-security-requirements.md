@@ -1,18 +1,18 @@
 ---
 title: 合作夥伴安全性需求 | 合作夥伴中心
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/25/2019
 description: 瞭解參與雲端解決方案提供者計畫之顧問和合作夥伴的安全性需求。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
-ms.localizationpriority: medium
-ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: ea155cf760850def85146d8c4e7e847fab5d7213
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215647"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318482"
 ---
 # <a name="partner-security-requirements"></a>合作夥伴安全性需求
 
@@ -136,15 +136,15 @@ ms.locfileid: "70215647"
 
 啟用 [要求系統管理員使用 MFA] 原則時，需要以上九個系統管理員角色，才能使用 Authenticator 應用程式來註冊使用 MFA。 完成 MFA 註冊後，管理員每次登入時都必須執行 MFA。
 
-如果您的組織在指令碼或程式碼中使用這些帳戶，請考慮將它們取代為 [受管理的身分識別](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)。
+如果您的組織在指令碼或程式碼中使用這些帳戶，請考慮將它們取代為[受管理的身分識別](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)。
 
 若要啟用此原則並保護您的系統管理員：
 
-1. 以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入  **Azure 入口網站** 。
+1. 以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入 **Azure 入口網站**。
 2. 瀏覽至 [Azure Active Directory]   >  [條件式存取]  。
 3. 在原則清單中，選取 [基準原則:  要求系統管理員使用 MFA]。
 4. 將 [啟用原則]  設定為 [立即使用原則]  。
-5. 按一下 [儲存] **** 。
+5. 按一下 **[儲存]** 。
 
 > [!WARNING]
 > 啟用此原則之前，請確定您的使用者未使用舊版驗證通訊協定。 透過實作此原則，將會封鎖舊版驗證。
@@ -160,11 +160,11 @@ ms.locfileid: "70215647"
 
 若要啟用此原則並保護您的使用者：
 
-1. 以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入  **Azure 入口網站** 。
+1. 以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入 **Azure 入口網站**。
 2. 瀏覽至 [Azure Active Directory]   >  [條件式存取]  。
 3. 在原則清單中，選取 [基準原則:  終端使用者保護 (預覽)]。
 4. 將 [啟用原則]  設定為 [立即使用原則]  。
-5. 按一下 [儲存] **** 。
+5. 按一下 **[儲存]** 。
 
 > [!WARNING]
 > 啟用此原則之前，請確定您的使用者未使用舊版驗證通訊協定。 透過實作此原則，將會封鎖舊版驗證。

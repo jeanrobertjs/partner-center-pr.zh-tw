@@ -1,19 +1,19 @@
 ---
 title: 建立商務設定檔 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/26/2019
+ms.date: 10/04/2019
 description: 在合作夥伴中心建立商務設定檔以透過 Microsoft 獲得業務潛在客戶。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, 推薦, 業務潛在客戶, C2PC, 公司設定檔, 行銷您的公司, 尋找合作夥伴, 尋找解決方案提供者, 商務設定檔, 行銷設定檔
-ms.localizationpriority: medium
-ms.openlocfilehash: a4931fa37b607d9e1d2921154e345f65250a6a20
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.localizationpriority: high
+ms.openlocfilehash: 8f18bb460495fc6f95af92e6510827ff13d0b8bc
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134968"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997857"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -48,15 +48,15 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 ## <a name="create-a-profile"></a>建立設定檔
 
 > [!NOTE]  
-> 您可以建立商務設定檔之前，您必須具有合作夥伴中心帳戶。 如果還沒有合作夥伴中心帳戶，請參閱[建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)以取得建立帳戶的說明。 
+> 您必須先擁有合作夥伴中心帳戶，才能建立商務設定檔。 如果還沒有合作夥伴中心帳戶，請參閱[建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)以取得建立帳戶的說明。 
 
 為您獲得授權執行業務的每個地區，建立設定檔。 
 
-1. 從**合作夥伴中心**功能表上，選取**轉介** &gt; **商務設定檔**&gt;選取國家/地區 >  **[建立商務設定檔](https://partnercenter.microsoft.com/pcv/publishing)**。
+1. 從 [合作夥伴中心]  功能表，選取 [推薦]  &gt; [商務設定檔]  &gt; 選取國家/地區 > **[建立商務設定檔](https://partnercenter.microsoft.com/pcv/publishing)** 。
 
-2. 在 **\[建立商務設定檔\]** 頁面中，選取地區，然後輸入您的設定檔資訊。
+2. 在 [建立商務設定檔]  頁面中，選取地區，然後輸入您的設定檔資訊。
    > [!NOTE]  
-   >  雖然合作夥伴中心支援多種語言，可能需要一些項目，例如描述和自由格式標記包含不同的語言，如本主題中所述的文字。
+   >  雖然合作夥伴中心支援多種語言，但有些像描述及自由格式標籤這類的元素可能需要包含不同語言的文字，如本主題中所述。
 
 ### <a href="" id="partner_info"></a>合作夥伴資訊
 
@@ -67,7 +67,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 您的描述最多可有 2500 個字元。 建立絕佳描述的秘訣： 
 
 -  **要簡短**，將重要資訊放在第一個句子或前面兩個句子。 這應該是抓住客戶吸引力的標題。 在 [尋找合作夥伴] 搜尋體驗，我們在搜尋結果預覽中顯示第一行或前面兩行。
--  **將貴公司經歷專注於 Microsoft 特定供應項目**。 搜尋推薦的客戶，通常正在尋找有 Microsoft 特定經驗的合作夥伴。
+-  **將貴公司經歷著重於 Microsoft 特定供應項目**。 搜尋推薦的客戶，通常正在尋找有 Microsoft 特定經驗的合作夥伴。
 -  **使用項目符號**。 將資訊拆解為項目符號清單，讓內容更容易瀏覽。
 -  **避免術語**。 使用簡單、日常用語，以服務的功能來為它們命名：這包括產品能處理的商務需求，或是它們能協助客戶達成的工作或目標。
 -  **不用擔心用搜尋關鍵字填滿描述**。 客戶搜尋工具會在 [合作夥伴專長] 區段中 (而不是在描述中) 搜尋產生的關鍵字。
@@ -75,7 +75,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 -  **請勿提及其他 Microsoft 合作夥伴的公司名稱**，除非該公司或其子公司與您的公司有某種附屬關係，或者您目前與該合作夥伴公司有合約要共同合作和/或互相推銷分享的工作機會。
 -  **對於使用多種語言的地區**，請考慮將多種語言的文字包含在描述中。
 
-#### <a href="" id="linkedin"></a> LinkedIn 公司頁面： 更多連線方式
+#### <a href="" id="linkedin"></a>LinkedIn 公司頁面：更多連接方式
 
 新增您的 LinkedIn 公司頁面，加強您與潛在客戶的連接。 
 
@@ -89,7 +89,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 開始著手將您自己的標籤加入 [合作夥伴專長] 區段。 您可以新增的標籤： 
 
--  **業界焦點標記**
+-  **產業焦點標籤**
 -  **產品**。 限於 Microsoft 產品
 -  **服務類型**
 -  **解決方案、技術和功能**。 這些標籤是自由格式，讓您可以加入您的唯一功能的搜尋關鍵字。
@@ -98,7 +98,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 -  **專長認證標籤**是贏得的榮譽稱號，展示貴公司的能力。
 -  **背書標籤**是在 Microsoft 或曾經與您合作的客戶背書您的工作時獲得的。
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>允許 Microsoft 背書的專業知識，我區域
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>讓 Microsoft 為我的專業領域背書
 
 建議您讓這個設定保持已核取狀態。 
 
@@ -114,13 +114,13 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 藉由選擇退出，您就有更多時間投注在比得上您願意合作之目標企業的企業。
 
-#### <a href="" id="#locations"></a> 位置
+#### <a href="" id="#locations"></a>位置
 
 每個地區最多可以新增 5 個在您組織中排名居前的位置。 當客戶依鄰近性搜尋合作夥伴近時，就會出現這些位置。
 
 顯示正式公司位置且可驗證的位置。 選擇您所服務市場的中心位置，而且最能夠呈現出您公司履行的功能。
 
-完成更新位置資訊時，選取 **\[儲存此位置\]** 或 **\[儲存此位置後，再新增其他位置\]** (即使您只是新增一個位置)。
+完成更新位置資訊時，選取 [儲存此位置]  或 [儲存此位置後，再新增其他位置]  (即使您只是新增一個位置)。
 
 您新增的每個位置都會變成不同的設定檔頁面。 更新設定檔頁面時，請確定您已針對每個位置更新這些頁面。
 
@@ -130,14 +130,14 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 ## <a name="review-your-profile"></a>檢閱您的設定檔
 
-發行您的設定檔之後，更新會出現在[尋找解決方案提供者](https://www.microsoft.com/solution-providers/home)24 小時內的搜尋。
+發佈您的設定檔之後，更新會在 24 小時內出現於[尋找解決方案提供者](https://www.microsoft.com/solution-providers/home)搜尋中。
 
 ## <a name="improve-the-visibility-of-your-profile"></a>改善設定檔的可見性 
 
-- **[快速回應的要求](responding-to-referrals.md)**。 當您收到客戶推薦時，更快回應可能會導致未來客戶搜尋網頁上更好的結果。
+- **[快速回應要求](responding-to-referrals.md)** 。 當您收到客戶推薦時，更快回應可能會導致未來客戶搜尋網頁上更好的結果。
 - **選擇您的標籤**。  最好有少數幾個標籤最能代表貴公司的優惠、解決方案、價值主張，以及您可以持續地證明成功的獨特立足點。  這在未來的搜尋結果會得到回報。
 - 透過 Microsoft 獲得**專長認證標籤**，以展示您對我們產品的熟練程度。
 - 從賞識您工作的客戶**獲得背書標籤**。
 
 ## <a name="related-topics"></a>相關主題
-[轉介回應](responding-to-referrals.md)
+[回應推薦](responding-to-referrals.md)
