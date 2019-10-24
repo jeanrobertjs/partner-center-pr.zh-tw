@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134048"
@@ -33,9 +33,9 @@ ms.locfileid: "62134048"
 
 如果不支援您的國家/地區，建立客戶使用 Office 管理 URL 的 CSP 關聯性。 
 
-- 直接的帳單夥伴會使用下列 url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0。 取代**partnertenantguid**您租用戶識別碼。 
+- 直接的帳單夥伴會使用下列 url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 。 取代**partnertenantguid**您租用戶識別碼。 
 
-- 間接轉銷商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 您將會取代**IRtenantguid**您租用戶識別碼。 取代**IRMPNID**與您的 MPN 識別碼取代**IPtenantguid**間接提供者的租用戶識別碼。
+- 間接轉銷商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 。 您將會取代**IRtenantguid**您租用戶識別碼。 取代**IRMPNID**與您的 MPN 識別碼取代**IPtenantguid**間接提供者的租用戶識別碼。
 
 ## <a name="africa-region-and-market"></a>非洲地區和市場
 
@@ -214,7 +214,7 @@ ms.locfileid: "62134048"
 |  斯洛伐克       |   EUR    |
 |  斯洛維尼亞       |   EUR    |
 |  西班牙          |   EUR    |
-|  冷岸及央棉|挪威克朗|
+|  挪威屬斯瓦巴及尖棉|挪威克朗|
 |  瑞典         |   瑞典克朗    |
 |  瑞士    |   瑞士法郎    |
 |  英國             |   GBP    |
