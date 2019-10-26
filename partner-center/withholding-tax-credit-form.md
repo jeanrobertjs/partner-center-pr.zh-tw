@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 預繳稅金、稅務點數、德文稅點數表、表單稅務點數
 ms.localizationpriority: medium
-ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
+ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921468"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "72892412"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>請確定您已為預繳稅金貸記
 
@@ -46,15 +46,20 @@ ms.locfileid: "70921468"
 ### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>如何提交稅務點數表單和憑證
 
 1. 在 [合作夥伴中心] 中，選取儀表板 uppor 右上角的**問號** **（？）** 。
-2. 選取 [**合作夥伴支援要求**]。
-3. 選取 [**新增要求**]，然後在 [**詳細資料**] 底下，選取 [**合作夥伴發票]、[付款] 或 [對帳**檔案]
+
+2. 選取 [ **CSP**]。
+
+3. 在 [ **CSP –帳單和付款**] 底下，選取問題類型 [**預繳稅金**]，然後選取 **[是]** 。 
+
 4. 當您提交服務要求時，請務必附加稅務憑證的稅額和數位複本。
+
 5. 如果您是透過英文服務要求提交非英文的稅務憑證，就需要稅務憑證的翻譯。
+
 6. 我們會透過電子郵件或電話直接與您聯繫。
 
 使用**發票付款付款條件**，一旦收到稅務憑證並成功驗證之後，您發票上的剩餘餘額將會在大約一周內清除。 
 
-稅務憑證應僅適用于 Microsoft 發票。 如果您有其他公司包含憑證，請指定可在我們的內部處理中排除數量的金額，但仍能完整看到憑證包含的內容。 
+稅務憑證應僅適用于 Microsoft 發票。 如果憑證中包含其他公司，請指定金額，讓我們可以在我們的內部處理中將其排除，但仍然可以完整看到憑證包含的內容。 
 
 ## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>針對德國的預繳稅金信用額度填寫的指示
 
