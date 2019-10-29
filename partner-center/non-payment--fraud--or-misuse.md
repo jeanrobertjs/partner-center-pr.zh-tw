@@ -1,7 +1,7 @@
 ---
 title: 未付款、詐騙或濫用 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/25/2019
 description: 管理線上交易風險的策略，包括客戶不支付商品與服務款項以及詐騙活動或濫用。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 12fa863cfecc2e0190e1bfeb842b608ffd3bbaf2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134268"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978729"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未付款、詐騙或濫用
 
@@ -67,7 +67,7 @@ ms.locfileid: "62134268"
 #### <a name="post-purchase-customer-account-management"></a>購買後客戶帳戶管理
 - 在設定適當監控閾值時，與客戶合作來了解他們的雲端使用量商務需求。
     > [!NOTE]  
-    >  您可以[設定每月 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)合作夥伴中心，以監視在該月的客戶使用量和客戶即將其預算時收到通知。
+    >  您可以在合作夥伴中心[設定每月的 Azure 支出預算](set-an-azure-spending-budget-for-your-customers.md)，以監視當月的客戶使用量，並在客戶接近其預算時收到通知。
 - 定期監視[客戶活動記錄](activity-logs.md)，有助於早期偵測詐騙
 - 當偵測到可疑活動時，採取快速行動
 - 避免在沒有預先實作降低風險管控措施的情況下授與客戶對訂用帳戶的完整系統管理存取權限
@@ -83,7 +83,7 @@ ms.locfileid: "62134268"
 > [!IMPORTANT]  
 > 如果 Microsoft 偵測到合作夥伴或客戶活動經證實或有違反使用原則之嫌疑時，我們將會強制執行必要步驟。 可能會立即將客戶暫時停權，並根據您的要求通知您 Microsoft 所強制執行的動作或更新。
 
- 
+ 如需安全性和多重要素驗證的相關資訊，請參閱[合作夥伴安全性需求](partner-security-requirements.md)
 
  
 
