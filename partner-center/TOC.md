@@ -37,7 +37,7 @@
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
 ## [CSP 地區市場及貨幣](regional-authorization-overview.md)
 ## [確認客戶接受 Microsoft Cloud 合約](confirm-consent.md)
-## [確認客戶接受 Microsoft 客戶合約 (預覽)](confirm-customer-agreement.md)
+## [確認客戶接受 Microsoft 客戶合約(confirm-customer-agreement.md)
 
 ## [適用於銷售 (sell-in) 國家/地區雲](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
