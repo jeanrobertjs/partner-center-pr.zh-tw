@@ -1,18 +1,18 @@
 ---
 title: 雲端解決方案提供者計畫中的合作夥伴供應項目 | 合作夥伴中心
 ms.topic: article
-ms.date: 05/01/2019
+ms.date: 10/28/2019
 description: 深入了解透過雲端解決方案提供者計畫銷售的合作夥伴可提供的供應項目。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, 雲端解決方案提供者計畫, 雲端解決方案提供者, 新增產品, 銷售給客戶, 合作夥伴供應項目, 雲端解決方案提供者供應項目, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 在雲端解決方案提供者中銷售, Azure RI, Azure 保留的虛擬機器執行個體, Azure Reservations, 線上服務, 訂閱軟體, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客戶訂閱
 ms.localizationpriority: high
-ms.openlocfilehash: a77e41742689221b77d06d7732b86f367148ab13
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318457"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045631"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫中的合作夥伴供應項目 
 
@@ -23,6 +23,9 @@ ms.locfileid: "71318457"
 雲端解決方案提供者計畫 (CSP) 中的 Microsoft 合作夥伴可以獲得不斷增長的供應項目目錄。 您可以銷售一系列完整的 [Microsoft 雲端服務](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及經常變動的多種其他優惠。 若要查看當月的雲端解決方案提供者優惠，請登入合作夥伴中心，然後移至[**定價與方案**](https://partnercenter.microsoft.com/pcv/sales)頁面。  
 
 還沒有參加雲端解決方案提供者計畫嗎？ 請造訪[雲端解決方案提供者](https://partner.microsoft.com/cloud-solution-provider)以取得如何加入的詳細資料。 
+
+>[!NOTE]
+>自 2020 年 1 月 31 日起，所有客戶都必須簽署 Microsoft 客戶合約。 這項規定包括您現有的客戶和新的客戶。 如需詳細資訊，請閱讀[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)
 
 ## <a name="what-you-can-sell-through-csp"></a>您可以透過雲端解決方案提供者銷售的項目
 

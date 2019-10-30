@@ -1,18 +1,18 @@
 ---
 title: 購買或續約您的優惠供應項目 | 合作夥伴中心
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/25/2019
 description: 了解如何取得 Microsoft 行動套件，無論是首次購買還是續約。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 行動套件, MAPS, 續約 MAPS, 續約行動套件, 取得行動套件
 ms.localizationpriority: high
-ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318849"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978736"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>首次購買或續約 Microsoft 行動套件訂閱，或者銀級或金級專長認證
 
@@ -21,7 +21,7 @@ ms.locfileid: "71318849"
 -  合作夥伴中心
 -  Partner Membership Center
 
-現在，您可以從合作夥伴中心儀表板購買或續訂權益供應專案，包括 Microsoft 行動套件訂用帳戶和銀級和金級專長認證。 
+現在，您可以從合作夥伴中心[儀表板](https://docs.microsoft.com/partner-center/)購買或續訂權益優惠方案，包括 Microsoft 行動套件訂閱及銀級和金級專長認證。 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>首次購買 Microsoft 行動套件
 
@@ -36,23 +36,13 @@ ms.locfileid: "71318849"
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>續約 Microsoft 行動套件訂閱
 
 >[!IMPORTANT]
->您現在可以在合作夥伴中心 (這個網站) 管理您的行動套件訂閱。 
+>您現在可以在合作夥伴中心管理您的行動套件訂閱。
 
 ### <a name="check-your-renewal-eligibility"></a>檢查您的續約資格
 
-1. 登入 [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect)。
-
-2. 成功登入之後，您將：
-
-    - 能夠在 PMC 中依照步驟來續約您的訂閱，或者
-
-    - 在合作夥伴中心 (這個網站) 中收到訊息，邀請您續約您的訂閱
-
 >[!IMPORTANT]
 >如果您在合作夥伴中心中受邀續約訂閱，請注意，我們已經變更我們的續約時間範圍原則，您只能在訂閱到期後續約。 例如，如果您的訂閱在 6 月 22 日到期，您可以從 6 月 23 日起的 30 天內續約。       
->您可以在您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面上 (需要登入)，找到您的訂閱到期日。 如果您符合在合作夥伴中心中續約的資格，請依照下列步驟進行。  
-
-
+>您可以在您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面上 (需要登入)，找到您的訂閱到期日。 當您符合在合作夥伴中心中續約的資格，請依照下列步驟進行。  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>若要在合作夥伴中心中續約 Microsoft 行動套件訂閱
 
