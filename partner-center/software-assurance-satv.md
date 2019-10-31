@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 訓練憑券, 軟體保證, 訓練, 註冊 SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 03fb0c9a9391bc3e5ebcf99cfd77aa7de8a74f51
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425181"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142023"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作夥伴中心的軟體保證訓練憑券 (SATV) 計畫
 
@@ -37,7 +37,7 @@ ms.locfileid: "72425181"
 
 ## <a name="confirm-program-eligibility"></a>確認計畫資格
 
-在可以註冊 SATV 計畫之前，您必須先完成 Microsoft 合作夥伴網路學習選項的需求，該選項將取代 Microsoft Learning 專長認證。 在[學習選項](https://partner.microsoft.com/en-us/membership/learning-partners)中瞭解如何開始使用。
+在可以註冊 SATV 計畫之前，您必須先完成 Microsoft 合作夥伴網路學習選項的需求，該選項將取代 Microsoft Learning 專長認證。 在[學習選項](https://partner.microsoft.com/membership/learning-partners)中瞭解如何開始使用。
 
 您可以在合作夥伴中心驗證公司的資格，包括適用的專長認證和評估需求。 遵循 SATV 工作流程[步驟 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)中的指示，以取得更多詳細資料和螢幕擷取畫面。
 

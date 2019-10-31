@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN，發票，地圖，免稅，加值稅，加值稅 ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b972aa9261d319c55d26abcc32e33af5546550a
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978767"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141998"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作夥伴網路中的發票和稅金
 
@@ -26,7 +26,7 @@ ms.locfileid: "72978767"
 
 您必須是全域管理員或 MPN 合作夥伴系統管理員，才能執行此程式。 
 
-1.  使用您的工作帳戶登入[合作夥伴中心](https://partner.microsoft.com/en-us/dashboard/home)，然後選取左側功能表上的 [ **MPN** ]。
+1.  使用您的工作帳戶登入[合作夥伴中心](https://partner.microsoft.com/dashboard/home)，然後選取左側功能表上的 [ **MPN** ]。
 
 4.  在下拉式清單中，選取 [**成員資格**供應專案] 以查看可供購買的供應專案，以及適用于目前註冊年份的發票。 若要查看過去幾年的發票，請選取 [已**過期**]。
 
@@ -45,7 +45,7 @@ ms.locfileid: "72978767"
 
 ## <a name="send-microsoft-your-vat-id-number"></a>將您的加值稅編號傳送給 Microsoft
 
-1.  在合作夥伴中心[儀表板](https://partner.microsoft.com/en-us/dashboard/home)中，選取 [**成員資格**供應專案]，然後選取 [**可用**]。 
+1.  在合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/home)中，選取 [**成員資格**供應專案]，然後選取 [**可用**]。 
 
 2.  選取 [**新增您的 加值稅 ID**]。 
 

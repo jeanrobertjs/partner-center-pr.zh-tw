@@ -6,12 +6,12 @@ description: Microsoft 合作夥伴網路成員需要建立合作夥伴中心帳
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 58dd482f3fe9e9b02159c2900bb2c857ee967540
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: f69dc6239c1ad11821baac269903ad819901ac7e
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978762"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141963"
 ---
 # <a name="create-a-partner-center-account"></a>建立合作夥伴中心帳戶
 
@@ -59,7 +59,7 @@ ms.locfileid: "72978762"
 
 5.  確認您已被新增到系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
 
-    a. 從合作夥伴中心[儀表板](https://partner.microsoft.com/en-us/dashboard/home**)選取 [**設定**] 圖示，然後選取 [**使用者管理**]。  
+    a. 從合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/home**)選取 [**設定**] 圖示，然後選取 [**使用者管理**]。  
 
     b。 從使用者清單中選取您的名稱，然後選取 [系統管理代理人] (如果尚未選取)。 選取 **\[更新\]** 。  
 
